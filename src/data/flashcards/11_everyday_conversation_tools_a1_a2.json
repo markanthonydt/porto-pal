@@ -1,0 +1,952 @@
+[
+  {
+    "id": "11-ect-a1a2-001",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not understand.",
+    "portuguese": "Não percebo.",
+    "pronunciationNote": "nawng pair-SEH-boo",
+    "grammarFocus": "basic clarification",
+    "notes": "Simple way to say you do not understand.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, não percebo.",
+        "english": "Sorry, I do not understand."
+      }
+    ],
+    "tags": ["clarification", "basics", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-002",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I did not hear.",
+    "portuguese": "Não ouvi.",
+    "pronunciationNote": "nawng oh-VEE",
+    "grammarFocus": "basic clarification",
+    "notes": "Useful when you miss what someone said.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, não ouvi.",
+        "english": "Sorry, I did not hear."
+      }
+    ],
+    "tags": ["clarification", "listening", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-003",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you repeat that?",
+    "portuguese": "Pode repetir?",
+    "pronunciationNote": "POH-d reh-peh-TEER",
+    "grammarFocus": "polite request",
+    "notes": "Basic repetition request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode repetir?",
+        "english": "Sorry, can you repeat that?"
+      }
+    ],
+    "tags": ["clarification", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-004",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you say that again?",
+    "portuguese": "Pode dizer isso outra vez?",
+    "pronunciationNote": "POH-d dee-ZER EE-soo OH-trah vezh",
+    "grammarFocus": "polite request",
+    "notes": "Alternative repetition request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dizer isso outra vez, por favor?",
+        "english": "Can you say that again, please?"
+      }
+    ],
+    "tags": ["clarification", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-005",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you speak more slowly?",
+    "portuguese": "Pode falar mais devagar?",
+    "pronunciationNote": "POH-d fah-LAR mysh deh-vah-GAR",
+    "grammarFocus": "polite request",
+    "notes": "Useful when someone speaks too fast.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode falar mais devagar?",
+        "english": "Sorry, can you speak more slowly?"
+      }
+    ],
+    "tags": ["clarification", "speed", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-006",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you write it down?",
+    "portuguese": "Pode escrever?",
+    "pronunciationNote": "POH-d esh-kreh-VER",
+    "grammarFocus": "polite request",
+    "notes": "Useful for names, addresses, and numbers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode escrever o nome?",
+        "english": "Can you write the name down?"
+      }
+    ],
+    "tags": ["clarification", "writing", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-007",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What does that mean?",
+    "portuguese": "O que é que isso quer dizer?",
+    "pronunciationNote": "oo k eh k EE-soo kair dee-ZER",
+    "grammarFocus": "asking about meaning",
+    "notes": "Common phrase for unknown words.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o que é que isso quer dizer?",
+        "english": "Sorry, what does that mean?"
+      }
+    ],
+    "tags": ["meaning", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-008",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What is this word?",
+    "portuguese": "O que é esta palavra?",
+    "pronunciationNote": "oo k eh ESH-tah pah-LAH-vrah",
+    "grammarFocus": "asking about vocabulary",
+    "notes": "Useful for beginners.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que é esta palavra em português?",
+        "english": "What is this word in Portuguese?"
+      }
+    ],
+    "tags": ["vocabulary", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-009",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do you say this in Portuguese?",
+    "portuguese": "Como se diz isto em português?",
+    "pronunciationNote": "KOH-moo s deezh EESH-too eng poor-too-GAYSH",
+    "grammarFocus": "asking for a translation",
+    "notes": "Useful for learning new words.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como se diz isto em português, por favor?",
+        "english": "How do you say this in Portuguese, please?"
+      }
+    ],
+    "tags": ["translation", "questions", "learning"]
+  },
+  {
+    "id": "11-ect-a1a2-010",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do you say that in English?",
+    "portuguese": "Como se diz isso em inglês?",
+    "pronunciationNote": "KOH-moo s deezh EE-soo eng een-GLAYSH",
+    "grammarFocus": "asking for a translation",
+    "notes": "Useful when switching languages.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como se diz isso em inglês?",
+        "english": "How do you say that in English?"
+      }
+    ],
+    "tags": ["translation", "questions", "learning"]
+  },
+  {
+    "id": "11-ect-a1a2-011",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you help me?",
+    "portuguese": "Pode ajudar-me?",
+    "pronunciationNote": "POH-d ah-zhoo-DAR-m",
+    "grammarFocus": "asking for help",
+    "notes": "Simple polite help request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode ajudar-me?",
+        "english": "Excuse me, can you help me?"
+      }
+    ],
+    "tags": ["help", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-012",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please wait a moment.",
+    "portuguese": "Espere um momento, por favor.",
+    "pronunciationNote": "esh-PEH-r oom moh-MEN-too poor fah-VOR",
+    "grammarFocus": "polite request",
+    "notes": "Useful when you need time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espere um momento, por favor, estou a pensar.",
+        "english": "Please wait a moment, I am thinking."
+      }
+    ],
+    "tags": ["time", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-013",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "One moment.",
+    "portuguese": "Um momento.",
+    "pronunciationNote": "oom moh-MEN-too",
+    "grammarFocus": "conversation filler",
+    "notes": "Short useful filler phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Um momento, já vejo isso.",
+        "english": "One moment, I will check that now."
+      }
+    ],
+    "tags": ["fillers", "time", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-014",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am thinking.",
+    "portuguese": "Estou a pensar.",
+    "pronunciationNote": "esh-TOH ah pen-SAR",
+    "grammarFocus": "filler with present continuous",
+    "notes": "Useful to hold the floor.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a pensar... talvez amanhã.",
+        "english": "I am thinking... maybe tomorrow."
+      }
+    ],
+    "tags": ["fillers", "thinking", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-015",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not know.",
+    "portuguese": "Não sei.",
+    "pronunciationNote": "nawng SAY",
+    "grammarFocus": "basic response",
+    "notes": "Useful honest reply.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei, talvez mais tarde.",
+        "english": "I do not know, maybe later."
+      }
+    ],
+    "tags": ["responses", "basics", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-016",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Maybe.",
+    "portuguese": "Talvez.",
+    "pronunciationNote": "tal-VEZH",
+    "grammarFocus": "short response",
+    "notes": "Common uncertain answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez, mas não tenho a certeza.",
+        "english": "Maybe, but I am not sure."
+      }
+    ],
+    "tags": ["responses", "uncertainty", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-017",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think so.",
+    "portuguese": "Acho que sim.",
+    "pronunciationNote": "AH-shoo k seeng",
+    "grammarFocus": "opinion response",
+    "notes": "Simple positive answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que sim, mas confirma.",
+        "english": "I think so, but check."
+      }
+    ],
+    "tags": ["responses", "opinions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-018",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not think so.",
+    "portuguese": "Acho que não.",
+    "pronunciationNote": "AH-shoo k nawng",
+    "grammarFocus": "opinion response",
+    "notes": "Simple negative answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que não, hoje não posso.",
+        "english": "I do not think so, I cannot today."
+      }
+    ],
+    "tags": ["responses", "opinions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-019",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not sure.",
+    "portuguese": "Não tenho a certeza.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah",
+    "grammarFocus": "expressing uncertainty",
+    "notes": "Natural way to sound less direct.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho a certeza, vou ver.",
+        "english": "I am not sure, I will check."
+      }
+    ],
+    "tags": ["uncertainty", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-020",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Exactly.",
+    "portuguese": "Exatamente.",
+    "pronunciationNote": "eh-zah-tah-MEN-t",
+    "grammarFocus": "agreement",
+    "notes": "Useful agreement word.",
+    "exampleSentences": [
+      {
+        "portuguese": "Exatamente, era isso.",
+        "english": "Exactly, that was it."
+      }
+    ],
+    "tags": ["agreement", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-021",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Of course.",
+    "portuguese": "Claro.",
+    "pronunciationNote": "KLAH-roo",
+    "grammarFocus": "agreement",
+    "notes": "Very common response.",
+    "exampleSentences": [
+      {
+        "portuguese": "Claro, sem problema.",
+        "english": "Of course, no problem."
+      }
+    ],
+    "tags": ["agreement", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-022",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Yes, please.",
+    "portuguese": "Sim, por favor.",
+    "pronunciationNote": "seeng poor fah-VOR",
+    "grammarFocus": "polite response",
+    "notes": "Basic polite answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quer água? Sim, por favor.",
+        "english": "Do you want water? Yes, please."
+      }
+    ],
+    "tags": ["politeness", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-023",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "No, thank you.",
+    "portuguese": "Não, obrigado.",
+    "pronunciationNote": "nawng oh-bree-GAH-doo",
+    "grammarFocus": "polite response",
+    "notes": "Basic polite refusal.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais café? Não, obrigado.",
+        "english": "More coffee? No, thank you."
+      }
+    ],
+    "tags": ["politeness", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-024",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Sorry?",
+    "portuguese": "Desculpe?",
+    "pronunciationNote": "desh-KOOL-p",
+    "grammarFocus": "asking for repetition",
+    "notes": "Short polite clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe? Não ouvi bem.",
+        "english": "Sorry? I did not hear properly."
+      }
+    ],
+    "tags": ["clarification", "politeness", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-025",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Sorry, what did you say?",
+    "portuguese": "Desculpe, o que disse?",
+    "pronunciationNote": "desh-KOOL-p oo k DEE-s",
+    "grammarFocus": "asking for repetition",
+    "notes": "Useful polite clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o que disse agora?",
+        "english": "Sorry, what did you say just now?"
+      }
+    ],
+    "tags": ["clarification", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-026",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Sorry, my Portuguese is still basic.",
+    "portuguese": "Desculpe, o meu português ainda é básico.",
+    "pronunciationNote": "desh-KOOL-p oo may-oo poor-too-GAYSH EEN-dah eh BAH-zee-koo",
+    "grammarFocus": "softening statement",
+    "notes": "Helps set expectations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o meu português ainda é básico.",
+        "english": "Sorry, my Portuguese is still basic."
+      }
+    ],
+    "tags": ["softening", "learning", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-027",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am learning Portuguese.",
+    "portuguese": "Estou a aprender português.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER poor-too-GAYSH",
+    "grammarFocus": "explaining your level",
+    "notes": "Useful when asking for patience.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a aprender português há poucos meses.",
+        "english": "I have been learning Portuguese for a few months."
+      }
+    ],
+    "tags": ["learning", "basics", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-028",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I speak a little Portuguese.",
+    "portuguese": "Falo um pouco de português.",
+    "pronunciationNote": "FAH-loo oom POH-koo d poor-too-GAYSH",
+    "grammarFocus": "describing ability",
+    "notes": "Useful introduction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Falo um pouco de português, mas devagar.",
+        "english": "I speak a little Portuguese, but slowly."
+      }
+    ],
+    "tags": ["learning", "ability", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-029",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we speak in Portuguese?",
+    "portuguese": "Podemos falar em português?",
+    "pronunciationNote": "poh-DEH-moosh fah-LAR eng poor-too-GAYSH",
+    "grammarFocus": "asking to use the language",
+    "notes": "Useful for practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podemos falar em português um pouco?",
+        "english": "Can we speak in Portuguese for a bit?"
+      }
+    ],
+    "tags": ["practice", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-030",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we speak in English for a moment?",
+    "portuguese": "Podemos falar em inglês um momento?",
+    "pronunciationNote": "poh-DEH-moosh fah-LAR eng een-GLAYSH oom moh-MEN-too",
+    "grammarFocus": "switching languages",
+    "notes": "Useful when stuck.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, podemos falar em inglês um momento?",
+        "english": "Sorry, can we speak in English for a moment?"
+      }
+    ],
+    "tags": ["language-switch", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-031",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you explain?",
+    "portuguese": "Pode explicar?",
+    "pronunciationNote": "POH-d esh-plee-KAR",
+    "grammarFocus": "asking for explanation",
+    "notes": "Simple follow-up request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode explicar melhor?",
+        "english": "Can you explain better?"
+      }
+    ],
+    "tags": ["clarification", "requests", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-032",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you give me an example?",
+    "portuguese": "Pode dar-me um exemplo?",
+    "pronunciationNote": "POH-d dar-m oom eh-ZEM-ploo",
+    "grammarFocus": "asking for an example",
+    "notes": "Useful for understanding.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dar-me um exemplo simples?",
+        "english": "Can you give me a simple example?"
+      }
+    ],
+    "tags": ["clarification", "examples", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-033",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you show me?",
+    "portuguese": "Pode mostrar-me?",
+    "pronunciationNote": "POH-d moosh-TRAR-m",
+    "grammarFocus": "asking for demonstration",
+    "notes": "Useful when words are not enough.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode mostrar-me aqui no mapa?",
+        "english": "Can you show me here on the map?"
+      }
+    ],
+    "tags": ["clarification", "help", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-034",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is that right?",
+    "portuguese": "Está certo?",
+    "pronunciationNote": "esh-TAH SAIR-too",
+    "grammarFocus": "checking understanding",
+    "notes": "Useful for confirming information.",
+    "exampleSentences": [
+      {
+        "portuguese": "Terça às três, está certo?",
+        "english": "Tuesday at three, is that right?"
+      }
+    ],
+    "tags": ["checking", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-035",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "So, tomorrow at ten?",
+    "portuguese": "Então, amanhã às dez?",
+    "pronunciationNote": "eng-TOWN ah-mah-NYAH ash dezh",
+    "grammarFocus": "checking details",
+    "notes": "Useful for confirming a plan.",
+    "exampleSentences": [
+      {
+        "portuguese": "Então, amanhã às dez no café?",
+        "english": "So, tomorrow at ten in the café?"
+      }
+    ],
+    "tags": ["checking", "planning", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-036",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is fine.",
+    "portuguese": "Está bem.",
+    "pronunciationNote": "esh-TAH bayng",
+    "grammarFocus": "agreement",
+    "notes": "Very common phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às quatro? Está bem.",
+        "english": "At four? That is fine."
+      }
+    ],
+    "tags": ["agreement", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-037",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "No problem.",
+    "portuguese": "Sem problema.",
+    "pronunciationNote": "sang proh-BLAY-mah",
+    "grammarFocus": "reassurance",
+    "notes": "Useful for friendly responses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode vir mais tarde, sem problema.",
+        "english": "You can come later, no problem."
+      }
+    ],
+    "tags": ["reassurance", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-038",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "No worries.",
+    "portuguese": "Não faz mal.",
+    "pronunciationNote": "nawng fazh mahl",
+    "grammarFocus": "reassurance",
+    "notes": "Common friendly phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Chegaste tarde? Não faz mal.",
+        "english": "You arrived late? No worries."
+      }
+    ],
+    "tags": ["reassurance", "friendly", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-039",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Really?",
+    "portuguese": "A sério?",
+    "pronunciationNote": "ah SAY-ree-oo",
+    "grammarFocus": "reaction",
+    "notes": "Common surprised reaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "A sério? Que bom.",
+        "english": "Really? That is great."
+      }
+    ],
+    "tags": ["reactions", "conversation", "basics"]
+  },
+  {
+    "id": "11-ect-a1a2-040",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Great.",
+    "portuguese": "Ótimo.",
+    "pronunciationNote": "OH-tee-moo",
+    "grammarFocus": "reaction",
+    "notes": "Simple positive reaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ótimo, então até amanhã.",
+        "english": "Great, then see you tomorrow."
+      }
+    ],
+    "tags": ["reactions", "positive", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-041",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I see.",
+    "portuguese": "Estou a ver.",
+    "pronunciationNote": "esh-TOH ah VAIR",
+    "grammarFocus": "showing understanding",
+    "notes": "Common listening response.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ah, estou a ver agora.",
+        "english": "Ah, I see now."
+      }
+    ],
+    "tags": ["listening", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-042",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That makes sense.",
+    "portuguese": "Isso faz sentido.",
+    "pronunciationNote": "EE-soo fazh sen-TEE-doo",
+    "grammarFocus": "showing understanding",
+    "notes": "Useful when something becomes clear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ah, isso faz sentido.",
+        "english": "Ah, that makes sense."
+      }
+    ],
+    "tags": ["understanding", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-043",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you think?",
+    "portuguese": "O que acha?",
+    "pronunciationNote": "oo k AH-shah",
+    "grammarFocus": "asking for an opinion",
+    "notes": "Simple polite question.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que acha desta ideia?",
+        "english": "What do you think of this idea?"
+      }
+    ],
+    "tags": ["opinions", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-044",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you mean?",
+    "portuguese": "O que quer dizer?",
+    "pronunciationNote": "oo k kair dee-ZER",
+    "grammarFocus": "asking for clarification",
+    "notes": "Useful when confused.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o que quer dizer com isso?",
+        "english": "Sorry, what do you mean by that?"
+      }
+    ],
+    "tags": ["clarification", "questions", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-045",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I ask a question?",
+    "portuguese": "Posso fazer uma pergunta?",
+    "pronunciationNote": "POS-soo fah-ZER OO-mah pair-GOON-tah",
+    "grammarFocus": "asking permission",
+    "notes": "Useful conversation opener.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso fazer uma pergunta rápida?",
+        "english": "Can I ask a quick question?"
+      }
+    ],
+    "tags": ["questions", "permission", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-046",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Just a second.",
+    "portuguese": "Só um segundo.",
+    "pronunciationNote": "soh oom seh-GOON-doo",
+    "grammarFocus": "conversation filler",
+    "notes": "Useful when you need a moment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só um segundo, já respondo.",
+        "english": "Just a second, I will answer now."
+      }
+    ],
+    "tags": ["fillers", "time", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-047",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please go on.",
+    "portuguese": "Continue, por favor.",
+    "pronunciationNote": "kohn-tee-NOO-eh poor fah-VOR",
+    "grammarFocus": "encouraging speaker",
+    "notes": "Useful listening phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, continue, por favor.",
+        "english": "Yes, please go on."
+      }
+    ],
+    "tags": ["listening", "responses", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-048",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is all.",
+    "portuguese": "É só isso.",
+    "pronunciationNote": "eh soh EE-soo",
+    "grammarFocus": "closing statement",
+    "notes": "Simple closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, é só isso.",
+        "english": "Thank you, that is all."
+      }
+    ],
+    "tags": ["closing", "basics", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-049",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let me think.",
+    "portuguese": "Deixe-me pensar.",
+    "pronunciationNote": "DAY-sh-m pen-SAR",
+    "grammarFocus": "asking for time",
+    "notes": "Useful filler phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Deixe-me pensar... talvez sim.",
+        "english": "Let me think... maybe yes."
+      }
+    ],
+    "tags": ["fillers", "thinking", "conversation"]
+  },
+  {
+    "id": "11-ect-a1a2-050",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you for your patience.",
+    "portuguese": "Obrigado pela paciência.",
+    "pronunciationNote": "oh-bree-GAH-doo peh-lah pah-see-EN-see-ah",
+    "grammarFocus": "polite closing",
+    "notes": "Useful after asking for help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pela paciência, ainda estou a aprender.",
+        "english": "Thank you for your patience, I am still learning."
+      }
+    ],
+    "tags": ["politeness", "closing", "conversation"]
+  }
+]

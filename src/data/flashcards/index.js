@@ -9,6 +9,8 @@ export const subjectCatalog = [
   { id: 'emotions-opinions-personality', order: 8, subject: 'Emotions, Opinions & Personality' },
   { id: 'grammar-verbs-patterns', order: 9, subject: 'Grammar Patterns & Verb Forms' },
   { id: 'culture-media-conversation', order: 10, subject: 'Culture, Media & Conversation' },
+  { id: 'everyday-conversation-tools', order: 11, subject: 'Everyday Conversation Tools' },
+  { id: 'time-dates-scheduling', order: 12, subject: 'Time, Dates & Scheduling' },
 ];
 
 export const flashcardSets = [
@@ -171,6 +173,38 @@ export const flashcardSets = [
     levelBand: 'B1-B2',
     cardCount: 50,
     file: './10_culture_media_conversation_b1_b2.json',
+  },
+  {
+    id: '11_everyday_conversation_tools_a1_a2',
+    subjectId: 'everyday-conversation-tools',
+    subject: 'Everyday Conversation Tools',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    file: './11_everyday_conversation_tools_a1_a2.json',
+  },
+  {
+    id: '11_everyday_conversation_tools_b1_b2',
+    subjectId: 'everyday-conversation-tools',
+    subject: 'Everyday Conversation Tools',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    file: './11_everyday_conversation_tools_b1_b2.json',
+  },
+  {
+    id: '12_time_dates_scheduling_a1_a2',
+    subjectId: 'time-dates-scheduling',
+    subject: 'Time, Dates & Scheduling',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    file: './12_time_dates_scheduling_a1_a2.json',
+  },
+  {
+    id: '12_time_dates_scheduling_b1_b2',
+    subjectId: 'time-dates-scheduling',
+    subject: 'Time, Dates & Scheduling',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    file: './12_time_dates_scheduling_b1_b2.json',
   },
 ];
 

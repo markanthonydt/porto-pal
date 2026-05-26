@@ -1,0 +1,952 @@
+[
+  {
+    "id": "11-tds-a1a2-001",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is it?",
+    "portuguese": "Que horas são?",
+    "pronunciationNote": "kə OR-ash sown",
+    "grammarFocus": "asking for the time",
+    "notes": "Basic time question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, que horas são?",
+        "english": "Excuse me, what time is it?"
+      }
+    ],
+    "tags": ["time", "basics", "questions"]
+  },
+  {
+    "id": "11-tds-a1a2-002",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is one o'clock.",
+    "portuguese": "É uma hora.",
+    "pronunciationNote": "eh OO-mah OR-ah",
+    "grammarFocus": "telling the time",
+    "notes": "Simple hour statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já é uma hora.",
+        "english": "It is already one o'clock."
+      }
+    ],
+    "tags": ["time", "hours", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-003",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is half past two.",
+    "portuguese": "São duas e meia.",
+    "pronunciationNote": "sown DOO-azh ee MAY-ah",
+    "grammarFocus": "telling the time",
+    "notes": "Common half-hour expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "A reunião é às duas e meia.",
+        "english": "The meeting is at half past two."
+      }
+    ],
+    "tags": ["time", "hours", "scheduling"]
+  },
+  {
+    "id": "11-tds-a1a2-004",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is quarter past nine.",
+    "portuguese": "São nove e um quarto.",
+    "pronunciationNote": "sown NOH-v ee oom KWAR-too",
+    "grammarFocus": "telling the time",
+    "notes": "Common quarter-hour expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora são nove e um quarto.",
+        "english": "It is quarter past nine now."
+      }
+    ],
+    "tags": ["time", "hours", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-005",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is quarter to six.",
+    "portuguese": "São seis menos um quarto.",
+    "pronunciationNote": "sown SAYS MEN-oos oom KWAR-too",
+    "grammarFocus": "telling the time",
+    "notes": "Common quarter-to expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "Faltam quinze minutos, são seis menos um quarto.",
+        "english": "Fifteen minutes are left, it is quarter to six."
+      }
+    ],
+    "tags": ["time", "hours", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-006",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Today is Monday.",
+    "portuguese": "Hoje é segunda-feira.",
+    "pronunciationNote": "OH-zhe eh seh-GOON-dah FAY-rah",
+    "grammarFocus": "days of the week",
+    "notes": "Basic date statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje é segunda-feira e trabalho cedo.",
+        "english": "Today is Monday and I work early."
+      }
+    ],
+    "tags": ["days", "calendar", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-007",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Tomorrow is Tuesday.",
+    "portuguese": "Amanhã é terça-feira.",
+    "pronunciationNote": "ah-mah-NYAH eh TAIR-sah FAY-rah",
+    "grammarFocus": "days of the week",
+    "notes": "Basic future date statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã é terça-feira, não é?",
+        "english": "Tomorrow is Tuesday, isn't it?"
+      }
+    ],
+    "tags": ["days", "calendar", "future"]
+  },
+  {
+    "id": "11-tds-a1a2-008",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Yesterday was Friday.",
+    "portuguese": "Ontem foi sexta-feira.",
+    "pronunciationNote": "ON-tang foy SAYS-tah FAY-rah",
+    "grammarFocus": "days of the week",
+    "notes": "Basic past date statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ontem foi sexta-feira e saí tarde.",
+        "english": "Yesterday was Friday and I left late."
+      }
+    ],
+    "tags": ["days", "calendar", "past"]
+  },
+  {
+    "id": "11-tds-a1a2-009",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What day is it today?",
+    "portuguese": "Que dia é hoje?",
+    "pronunciationNote": "kə DEE-ah eh OH-zhe",
+    "grammarFocus": "asking for the day",
+    "notes": "Basic calendar question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, que dia é hoje?",
+        "english": "Excuse me, what day is it today?"
+      }
+    ],
+    "tags": ["days", "questions", "calendar"]
+  },
+  {
+    "id": "11-tds-a1a2-010",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What is today's date?",
+    "portuguese": "Qual é a data de hoje?",
+    "pronunciationNote": "kwal eh ah DAH-tah d OH-zhe",
+    "grammarFocus": "asking for the date",
+    "notes": "Basic date question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Qual é a data de hoje no calendário?",
+        "english": "What is today's date on the calendar?"
+      }
+    ],
+    "tags": ["date", "questions", "calendar"]
+  },
+  {
+    "id": "11-tds-a1a2-011",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is the third of May.",
+    "portuguese": "É três de maio.",
+    "pronunciationNote": "eh traysh d mai-oo",
+    "grammarFocus": "saying the date",
+    "notes": "Simple date statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje é três de maio.",
+        "english": "Today is the third of May."
+      }
+    ],
+    "tags": ["date", "months", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-012",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "In January",
+    "portuguese": "Em janeiro",
+    "pronunciationNote": "eng zhah-NAY-roo",
+    "grammarFocus": "months",
+    "notes": "Basic month phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em janeiro faz frio.",
+        "english": "In January it is cold."
+      }
+    ],
+    "tags": ["months", "calendar", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-013",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "In August",
+    "portuguese": "Em agosto",
+    "pronunciationNote": "eng ah-GOOSH-too",
+    "grammarFocus": "months",
+    "notes": "Basic month phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em agosto vou de férias.",
+        "english": "In August I go on holiday."
+      }
+    ],
+    "tags": ["months", "calendar", "travel"]
+  },
+  {
+    "id": "11-tds-a1a2-014",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This morning",
+    "portuguese": "Esta manhã",
+    "pronunciationNote": "ESH-tah mah-NYAH",
+    "grammarFocus": "time expressions",
+    "notes": "Basic part-of-day phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta manhã acordei cedo.",
+        "english": "This morning I woke up early."
+      }
+    ],
+    "tags": ["time", "day-parts", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-015",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This afternoon",
+    "portuguese": "Esta tarde",
+    "pronunciationNote": "ESH-tah TAR-d",
+    "grammarFocus": "time expressions",
+    "notes": "Basic part-of-day phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta tarde tenho aulas.",
+        "english": "This afternoon I have classes."
+      }
+    ],
+    "tags": ["time", "day-parts", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-016",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Tonight",
+    "portuguese": "Esta noite",
+    "pronunciationNote": "ESH-tah NOY-t",
+    "grammarFocus": "time expressions",
+    "notes": "Basic part-of-day phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta noite fico em casa.",
+        "english": "Tonight I am staying at home."
+      }
+    ],
+    "tags": ["time", "day-parts", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-017",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "At what time?",
+    "portuguese": "A que horas?",
+    "pronunciationNote": "ah kə OR-ash",
+    "grammarFocus": "asking about time",
+    "notes": "Common scheduling question.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas começa o filme?",
+        "english": "At what time does the film start?"
+      }
+    ],
+    "tags": ["time", "questions", "scheduling"]
+  },
+  {
+    "id": "11-tds-a1a2-018",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does it start?",
+    "portuguese": "A que horas começa?",
+    "pronunciationNote": "ah kə OR-ash koh-MEH-sah",
+    "grammarFocus": "asking about starting time",
+    "notes": "Useful for classes, films, and events.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas começa a aula?",
+        "english": "What time does the class start?"
+      }
+    ],
+    "tags": ["time", "events", "questions"]
+  },
+  {
+    "id": "11-tds-a1a2-019",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does it finish?",
+    "portuguese": "A que horas acaba?",
+    "pronunciationNote": "ah kə OR-ash ah-KAH-bah",
+    "grammarFocus": "asking about finishing time",
+    "notes": "Useful for classes and appointments.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas acaba o trabalho?",
+        "english": "What time does work finish?"
+      }
+    ],
+    "tags": ["time", "events", "questions"]
+  },
+  {
+    "id": "11-tds-a1a2-020",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am free tomorrow.",
+    "portuguese": "Estou livre amanhã.",
+    "pronunciationNote": "esh-TOH LEE-vr ah-mah-NYAH",
+    "grammarFocus": "availability",
+    "notes": "Basic scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou livre amanhã de manhã.",
+        "english": "I am free tomorrow morning."
+      }
+    ],
+    "tags": ["availability", "planning", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-021",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am busy this afternoon.",
+    "portuguese": "Estou ocupado esta tarde.",
+    "pronunciationNote": "esh-TOH oh-koo-PAH-doo ESH-tah TAR-d",
+    "grammarFocus": "availability",
+    "notes": "Basic scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, estou ocupado esta tarde.",
+        "english": "Sorry, I am busy this afternoon."
+      }
+    ],
+    "tags": ["availability", "planning", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-022",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am available on Friday.",
+    "portuguese": "Estou disponível na sexta-feira.",
+    "pronunciationNote": "esh-TOH dees-poh-NEE-vel nah SAYS-tah FAY-rah",
+    "grammarFocus": "availability",
+    "notes": "Basic scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou disponível na sexta-feira à tarde.",
+        "english": "I am available on Friday afternoon."
+      }
+    ],
+    "tags": ["availability", "planning", "days"]
+  },
+  {
+    "id": "11-tds-a1a2-023",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we meet tomorrow?",
+    "portuguese": "Podemos encontrar-nos amanhã?",
+    "pronunciationNote": "poh-DEH-moosh eng-kohn-TRAR-noosh ah-mah-NYAH",
+    "grammarFocus": "suggesting a meeting",
+    "notes": "Simple planning question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podemos encontrar-nos amanhã de manhã?",
+        "english": "Can we meet tomorrow morning?"
+      }
+    ],
+    "tags": ["meeting", "planning", "questions"]
+  },
+  {
+    "id": "11-tds-a1a2-024",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we meet at three?",
+    "portuguese": "Podemos encontrar-nos às três?",
+    "pronunciationNote": "poh-DEH-moosh eng-kohn-TRAR-noosh ash traysh",
+    "grammarFocus": "suggesting a time",
+    "notes": "Simple planning question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podemos encontrar-nos às três no café?",
+        "english": "Can we meet at three in the café?"
+      }
+    ],
+    "tags": ["meeting", "planning", "time"]
+  },
+  {
+    "id": "11-tds-a1a2-025",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Yes, that works for me.",
+    "portuguese": "Sim, isso funciona para mim.",
+    "pronunciationNote": "seeng EE-soo foon-see-OH-nah PAH-rah meeng",
+    "grammarFocus": "accepting a time",
+    "notes": "Useful planning response.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às quatro? Sim, isso funciona para mim.",
+        "english": "At four? Yes, that works for me."
+      }
+    ],
+    "tags": ["planning", "responses", "agreement"]
+  },
+  {
+    "id": "11-tds-a1a2-026",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "No, I cannot at that time.",
+    "portuguese": "Não, não posso a essa hora.",
+    "pronunciationNote": "nawng nawng POS-soo ah EH-sah OR-ah",
+    "grammarFocus": "declining a time",
+    "notes": "Useful planning response.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, não posso a essa hora.",
+        "english": "Sorry, I cannot at that time."
+      }
+    ],
+    "tags": ["planning", "responses", "declining"]
+  },
+  {
+    "id": "11-tds-a1a2-027",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Maybe later.",
+    "portuguese": "Talvez mais tarde.",
+    "pronunciationNote": "tal-VEZH mysh TAR-d",
+    "grammarFocus": "suggesting another time",
+    "notes": "Simple scheduling response.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora não posso, talvez mais tarde.",
+        "english": "I cannot now, maybe later."
+      }
+    ],
+    "tags": ["planning", "responses", "flexibility"]
+  },
+  {
+    "id": "11-tds-a1a2-028",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am late.",
+    "portuguese": "Estou atrasado.",
+    "pronunciationNote": "esh-TOH ah-trah-ZAH-doo",
+    "grammarFocus": "time-related state",
+    "notes": "Useful delay phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, estou atrasado.",
+        "english": "Sorry, I am late."
+      }
+    ],
+    "tags": ["delays", "time", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-029",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I will be there in ten minutes.",
+    "portuguese": "Estou aí em dez minutos.",
+    "pronunciationNote": "esh-TOH ah-EE eng dezh mee-NOO-toosh",
+    "grammarFocus": "arrival estimate",
+    "notes": "Useful for delays and coordination.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espera um pouco, estou aí em dez minutos.",
+        "english": "Wait a bit, I will be there in ten minutes."
+      }
+    ],
+    "tags": ["delays", "arrival", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-030",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need more time.",
+    "portuguese": "Preciso de mais tempo.",
+    "pronunciationNote": "preh-SEE-zoo d mysh TEM-poo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de mais tempo para acabar isto.",
+        "english": "I need more time to finish this."
+      }
+    ],
+    "tags": ["time", "need", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-031",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How long does it take?",
+    "portuguese": "Quanto tempo demora?",
+    "pronunciationNote": "KWAN-too TEM-poo deh-MOR-ah",
+    "grammarFocus": "asking about duration",
+    "notes": "Useful for travel and tasks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto tempo demora a viagem?",
+        "english": "How long does the journey take?"
+      }
+    ],
+    "tags": ["duration", "questions", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-032",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It takes twenty minutes.",
+    "portuguese": "Demora vinte minutos.",
+    "pronunciationNote": "deh-MOR-ah VEEN-t mee-NOO-toosh",
+    "grammarFocus": "expressing duration",
+    "notes": "Useful duration answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "A pé demora vinte minutos.",
+        "english": "On foot it takes twenty minutes."
+      }
+    ],
+    "tags": ["duration", "answers", "time"]
+  },
+  {
+    "id": "11-tds-a1a2-033",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have an appointment at ten.",
+    "portuguese": "Tenho uma consulta às dez.",
+    "pronunciationNote": "TEN-yoo OO-mah kohn-SOOL-tah ash dezh",
+    "grammarFocus": "appointment scheduling",
+    "notes": "Useful medical or official phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã tenho uma consulta às dez.",
+        "english": "Tomorrow I have an appointment at ten."
+      }
+    ],
+    "tags": ["appointments", "time", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-034",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a class at five.",
+    "portuguese": "Tenho aula às cinco.",
+    "pronunciationNote": "TEN-yoo OW-lah ash SEEN-koo",
+    "grammarFocus": "fixed schedule",
+    "notes": "Useful for studies and routine.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje tenho aula às cinco.",
+        "english": "Today I have class at five."
+      }
+    ],
+    "tags": ["classes", "time", "routine"]
+  },
+  {
+    "id": "11-tds-a1a2-035",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I work from nine to five.",
+    "portuguese": "Trabalho das nove às cinco.",
+    "pronunciationNote": "trah-BAH-lyoo dahzh NOH-v ash SEEN-koo",
+    "grammarFocus": "time range",
+    "notes": "Useful routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Durante a semana trabalho das nove às cinco.",
+        "english": "During the week I work from nine to five."
+      }
+    ],
+    "tags": ["routine", "time-range", "work"]
+  },
+  {
+    "id": "11-tds-a1a2-036",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "See you tomorrow.",
+    "portuguese": "Até amanhã.",
+    "pronunciationNote": "ah-TEH ah-mah-NYAH",
+    "grammarFocus": "time-based farewell",
+    "notes": "Very common phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Então, até amanhã.",
+        "english": "So, see you tomorrow."
+      }
+    ],
+    "tags": ["farewells", "time", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-037",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "See you on Monday.",
+    "portuguese": "Até segunda-feira.",
+    "pronunciationNote": "ah-TEH seh-GOON-dah FAY-rah",
+    "grammarFocus": "time-based farewell",
+    "notes": "Useful for work and study.",
+    "exampleSentences": [
+      {
+        "portuguese": "Bom fim de semana, até segunda-feira.",
+        "english": "Have a good weekend, see you on Monday."
+      }
+    ],
+    "tags": ["farewells", "days", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-038",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Early",
+    "portuguese": "Cedo",
+    "pronunciationNote": "SEH-doo",
+    "grammarFocus": "time adverb",
+    "notes": "Useful routine word.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje acordei cedo.",
+        "english": "Today I woke up early."
+      }
+    ],
+    "tags": ["adverbs", "time", "routine"]
+  },
+  {
+    "id": "11-tds-a1a2-039",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Late",
+    "portuguese": "Tarde",
+    "pronunciationNote": "TAR-d",
+    "grammarFocus": "time adverb",
+    "notes": "Useful routine word.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ontem cheguei tarde.",
+        "english": "Yesterday I arrived late."
+      }
+    ],
+    "tags": ["adverbs", "time", "routine"]
+  },
+  {
+    "id": "11-tds-a1a2-040",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Now",
+    "portuguese": "Agora",
+    "pronunciationNote": "ah-GOH-rah",
+    "grammarFocus": "time adverb",
+    "notes": "Very common time word.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora não posso falar.",
+        "english": "I cannot talk now."
+      }
+    ],
+    "tags": ["adverbs", "time", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-041",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Later",
+    "portuguese": "Mais tarde",
+    "pronunciationNote": "mysh TAR-d",
+    "grammarFocus": "time adverb",
+    "notes": "Very common time phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Falamos mais tarde.",
+        "english": "We will talk later."
+      }
+    ],
+    "tags": ["adverbs", "time", "basics"]
+  },
+  {
+    "id": "11-tds-a1a2-042",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Soon",
+    "portuguese": "Em breve",
+    "pronunciationNote": "eng BRAY-v",
+    "grammarFocus": "time adverb",
+    "notes": "Useful expectation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Volto em breve.",
+        "english": "I will be back soon."
+      }
+    ],
+    "tags": ["adverbs", "time", "expectation"]
+  },
+  {
+    "id": "11-tds-a1a2-043",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Every day",
+    "portuguese": "Todos os dias",
+    "pronunciationNote": "TOH-dooz oozh DEE-ash",
+    "grammarFocus": "frequency",
+    "notes": "Basic routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estudo português todos os dias.",
+        "english": "I study Portuguese every day."
+      }
+    ],
+    "tags": ["frequency", "routine", "time"]
+  },
+  {
+    "id": "11-tds-a1a2-044",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Every week",
+    "portuguese": "Todas as semanas",
+    "pronunciationNote": "TOH-dahz ahs seh-MAH-nash",
+    "grammarFocus": "frequency",
+    "notes": "Basic routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Telefonamos todas as semanas.",
+        "english": "We phone each other every week."
+      }
+    ],
+    "tags": ["frequency", "routine", "calendar"]
+  },
+  {
+    "id": "11-tds-a1a2-045",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Once a month",
+    "portuguese": "Uma vez por mês",
+    "pronunciationNote": "OO-mah vezh poor mesh",
+    "grammarFocus": "frequency",
+    "notes": "Useful routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou ao Porto uma vez por mês.",
+        "english": "I go to Porto once a month."
+      }
+    ],
+    "tags": ["frequency", "months", "routine"]
+  },
+  {
+    "id": "11-tds-a1a2-046",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "On the weekend",
+    "portuguese": "Ao fim de semana",
+    "pronunciationNote": "ow feeng d seh-MAH-nah",
+    "grammarFocus": "time expression",
+    "notes": "Common routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana descanso mais.",
+        "english": "At the weekend I rest more."
+      }
+    ],
+    "tags": ["weekend", "time", "routine"]
+  },
+  {
+    "id": "11-tds-a1a2-047",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This week",
+    "portuguese": "Esta semana",
+    "pronunciationNote": "ESH-tah seh-MAH-nah",
+    "grammarFocus": "time expression",
+    "notes": "Common planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta semana estou muito ocupado.",
+        "english": "This week I am very busy."
+      }
+    ],
+    "tags": ["week", "time", "planning"]
+  },
+  {
+    "id": "11-tds-a1a2-048",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Next week",
+    "portuguese": "Na próxima semana",
+    "pronunciationNote": "nah PROH-see-mah seh-MAH-nah",
+    "grammarFocus": "time expression",
+    "notes": "Common planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na próxima semana tenho férias.",
+        "english": "Next week I am on holiday."
+      }
+    ],
+    "tags": ["week", "time", "future"]
+  },
+  {
+    "id": "11-tds-a1a2-049",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Last week",
+    "portuguese": "Na semana passada",
+    "pronunciationNote": "nah seh-MAH-nah pah-SAH-dah",
+    "grammarFocus": "time expression",
+    "notes": "Common past time phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na semana passada estive doente.",
+        "english": "Last week I was ill."
+      }
+    ],
+    "tags": ["week", "time", "past"]
+  },
+  {
+    "id": "11-tds-a1a2-050",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we change the time?",
+    "portuguese": "Podemos mudar a hora?",
+    "pronunciationNote": "poh-DEH-moosh moo-DAR ah OR-ah",
+    "grammarFocus": "simple rescheduling",
+    "notes": "Useful for basic schedule changes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, podemos mudar a hora da reunião?",
+        "english": "Sorry, can we change the time of the meeting?"
+      }
+    ],
+    "tags": ["rescheduling", "planning", "questions"]
+  }
+]

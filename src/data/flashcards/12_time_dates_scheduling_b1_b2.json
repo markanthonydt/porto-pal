@@ -1,0 +1,952 @@
+[
+  {
+    "id": "11-tds-b1b2-001",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to move our meeting to a little later in the afternoon?",
+    "portuguese": "Seria possível passar a nossa reunião para um pouco mais tarde à tarde?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel pah-SAR ah NOH-sah reh-oo-nee-OWN",
+    "grammarFocus": "polite rescheduling request",
+    "notes": "Natural professional scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho um compromisso antes disso.",
+        "english": "I have something else before that."
+      }
+    ],
+    "tags": ["rescheduling", "meetings", "politeness"]
+  },
+  {
+    "id": "11-tds-b1b2-002",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am fairly flexible this week, as long as we decide on a time in advance.",
+    "portuguese": "Estou relativamente flexível esta semana, desde que combinemos a hora com antecedência.",
+    "pronunciationNote": "esh-TOH reh-lah-tee-vah-MEN-t flek-SEE-vel ESH-tah seh-MAH-nah",
+    "grammarFocus": "conditional flexibility statement",
+    "notes": "Useful for planning around a busy week.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo organizar melhor o resto do dia.",
+        "english": "That way I can organise the rest of the day better."
+      }
+    ],
+    "tags": ["availability", "planning", "meetings"]
+  },
+  {
+    "id": "11-tds-b1b2-003",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If Thursday no longer works, we could always leave it until early next week.",
+    "portuguese": "Se quinta-feira já não der, podemos sempre deixar isso para o início da próxima semana.",
+    "pronunciationNote": "s KEEN-tah FAY-rah zhah nawng dair",
+    "grammarFocus": "alternative scheduling suggestion",
+    "notes": "Natural fallback planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim também não é urgente.",
+        "english": "For me it is not urgent either."
+      }
+    ],
+    "tags": ["alternatives", "planning", "week"]
+  },
+  {
+    "id": "11-tds-b1b2-004",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know by the end of the day whether that time still suits you?",
+    "portuguese": "Podia avisar-me até ao fim do dia se essa hora ainda lhe dá jeito?",
+    "pronunciationNote": "POH-dee-ah ah-vee-ZAR-m ah-TEH ow feeng doo DEE-ah",
+    "grammarFocus": "polite request + indirect question",
+    "notes": "Useful when waiting for confirmation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo fechar o resto dos planos.",
+        "english": "That way I can finalise the rest of my plans."
+      }
+    ],
+    "tags": ["confirmation", "planning", "politeness"]
+  },
+  {
+    "id": "11-tds-b1b2-005",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may be running a few minutes late, but I should not be too far behind schedule.",
+    "portuguese": "Posso atrasar-me alguns minutos, mas não devo fugir muito ao horário.",
+    "pronunciationNote": "POS-soo ah-trah-ZAR-m al-GOONSH mee-NOO-toosh",
+    "grammarFocus": "softening a delay",
+    "notes": "Useful when warning someone politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aviso logo se vir que demoro mais.",
+        "english": "I will let you know straight away if I see that I am taking longer."
+      }
+    ],
+    "tags": ["delays", "politeness", "coordination"]
+  },
+  {
+    "id": "11-tds-b1b2-006",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather avoid the rush hour if we can choose a quieter time.",
+    "portuguese": "Preferia evitar a hora de ponta se conseguirmos escolher uma altura mais tranquila.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR ah OR-ah d PON-tah",
+    "grammarFocus": "preference + condition",
+    "notes": "Useful travel and meeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nessa altura é muito mais fácil deslocar-me.",
+        "english": "At that time it is much easier for me to get there."
+      }
+    ],
+    "tags": ["travel", "scheduling", "preferences"]
+  },
+  {
+    "id": "11-tds-b1b2-007",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am free from about half past three onwards, if that helps.",
+    "portuguese": "Estou livre a partir das três e meia, mais ou menos, se isso ajudar.",
+    "pronunciationNote": "esh-TOH LEE-vr ah par-TEER dahzh traysh ee MAY-ah",
+    "grammarFocus": "availability from a point onwards",
+    "notes": "Natural scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes disso vou estar em deslocação.",
+        "english": "Before that I will be on the move."
+      }
+    ],
+    "tags": ["availability", "planning", "time-range"]
+  },
+  {
+    "id": "11-tds-b1b2-008",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "As things stand, Friday morning would be the easiest option for me.",
+    "portuguese": "Como as coisas estão, sexta-feira de manhã seria a opção mais fácil para mim.",
+    "pronunciationNote": "KOH-moo ash KOH-zash esh-TOWN",
+    "grammarFocus": "framing current availability",
+    "notes": "Useful for setting expectations clearly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mas ainda posso ajustar um pouco, se for preciso.",
+        "english": "But I can still adjust a bit, if needed."
+      }
+    ],
+    "tags": ["availability", "planning", "work"]
+  },
+  {
+    "id": "11-tds-b1b2-009",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we keep the date but bring the time forward slightly?",
+    "portuguese": "Podíamos manter a data, mas adiantar um pouco a hora?",
+    "pronunciationNote": "poh-DEE-ah-moosh mahn-TAIR ah DAH-tah",
+    "grammarFocus": "partial rescheduling",
+    "notes": "Useful when changing only the time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez meia hora faça toda a diferença.",
+        "english": "Perhaps half an hour would make all the difference."
+      }
+    ],
+    "tags": ["rescheduling", "time", "negotiation"]
+  },
+  {
+    "id": "11-tds-b1b2-010",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I only realised this morning that we had crossed our schedules.",
+    "portuguese": "Só esta manhã é que percebi que tínhamos cruzado os horários.",
+    "pronunciationNote": "soh ESH-tah mah-NYAH eh k pair-seh-BEE",
+    "grammarFocus": "late realisation in past",
+    "notes": "Useful for apologetic scheduling updates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Peço desculpa pela confusão.",
+        "english": "I apologise for the confusion."
+      }
+    ],
+    "tags": ["mistakes", "schedules", "apologies"]
+  },
+  {
+    "id": "11-tds-b1b2-011",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would next Wednesday be too short notice for you?",
+    "portuguese": "A próxima quarta-feira seria demasiado em cima da hora para si?",
+    "pronunciationNote": "ah PROH-see-mah KWAR-tah FAY-rah seh-REE-ah deh-mah-zee-AH-doo",
+    "grammarFocus": "asking about notice",
+    "notes": "Useful for arranging meetings politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se preferir, podemos marcar para mais tarde.",
+        "english": "If you prefer, we can schedule it for later."
+      }
+    ],
+    "tags": ["notice", "planning", "politeness"]
+  },
+  {
+    "id": "11-tds-b1b2-012",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to work better early in the day than late in the evening.",
+    "portuguese": "Costumo funcionar melhor no início do dia do que tarde à noite.",
+    "pronunciationNote": "koosh-TOO-moo foon-see-oh-NAR meh-LYOR noo ee-NEE-see-oo doo DEE-ah",
+    "grammarFocus": "preference about timing",
+    "notes": "Useful for explaining a time preference.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se pudermos, prefiro tratar disso de manhã.",
+        "english": "If we can, I prefer to deal with that in the morning."
+      }
+    ],
+    "tags": ["preferences", "routine", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-013",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At this stage, it makes more sense to confirm the week first and the exact time later.",
+    "portuguese": "Nesta fase, faz mais sentido confirmar primeiro a semana e depois a hora exata.",
+    "pronunciationNote": "NESH-tah FAH-z faz mysh sen-TEE-doo kohn-feer-MAR prah-MAY-roo",
+    "grammarFocus": "sequencing a decision",
+    "notes": "Useful for uncertain planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim ficamos com alguma margem.",
+        "english": "That way we keep some room to adjust."
+      }
+    ],
+    "tags": ["planning", "uncertainty", "organisation"]
+  },
+  {
+    "id": "11-tds-b1b2-014",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have something else immediately afterwards, so I would need us to finish on time.",
+    "portuguese": "Tenho outro compromisso logo a seguir, por isso precisava que terminássemos a horas.",
+    "pronunciationNote": "TEN-yoo OH-troo kohm-proh-MEE-soo LOH-goo ah seh-GHEER",
+    "grammarFocus": "explaining a time constraint",
+    "notes": "Useful when setting a limit politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não me importo de começar mais cedo por causa disso.",
+        "english": "I do not mind starting earlier because of that."
+      }
+    ],
+    "tags": ["constraints", "time", "meetings"]
+  },
+  {
+    "id": "11-tds-b1b2-015",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying not to overbook the first half of the week.",
+    "portuguese": "Estou a tentar não sobrecarregar a primeira metade da semana.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nawng soh-breh-kahr-REH-gar ah prai-MAY-rah",
+    "grammarFocus": "expressing workload management",
+    "notes": "Useful for setting boundaries.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for possível, preferia deixar isso para quinta ou sexta.",
+        "english": "If possible, I would rather leave that for Thursday or Friday."
+      }
+    ],
+    "tags": ["boundaries", "workload", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-016",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you prefer something fixed in the diary, or shall we stay flexible for now?",
+    "portuguese": "Prefere deixar já algo marcado na agenda, ou ficamos flexíveis por agora?",
+    "pronunciationNote": "preh-FEH-r deh-SHAR zhah AL-goo mar-KAH-doo nah ah-ZHEN-dah",
+    "grammarFocus": "offering scheduling options",
+    "notes": "Useful for collaborative planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso adaptar-me às duas formas.",
+        "english": "I can adapt to either way."
+      }
+    ],
+    "tags": ["options", "planning", "meetings"]
+  },
+  {
+    "id": "11-tds-b1b2-017",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That date would suit me much better than the one we discussed before.",
+    "portuguese": "Essa data dar-me-ia muito mais jeito do que a que tínhamos falado antes.",
+    "pronunciationNote": "EH-sah DAH-tah dar-m ih-AH MWEEN-too mysh ZHAY-too",
+    "grammarFocus": "comparing options politely",
+    "notes": "Useful when choosing between dates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nessa altura estarei muito mais disponível.",
+        "english": "At that point I will be much more available."
+      }
+    ],
+    "tags": ["comparison", "planning", "dates"]
+  },
+  {
+    "id": "11-tds-b1b2-018",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if we pencilled something in and confirmed it properly closer to the day?",
+    "portuguese": "Ajudava se deixássemos algo provisório e confirmássemos tudo melhor mais perto do dia?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s deh-SHAH-seh-moosh AL-goo proh-vee-ZOH-ree-oo",
+    "grammarFocus": "tentative arrangement",
+    "notes": "Useful when details are still uncertain.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim ninguém fica preso a uma hora definitiva já.",
+        "english": "That way nobody gets locked into a final time yet."
+      }
+    ],
+    "tags": ["tentative", "planning", "flexibility"]
+  },
+  {
+    "id": "11-tds-b1b2-019",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had imagined this would take less time, so I may need to move the rest of the afternoon around.",
+    "portuguese": "Tinha imaginado que isto demorasse menos, por isso talvez tenha de reorganizar o resto da tarde.",
+    "pronunciationNote": "TEEN-yah ee-mah-zhee-NAH-doo k EESH-too deh-moh-RAH-s",
+    "grammarFocus": "explaining a schedule change",
+    "notes": "Useful when plans overrun.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aviso assim que perceber melhor como fica.",
+        "english": "I will let you know as soon as I understand better how it ends up."
+      }
+    ],
+    "tags": ["changes", "delays", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-020",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we leave by half past six, we should still have enough time.",
+    "portuguese": "Se sairmos por volta das seis e meia, ainda devemos ter tempo suficiente.",
+    "pronunciationNote": "s sah-EER-moosh poor VOL-tah dahzh saysh ee MAY-ah",
+    "grammarFocus": "time condition + estimate",
+    "notes": "Useful for coordination while travelling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais tarde do que isso já começa a ficar apertado.",
+        "english": "Later than that it starts becoming tight."
+      }
+    ],
+    "tags": ["coordination", "travel", "timing"]
+  },
+  {
+    "id": "11-tds-b1b2-021",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we leave ourselves a bit of margin in case things run over?",
+    "portuguese": "Podemos deixar alguma margem para o caso de isto se prolongar?",
+    "pronunciationNote": "poh-DEH-moosh deh-SHAR al-GOO-mah MAR-zheng",
+    "grammarFocus": "planning with contingency",
+    "notes": "Useful for cautious scheduling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro não marcar tudo demasiado em cima.",
+        "english": "I prefer not to schedule everything too tightly."
+      }
+    ],
+    "tags": ["contingency", "planning", "time-management"]
+  },
+  {
+    "id": "11-tds-b1b2-022",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to keep that week relatively open because a few things are still up in the air.",
+    "portuguese": "Estou a tentar manter essa semana relativamente aberta porque ainda há algumas coisas em aberto.",
+    "pronunciationNote": "esh-TOH ah ten-TAR mahn-TAIR EH-sah seh-MAH-nah reh-lah-tee-vah-MEN-t ah-BEHR-tah",
+    "grammarFocus": "explaining uncertainty",
+    "notes": "Useful when availability is provisional.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tiver mais certezas, digo-lhe.",
+        "english": "When I know more for certain, I will let you know."
+      }
+    ],
+    "tags": ["uncertainty", "availability", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-023",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I should be able to confirm that properly once I have checked the rest of my calendar.",
+    "portuguese": "Devo conseguir confirmar isso em condições quando verificar o resto da agenda.",
+    "pronunciationNote": "DEH-voo kohn-seh-GHEER kohn-feer-MAR EE-soo eng kohn-dee-SOYN-sh",
+    "grammarFocus": "delayed confirmation",
+    "notes": "Useful for careful scheduling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria comprometer-me sem ter a certeza.",
+        "english": "I did not want to commit without being sure."
+      }
+    ],
+    "tags": ["confirmation", "calendar", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-024",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind if we shortened it slightly and focused only on the main points?",
+    "portuguese": "Importa-se que encurtemos isso um pouco e nos foquemos só nos pontos principais?",
+    "pronunciationNote": "eem-POR-tah-s k eng-koor-TAY-moosh EE-soo oom POH-koo",
+    "grammarFocus": "negotiating meeting length",
+    "notes": "Useful for time pressure.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho mesmo pouco tempo nesse dia.",
+        "english": "I really have very little time that day."
+      }
+    ],
+    "tags": ["meetings", "time-management", "negotiation"]
+  },
+  {
+    "id": "11-tds-b1b2-025",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather settle on a realistic time than aim too early and end up rushing.",
+    "portuguese": "Preferia combinar uma hora realista do que marcar demasiado cedo e depois andar a correr.",
+    "pronunciationNote": "preh-feh-REE-ah kohn-bee-NAR OO-mah OR-ah heh-ah-LEESH-tah",
+    "grammarFocus": "preference + consequence",
+    "notes": "Natural time-planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim chegamos com outra calma.",
+        "english": "That way we arrive much more calmly."
+      }
+    ],
+    "tags": ["preferences", "time-management", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-026",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The timing itself is not a problem; it is more the day that makes it difficult.",
+    "portuguese": "A hora em si não é o problema; é mais o dia que torna isso difícil.",
+    "pronunciationNote": "ah OR-ah eng see nawng eh oo proh-BLAY-mah",
+    "grammarFocus": "clarifying a constraint",
+    "notes": "Useful when narrowing down the issue.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se mudarmos para outro dia, deve resultar.",
+        "english": "If we move it to another day, it should work."
+      }
+    ],
+    "tags": ["constraints", "clarifying", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-027",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know it is last minute, but would there be any chance of moving it to next Tuesday?",
+    "portuguese": "Sei que é em cima da hora, mas haveria alguma hipótese de passar isso para a próxima terça-feira?",
+    "pronunciationNote": "SAY k eh eng SEE-mah dah OR-ah",
+    "grammarFocus": "last-minute rescheduling request",
+    "notes": "Useful when plans change unexpectedly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Compreendo perfeitamente se já não for possível.",
+        "english": "I understand perfectly if it is no longer possible."
+      }
+    ],
+    "tags": ["last-minute", "rescheduling", "politeness"]
+  },
+  {
+    "id": "11-tds-b1b2-028",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "For me, mornings are easier for focused work and afternoons are better for meetings.",
+    "portuguese": "Para mim, as manhãs são mais fáceis para trabalho concentrado e as tardes são melhores para reuniões.",
+    "pronunciationNote": "PAH-rah meeng az mah-NYAHN-sh sawn mysh FAH-seysh",
+    "grammarFocus": "comparing time slots",
+    "notes": "Useful when explaining your schedule style.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depende um pouco do tipo de tarefa.",
+        "english": "It depends a bit on the kind of task."
+      }
+    ],
+    "tags": ["preferences", "work", "time-slots"]
+  },
+  {
+    "id": "11-tds-b1b2-029",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you send me two or three possible times, I can tell you quickly which one fits best.",
+    "portuguese": "Se me enviar duas ou três horas possíveis, digo-lhe rapidamente qual é que encaixa melhor.",
+    "pronunciationNote": "s m eng-vee-AR DOO-azh oo traysh OR-ash poh-SEE-veysh",
+    "grammarFocus": "asking for options",
+    "notes": "Useful for reducing back-and-forth.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim resolvemos isso mais depressa.",
+        "english": "That way we settle it more quickly."
+      }
+    ],
+    "tags": ["options", "planning", "efficiency"]
+  },
+  {
+    "id": "11-tds-b1b2-030",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "By then I should have a much clearer idea of what the week looks like.",
+    "portuguese": "Até lá já devo ter uma ideia muito mais clara de como vai ser a semana.",
+    "pronunciationNote": "ah-TEH lah zhah DEH-voo tair OO-mah ee-DAY-ah",
+    "grammarFocus": "future clarity statement",
+    "notes": "Useful when postponing a decision.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento ainda está tudo a mexer.",
+        "english": "At the moment everything is still moving around."
+      }
+    ],
+    "tags": ["future", "uncertainty", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-031",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think we underestimated how long this part would take.",
+    "portuguese": "Acho que subestimámos o tempo que esta parte ia demorar.",
+    "pronunciationNote": "AH-shoo k soo-besh-tee-MAH-moosh oo TEM-poo",
+    "grammarFocus": "reflecting on timing",
+    "notes": "Useful for project and meeting discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Da próxima vez convém deixarmos mais margem.",
+        "english": "Next time it would be better to leave more room."
+      }
+    ],
+    "tags": ["duration", "projects", "reflection"]
+  },
+  {
+    "id": "11-tds-b1b2-032",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That deadline is manageable, but I would need a bit of notice if anything changes.",
+    "portuguese": "Esse prazo é gerível, mas precisava de algum aviso se alguma coisa mudasse.",
+    "pronunciationNote": "EH-s prazoo eh zheh-REE-vel",
+    "grammarFocus": "responding to a deadline",
+    "notes": "Useful for work and admin contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, arrisco-me a falhar outros compromissos.",
+        "english": "Otherwise, I risk missing other commitments."
+      }
+    ],
+    "tags": ["deadlines", "work", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-033",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would the beginning of the month be better, or are you aiming for something sooner?",
+    "portuguese": "O início do mês seria melhor, ou está a pensar em algo mais cedo?",
+    "pronunciationNote": "oo ee-NEE-see-oo doo mesh seh-REE-ah meh-LYOR",
+    "grammarFocus": "comparing broader time frames",
+    "notes": "Useful for arranging future plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso tentar adaptar-me aos dois cenários.",
+        "english": "I can try to adapt to either scenario."
+      }
+    ],
+    "tags": ["months", "planning", "options"]
+  },
+  {
+    "id": "11-tds-b1b2-034",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather spread things out over two days than try to force everything into one.",
+    "portuguese": "Preferia distribuir isso por dois dias em vez de tentar encaixar tudo num só.",
+    "pronunciationNote": "preh-feh-REE-ah deesh-tree-boo-EER EE-soo poor doyz DEE-ash",
+    "grammarFocus": "time management preference",
+    "notes": "Useful when planning workload.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que assim o resultado seria melhor.",
+        "english": "I think the result would be better that way."
+      }
+    ],
+    "tags": ["workload", "planning", "preferences"]
+  },
+  {
+    "id": "11-tds-b1b2-035",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That should give us enough time to prepare properly without having to rush.",
+    "portuguese": "Isso deve dar-nos tempo suficiente para preparar tudo em condições sem termos de correr.",
+    "pronunciationNote": "EE-soo DEH-v dar-noosh TEM-poo soo-fee-SHYEN-t",
+    "grammarFocus": "expressing enough time",
+    "notes": "Useful when choosing a realistic date.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro fazer as coisas com alguma calma.",
+        "english": "I prefer to do things with a bit of calm."
+      }
+    ],
+    "tags": ["preparation", "time-management", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-036",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been meaning to reply for days, but the week got away from me.",
+    "portuguese": "Ando há dias para responder, mas a semana fugiu-me das mãos.",
+    "pronunciationNote": "AHN-doo ah DEE-ash pah-rah resh-pon-DER",
+    "grammarFocus": "explaining delay in communication",
+    "notes": "Natural apologetic phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Peço desculpa por só dizer isto agora.",
+        "english": "I apologise for only saying this now."
+      }
+    ],
+    "tags": ["delay", "communication", "apology"]
+  },
+  {
+    "id": "11-tds-b1b2-037",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier to plan this month by month rather than trying to decide everything now?",
+    "portuguese": "Seria mais fácil planear isto mês a mês em vez de tentarmos decidir tudo agora?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel plah-neh-AR EESH-too mesh ah mesh",
+    "grammarFocus": "suggesting a planning method",
+    "notes": "Useful for longer-term coordination.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece-me uma forma mais realista de organizar isto.",
+        "english": "It seems to me a more realistic way to organise this."
+      }
+    ],
+    "tags": ["long-term", "planning", "organisation"]
+  },
+  {
+    "id": "11-tds-b1b2-038",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I should arrive just on time, unless the traffic is worse than usual.",
+    "portuguese": "Devo chegar mesmo em cima da hora, a não ser que o trânsito esteja pior do que o costume.",
+    "pronunciationNote": "DEH-voo sheh-GAR MEZH-moo eng SEE-mah dah OR-ah",
+    "grammarFocus": "arrival estimate with condition",
+    "notes": "Useful when travelling to an appointment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se vir que me atraso mais, aviso logo.",
+        "english": "If I see that I am getting even later, I will let you know straight away."
+      }
+    ],
+    "tags": ["travel", "arrival", "delays"]
+  },
+  {
+    "id": "11-tds-b1b2-039",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "For now, I would rather leave that afternoon free in case something urgent comes up.",
+    "portuguese": "Por agora, preferia deixar essa tarde livre para o caso de surgir alguma urgência.",
+    "pronunciationNote": "poor ah-GOH-rah preh-feh-REE-ah deh-SHAR EH-sah TAR-d LEE-vr",
+    "grammarFocus": "keeping time free as a precaution",
+    "notes": "Useful for protecting your schedule.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois, se tudo correr bem, posso preencher esse espaço.",
+        "english": "Later, if all goes well, I can fill that slot."
+      }
+    ],
+    "tags": ["boundaries", "planning", "precaution"]
+  },
+  {
+    "id": "11-tds-b1b2-040",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more realistic about how long things actually take me.",
+    "portuguese": "Estou a tentar ser mais realista em relação ao tempo que as coisas me levam de facto.",
+    "pronunciationNote": "esh-TOH ah ten-TAR sair mysh heh-ah-LEESH-tah eng reh-lah-SAWN",
+    "grammarFocus": "reflecting on time management",
+    "notes": "Useful self-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes costumava subestimar tudo.",
+        "english": "Before, I used to underestimate everything."
+      }
+    ],
+    "tags": ["time-management", "reflection", "work"]
+  },
+  {
+    "id": "11-tds-b1b2-041",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It would help me if we could keep a bit of structure, even if the exact times stay flexible.",
+    "portuguese": "Ajudava-me se conseguíssemos manter alguma estrutura, mesmo que as horas exatas ficassem flexíveis.",
+    "pronunciationNote": "ah-zhoo-DAH-vah-m s kohn-seh-ghee-SEH-moosh mahn-TAIR al-GOO-mah eesh-troo-TOO-rah",
+    "grammarFocus": "balancing structure and flexibility",
+    "notes": "Useful for collaborative planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim sinto que sei com o que contar.",
+        "english": "That way I feel I know what to expect."
+      }
+    ],
+    "tags": ["structure", "planning", "flexibility"]
+  },
+  {
+    "id": "11-tds-b1b2-042",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you be able to send me the final timing once everything is confirmed?",
+    "portuguese": "Consegue enviar-me o horário final quando tudo estiver confirmado?",
+    "pronunciationNote": "kohn-SEH-g eng-vee-AR-m oo oh-RAH-ree-oo fee-NAL",
+    "grammarFocus": "asking for final confirmation",
+    "notes": "Useful for events and appointments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro não assumir nada antes disso.",
+        "english": "I prefer not to assume anything before that."
+      }
+    ],
+    "tags": ["confirmation", "events", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-043",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had blocked off that time for something else, but I might be able to move it around.",
+    "portuguese": "Tinha reservado essa hora para outra coisa, mas talvez consiga mexer nisso.",
+    "pronunciationNote": "TEEN-yah reh-zair-VAH-doo EH-sah OR-ah PAH-rah OH-trah KOH-zah",
+    "grammarFocus": "explaining a conflict",
+    "notes": "Useful when negotiating a time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho só de ver até que ponto é viável.",
+        "english": "I just need to see how far that is workable."
+      }
+    ],
+    "tags": ["conflicts", "planning", "negotiation"]
+  },
+  {
+    "id": "11-tds-b1b2-044",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I expect the first part to be quick, but the second may take longer than planned.",
+    "portuguese": "Espero que a primeira parte seja rápida, mas a segunda pode demorar mais do que o previsto.",
+    "pronunciationNote": "esh-PEH-roo k ah prai-MAY-rah PAR-t seh-zhah HAH-pee-dah",
+    "grammarFocus": "estimating duration by stages",
+    "notes": "Useful for explaining timing realistically.",
+    "exampleSentences": [
+      {
+        "portuguese": "Convém não marcar nada logo a seguir.",
+        "english": "It is better not to schedule anything immediately afterwards."
+      }
+    ],
+    "tags": ["duration", "estimates", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-045",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we wait until the last minute, we will probably end up with fewer good options.",
+    "portuguese": "Se deixarmos isto para a última hora, provavelmente acabamos com menos opções boas.",
+    "pronunciationNote": "s day-SHAR-moosh EESH-too PAH-rah ah OOL-tee-mah OR-ah",
+    "grammarFocus": "warning about delay",
+    "notes": "Useful in planning discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso prefiro começar a tratar disto já.",
+        "english": "That is why I prefer to start dealing with this now."
+      }
+    ],
+    "tags": ["planning", "warnings", "options"]
+  },
+  {
+    "id": "11-tds-b1b2-046",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am sorry for changing this again, but the timing really is out of my hands.",
+    "portuguese": "Peço desculpa por voltar a mudar isto, mas o horário está mesmo fora do meu controlo.",
+    "pronunciationNote": "PESS-oo desh-KOOL-pah poor vohl-TAR ah moo-DAR EESH-too",
+    "grammarFocus": "apologising for repeated changes",
+    "notes": "Useful when plans depend on other people.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim que tiver uma resposta definitiva, digo-lhe.",
+        "english": "As soon as I have a final answer, I will tell you."
+      }
+    ],
+    "tags": ["apology", "changes", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-047",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would two shorter meetings work better than trying to fit everything into one long one?",
+    "portuguese": "Funcionariam melhor duas reuniões mais curtas do que tentar pôr tudo numa só?",
+    "pronunciationNote": "foon-see-oh-nah-REE-ang meh-LYOR DOO-azh reh-oo-nee-OYN-sh",
+    "grammarFocus": "reframing the schedule",
+    "notes": "Useful for practical planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim fosse mais fácil para toda a gente.",
+        "english": "Perhaps that would be easier for everyone."
+      }
+    ],
+    "tags": ["meetings", "planning", "alternatives"]
+  },
+  {
+    "id": "11-tds-b1b2-048",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Once we know the exact day, the rest should fall into place much more easily.",
+    "portuguese": "Quando soubermos o dia exato, o resto deve encaixar muito mais facilmente.",
+    "pronunciationNote": "KWAN-doo soh-BER-moosh oo DEE-ah eh-ZAH-too",
+    "grammarFocus": "sequencing certainty",
+    "notes": "Useful when one decision unlocks the rest.",
+    "exampleSentences": [
+      {
+        "portuguese": "O principal é fechar esse ponto primeiro.",
+        "english": "The main thing is to settle that point first."
+      }
+    ],
+    "tags": ["planning", "certainty", "organisation"]
+  },
+  {
+    "id": "11-tds-b1b2-049",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to keep a little room in the schedule for things that may come up unexpectedly.",
+    "portuguese": "Preciso de deixar algum espaço no horário para coisas que possam surgir sem aviso.",
+    "pronunciationNote": "preh-SEE-zoo d deh-SHAR al-GOOMSH ESPA-soo noo oh-RAH-ree-oo",
+    "grammarFocus": "planning for the unexpected",
+    "notes": "Useful for realistic scheduling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, fico logo sem margem nenhuma.",
+        "english": "Otherwise I immediately end up with no room at all."
+      }
+    ],
+    "tags": ["time-management", "contingency", "planning"]
+  },
+  {
+    "id": "11-tds-b1b2-050",
+    "subject": "Time, Dates & Scheduling",
+    "subjectId": "time-dates-scheduling",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that helps me get a much clearer picture of the timing.",
+    "portuguese": "Obrigado, isso ajuda-me a ter uma ideia muito mais clara do calendário e dos horários.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo ah-ZHOO-dah-m ah tair OO-mah ee-DAY-ah",
+    "grammarFocus": "closing after planning",
+    "notes": "Useful summary phrase after scheduling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora já sei melhor como me organizar.",
+        "english": "Now I know much better how to organise myself."
+      }
+    ],
+    "tags": ["closing", "planning", "clarity"]
+  }
+]

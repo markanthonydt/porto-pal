@@ -1,0 +1,952 @@
+[
+  {
+    "id": "11-ect-b1b2-001",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I follow the general idea, but I am missing some of the detail.",
+    "portuguese": "Estou a acompanhar a ideia geral, mas estou a perder alguns detalhes.",
+    "pronunciationNote": "esh-TOH ah ah-kohn-pah-NYAR ah ee-DAY-ah zheh-RAL",
+    "grammarFocus": "soft clarification",
+    "notes": "Useful when you partly understand.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se puder, explique essa parte outra vez.",
+        "english": "If you can, explain that part again."
+      }
+    ],
+    "tags": ["clarification", "softening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-002",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I understand what you mean, but I am not completely sure.",
+    "portuguese": "Acho que percebo o que quer dizer, mas não tenho a certeza absoluta.",
+    "pronunciationNote": "AH-shoo k pair-SEH-boo oo k kair dee-ZER",
+    "grammarFocus": "hedging understanding",
+    "notes": "Natural way to check without sounding abrupt.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode só confirmar se percebi bem?",
+        "english": "Can you just confirm whether I understood correctly?"
+      }
+    ],
+    "tags": ["clarification", "hedging", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-003",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you say that in a simpler way?",
+    "portuguese": "Podia dizer isso de uma forma mais simples?",
+    "pronunciationNote": "POH-dee-ah dee-ZER EE-soo d OO-mah FOR-mah mysh SEEM-plesh",
+    "grammarFocus": "polite simplification request",
+    "notes": "Useful when vocabulary is too advanced.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a perceber melhor assim.",
+        "english": "I understand better that way."
+      }
+    ],
+    "tags": ["clarification", "simplifying", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-004",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind giving me an example of what you mean?",
+    "portuguese": "Importa-se de me dar um exemplo do que quer dizer?",
+    "pronunciationNote": "eem-POR-tah-s d m dar oom eh-ZEM-ploo doo k kair dee-ZER",
+    "grammarFocus": "polite clarification request",
+    "notes": "Good for abstract topics.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com um exemplo consigo seguir melhor.",
+        "english": "With an example I can follow better."
+      }
+    ],
+    "tags": ["examples", "politeness", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-005",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Just to make sure I have understood, you mean that...?",
+    "portuguese": "Só para ter a certeza de que percebi, quer dizer que...?",
+    "pronunciationNote": "soh PAH-rah tair ah sair-TEH-zah d k pair-seh-BEE",
+    "grammarFocus": "rephrasing to confirm",
+    "notes": "Useful for checking understanding actively.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só para ter a certeza de que percebi, quer dizer que é para amanhã?",
+        "english": "Just to make sure I have understood, you mean it is for tomorrow?"
+      }
+    ],
+    "tags": ["checking", "rephrasing", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-006",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may not be explaining myself very well.",
+    "portuguese": "Se calhar não me estou a explicar muito bem.",
+    "pronunciationNote": "s kahl-YAR nawng m esh-TOH ah esh-plee-KAR MWEEN-too bayng",
+    "grammarFocus": "softening your own speech",
+    "notes": "Useful when you need to restart.",
+    "exampleSentences": [
+      {
+        "portuguese": "Deixe-me tentar dizer isto de outra maneira.",
+        "english": "Let me try to say this another way."
+      }
+    ],
+    "tags": ["softening", "self-correction", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-007",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is not quite what I meant.",
+    "portuguese": "Não foi bem isso que eu quis dizer.",
+    "pronunciationNote": "nawng foy bayng EE-soo k eu keesh dee-ZER",
+    "grammarFocus": "correcting politely",
+    "notes": "Useful when someone misunderstands you.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que eu queria dizer era outra coisa.",
+        "english": "What I wanted to say was something else."
+      }
+    ],
+    "tags": ["correction", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-008",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I am trying to say is that I need a little more time.",
+    "portuguese": "O que estou a tentar dizer é que preciso de um pouco mais de tempo.",
+    "pronunciationNote": "oo k esh-TOH ah ten-TAR dee-ZER eh k preh-SEE-zoo d oom POH-koo mysh d TEM-poo",
+    "grammarFocus": "reframing your point",
+    "notes": "Useful when your first attempt was unclear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não é falta de interesse, é mesmo uma questão de tempo.",
+        "english": "It is not lack of interest, it is really a question of time."
+      }
+    ],
+    "tags": ["reframing", "clarity", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-009",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not sure that is the right word, but you know what I mean.",
+    "portuguese": "Não tenho a certeza de que seja a palavra certa, mas percebe o que quero dizer.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah d k SAY-zhah ah pah-LAH-vrah SAIR-tah",
+    "grammarFocus": "hedging vocabulary choice",
+    "notes": "Useful when speaking around missing vocabulary.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a tentar aproximar-me da ideia certa.",
+        "english": "I am trying to get close to the right idea."
+      }
+    ],
+    "tags": ["hedging", "vocabulary", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-010",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Give me a second, I have the word on the tip of my tongue.",
+    "portuguese": "Dê-me um segundo, tenho a palavra na ponta da língua.",
+    "pronunciationNote": "DEH-m oom seh-GOON-doo TEN-yoo ah pah-LAH-vrah nah PON-tah dah LEEN-gwah",
+    "grammarFocus": "buying time naturally",
+    "notes": "Useful filler when searching for words.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já me vai sair, espere só um pouco.",
+        "english": "It is about to come out, just wait a moment."
+      }
+    ],
+    "tags": ["fillers", "vocabulary", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-011",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "How would you normally say that in everyday Portuguese?",
+    "portuguese": "Como é que normalmente se diz isso no dia a dia em português?",
+    "pronunciationNote": "KOH-moo eh k nor-mal-MEN-t s deezh EE-soo noo DEE-ah ah DEE-ah",
+    "grammarFocus": "asking for natural phrasing",
+    "notes": "Very useful for moving beyond textbook language.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero aprender a forma mais natural.",
+        "english": "I want to learn the most natural version."
+      }
+    ],
+    "tags": ["naturalness", "learning", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-012",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it sound strange if I said it that way?",
+    "portuguese": "Soaria estranho se eu dissesse isso dessa maneira?",
+    "pronunciationNote": "soh-ah-REE-ah esh-TRAN-yoo s eu dee-SEH-s EE-soo DEH-sah mah-NAY-rah",
+    "grammarFocus": "asking about naturalness",
+    "notes": "Useful for refining how you speak.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber se soa muito traduzido.",
+        "english": "I want to understand whether it sounds too translated."
+      }
+    ],
+    "tags": ["naturalness", "questions", "learning"]
+  },
+  {
+    "id": "11-ect-b1b2-013",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know the word, I just cannot bring it to mind right now.",
+    "portuguese": "Eu conheço a palavra, só não me está a vir agora à cabeça.",
+    "pronunciationNote": "eu koh-NYEH-soo ah pah-LAH-vrah soh nawng m esh-TAH ah veer ah-GOH-rah ah KAH-beh-sah",
+    "grammarFocus": "explaining retrieval problems",
+    "notes": "Natural conversational filler.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se esperar um segundo, já me lembro.",
+        "english": "If you wait a second, I will remember."
+      }
+    ],
+    "tags": ["fillers", "memory", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-014",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may be misunderstanding, so correct me if I have got the wrong idea.",
+    "portuguese": "Posso estar a perceber mal, por isso corrija-me se eu estiver com a ideia errada.",
+    "pronunciationNote": "POS-soo esh-TAR ah pair-seh-BER mahl poor EE-soo koh-REE-zhah-m",
+    "grammarFocus": "inviting correction",
+    "notes": "Useful for humble clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro confirmar do que assumir.",
+        "english": "I prefer to check rather than assume."
+      }
+    ],
+    "tags": ["correction", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-015",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Can I just check that I have the details right?",
+    "portuguese": "Posso só confirmar se tenho os detalhes certos?",
+    "pronunciationNote": "POS-soo soh kohn-feer-MAR s TEN-yoo oozh deh-TA-lyesh SAIR-toosh",
+    "grammarFocus": "checking details",
+    "notes": "Useful in practical conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria enganar-me em nada importante.",
+        "english": "I did not want to get anything important wrong."
+      }
+    ],
+    "tags": ["checking", "details", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-016",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is not really the point I was trying to make.",
+    "portuguese": "Não era bem esse o ponto que eu estava a tentar fazer.",
+    "pronunciationNote": "nawng EH-rah bayng EH-s oo PON-too k eu esh-TAH-vah ah ten-TAR fah-ZER",
+    "grammarFocus": "redirecting the conversation",
+    "notes": "Useful for steering back to your point.",
+    "exampleSentences": [
+      {
+        "portuguese": "A questão era mais outra.",
+        "english": "The issue was something else."
+      }
+    ],
+    "tags": ["redirecting", "clarity", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-017",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I mean is slightly different from that.",
+    "portuguese": "O que eu quero dizer é um pouco diferente disso.",
+    "pronunciationNote": "oo k eu KEH-roo dee-ZER eh oom POH-koo dee-feh-REN-t DEE-soo",
+    "grammarFocus": "gentle correction",
+    "notes": "Useful for refining meaning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Está perto, mas não é exatamente isso.",
+        "english": "It is close, but it is not exactly that."
+      }
+    ],
+    "tags": ["correction", "clarity", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-018",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I see what you mean, although I am not sure I completely agree.",
+    "portuguese": "Percebo o que quer dizer, embora não tenha a certeza de concordar totalmente.",
+    "pronunciationNote": "pair-SEH-boo oo k kair dee-ZER ohn-BOR-ah nawng TEN-yah ah sair-TEH-zah",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful for disagreeing politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez eu veja isso de outra forma.",
+        "english": "Maybe I see it another way."
+      }
+    ],
+    "tags": ["disagreement", "politeness", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-019",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is an interesting way of putting it.",
+    "portuguese": "É uma forma interessante de pôr isso.",
+    "pronunciationNote": "eh OO-mah FOR-mah een-teh-reh-SAHN-t d por EE-soo",
+    "grammarFocus": "reacting thoughtfully",
+    "notes": "Useful neutral reaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nunca tinha pensado nisso dessa forma.",
+        "english": "I had never thought about it that way."
+      }
+    ],
+    "tags": ["reactions", "thoughtful", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-020",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I am being honest, I had understood it slightly differently.",
+    "portuguese": "Se for sincero, eu tinha entendido isso de forma um pouco diferente.",
+    "pronunciationNote": "s for seen-SEH-roo eu TEEN-yah en-ten-DEE-doo EE-soo",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful in careful discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mas posso estar enganado.",
+        "english": "But I may be mistaken."
+      }
+    ],
+    "tags": ["disagreement", "hedging", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-021",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need a moment to think about how to say this properly.",
+    "portuguese": "Preciso de um momento para pensar em como dizer isto em condições.",
+    "pronunciationNote": "preh-SEE-zoo d oom moh-MEN-too PAH-rah pen-SAR eng KOH-moo dee-ZER EESH-too",
+    "grammarFocus": "buying time",
+    "notes": "Useful before saying something sensitive.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria dizê-lo de forma brusca.",
+        "english": "I did not want to say it too bluntly."
+      }
+    ],
+    "tags": ["fillers", "sensitivity", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-022",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Let me put that another way.",
+    "portuguese": "Deixe-me pôr isso de outra maneira.",
+    "pronunciationNote": "DAY-sh-m por EE-soo d OH-trah mah-NAY-rah",
+    "grammarFocus": "rephrasing",
+    "notes": "Very useful high-frequency phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim fique mais claro.",
+        "english": "Perhaps this way it will be clearer."
+      }
+    ],
+    "tags": ["rephrasing", "clarity", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-023",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not expressing myself very clearly today.",
+    "portuguese": "Hoje não me estou a exprimir com muita clareza.",
+    "pronunciationNote": "OH-zhe nawng m esh-TOH ah esh-pree-MEER kohm MWEEN-tah klah-REH-zah",
+    "grammarFocus": "self-awareness in speaking",
+    "notes": "Softens a difficult conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez precise de reorganizar a ideia.",
+        "english": "Maybe I need to reorganise the idea."
+      }
+    ],
+    "tags": ["softening", "self-correction", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-024",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you remind me what you said just before that?",
+    "portuguese": "Pode lembrar-me do que disse mesmo antes disso?",
+    "pronunciationNote": "POH-d lemb-RAR-m doo k DEE-s MEZH-moo AHN-tesh DEE-soo",
+    "grammarFocus": "asking to go back",
+    "notes": "Useful when you lose the thread.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que me perdi a meio.",
+        "english": "I think I lost track halfway through."
+      }
+    ],
+    "tags": ["clarification", "memory", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-025",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to interrupt, but can I just ask something quickly?",
+    "portuguese": "Não quero interromper, mas posso só perguntar uma coisa rapidamente?",
+    "pronunciationNote": "nawng KEH-roo een-teh-rong-PAIR",
+    "grammarFocus": "polite interruption",
+    "notes": "Useful for entering a conversation smoothly.",
+    "exampleSentences": [
+      {
+        "portuguese": "É só para confirmar um detalhe.",
+        "english": "It is just to confirm one detail."
+      }
+    ],
+    "tags": ["interrupting", "politeness", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-026",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Can I finish what I was saying?",
+    "portuguese": "Posso acabar o que estava a dizer?",
+    "pronunciationNote": "POS-soo ah-kah-BAR oo k esh-TAH-vah ah dee-ZER",
+    "grammarFocus": "holding the floor",
+    "notes": "Useful but still polite.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois respondo a essa parte.",
+        "english": "After that I will answer that part."
+      }
+    ],
+    "tags": ["floor-management", "assertive", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-027",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is not the main issue for me; the bigger problem is something else.",
+    "portuguese": "Esse não é o ponto principal para mim; o maior problema é outro.",
+    "pronunciationNote": "EH-s nawng eh oo PON-too preen-see-PAL PAH-rah meeng",
+    "grammarFocus": "redirecting focus",
+    "notes": "Useful in more serious conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só recentrar a conversa nisso.",
+        "english": "I just wanted to bring the conversation back to that."
+      }
+    ],
+    "tags": ["redirecting", "focus", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-028",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not completely following the connection between those two ideas.",
+    "portuguese": "Não estou a acompanhar totalmente a ligação entre essas duas ideias.",
+    "pronunciationNote": "nawng esh-TOH ah ah-kohn-pah-NYAR toh-tahl-MEN-t ah lee-gah-SAWN",
+    "grammarFocus": "clarifying logic",
+    "notes": "Useful in abstract conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode explicar como uma coisa leva à outra?",
+        "english": "Can you explain how one thing leads to the other?"
+      }
+    ],
+    "tags": ["logic", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-029",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do not let me stop you if I am taking too long to explain.",
+    "portuguese": "Não hesite em interromper-me se eu estiver a demorar demasiado a explicar.",
+    "pronunciationNote": "nawng eh-ZEE-t eng een-teh-rong-PAIR-m",
+    "grammarFocus": "inviting interruption",
+    "notes": "Useful in collaborative discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes dou demasiadas voltas.",
+        "english": "Sometimes I go around in circles too much."
+      }
+    ],
+    "tags": ["self-awareness", "interrupting", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-030",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to sound rude, but I see it a bit differently.",
+    "portuguese": "Não quero soar rude, mas vejo isso de forma um pouco diferente.",
+    "pronunciationNote": "nawng KEH-roo soh-AR ROO-d mas VAY-zhoo EE-soo d FOR-mah",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful when disagreeing gently.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez estejamos a olhar para coisas diferentes.",
+        "english": "Maybe we are looking at different things."
+      }
+    ],
+    "tags": ["disagreement", "softening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-031",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to choose my words carefully.",
+    "portuguese": "Estou a tentar escolher bem as palavras.",
+    "pronunciationNote": "esh-TOH ah ten-TAR esh-koh-LYAIR bayng az pah-LAH-vrash",
+    "grammarFocus": "explaining caution",
+    "notes": "Useful in delicate conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria dizer isto da maneira errada.",
+        "english": "I did not want to say this the wrong way."
+      }
+    ],
+    "tags": ["sensitivity", "softening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-032",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to think for a second before I answer that properly.",
+    "portuguese": "Preciso de pensar um segundo antes de responder a isso em condições.",
+    "pronunciationNote": "preh-SEE-zoo d pen-SAR oom seh-GOON-doo AHN-tesh d resh-pon-DER ah EE-soo",
+    "grammarFocus": "buying time politely",
+    "notes": "Useful when asked something difficult.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria responder de forma automática.",
+        "english": "I did not want to answer automatically."
+      }
+    ],
+    "tags": ["fillers", "thinking", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-033",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I have understood you correctly, you are saying that the timing is the real issue.",
+    "portuguese": "Se percebi bem, está a dizer que o verdadeiro problema é o timing.",
+    "pronunciationNote": "s pair-seh-BEE bayng esh-TAH ah dee-ZER k oo vair-dah-DAY-roo proh-BLAY-mah",
+    "grammarFocus": "summarising to confirm",
+    "notes": "Useful in practical discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só confirmar que estamos a falar da mesma coisa.",
+        "english": "I just wanted to confirm that we are talking about the same thing."
+      }
+    ],
+    "tags": ["checking", "summary", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-034",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think we may be talking past each other slightly.",
+    "portuguese": "Acho que talvez estejamos a falar um pouco ao lado um do outro.",
+    "pronunciationNote": "AH-shoo k tal-VEZH esh-TAY-zhah-moosh ah fah-LAR oom POH-koo ow LAH-doo",
+    "grammarFocus": "resetting the conversation",
+    "notes": "Useful when a discussion is getting confused.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez valha a pena voltar atrás um momento.",
+        "english": "Maybe it is worth going back for a moment."
+      }
+    ],
+    "tags": ["resetting", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-035",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is helpful, but I am still not completely clear on one part.",
+    "portuguese": "Isso ajuda, mas ainda não fiquei totalmente esclarecido numa parte.",
+    "pronunciationNote": "EE-soo ah-ZHOO-dah mas EEN-dah nawng fee-KAY toh-tahl-MEN-t esh-klah-reh-SEE-doo",
+    "grammarFocus": "partial understanding",
+    "notes": "Good follow-up clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode voltar só a esse ponto?",
+        "english": "Can you go back just to that point?"
+      }
+    ],
+    "tags": ["clarification", "follow-up", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-036",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we stay with this point for a moment before moving on?",
+    "portuguese": "Podíamos ficar neste ponto um momento antes de passar ao seguinte?",
+    "pronunciationNote": "poh-DEE-ah-moosh fee-KAR NESH-t PON-too oom moh-MEN-too",
+    "grammarFocus": "controlling pace",
+    "notes": "Useful when a conversation moves too quickly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que ainda há aqui qualquer coisa por esclarecer.",
+        "english": "I think there is still something here to clear up."
+      }
+    ],
+    "tags": ["pace", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-037",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think we agree on the main point, even if we are using different words.",
+    "portuguese": "Acho que estamos de acordo no essencial, mesmo que estejamos a usar palavras diferentes.",
+    "pronunciationNote": "AH-shoo k esh-TAH-moosh d ah-KOR-doo noo eh-sen-SEE-AL",
+    "grammarFocus": "finding common ground",
+    "notes": "Useful for smoothing discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez a diferença seja mais de linguagem do que de ideia.",
+        "english": "Maybe the difference is more about language than about the idea."
+      }
+    ],
+    "tags": ["agreement", "common-ground", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-038",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather ask directly than pretend I have understood.",
+    "portuguese": "Prefiro perguntar diretamente do que fingir que percebi.",
+    "pronunciationNote": "preh-FEE-roo pair-goon-TAR dee-reh-tah-MEN-t doo k feen-ZHEER k pair-seh-BEE",
+    "grammarFocus": "stating a communication preference",
+    "notes": "Useful learning-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evitamos mal-entendidos desnecessários.",
+        "english": "That way we avoid unnecessary misunderstandings."
+      }
+    ],
+    "tags": ["values", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-039",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may need to ask you to repeat that later, just so you know.",
+    "portuguese": "Se calhar vou precisar de lhe pedir para repetir isso mais tarde, só para avisar.",
+    "pronunciationNote": "s kahl-YAR voh preh-see-ZAR d ly peh-DEER PAH-rah reh-peh-TEER EE-soo",
+    "grammarFocus": "preparing for clarification",
+    "notes": "Useful in long explanations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a seguir, mas é muita informação de uma vez.",
+        "english": "I am following, but it is a lot of information at once."
+      }
+    ],
+    "tags": ["clarification", "listening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-040",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am with you so far.",
+    "portuguese": "Até aí estou consigo.",
+    "pronunciationNote": "ah-TEH ah-EE esh-TOH kohn-SEE-goo",
+    "grammarFocus": "showing partial understanding",
+    "notes": "Useful in longer explanations.",
+    "exampleSentences": [
+      {
+        "portuguese": "A parte seguinte é que me deixou dúvidas.",
+        "english": "It was the next part that left me unsure."
+      }
+    ],
+    "tags": ["understanding", "listening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-041",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we take a step back for a second?",
+    "portuguese": "Podemos dar um passo atrás por um segundo?",
+    "pronunciationNote": "poh-DEH-moosh dar oom PAH-soo ah-TRAZH poor oom seh-GOON-doo",
+    "grammarFocus": "resetting politely",
+    "notes": "Useful when the conversation gets too complex.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que me perdi no meio do raciocínio.",
+        "english": "I think I lost track in the middle of the reasoning."
+      }
+    ],
+    "tags": ["resetting", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-042",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not disagreeing with you exactly; I am just looking at it from another angle.",
+    "portuguese": "Não estou exatamente a discordar de si; estou só a olhar para isso de outro ângulo.",
+    "pronunciationNote": "nawng esh-TOH eh-zah-tah-MEN-t ah deesh-kor-DAR d see",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful for keeping a discussion calm.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez as duas perspetivas tenham valor.",
+        "english": "Maybe both perspectives have value."
+      }
+    ],
+    "tags": ["disagreement", "softening", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-043",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not have the exact word, but I can describe what I mean.",
+    "portuguese": "Não tenho a palavra exata, mas consigo descrever o que quero dizer.",
+    "pronunciationNote": "nawng TEN-yoo ah pah-LAH-vrah eh-ZAH-tah",
+    "grammarFocus": "describing around a gap",
+    "notes": "Very useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim seja mais fácil chegar lá.",
+        "english": "Maybe that way it will be easier to get there."
+      }
+    ],
+    "tags": ["vocabulary", "strategy", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-044",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think we are more or less saying the same thing in different ways.",
+    "portuguese": "Acho que estamos mais ou menos a dizer a mesma coisa de maneiras diferentes.",
+    "pronunciationNote": "AH-shoo k esh-TAH-moosh mysh oo MEN-oosh ah dee-ZER ah MAYZ-mah KOH-zah",
+    "grammarFocus": "finding overlap",
+    "notes": "Useful for easing tension in discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez a diferença seja só de enfoque.",
+        "english": "Maybe the difference is only one of emphasis."
+      }
+    ],
+    "tags": ["agreement", "discussion", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-045",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Sorry, I have lost the thread a little.",
+    "portuguese": "Desculpe, perdi um pouco o fio à meada.",
+    "pronunciationNote": "desh-KOOL-p pair-DEE oom POH-koo oo FEE-oo ah meh-AH-dah",
+    "grammarFocus": "idiomatic clarification",
+    "notes": "Natural conversational phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode retomar só esse ponto?",
+        "english": "Can you pick that point up again?"
+      }
+    ],
+    "tags": ["clarification", "idiomatic", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-046",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is useful to know, because I had been assuming something slightly different.",
+    "portuguese": "Isso é útil saber, porque eu estava a assumir uma coisa um pouco diferente.",
+    "pronunciationNote": "EE-soo eh OO-teel sah-BER poor-k eu esh-TAH-vah ah-soo-MEER",
+    "grammarFocus": "updating your understanding",
+    "notes": "Useful for reacting thoughtfully.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda bem que esclarecemos isso agora.",
+        "english": "It is good that we cleared that up now."
+      }
+    ],
+    "tags": ["understanding", "reactions", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-047",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I need to hear that again before I can give you a proper answer.",
+    "portuguese": "Acho que preciso de ouvir isso outra vez antes de lhe responder em condições.",
+    "pronunciationNote": "AH-shoo k preh-SEE-zoo d oh-VEER EE-soo OH-trah vezh",
+    "grammarFocus": "asking for repetition before answering",
+    "notes": "Useful under pressure.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria responder de forma apressada.",
+        "english": "I did not want to answer too hastily."
+      }
+    ],
+    "tags": ["clarification", "answering", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-048",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could I ask you to slow down just a little? I am following, but only just.",
+    "portuguese": "Posso pedir-lhe que abrande só um pouco? Estou a acompanhar, mas mesmo no limite.",
+    "pronunciationNote": "POS-soo peh-DEER-ly k ah-BRAN-d soh oom POH-koo",
+    "grammarFocus": "soft request about speed",
+    "notes": "Useful when someone is speaking quickly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for um pouco mais devagar, consigo seguir muito melhor.",
+        "english": "If it is a little slower, I can follow much better."
+      }
+    ],
+    "tags": ["speed", "clarification", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-049",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am still learning, so I would rather ask than pretend.",
+    "portuguese": "Ainda estou a aprender, por isso prefiro perguntar do que fingir.",
+    "pronunciationNote": "EEN-dah esh-TOH ah ah-pren-DER poor EE-soo preh-FEE-roo pair-goon-TAR",
+    "grammarFocus": "stating a learning strategy",
+    "notes": "Strong learner phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que assim aproveito melhor a conversa.",
+        "english": "I think that way I get more out of the conversation."
+      }
+    ],
+    "tags": ["learning", "values", "conversation"]
+  },
+  {
+    "id": "11-ect-b1b2-050",
+    "subject": "Everyday Conversation Tools",
+    "subjectId": "everyday-conversation-tools",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that is much clearer now.",
+    "portuguese": "Obrigado, agora ficou muito mais claro.",
+    "pronunciationNote": "oh-bree-GAH-doo ah-GOH-rah fee-KOH MWEEN-too mysh KLAH-roo",
+    "grammarFocus": "closing after clarification",
+    "notes": "Useful appreciative closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim já consigo responder com mais segurança.",
+        "english": "This way I can now answer with more confidence."
+      }
+    ],
+    "tags": ["closing", "clarification", "conversation"]
+  }
+]

@@ -6,6 +6,11 @@ import { ProgressProvider } from './context/ProgressContext';
 import './index.css';
 import { registerSW } from 'virtual:pwa-register';
 
+window.addEventListener('vite:preloadError', (event) => {
+  event.preventDefault();
+  window.location.reload();
+});
+
 registerSW({ immediate: true });
 
 ReactDOM.createRoot(document.getElementById('root')).render(
