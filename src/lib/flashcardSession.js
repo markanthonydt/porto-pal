@@ -1,4 +1,4 @@
-import { isDueCard } from './progress';
+import { isDueCard, isWeakCard } from './progress';
 
 export const portugueseCharacters = [
   '\u00e1',
@@ -74,8 +74,7 @@ export function buildDeck(selectedSet, mode, getCardStats) {
   if (mode === 'review-weak') {
     return shuffle(
       selectedSet.cards.filter((card) => {
-        const stats = getCardStats(card.id);
-        return stats.incorrect > stats.correct || (stats.incorrect > 0 && stats.correct === 0);
+        return isWeakCard(getCardStats(card.id));
       }),
     );
   }

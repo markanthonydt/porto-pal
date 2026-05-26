@@ -5,6 +5,18 @@ const DB_VERSION = 1;
 const STORE_NAME = 'app-state';
 const PROGRESS_KEY = 'progress';
 
+function writeLegacyProgress(progress) {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  try {
+    window.localStorage.setItem(LEGACY_PROGRESS_STORAGE_KEY, JSON.stringify(progress));
+  } catch {
+    // Ignore fallback failures; the app can continue in memory.
+  }
+}
+
 function openDatabase() {
   return new Promise((resolve, reject) => {
     if (typeof window === 'undefined' || !window.indexedDB) {
@@ -120,19 +132,12 @@ export async function saveStoredProgress(progress) {
     const database = await openDatabase();
 
     if (!database) {
+      writeLegacyProgress(progress);
       return;
     }
 
     await writeToStore(database, PROGRESS_KEY, progress);
   } catch {
-    if (typeof window === 'undefined') {
-      return;
-    }
-
-    try {
-      window.localStorage.setItem(LEGACY_PROGRESS_STORAGE_KEY, JSON.stringify(progress));
-    } catch {
-      // Ignore fallback failures; the app can continue in memory.
-    }
+    writeLegacyProgress(progress);
   }
 }

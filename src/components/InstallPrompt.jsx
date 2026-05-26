@@ -1,5 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 
+const INSTALL_PROMPT_DISMISSED_KEY = 'porto-pal-install-dismissed-at';
+const INSTALL_PROMPT_DISMISS_DAYS = 7;
+
 function isIosDevice() {
   if (typeof window === 'undefined') {
     return false;
@@ -7,6 +10,15 @@ function isIosDevice() {
 
   const userAgent = window.navigator.userAgent.toLowerCase();
   return /iphone|ipad|ipod/.test(userAgent);
+}
+
+function isMobileDevice() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const userAgent = window.navigator.userAgent.toLowerCase();
+  return /android|iphone|ipad|ipod/.test(userAgent);
 }
 
 function isStandaloneMode() {
@@ -17,9 +29,46 @@ function isStandaloneMode() {
   return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
 }
 
+function wasDismissedRecently() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  try {
+    const dismissedAt = window.localStorage.getItem(INSTALL_PROMPT_DISMISSED_KEY);
+
+    if (!dismissedAt) {
+      return false;
+    }
+
+    const timestamp = new Date(dismissedAt).getTime();
+
+    if (Number.isNaN(timestamp)) {
+      return false;
+    }
+
+    const elapsed = Date.now() - timestamp;
+    return elapsed < INSTALL_PROMPT_DISMISS_DAYS * 24 * 60 * 60 * 1000;
+  } catch {
+    return false;
+  }
+}
+
+function rememberDismissal() {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  try {
+    window.localStorage.setItem(INSTALL_PROMPT_DISMISSED_KEY, new Date().toISOString());
+  } catch {
+    // Ignore storage failures; dismissal will still last for the session.
+  }
+}
+
 export default function InstallPrompt() {
   const [promptEvent, setPromptEvent] = useState(null);
-  const [dismissed, setDismissed] = useState(false);
+  const [dismissed, setDismissed] = useState(() => wasDismissedRecently());
   const [showHelp, setShowHelp] = useState(false);
   const [isInstalled, setIsInstalled] = useState(false);
 
@@ -47,7 +96,8 @@ export default function InstallPrompt() {
   }, []);
 
   const iosDevice = useMemo(() => isIosDevice(), []);
-  const canShowPrompt = !dismissed && !isInstalled && (promptEvent || iosDevice);
+  const mobileDevice = useMemo(() => isMobileDevice(), []);
+  const canShowPrompt = mobileDevice && !dismissed && !isInstalled && (promptEvent || iosDevice);
 
   if (!canShowPrompt) {
     return null;
@@ -67,10 +117,15 @@ export default function InstallPrompt() {
     setShowHelp(true);
   }
 
+  function handleDismiss() {
+    rememberDismissal();
+    setDismissed(true);
+  }
+
   return (
     <div className="mt-4 rounded-[1.5rem] border border-sea/30 bg-sea/10 p-4 text-sm text-teal-50">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <p>Install Porto Pal on your phone for faster access and an app-like home screen shortcut.</p>
+        <p>Install Porto Pal on your phone.</p>
         <div className="flex gap-2">
           <button
             type="button"
@@ -81,7 +136,7 @@ export default function InstallPrompt() {
           </button>
           <button
             type="button"
-            onClick={() => setDismissed(true)}
+            onClick={handleDismiss}
             className="rounded-xl bg-white/10 px-4 py-2 font-semibold text-white transition hover:bg-white/15"
           >
             Not now
