@@ -1,0 +1,952 @@
+[
+  {
+    "id": "18-bgfs-a1a2-001",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you like reading?",
+    "portuguese": "Gostas de ler?",
+    "pronunciationNote": "GOSH-tash d lair",
+    "grammarFocus": "asking about hobbies",
+    "notes": "Basic reading question.",
+    "exampleSentences": [
+      {
+        "portuguese": "No teu tempo livre, gostas de ler?",
+        "english": "In your free time, do you like reading?"
+      }
+    ],
+    "tags": ["books", "reading", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-002",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like fantasy books.",
+    "portuguese": "Gosto de livros de fantasia.",
+    "pronunciationNote": "GOSH-too d LEE-vroosh d fan-tah-ZEE-ah",
+    "grammarFocus": "expressing preferences",
+    "notes": "Simple genre preference.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sobretudo à noite, gosto de livros de fantasia.",
+        "english": "Especially at night, I like fantasy books."
+      }
+    ],
+    "tags": ["books", "fantasy", "genres"]
+  },
+  {
+    "id": "18-bgfs-a1a2-003",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like science fiction.",
+    "portuguese": "Gosto de ficção científica.",
+    "pronunciationNote": "GOSH-too d feek-SOWN see-en-TEE-fee-kah",
+    "grammarFocus": "expressing preferences",
+    "notes": "Simple genre preference.",
+    "exampleSentences": [
+      {
+        "portuguese": "No cinema e em livros, gosto de ficção científica.",
+        "english": "In films and books, I like science fiction."
+      }
+    ],
+    "tags": ["scifi", "genres", "preferences"]
+  },
+  {
+    "id": "18-bgfs-a1a2-004",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like playing games.",
+    "portuguese": "Gosto de jogar.",
+    "pronunciationNote": "GOSH-too d zhoo-GAR",
+    "grammarFocus": "expressing preferences",
+    "notes": "General gaming interest.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, gosto de jogar.",
+        "english": "At the weekend, I like playing games."
+      }
+    ],
+    "tags": ["games", "hobbies", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-005",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What are you reading now?",
+    "portuguese": "O que estás a ler agora?",
+    "pronunciationNote": "oo k esh-TAHSH ah lair ah-GOH-rah",
+    "grammarFocus": "asking about current activities",
+    "notes": "Useful in book conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por curiosidade, o que estás a ler agora?",
+        "english": "Out of curiosity, what are you reading now?"
+      }
+    ],
+    "tags": ["books", "reading", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-006",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What are you playing now?",
+    "portuguese": "O que estás a jogar agora?",
+    "pronunciationNote": "oo k esh-TAHSH ah zhoo-GAR ah-GOH-rah",
+    "grammarFocus": "asking about current activities",
+    "notes": "Useful in gaming conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "No telemóvel ou no computador, o que estás a jogar agora?",
+        "english": "On your phone or computer, what are you playing now?"
+      }
+    ],
+    "tags": ["games", "conversation", "current"]
+  },
+  {
+    "id": "18-bgfs-a1a2-007",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you know this author?",
+    "portuguese": "Conheces este autor?",
+    "pronunciationNote": "kon-YEH-sesh ESH-t ow-TOR",
+    "grammarFocus": "asking about knowledge",
+    "notes": "Useful in book conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Conheces este autor ou não?",
+        "english": "Do you know this author or not?"
+      }
+    ],
+    "tags": ["books", "author", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-008",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you know this game?",
+    "portuguese": "Conheces este jogo?",
+    "pronunciationNote": "kon-YEH-sesh ESH-t ZHO-goo",
+    "grammarFocus": "asking about knowledge",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Conheces este jogo? É muito conhecido.",
+        "english": "Do you know this game? It is very well known."
+      }
+    ],
+    "tags": ["games", "conversation", "knowledge"]
+  },
+  {
+    "id": "18-bgfs-a1a2-009",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What kind of books do you like?",
+    "portuguese": "Que tipo de livros gostas?",
+    "pronunciationNote": "k TEE-poo d LEE-vroosh GOSH-tash",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in book conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que tipo de livros gostas de ler?",
+        "english": "What kind of books do you like to read?"
+      }
+    ],
+    "tags": ["books", "genres", "preferences"]
+  },
+  {
+    "id": "18-bgfs-a1a2-010",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What kind of games do you like?",
+    "portuguese": "Que tipo de jogos gostas?",
+    "pronunciationNote": "k TEE-poo d ZHO-goosh GOSH-tash",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que tipo de jogos gostas de jogar?",
+        "english": "What kind of games do you like to play?"
+      }
+    ],
+    "tags": ["games", "genres", "preferences"]
+  },
+  {
+    "id": "18-bgfs-a1a2-011",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like adventure games.",
+    "portuguese": "Gosto de jogos de aventura.",
+    "pronunciationNote": "GOSH-too d ZHO-goosh d ah-ven-TOO-rah",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sobretudo no computador, gosto de jogos de aventura.",
+        "english": "Especially on the computer, I like adventure games."
+      }
+    ],
+    "tags": ["games", "adventure", "genres"]
+  },
+  {
+    "id": "18-bgfs-a1a2-012",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like role-playing games.",
+    "portuguese": "Gosto de jogos de role-play.",
+    "pronunciationNote": "GOSH-too d ZHO-goosh d role-play",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de jogos de role-play porque têm boas histórias.",
+        "english": "I like role-playing games because they have good stories."
+      }
+    ],
+    "tags": ["games", "rpg", "genres"]
+  },
+  {
+    "id": "18-bgfs-a1a2-013",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This story is interesting.",
+    "portuguese": "Esta história é interessante.",
+    "pronunciationNote": "ESH-tah eesh-TOH-ree-ah eh een-teh-reh-SAN-t",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful for books, games, or films.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para já, esta história é interessante.",
+        "english": "So far, this story is interesting."
+      }
+    ],
+    "tags": ["story", "opinion", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-014",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This character is funny.",
+    "portuguese": "Esta personagem tem graça.",
+    "pronunciationNote": "ESH-tah pair-soh-NAH-zheng teng GRAH-sah",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful when discussing characters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto dela. Esta personagem tem graça.",
+        "english": "I like her. This character is funny."
+      }
+    ],
+    "tags": ["character", "opinion", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-015",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This world is beautiful.",
+    "portuguese": "Este mundo é bonito.",
+    "pronunciationNote": "ESH-t MUN-doo eh boh-NEE-too",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful in fantasy and sci-fi talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "No jogo, este mundo é bonito.",
+        "english": "In the game, this world is beautiful."
+      }
+    ],
+    "tags": ["worldbuilding", "fantasy", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-016",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is magic in this story.",
+    "portuguese": "Há magia nesta história.",
+    "pronunciationNote": "ah mah-ZHEE-ah NESH-tah eesh-TOH-ree-ah",
+    "grammarFocus": "describing content",
+    "notes": "Useful for fantasy conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto porque há magia nesta história.",
+        "english": "I like it because there is magic in this story."
+      }
+    ],
+    "tags": ["fantasy", "magic", "story"]
+  },
+  {
+    "id": "18-bgfs-a1a2-017",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There are dragons.",
+    "portuguese": "Há dragões.",
+    "pronunciationNote": "ah drah-GOYNSH",
+    "grammarFocus": "describing content",
+    "notes": "Useful for fantasy conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste livro, há dragões.",
+        "english": "In this book, there are dragons."
+      }
+    ],
+    "tags": ["fantasy", "dragons", "story"]
+  },
+  {
+    "id": "18-bgfs-a1a2-018",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There are spaceships.",
+    "portuguese": "Há naves espaciais.",
+    "pronunciationNote": "ah NAH-vesh esh-pah-see-AISH",
+    "grammarFocus": "describing content",
+    "notes": "Useful for sci-fi conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No filme, há naves espaciais.",
+        "english": "In the film, there are spaceships."
+      }
+    ],
+    "tags": ["scifi", "spaceships", "story"]
+  },
+  {
+    "id": "18-bgfs-a1a2-019",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is about a hero.",
+    "portuguese": "É sobre um herói.",
+    "pronunciationNote": "eh SOH-br oom eh-ROY",
+    "grammarFocus": "summarising content",
+    "notes": "Useful for simple descriptions.",
+    "exampleSentences": [
+      {
+        "portuguese": "O livro é sobre um herói jovem.",
+        "english": "The book is about a young hero."
+      }
+    ],
+    "tags": ["story", "hero", "summary"]
+  },
+  {
+    "id": "18-bgfs-a1a2-020",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is about a quest.",
+    "portuguese": "É sobre uma missão.",
+    "pronunciationNote": "eh SOH-br OO-mah mee-SOWN",
+    "grammarFocus": "summarising content",
+    "notes": "Useful for fantasy and games.",
+    "exampleSentences": [
+      {
+        "portuguese": "O jogo é sobre uma missão difícil.",
+        "english": "The game is about a difficult quest."
+      }
+    ],
+    "tags": ["quest", "story", "summary"]
+  },
+  {
+    "id": "18-bgfs-a1a2-021",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is about space.",
+    "portuguese": "É sobre o espaço.",
+    "pronunciationNote": "eh SOH-br oo esh-PAH-soo",
+    "grammarFocus": "summarising content",
+    "notes": "Useful for sci-fi discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A série é sobre o espaço e o futuro.",
+        "english": "The series is about space and the future."
+      }
+    ],
+    "tags": ["scifi", "space", "summary"]
+  },
+  {
+    "id": "18-bgfs-a1a2-022",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is easy to read.",
+    "portuguese": "É fácil de ler.",
+    "pronunciationNote": "eh FAH-seel d lair",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful when recommending books.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para começar, é fácil de ler.",
+        "english": "To start with, it is easy to read."
+      }
+    ],
+    "tags": ["books", "reading", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-023",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is hard to put down.",
+    "portuguese": "É difícil parar de ler.",
+    "pronunciationNote": "eh dee-FEE-seel pah-RAR d lair",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful for strong recommendations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando começo, é difícil parar de ler.",
+        "english": "When I start, it is hard to put it down."
+      }
+    ],
+    "tags": ["books", "recommendation", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-024",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is easy to play.",
+    "portuguese": "É fácil de jogar.",
+    "pronunciationNote": "eh FAH-seel d zhoo-GAR",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful for recommending games.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para principiantes, é fácil de jogar.",
+        "english": "For beginners, it is easy to play."
+      }
+    ],
+    "tags": ["games", "opinion", "recommendation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-025",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is difficult, but good.",
+    "portuguese": "É difícil, mas é bom.",
+    "pronunciationNote": "eh dee-FEE-seel, mahz eh bong",
+    "grammarFocus": "giving a balanced opinion",
+    "notes": "Useful for games or books.",
+    "exampleSentences": [
+      {
+        "portuguese": "O jogo é difícil, mas é bom.",
+        "english": "The game is difficult, but it is good."
+      }
+    ],
+    "tags": ["games", "books", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-026",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I recommend this book.",
+    "portuguese": "Recomendo este livro.",
+    "pronunciationNote": "reh-koh-MEN-doo ESH-t LEE-vroo",
+    "grammarFocus": "making a recommendation",
+    "notes": "Useful in book conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se gostas de fantasia, recomendo este livro.",
+        "english": "If you like fantasy, I recommend this book."
+      }
+    ],
+    "tags": ["books", "recommendation", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-027",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I recommend this game.",
+    "portuguese": "Recomendo este jogo.",
+    "pronunciationNote": "reh-koh-MEN-doo ESH-t ZHO-goo",
+    "grammarFocus": "making a recommendation",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se gostas de aventura, recomendo este jogo.",
+        "english": "If you like adventure, I recommend this game."
+      }
+    ],
+    "tags": ["games", "recommendation", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-028",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you recommend something good?",
+    "portuguese": "Podes recomendar alguma coisa boa?",
+    "pronunciationNote": "POH-desh reh-koh-men-DAR al-GOO-mah KOY-zah BOH-ah",
+    "grammarFocus": "asking for a recommendation",
+    "notes": "Useful in book or game talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes recomendar alguma coisa boa para ler?",
+        "english": "Can you recommend something good to read?"
+      }
+    ],
+    "tags": ["recommendation", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-a1a2-029",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have not finished it yet.",
+    "portuguese": "Ainda não acabei.",
+    "pronunciationNote": "een-DAH nown ah-kah-BAY",
+    "grammarFocus": "talking about progress",
+    "notes": "Useful for books, games, or series.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não acabei o livro.",
+        "english": "I have not finished the book yet."
+      }
+    ],
+    "tags": ["progress", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-a1a2-030",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I already finished it.",
+    "portuguese": "Já acabei.",
+    "pronunciationNote": "zhah ah-kah-BAY",
+    "grammarFocus": "talking about progress",
+    "notes": "Useful for books, games, or series.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já acabei o jogo.",
+        "english": "I already finished the game."
+      }
+    ],
+    "tags": ["progress", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-a1a2-031",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do not spoil it.",
+    "portuguese": "Não me contes o fim.",
+    "pronunciationNote": "nown m KON-tesh oo feeng",
+    "grammarFocus": "imperative request",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não acabei. Não me contes o fim.",
+        "english": "I have not finished yet. Do not spoil the ending."
+      }
+    ],
+    "tags": ["spoilers", "conversation", "books"]
+  },
+  {
+    "id": "18-bgfs-a1a2-032",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The ending is good.",
+    "portuguese": "O final é bom.",
+    "pronunciationNote": "oo fee-NAL eh bong",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after finishing something.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vale a pena. O final é bom.",
+        "english": "It is worth it. The ending is good."
+      }
+    ],
+    "tags": ["ending", "opinion", "books"]
+  },
+  {
+    "id": "18-bgfs-a1a2-033",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The ending is sad.",
+    "portuguese": "O final é triste.",
+    "pronunciationNote": "oo fee-NAL eh TREESH-t",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after finishing something.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostei, mas o final é triste.",
+        "english": "I liked it, but the ending is sad."
+      }
+    ],
+    "tags": ["ending", "opinion", "story"]
+  },
+  {
+    "id": "18-bgfs-a1a2-034",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The main character is strong.",
+    "portuguese": "A personagem principal é forte.",
+    "pronunciationNote": "ah pair-soh-NAH-zheng preen-see-PAL eh FOR-t",
+    "grammarFocus": "describing characters",
+    "notes": "Useful in story conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto dela. A personagem principal é forte.",
+        "english": "I like her. The main character is strong."
+      }
+    ],
+    "tags": ["character", "story", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-035",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The villain is scary.",
+    "portuguese": "O vilão mete medo.",
+    "pronunciationNote": "oo vee-LOWN MEH-t meh-doo",
+    "grammarFocus": "describing characters",
+    "notes": "Useful in story conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No filme, o vilão mete medo.",
+        "english": "In the film, the villain is scary."
+      }
+    ],
+    "tags": ["villain", "story", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-036",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a battle.",
+    "portuguese": "Há uma batalha.",
+    "pronunciationNote": "ah OO-mah bah-TAH-lyah",
+    "grammarFocus": "describing content",
+    "notes": "Useful in fantasy and game talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, há uma batalha grande.",
+        "english": "At the end, there is a big battle."
+      }
+    ],
+    "tags": ["fantasy", "battle", "story"]
+  },
+  {
+    "id": "18-bgfs-a1a2-037",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a mystery.",
+    "portuguese": "Há um mistério.",
+    "pronunciationNote": "ah oom meesh-TEH-ree-oo",
+    "grammarFocus": "describing content",
+    "notes": "Useful in books and games.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na história, há um mistério importante.",
+        "english": "In the story, there is an important mystery."
+      }
+    ],
+    "tags": ["mystery", "story", "content"]
+  },
+  {
+    "id": "18-bgfs-a1a2-038",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The story is slow at first.",
+    "portuguese": "Ao início, a história é lenta.",
+    "pronunciationNote": "ow ee-NEE-see-oo, ah eesh-TOH-ree-ah eh LEN-tah",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful in recommendations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao início, a história é lenta, mas depois melhora.",
+        "english": "At first, the story is slow, but then it gets better."
+      }
+    ],
+    "tags": ["story", "opinion", "pacing"]
+  },
+  {
+    "id": "18-bgfs-a1a2-039",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Then it gets better.",
+    "portuguese": "Depois melhora.",
+    "pronunciationNote": "deh-POYSH moh-LYOH-rah",
+    "grammarFocus": "talking about progression",
+    "notes": "Useful in recommendations.",
+    "exampleSentences": [
+      {
+        "portuguese": "É lento ao início, mas depois melhora.",
+        "english": "It is slow at first, but then it gets better."
+      }
+    ],
+    "tags": ["opinion", "pacing", "recommendation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-040",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like the worldbuilding.",
+    "portuguese": "Gosto do mundo da história.",
+    "pronunciationNote": "GOSH-too doo MUN-doo dah eesh-TOH-ree-ah",
+    "grammarFocus": "giving an opinion",
+    "notes": "Simple way to talk about setting.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto do mundo da história, é interessante.",
+        "english": "I like the world of the story, it is interesting."
+      }
+    ],
+    "tags": ["worldbuilding", "story", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-041",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like the characters more than the story.",
+    "portuguese": "Gosto mais das personagens do que da história.",
+    "pronunciationNote": "GOSH-too mysh dash pair-soh-NAH-zhens doo k dah eesh-TOH-ree-ah",
+    "grammarFocus": "comparing opinions",
+    "notes": "Useful in book and game talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, gosto mais das personagens do que da história.",
+        "english": "For me, I like the characters more than the story."
+      }
+    ],
+    "tags": ["characters", "story", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-042",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like the story more than the gameplay.",
+    "portuguese": "Gosto mais da história do que do jogo em si.",
+    "pronunciationNote": "GOSH-too mysh dah eesh-TOH-ree-ah doo k doo ZHO-goo eng s",
+    "grammarFocus": "comparing opinions",
+    "notes": "Useful in gaming talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "No geral, gosto mais da história do que do jogo em si.",
+        "english": "Overall, I like the story more than the gameplay itself."
+      }
+    ],
+    "tags": ["games", "story", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-043",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am at the beginning.",
+    "portuguese": "Estou no início.",
+    "pronunciationNote": "esh-TOH noo ee-NEE-see-oo",
+    "grammarFocus": "talking about progress",
+    "notes": "Useful for books, games, and series.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estou no início do livro.",
+        "english": "I am still at the beginning of the book."
+      }
+    ],
+    "tags": ["progress", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-a1a2-044",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am in the middle.",
+    "portuguese": "Estou a meio.",
+    "pronunciationNote": "esh-TOH ah MAY-oo",
+    "grammarFocus": "talking about progress",
+    "notes": "Useful for books, games, and series.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a meio da história.",
+        "english": "I am in the middle of the story."
+      }
+    ],
+    "tags": ["progress", "story", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-045",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am near the end.",
+    "portuguese": "Estou perto do fim.",
+    "pronunciationNote": "esh-TOH PER-too doo feeng",
+    "grammarFocus": "talking about progress",
+    "notes": "Useful for books, games, and series.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou perto do fim do jogo.",
+        "english": "I am near the end of the game."
+      }
+    ],
+    "tags": ["progress", "games", "books"]
+  },
+  {
+    "id": "18-bgfs-a1a2-046",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to play this.",
+    "portuguese": "Quero jogar isto.",
+    "pronunciationNote": "KEH-roo zhoo-GAR EES-too",
+    "grammarFocus": "expressing desire",
+    "notes": "Useful in gaming conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece divertido. Quero jogar isto.",
+        "english": "It looks fun. I want to play this."
+      }
+    ],
+    "tags": ["games", "interest", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-047",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to read this.",
+    "portuguese": "Quero ler isto.",
+    "pronunciationNote": "KEH-roo lair EES-too",
+    "grammarFocus": "expressing desire",
+    "notes": "Useful in book conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece bom. Quero ler isto.",
+        "english": "It looks good. I want to read this."
+      }
+    ],
+    "tags": ["books", "interest", "conversation"]
+  },
+  {
+    "id": "18-bgfs-a1a2-048",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let me know what you think.",
+    "portuguese": "Diz-me o que achas.",
+    "pronunciationNote": "deezh-m oo k AH-shash",
+    "grammarFocus": "imperative request",
+    "notes": "Useful after recommending something.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando acabares, diz-me o que achas.",
+        "english": "When you finish, let me know what you think."
+      }
+    ],
+    "tags": ["conversation", "recommendation", "opinion"]
+  },
+  {
+    "id": "18-bgfs-a1a2-049",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think you would like it.",
+    "portuguese": "Acho que ias gostar.",
+    "pronunciationNote": "AH-shoo k EE-ash gosh-TAR",
+    "grammarFocus": "making a recommendation",
+    "notes": "Useful in casual suggestions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se gostas de fantasia, acho que ias gostar.",
+        "english": "If you like fantasy, I think you would like it."
+      }
+    ],
+    "tags": ["recommendation", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-a1a2-050",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We should talk about it later.",
+    "portuguese": "Depois temos de falar sobre isso.",
+    "pronunciationNote": "deh-POYSH TEH-moosh d fah-LAR SOH-br EE-soo",
+    "grammarFocus": "suggesting future conversation",
+    "notes": "Useful after a recommendation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando acabares, depois temos de falar sobre isso.",
+        "english": "When you finish, we should talk about it later."
+      }
+    ],
+    "tags": ["conversation", "recommendation", "follow-up"]
+  }
+]

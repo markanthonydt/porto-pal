@@ -1,0 +1,952 @@
+[
+  {
+    "id": "15-per-a1a2-001",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need help.",
+    "portuguese": "Preciso de ajuda.",
+    "pronunciationNote": "preh-SEE-zoo d ah-ZHOO-dah",
+    "grammarFocus": "expressing a need",
+    "notes": "Basic emergency phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, preciso de ajuda.",
+        "english": "Excuse me, I need help."
+      }
+    ],
+    "tags": ["emergency", "help", "basics"]
+  },
+  {
+    "id": "15-per-a1a2-002",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you help me?",
+    "portuguese": "Pode ajudar-me?",
+    "pronunciationNote": "POH-d ah-zhoo-DAR-m",
+    "grammarFocus": "polite request",
+    "notes": "Useful in urgent situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, pode ajudar-me?",
+        "english": "Please, can you help me?"
+      }
+    ],
+    "tags": ["emergency", "help", "request"]
+  },
+  {
+    "id": "15-per-a1a2-003",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is an emergency.",
+    "portuguese": "É uma emergência.",
+    "pronunciationNote": "eh OO-mah eh-mer-ZHEN-see-ah",
+    "grammarFocus": "stating urgency",
+    "notes": "Useful when something is serious.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, é uma emergência.",
+        "english": "Please, it is an emergency."
+      }
+    ],
+    "tags": ["emergency", "urgency", "basics"]
+  },
+  {
+    "id": "15-per-a1a2-004",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Call an ambulance.",
+    "portuguese": "Chame uma ambulância.",
+    "pronunciationNote": "SHAH-m OO-mah am-boo-LAN-see-ah",
+    "grammarFocus": "imperative",
+    "notes": "Direct emergency instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, chame uma ambulância.",
+        "english": "Please, call an ambulance."
+      }
+    ],
+    "tags": ["emergency", "ambulance", "medical"]
+  },
+  {
+    "id": "15-per-a1a2-005",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Call the police.",
+    "portuguese": "Chame a polícia.",
+    "pronunciationNote": "SHAH-m ah poo-LEE-see-ah",
+    "grammarFocus": "imperative",
+    "notes": "Direct emergency instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se faz favor, chame a polícia.",
+        "english": "Please, call the police."
+      }
+    ],
+    "tags": ["emergency", "police", "safety"]
+  },
+  {
+    "id": "15-per-a1a2-006",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a doctor.",
+    "portuguese": "Preciso de um médico.",
+    "pronunciationNote": "preh-SEE-zoo d oom MEH-dee-koo",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful in medical situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não me sinto bem. Preciso de um médico.",
+        "english": "I do not feel well. I need a doctor."
+      }
+    ],
+    "tags": ["medical", "doctor", "help"]
+  },
+  {
+    "id": "15-per-a1a2-007",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am lost.",
+    "portuguese": "Estou perdido.",
+    "pronunciationNote": "esh-TOH pair-DEE-doo",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful when you do not know where you are.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, estou perdido.",
+        "english": "Excuse me, I am lost."
+      }
+    ],
+    "tags": ["problem", "lost", "directions"]
+  },
+  {
+    "id": "15-per-a1a2-008",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I lost my phone.",
+    "portuguese": "Perdi o meu telemóvel.",
+    "pronunciationNote": "pair-DEE oo may-oo teh-leh-MOH-vel",
+    "grammarFocus": "past action",
+    "notes": "Useful for reporting a lost item.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que perdi o meu telemóvel.",
+        "english": "I think I lost my phone."
+      }
+    ],
+    "tags": ["problem", "lost-item", "phone"]
+  },
+  {
+    "id": "15-per-a1a2-009",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I lost my wallet.",
+    "portuguese": "Perdi a minha carteira.",
+    "pronunciationNote": "pair-DEE ah MEE-nyah kar-TAY-rah",
+    "grammarFocus": "past action",
+    "notes": "Useful for reporting a lost item.",
+    "exampleSentences": [
+      {
+        "portuguese": "Perdi a minha carteira no centro.",
+        "english": "I lost my wallet in the centre."
+      }
+    ],
+    "tags": ["problem", "lost-item", "wallet"]
+  },
+  {
+    "id": "15-per-a1a2-010",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My bag was stolen.",
+    "portuguese": "Roubaram-me a mala.",
+    "pronunciationNote": "hoo-BAH-rang-m ah MAH-lah",
+    "grammarFocus": "reporting theft",
+    "notes": "Useful in police situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No metro, roubaram-me a mala.",
+        "english": "On the metro, my bag was stolen."
+      }
+    ],
+    "tags": ["problem", "theft", "police"]
+  },
+  {
+    "id": "15-per-a1a2-011",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Something is wrong.",
+    "portuguese": "Há qualquer coisa errada.",
+    "pronunciationNote": "ah kwal-KAIR KOY-zah eh-RAH-dah",
+    "grammarFocus": "describing a problem",
+    "notes": "General problem phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que há qualquer coisa errada.",
+        "english": "I think something is wrong."
+      }
+    ],
+    "tags": ["problem", "general", "repair"]
+  },
+  {
+    "id": "15-per-a1a2-012",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is broken.",
+    "portuguese": "Está avariado.",
+    "pronunciationNote": "esh-TAH ah-vee-ah-RAH-doo",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful for objects and equipment.",
+    "exampleSentences": [
+      {
+        "portuguese": "O elevador está avariado.",
+        "english": "The lift is broken."
+      }
+    ],
+    "tags": ["repair", "broken", "equipment"]
+  },
+  {
+    "id": "15-per-a1a2-013",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is not working.",
+    "portuguese": "Não está a funcionar.",
+    "pronunciationNote": "nown esh-TAH ah foon-see-oh-NAR",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful for many devices.",
+    "exampleSentences": [
+      {
+        "portuguese": "A máquina não está a funcionar.",
+        "english": "The machine is not working."
+      }
+    ],
+    "tags": ["repair", "problem", "device"]
+  },
+  {
+    "id": "15-per-a1a2-014",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is no electricity.",
+    "portuguese": "Não há eletricidade.",
+    "pronunciationNote": "nown ah eh-leh-tree-see-DAH-d",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful in accommodation or building issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste prédio, não há eletricidade.",
+        "english": "In this building, there is no electricity."
+      }
+    ],
+    "tags": ["repair", "electricity", "building"]
+  },
+  {
+    "id": "15-per-a1a2-015",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is no water.",
+    "portuguese": "Não há água.",
+    "pronunciationNote": "nown ah AH-gwah",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful in accommodation or building issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na casa, não há água.",
+        "english": "In the house, there is no water."
+      }
+    ],
+    "tags": ["repair", "water", "building"]
+  },
+  {
+    "id": "15-per-a1a2-016",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a leak.",
+    "portuguese": "Há uma fuga.",
+    "pronunciationNote": "ah OO-mah FOO-gah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in home or hotel repairs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na cozinha, há uma fuga.",
+        "english": "In the kitchen, there is a leak."
+      }
+    ],
+    "tags": ["repair", "leak", "home"]
+  },
+  {
+    "id": "15-per-a1a2-017",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The door will not open.",
+    "portuguese": "A porta não abre.",
+    "pronunciationNote": "ah POR-tah nown AH-br",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in practical problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "A porta não abre com a chave.",
+        "english": "The door will not open with the key."
+      }
+    ],
+    "tags": ["repair", "door", "problem"]
+  },
+  {
+    "id": "15-per-a1a2-018",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The key is stuck.",
+    "portuguese": "A chave está presa.",
+    "pronunciationNote": "ah SHAH-v esh-TAH PREH-zah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful with locks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na fechadura, a chave está presa.",
+        "english": "In the lock, the key is stuck."
+      }
+    ],
+    "tags": ["repair", "key", "lock"]
+  },
+  {
+    "id": "15-per-a1a2-019",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The car will not start.",
+    "portuguese": "O carro não pega.",
+    "pronunciationNote": "oo KAH-hoo nown PEH-gah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful with vehicles.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei porquê, mas o carro não pega.",
+        "english": "I do not know why, but the car will not start."
+      }
+    ],
+    "tags": ["repair", "car", "problem"]
+  },
+  {
+    "id": "15-per-a1a2-020",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a flat tyre.",
+    "portuguese": "Tenho um pneu furado.",
+    "pronunciationNote": "TEN-yoo oom PNEH-oo foo-RAH-doo",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in roadside situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No carro, tenho um pneu furado.",
+        "english": "On the car, I have a flat tyre."
+      }
+    ],
+    "tags": ["repair", "car", "tyre"]
+  },
+  {
+    "id": "15-per-a1a2-021",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My battery is dead.",
+    "portuguese": "A bateria está descarregada.",
+    "pronunciationNote": "ah bah-teh-REE-ah esh-TAH desh-kar-reh-GAH-dah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful for phones or cars.",
+    "exampleSentences": [
+      {
+        "portuguese": "No telemóvel, a bateria está descarregada.",
+        "english": "On the phone, the battery is dead."
+      }
+    ],
+    "tags": ["repair", "battery", "device"]
+  },
+  {
+    "id": "15-per-a1a2-022",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a mechanic.",
+    "portuguese": "Preciso de um mecânico.",
+    "pronunciationNote": "preh-SEE-zoo d oom meh-KAH-nee-koo",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful with car problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "O carro está avariado. Preciso de um mecânico.",
+        "english": "The car is broken. I need a mechanic."
+      }
+    ],
+    "tags": ["repair", "mechanic", "car"]
+  },
+  {
+    "id": "15-per-a1a2-023",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a locksmith.",
+    "portuguese": "Preciso de um serralheiro.",
+    "pronunciationNote": "preh-SEE-zoo d oom seh-rah-LYAY-roo",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful if you are locked out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fiquei trancado fora de casa. Preciso de um serralheiro.",
+        "english": "I got locked out of the house. I need a locksmith."
+      }
+    ],
+    "tags": ["repair", "locksmith", "locks"]
+  },
+  {
+    "id": "15-per-a1a2-024",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need an electrician.",
+    "portuguese": "Preciso de um eletricista.",
+    "pronunciationNote": "preh-SEE-zoo d oom eh-leh-tree-SEESH-tah",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful with electrical issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há um problema elétrico. Preciso de um eletricista.",
+        "english": "There is an electrical problem. I need an electrician."
+      }
+    ],
+    "tags": ["repair", "electrician", "home"]
+  },
+  {
+    "id": "15-per-a1a2-025",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a plumber.",
+    "portuguese": "Preciso de um canalizador.",
+    "pronunciationNote": "preh-SEE-zoo d oom kah-nah-lee-zah-DOR",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful with leaks or pipes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há uma fuga. Preciso de um canalizador.",
+        "english": "There is a leak. I need a plumber."
+      }
+    ],
+    "tags": ["repair", "plumber", "home"]
+  },
+  {
+    "id": "15-per-a1a2-026",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you fix this?",
+    "portuguese": "Pode arranjar isto?",
+    "pronunciationNote": "POH-d ah-ran-ZHAR EES-too",
+    "grammarFocus": "polite request",
+    "notes": "Useful in repair situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, pode arranjar isto?",
+        "english": "Please, can you fix this?"
+      }
+    ],
+    "tags": ["repair", "request", "general"]
+  },
+  {
+    "id": "15-per-a1a2-027",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can someone come today?",
+    "portuguese": "Alguém pode vir hoje?",
+    "pronunciationNote": "al-GAYNG POH-d veer OH-zh",
+    "grammarFocus": "asking about availability",
+    "notes": "Useful when arranging help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para arranjar isto, alguém pode vir hoje?",
+        "english": "To fix this, can someone come today?"
+      }
+    ],
+    "tags": ["repair", "availability", "help"]
+  },
+  {
+    "id": "15-per-a1a2-028",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can someone come now?",
+    "portuguese": "Alguém pode vir agora?",
+    "pronunciationNote": "al-GAYNG POH-d veer ah-GOH-rah",
+    "grammarFocus": "asking about availability",
+    "notes": "More urgent version.",
+    "exampleSentences": [
+      {
+        "portuguese": "É urgente. Alguém pode vir agora?",
+        "english": "It is urgent. Can someone come now?"
+      }
+    ],
+    "tags": ["repair", "urgency", "help"]
+  },
+  {
+    "id": "15-per-a1a2-029",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not feel well.",
+    "portuguese": "Não me sinto bem.",
+    "pronunciationNote": "nown m SEEN-too beng",
+    "grammarFocus": "describing a condition",
+    "notes": "Useful in medical situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "De repente, não me sinto bem.",
+        "english": "Suddenly, I do not feel well."
+      }
+    ],
+    "tags": ["medical", "health", "help"]
+  },
+  {
+    "id": "15-per-a1a2-030",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am hurt.",
+    "portuguese": "Estou magoado.",
+    "pronunciationNote": "esh-TOH mah-GWA-doo",
+    "grammarFocus": "describing a condition",
+    "notes": "Useful after an accident.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caí e estou magoado.",
+        "english": "I fell and I am hurt."
+      }
+    ],
+    "tags": ["medical", "injury", "accident"]
+  },
+  {
+    "id": "15-per-a1a2-031",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a pharmacy.",
+    "portuguese": "Preciso de uma farmácia.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah far-MAH-see-ah",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful in health problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de uma farmácia perto daqui.",
+        "english": "I need a pharmacy near here."
+      }
+    ],
+    "tags": ["medical", "pharmacy", "help"]
+  },
+  {
+    "id": "15-per-a1a2-032",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the nearest hospital?",
+    "portuguese": "Onde fica o hospital mais próximo?",
+    "pronunciationNote": "ON-d fEE-kah oo oosh-pee-TAL mysh PROK-see-moo",
+    "grammarFocus": "asking for location",
+    "notes": "Useful in medical emergencies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica o hospital mais próximo?",
+        "english": "Excuse me, where is the nearest hospital?"
+      }
+    ],
+    "tags": ["medical", "hospital", "emergency"]
+  },
+  {
+    "id": "15-per-a1a2-033",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the nearest police station?",
+    "portuguese": "Onde fica a esquadra mais próxima?",
+    "pronunciationNote": "ON-d fEE-kah ah esh-KWA-drah mysh PROK-see-mah",
+    "grammarFocus": "asking for location",
+    "notes": "Useful after theft or safety issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde fica a esquadra mais próxima daqui?",
+        "english": "Where is the nearest police station from here?"
+      }
+    ],
+    "tags": ["police", "safety", "location"]
+  },
+  {
+    "id": "15-per-a1a2-034",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you call someone?",
+    "portuguese": "Pode chamar alguém?",
+    "pronunciationNote": "POH-d shah-MAR al-GAYNG",
+    "grammarFocus": "polite request",
+    "notes": "Useful when you need assistance but cannot solve it yourself.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, pode chamar alguém?",
+        "english": "Please, can you call someone?"
+      }
+    ],
+    "tags": ["help", "request", "emergency"]
+  },
+  {
+    "id": "15-per-a1a2-035",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Wait here.",
+    "portuguese": "Espere aqui.",
+    "pronunciationNote": "esh-PEH-r ah-KEE",
+    "grammarFocus": "imperative",
+    "notes": "Useful in urgent coordination.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espere aqui, eu volto já.",
+        "english": "Wait here, I will be right back."
+      }
+    ],
+    "tags": ["emergency", "coordination", "imperative"]
+  },
+  {
+    "id": "15-per-a1a2-036",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Come with me.",
+    "portuguese": "Venha comigo.",
+    "pronunciationNote": "VEN-yah koh-MEE-goo",
+    "grammarFocus": "imperative",
+    "notes": "Useful in emergencies or helping someone.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, venha comigo.",
+        "english": "Please, come with me."
+      }
+    ],
+    "tags": ["emergency", "coordination", "imperative"]
+  },
+  {
+    "id": "15-per-a1a2-037",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Stay calm.",
+    "portuguese": "Mantenha a calma.",
+    "pronunciationNote": "man-TAY-nyah ah KAL-mah",
+    "grammarFocus": "imperative",
+    "notes": "Useful in emergencies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, mantenha a calma.",
+        "english": "Please, stay calm."
+      }
+    ],
+    "tags": ["emergency", "coordination", "safety"]
+  },
+  {
+    "id": "15-per-a1a2-038",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Be careful.",
+    "portuguese": "Tenha cuidado.",
+    "pronunciationNote": "TEN-yah kwee-DAH-doo",
+    "grammarFocus": "imperative",
+    "notes": "Useful in risky situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "O chão está molhado. Tenha cuidado.",
+        "english": "The floor is wet. Be careful."
+      }
+    ],
+    "tags": ["safety", "warning", "imperative"]
+  },
+  {
+    "id": "15-per-a1a2-039",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It hurts here.",
+    "portuguese": "Dói aqui.",
+    "pronunciationNote": "DOY ah-KEE",
+    "grammarFocus": "describing pain",
+    "notes": "Useful in medical situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No braço, dói aqui.",
+        "english": "In the arm, it hurts here."
+      }
+    ],
+    "tags": ["medical", "pain", "body"]
+  },
+  {
+    "id": "15-per-a1a2-040",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I fell down.",
+    "portuguese": "Caí.",
+    "pronunciationNote": "kah-EE",
+    "grammarFocus": "past action",
+    "notes": "Useful after an accident.",
+    "exampleSentences": [
+      {
+        "portuguese": "Escorreguei e caí.",
+        "english": "I slipped and fell down."
+      }
+    ],
+    "tags": ["medical", "accident", "past"]
+  },
+  {
+    "id": "15-per-a1a2-041",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cut myself.",
+    "portuguese": "Cortei-me.",
+    "pronunciationNote": "kor-TAY-m",
+    "grammarFocus": "past action",
+    "notes": "Useful in minor emergencies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na cozinha, cortei-me.",
+        "english": "In the kitchen, I cut myself."
+      }
+    ],
+    "tags": ["medical", "injury", "past"]
+  },
+  {
+    "id": "15-per-a1a2-042",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is bleeding.",
+    "portuguese": "Está a sangrar.",
+    "pronunciationNote": "esh-TAH ah sang-GRAR",
+    "grammarFocus": "describing a condition",
+    "notes": "Useful in emergencies.",
+    "exampleSentences": [
+      {
+        "portuguese": "O dedo está a sangrar.",
+        "english": "The finger is bleeding."
+      }
+    ],
+    "tags": ["medical", "injury", "bleeding"]
+  },
+  {
+    "id": "15-per-a1a2-043",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a bandage.",
+    "portuguese": "Preciso de um penso.",
+    "pronunciationNote": "preh-SEE-zoo d oom PEN-soo",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful in minor medical situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Cortei-me. Preciso de um penso.",
+        "english": "I cut myself. I need a bandage."
+      }
+    ],
+    "tags": ["medical", "first-aid", "help"]
+  },
+  {
+    "id": "15-per-a1a2-044",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need medicine.",
+    "portuguese": "Preciso de medicamentos.",
+    "pronunciationNote": "preh-SEE-zoo d meh-dee-kah-MEN-toosh",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful at a pharmacy.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou doente. Preciso de medicamentos.",
+        "english": "I am ill. I need medicine."
+      }
+    ],
+    "tags": ["medical", "medicine", "pharmacy"]
+  },
+  {
+    "id": "15-per-a1a2-045",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I forgot my keys inside.",
+    "portuguese": "Esqueci-me das chaves lá dentro.",
+    "pronunciationNote": "esh-keh-SEE-m dash SHAH-vsh lah DEN-troo",
+    "grammarFocus": "past action",
+    "notes": "Useful if locked out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esqueci-me das chaves lá dentro de casa.",
+        "english": "I forgot my keys inside the house."
+      }
+    ],
+    "tags": ["problem", "keys", "lockout"]
+  },
+  {
+    "id": "15-per-a1a2-046",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot get in.",
+    "portuguese": "Não consigo entrar.",
+    "pronunciationNote": "nown kon-SEE-goo en-TRAR",
+    "grammarFocus": "expressing inability",
+    "notes": "Useful if locked out.",
+    "exampleSentences": [
+      {
+        "portuguese": "A porta não abre e não consigo entrar.",
+        "english": "The door will not open and I cannot get in."
+      }
+    ],
+    "tags": ["problem", "lockout", "door"]
+  },
+  {
+    "id": "15-per-a1a2-047",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot get out.",
+    "portuguese": "Não consigo sair.",
+    "pronunciationNote": "nown kon-SEE-goo syr",
+    "grammarFocus": "expressing inability",
+    "notes": "Useful if stuck somewhere.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou preso no elevador e não consigo sair.",
+        "english": "I am stuck in the lift and I cannot get out."
+      }
+    ],
+    "tags": ["problem", "stuck", "emergency"]
+  },
+  {
+    "id": "15-per-a1a2-048",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is smoke.",
+    "portuguese": "Há fumo.",
+    "pronunciationNote": "ah FOO-moo",
+    "grammarFocus": "describing a danger",
+    "notes": "Useful in fire situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na cozinha, há fumo.",
+        "english": "In the kitchen, there is smoke."
+      }
+    ],
+    "tags": ["emergency", "fire", "danger"]
+  },
+  {
+    "id": "15-per-a1a2-049",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a fire.",
+    "portuguese": "Há um incêndio.",
+    "pronunciationNote": "ah oom een-SEN-dee-oo",
+    "grammarFocus": "describing a danger",
+    "notes": "Useful in fire emergencies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depressa, há um incêndio.",
+        "english": "Quickly, there is a fire."
+      }
+    ],
+    "tags": ["emergency", "fire", "danger"]
+  },
+  {
+    "id": "15-per-a1a2-050",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you, it is solved now.",
+    "portuguese": "Obrigado, agora está resolvido.",
+    "pronunciationNote": "oh-bree-GAH-doo, ah-GOH-rah esh-TAH reh-zol-VEE-doo",
+    "grammarFocus": "closing politely",
+    "notes": "Useful after help or a repair.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pela ajuda, agora está resolvido.",
+        "english": "Thank you for the help, it is solved now."
+      }
+    ],
+    "tags": ["politeness", "repair", "closing"]
+  }
+]

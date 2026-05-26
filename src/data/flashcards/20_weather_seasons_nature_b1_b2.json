@@ -1,0 +1,952 @@
+[
+  {
+    "id": "20-wsn-b1b2-001",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I like most about spring is not just the colour, but the feeling that everything is opening up again.",
+    "portuguese": "O que mais gosto na primavera n\u00e3o \u00e9 s\u00f3 a cor, mas a sensa\u00e7\u00e3o de que tudo se est\u00e1 a abrir outra vez.",
+    "pronunciationNote": "oo k mysh GOSH-too nah pree-mah-VEH-rah nown eh soh ah kor, mahz ah sen-sah-SOWN d k TOO-doo s esh-TAH ah ah-BREER OH-trah vez",
+    "grammarFocus": "describing emotional associations",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do inverno, essa mudan\u00e7a nota-se at\u00e9 no humor das pessoas.",
+        "english": "After winter, you can even notice that change in people's mood."
+      }
+    ],
+    "tags": ["spring", "seasons", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-002",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind heat on holiday, but day-to-day it drains my energy much faster than cold does.",
+    "portuguese": "N\u00e3o me importo com calor nas f\u00e9rias, mas no dia a dia tira-me energia muito mais depressa do que o frio.",
+    "pronunciationNote": "nown m eem-POR-too kong kah-LOR nazh FAY-ree-ash, mahz noo dee-ah ah DEE-ah TEE-rah-m eh-nehr-ZHEE-ah MOOY-too mysh deh-PREH-sah doo k oo FREE-oo",
+    "grammarFocus": "comparing effects",
+    "notes": "Useful in climate conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com muito calor, sinto que o dia fica logo mais pesado.",
+        "english": "With a lot of heat, I feel the day immediately becomes heavier."
+      }
+    ],
+    "tags": ["heat", "climate", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-003",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have become much more aware of how light changes my mood across the year.",
+    "portuguese": "Tenho ficado muito mais consciente de como a luz me muda o humor ao longo do ano.",
+    "pronunciationNote": "TEN-yoo fee-KAH-doo MOOY-too mysh konsh-SYEN-t d KOH-moo ah looz m MOO-dah oo oo-MOR ow LONG-goo doo AH-noo",
+    "grammarFocus": "talking about personal change",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando os dias encolhem, noto logo diferen\u00e7a na minha energia.",
+        "english": "When the days shrink, I notice the difference in my energy straight away."
+      }
+    ],
+    "tags": ["light", "mood", "seasons"]
+  },
+  {
+    "id": "20-wsn-b1b2-004",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The kind of weather I struggle with most is not dramatic weather, but weather that feels heavy and airless.",
+    "portuguese": "O tipo de tempo com que mais custo a lidar n\u00e3o \u00e9 o tempo dram\u00e1tico, mas o tempo pesado e sem ar.",
+    "pronunciationNote": "oo TEE-poo d TEM-poo kong k mysh KOOSH-too ah lee-DAR nown eh oo TEM-poo drah-MAH-tee-koo, mahz oo TEM-poo peh-ZAH-doo ee seng ar",
+    "grammarFocus": "describing difficulty",
+    "notes": "Useful in weather discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o ar parece parado, custa-me muito mais concentrar-me.",
+        "english": "When the air feels still, it is much harder for me to concentrate."
+      }
+    ],
+    "tags": ["weather", "humidity", "comfort"]
+  },
+  {
+    "id": "20-wsn-b1b2-005",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like landscapes that feel lived in, where nature and human presence are clearly intertwined.",
+    "portuguese": "Gosto de paisagens que parecem habitadas, onde a natureza e a presen\u00e7a humana est\u00e3o claramente misturadas.",
+    "pronunciationNote": "GOSH-too d pie-ZAH-zhensh k pah-REH-seng ah-bee-TAH-dash, ON-d ah nah-too-reh-zah ee ah preh-ZEN-sah oo-MAH-nah esh-TOWN klah-RAH-men-t mees-too-RAH-dash",
+    "grammarFocus": "describing taste",
+    "notes": "Useful in travel and nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Campos, muros antigos e trilhos dizem-me mais do que um cen\u00e1rio totalmente selvagem.",
+        "english": "Fields, old walls, and paths speak to me more than a completely wild setting."
+      }
+    ],
+    "tags": ["landscape", "nature", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-006",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the forecast looks uncertain, I would rather adapt the plan than spend the whole day fighting the weather.",
+    "portuguese": "Se a previs\u00e3o parece incerta, prefiro adaptar o plano do que passar o dia inteiro a lutar contra o tempo.",
+    "pronunciationNote": "s ah preh-vee-ZOWN pah-REH-s een-SER-tah, preh-FEE-roo ah-dap-TAR oo PLAH-noo doo k pah-SAR oo dee-ah een-TAY-roo ah loo-TAR KON-trah oo TEM-poo",
+    "grammarFocus": "stating a preference",
+    "notes": "Useful in planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mudar a rota custa menos do que insistir num passeio que j\u00e1 nasceu torto.",
+        "english": "Changing the route costs less than insisting on an outing that started off badly."
+      }
+    ],
+    "tags": ["forecast", "planning", "weather"]
+  },
+  {
+    "id": "20-wsn-b1b2-007",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The best kind of summer evening is the one that is still warm but finally light enough to breathe properly.",
+    "portuguese": "O melhor tipo de fim de tarde de ver\u00e3o \u00e9 aquele que ainda est\u00e1 quente, mas j\u00e1 leve o suficiente para se respirar bem.",
+    "pronunciationNote": "oo meh-LYOR TEE-poo d feeng d TAR-d d veh-ROWN eh ah-KEH-l k een-DAH esh-TAH KEN-t, mahz zhah LEH-v oo soo-fee-see-EN-t PAH-rah s resh-pee-RAR beng",
+    "grammarFocus": "describing ideal conditions",
+    "notes": "Useful in lifestyle conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o calor deixa de apertar, at\u00e9 a cidade parece outra.",
+        "english": "When the heat stops pressing down, even the city feels different."
+      }
+    ],
+    "tags": ["summer", "evening", "weather"]
+  },
+  {
+    "id": "20-wsn-b1b2-008",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less interested in postcard views than in places that slowly reveal detail the longer you stay with them.",
+    "portuguese": "Interesso-me menos por vistas de postal do que por lugares que revelam detalhe aos poucos quanto mais tempo ficamos com eles.",
+    "pronunciationNote": "een-teh-REH-soo-m MEN-oosh poor VEESH-tash d posh-TAL doo k poor loo-GAH-resh k reh-veh-LANG deh-TAH-ly owsh POH-koosh KWAN-too mysh TEM-poo fee-KAH-moosh kong AY-loosh",
+    "grammarFocus": "contrasting preferences",
+    "notes": "Useful in landscape conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "H\u00e1 s\u00edtios que impressionam logo e outros que ficam melhor na mem\u00f3ria.",
+        "english": "There are places that impress immediately and others that stay better in the memory."
+      }
+    ],
+    "tags": ["views", "landscape", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-009",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find rain comforting when I am inside, but much less romantic when I still have to get somewhere on foot.",
+    "portuguese": "Acho a chuva reconfortante quando estou dentro, mas muito menos rom\u00e2ntica quando ainda tenho de chegar a algum lado a p\u00e9.",
+    "pronunciationNote": "AH-shoo ah SHOO-vah reh-kon-for-TAN-t KWAN-doo esh-TOH DEN-troo, mahz MOOY-too MEN-oosh roh-MAN-tee-kah KWAN-doo een-DAH TEN-yoo d sheh-GAR ah al-GOOM LAH-doo ah PEH",
+    "grammarFocus": "contrasting situations",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Da janela tem gra\u00e7a; debaixo dela nem tanto.",
+        "english": "From the window it is charming; under it, not so much."
+      }
+    ],
+    "tags": ["rain", "walking", "opinions"]
+  },
+  {
+    "id": "20-wsn-b1b2-010",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more I go outside, the more I notice that each season has its own rhythm rather than just its own temperature.",
+    "portuguese": "Quanto mais saio, mais noto que cada esta\u00e7\u00e3o tem o seu pr\u00f3prio ritmo e n\u00e3o apenas a sua temperatura.",
+    "pronunciationNote": "KWAN-too mysh SAI-oo, mysh NOH-too k KAH-dah esh-tah-SOWN teng oo say-oo PROH-pree-oo REET-moo ee nown ah-PEH-nash ah soo-ah tem-peh-rah-TOO-rah",
+    "grammarFocus": "making an observation",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "A luz, os cheiros e o som dos lugares tamb\u00e9m mudam muito.",
+        "english": "The light, the smells, and the sound of places also change a lot."
+      }
+    ],
+    "tags": ["seasons", "observation", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-011",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need dramatic scenery if the atmosphere of a place feels coherent and grounded.",
+    "portuguese": "N\u00e3o preciso de uma paisagem dram\u00e1tica se a atmosfera de um lugar me parecer coerente e assente.",
+    "pronunciationNote": "nown preh-SEE-zoo d OO-mah pie-ZAH-zheng drah-MAH-tee-kah s ah ah-tmohs-FEH-rah d oom loo-GAR m pah-REH-sair koo-eh-REN-t ee ah-SEN-t",
+    "grammarFocus": "qualifying taste",
+    "notes": "Useful in nature discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "H\u00e1 beleza em s\u00edtios discretos quando tudo ali parece encaixar.",
+        "english": "There is beauty in quiet places when everything there seems to fit."
+      }
+    ],
+    "tags": ["landscape", "atmosphere", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-012",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What tires me most in bad weather is not the rain itself, but the constant need to adjust around it.",
+    "portuguese": "O que mais me cansa no mau tempo n\u00e3o \u00e9 a chuva em si, mas a necessidade constante de estar sempre a ajustar tudo \u00e0 volta dela.",
+    "pronunciationNote": "oo k mysh m KAN-sah noo mao TEM-poo nown eh ah SHOO-vah eng s, mahz ah neh-seh-see-DAH-d konsh-TAN-t d esh-TAR SAYM-pr ah ah-zhoosh-TAR TOO-doo ah VOL-tah DEH-lah",
+    "grammarFocus": "explaining frustration",
+    "notes": "Useful in everyday conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Roupa, transportes e planos ficam logo mais complicados.",
+        "english": "Clothes, transport, and plans all immediately get more complicated."
+      }
+    ],
+    "tags": ["bad weather", "daily life", "frustration"]
+  },
+  {
+    "id": "20-wsn-b1b2-013",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I prefer walking in cold, bright weather to walking in warm, heavy weather.",
+    "portuguese": "Prefiro caminhar com frio e luz a caminhar com calor e tempo pesado.",
+    "pronunciationNote": "preh-FEE-roo kah-mee-NYAR kong FREE-oo ee looz ah kah-mee-NYAR kong kah-LOR ee TEM-poo peh-ZAH-doo",
+    "grammarFocus": "comparing preferences",
+    "notes": "Useful in outdoors conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o ar estiver leve, aguento muito melhor o passeio.",
+        "english": "If the air feels light, I handle the walk much better."
+      }
+    ],
+    "tags": ["walking", "weather", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-014",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The places I remember best are often the ones where the weather became part of the experience instead of just the background.",
+    "portuguese": "Os s\u00edtios de que me lembro melhor s\u00e3o muitas vezes aqueles em que o tempo passou a fazer parte da experi\u00eancia e n\u00e3o apenas de fundo.",
+    "pronunciationNote": "oosh SEE-tee-oosh d k m LEM-broo meh-LYOR sown MOOY-tash VAY-zesh ah-KEH-loosh eng k oo TEM-poo pah-SOH ah fah-ZAIR PAR-t dah eks-peh-ree-EN-see-ah ee nown ah-PEH-nash d FOON-doo",
+    "grammarFocus": "reflecting on memories",
+    "notes": "Useful in travel and nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nalguns lugares, a neblina ou o vento mudam completamente a forma como os guardamos na mem\u00f3ria.",
+        "english": "In some places, fog or wind completely change how we keep them in memory."
+      }
+    ],
+    "tags": ["memory", "travel", "weather"]
+  },
+  {
+    "id": "20-wsn-b1b2-015",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like forecasts that are specific enough to be useful without pretending to be more certain than they really are.",
+    "portuguese": "Gosto de previs\u00f5es que sejam espec\u00edficas o suficiente para ajudar, sem fingirem ter mais certeza do que t\u00eam na realidade.",
+    "pronunciationNote": "GOSH-too d preh-vee-SOINSH k ZHAY-ang esh-peh-SEE-fee-kash oo soo-fee-see-EN-t PAH-rah ah-zhoo-DAR, seng feen-ZHEE-reng tair mysh ser-TEH-zah doo k TAYNG nah rreh-ah-lee-DAH-d",
+    "grammarFocus": "describing expectations",
+    "notes": "Useful in planning conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro uma previs\u00e3o honesta a uma precis\u00e3o falsa.",
+        "english": "I prefer an honest forecast to false precision."
+      }
+    ],
+    "tags": ["forecast", "planning", "expectations"]
+  },
+  {
+    "id": "20-wsn-b1b2-016",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The countryside feels most alive to me when you can hear both wind and small human activity at the same time.",
+    "portuguese": "O campo parece-me mais vivo quando se ouve ao mesmo tempo o vento e a pequena atividade humana.",
+    "pronunciationNote": "oo KAHM-poo pah-REH-s-m mysh VEE-voo KWAN-doo s OO-veh ow MAYZ-moo TEM-poo oo VEN-too ee ah peh-KEH-nah ah-tee-vee-DAH-d oo-MAH-nah",
+    "grammarFocus": "describing atmosphere",
+    "notes": "Useful in nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esse equil\u00edbrio faz-me sentir que o lugar respira.",
+        "english": "That balance makes me feel the place is breathing."
+      }
+    ],
+    "tags": ["countryside", "atmosphere", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-017",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not usually choose destinations by season alone, but the time of year can completely change how a place reads.",
+    "portuguese": "N\u00e3o costumo escolher destinos s\u00f3 pela esta\u00e7\u00e3o, mas a altura do ano pode mudar completamente a leitura de um lugar.",
+    "pronunciationNote": "nown koosh-TOO-mah esh-koh-LYAIR desh-TEE-noosh soh PEL-ah esh-tah-SOWN, mahz ah al-TOO-rah doo AH-noo PODE moo-DAR kong-pleh-tah-MEN-t ah lay-TOO-rah d oom loo-GAR",
+    "grammarFocus": "explaining nuance",
+    "notes": "Useful in travel discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A mesma paisagem pode parecer aberta, dura, tranquila ou melanc\u00f3lica consoante a luz.",
+        "english": "The same landscape can seem open, harsh, calm, or melancholic depending on the light."
+      }
+    ],
+    "tags": ["travel", "seasons", "landscape"]
+  },
+  {
+    "id": "20-wsn-b1b2-018",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate places where shade, water, and wind are part of how people actually live with the climate.",
+    "portuguese": "Dou valor a lugares onde a sombra, a \u00e1gua e o vento fazem parte da forma como as pessoas realmente vivem com o clima.",
+    "pronunciationNote": "doh vah-LOR ah loo-GAH-resh ON-d ah SOHM-brah, ah AH-gwah ee oo VEN-too FAH-zeng PAR-t dah FOR-mah KOH-moo az peh-SOH-ash rreh-al-MEN-t VEE-veng kong oo KLEE-mah",
+    "grammarFocus": "describing appreciation",
+    "notes": "Useful in place and climate discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nesses s\u00edtios, a arquitetura e o ambiente parecem conversar um com o outro.",
+        "english": "In those places, architecture and environment seem to speak to each other."
+      }
+    ],
+    "tags": ["climate", "places", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-019",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I miss most in dense urban life is not silence exactly, but the sense of distance and open air.",
+    "portuguese": "O que mais me faz falta na vida urbana densa n\u00e3o \u00e9 exatamente o sil\u00eancio, mas a sensa\u00e7\u00e3o de dist\u00e2ncia e de ar aberto.",
+    "pronunciationNote": "oo k mysh m faz FAL-tah nah VEE-dah oor-BAH-nah DEN-sah nown eh eh-zak-tah-MEN-t oo see-LEN-see-oo, mahz ah sen-sah-SOWN d deesh-TAN-see-ah ee d ar ah-BEHR-too",
+    "grammarFocus": "describing what is missing",
+    "notes": "Useful in conversations about city and nature.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo quando a cidade est\u00e1 calma, o corpo nota essa diferen\u00e7a.",
+        "english": "Even when the city is calm, the body notices that difference."
+      }
+    ],
+    "tags": ["city", "nature", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-020",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I have to choose between a perfect view and a place that feels physically comfortable, I often choose comfort.",
+    "portuguese": "Se tiver de escolher entre uma vista perfeita e um lugar fisicamente confort\u00e1vel, muitas vezes escolho o conforto.",
+    "pronunciationNote": "s tee-VAIR d esh-koh-LYAIR EN-tr OO-mah VEESH-tah pair-FAY-tah ee oom loo-GAR fee-see-kah-MEN-t kon-for-TAH-vel, MOOY-tash VAY-zesh esh-KOL-yoo oo kon-FOR-too",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in travel and outdoor planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estou a tremer ou a assar, nem a paisagem me prende tanto.",
+        "english": "If I am freezing or roasting, not even the landscape holds me that much."
+      }
+    ],
+    "tags": ["comfort", "outdoors", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-021",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like weather that makes you notice your surroundings more clearly, not weather that turns the day into a logistical problem.",
+    "portuguese": "Gosto de tempo que nos faz reparar melhor no que nos rodeia, e n\u00e3o de tempo que transforma o dia num problema log\u00edstico.",
+    "pronunciationNote": "GOSH-too d TEM-poo k noosh faz rreh-pah-RAR meh-LYOR noo k noosh roh-DAY-ah, ee nown d TEM-poo k transh-FOR-mah oo dee-ah noom proh-BLAY-mah loh-ZHEES-tee-koo",
+    "grammarFocus": "contrasting effects",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma ligeira mudan\u00e7a de luz pode abrir os olhos; uma tempestade s\u00f3 fecha planos.",
+        "english": "A slight shift of light can open your eyes; a storm just shuts plans down."
+      }
+    ],
+    "tags": ["weather", "perception", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-022",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have more patience for cold if the air is dry and the sky is clear.",
+    "portuguese": "Tenho mais paci\u00eancia para o frio se o ar estiver seco e o c\u00e9u limpo.",
+    "pronunciationNote": "TEN-yoo mysh pah-see-EN-see-ah PAH-rah oo FREE-oo s oo ar esh-TEE-vair SEH-koo ee oo SEH-oo LEEM-poo",
+    "grammarFocus": "setting a condition",
+    "notes": "Useful in weather preference discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "O frio h\u00famido custa-me muito mais do que o frio n\u00edtido.",
+        "english": "Damp cold is much harder for me than crisp cold."
+      }
+    ],
+    "tags": ["cold", "air", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-023",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The sea can calm me down, but it can also make me feel very small in a useful way.",
+    "portuguese": "O mar pode acalmar-me, mas tamb\u00e9m me pode fazer sentir muito pequeno de uma forma \u00fatil.",
+    "pronunciationNote": "oo mar PODE ah-kahl-MAR-m, mahz tam-BAYNG m PODE fah-ZAIR seen-TEER MOOY-too peh-KEH-noo d OO-mah FOR-mah OO-teel",
+    "grammarFocus": "describing emotional effect",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "P\u00f5e as coisas em perspetiva sem eu precisar de pensar muito.",
+        "english": "It puts things in perspective without my needing to think too much."
+      }
+    ],
+    "tags": ["sea", "emotion", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-024",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The kind of place I return to is usually one where the weather can change the mood without destroying the visit.",
+    "portuguese": "O tipo de lugar a que volto costuma ser aquele onde o tempo muda o ambiente sem estragar a visita.",
+    "pronunciationNote": "oo TEE-poo d loo-GAR ah k VOL-too koosh-TOO-mah sair ah-KEH-l ON-d oo TEM-poo MOO-dah oo am-bee-EN-t seng esh-trah-GAR ah vee-ZEE-tah",
+    "grammarFocus": "describing long-term preference",
+    "notes": "Useful in travel conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se um s\u00edtio s\u00f3 funciona com perfei\u00e7\u00e3o meteorol\u00f3gica, para mim perde profundidade.",
+        "english": "If a place only works in perfect weather, it loses depth for me."
+      }
+    ],
+    "tags": ["travel", "weather", "places"]
+  },
+  {
+    "id": "20-wsn-b1b2-025",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often enjoy winter landscapes precisely because they strip things back and make structure more visible.",
+    "portuguese": "Gosto muitas vezes de paisagens de inverno precisamente porque retiram excesso e tornam a estrutura mais vis\u00edvel.",
+    "pronunciationNote": "GOSH-too MOOY-tash VAY-zesh d pie-ZAH-zhensh d een-VAIR-noo preh-see-zah-MEN-t poor-k rreh-TEE-rang eks-SEH-soo ee TOR-nang ah esh-troo-TOO-rah mysh vee-ZEE-vel",
+    "grammarFocus": "explaining aesthetic taste",
+    "notes": "Useful in nature conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem tanto verde ou distra\u00e7\u00e3o, nota-se melhor a forma do lugar.",
+        "english": "Without so much green or distraction, the shape of the place becomes clearer."
+      }
+    ],
+    "tags": ["winter", "landscape", "aesthetics"]
+  },
+  {
+    "id": "20-wsn-b1b2-026",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try not to idealise nature too much, because part of what I value is how specific and local it feels.",
+    "portuguese": "Tento n\u00e3o idealizar demasiado a natureza, porque parte do que valorizo \u00e9 o facto de ela parecer espec\u00edfica e local.",
+    "pronunciationNote": "TEN-too nown ee-deh-ah-lee-ZAR deh-mah-zee-AH-doo ah nah-too-reh-zah, poor-k PAR-t doo k vah-loh-REE-zoo eh oo FAK-too d EH-lah pah-REH-sair esh-peh-SEE-fee-kah ee loh-KAL",
+    "grammarFocus": "qualifying a view",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto mais quando um lugar \u00e9 ele mesmo do que quando tenta parecer intocado em abstrato.",
+        "english": "I prefer when a place is simply itself rather than trying to seem abstractly untouched."
+      }
+    ],
+    "tags": ["nature", "reflection", "places"]
+  },
+  {
+    "id": "20-wsn-b1b2-027",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The weather can completely alter the scale of a landscape, making it feel either intimate or exposed.",
+    "portuguese": "O tempo pode alterar completamente a escala de uma paisagem, fazendo-a parecer \u00edntima ou exposta.",
+    "pronunciationNote": "oo TEM-poo PODE al-teh-RAR kong-pleh-tah-MEN-t ah ES-kah-lah d OO-mah pie-ZAH-zheng, fah-ZENG-doo-ah pah-REH-sair EEN-tee-mah oo eks-POHS-tah",
+    "grammarFocus": "describing effect",
+    "notes": "Useful in landscape conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "A mesma serra pode acolher num dia e afastar no seguinte.",
+        "english": "The same mountain range can feel welcoming one day and distant the next."
+      }
+    ],
+    "tags": ["landscape", "weather", "perception"]
+  },
+  {
+    "id": "20-wsn-b1b2-028",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not always need sunshine to enjoy being outside; I just need the weather to feel inhabitable.",
+    "portuguese": "Nem sempre preciso de sol para gostar de estar l\u00e1 fora; s\u00f3 preciso que o tempo pare\u00e7a habit\u00e1vel.",
+    "pronunciationNote": "neng SAYM-pr preh-SEE-zoo d sol PAH-rah gosh-TAR d esh-TAR lah FOR-ah; soh preh-SEE-zoo k oo TEM-poo pah-REH-sah ah-bee-TAH-vel",
+    "grammarFocus": "qualifying preference",
+    "notes": "Useful in weather conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Luz suave e ar fresco muitas vezes chegam perfeitamente.",
+        "english": "Soft light and fresh air are often more than enough."
+      }
+    ],
+    "tags": ["outdoors", "weather", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-029",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The best walks for me are the ones where the landscape keeps changing just enough to reset my attention.",
+    "portuguese": "Os melhores passeios para mim s\u00e3o aqueles em que a paisagem vai mudando o suficiente para me renovar a aten\u00e7\u00e3o.",
+    "pronunciationNote": "oosh meh-LYOH-resh pah-SAY-oosh PAH-rah meeng sown ah-KEH-loosh eng k ah pie-ZAH-zheng vy moo-DAN-doo oo soo-fee-see-EN-t PAH-rah m rreh-noh-VAR ah ah-ten-SOWN",
+    "grammarFocus": "describing preference",
+    "notes": "Useful in hiking and nature talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo se repete demasiado, deixo de reparar realmente.",
+        "english": "When everything repeats too much, I stop truly noticing."
+      }
+    ],
+    "tags": ["walks", "nature", "attention"]
+  },
+  {
+    "id": "20-wsn-b1b2-030",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "There is a kind of winter light that makes even ordinary places feel more precise.",
+    "portuguese": "H\u00e1 um tipo de luz de inverno que faz at\u00e9 os lugares comuns parecerem mais precisos.",
+    "pronunciationNote": "AH oom TEE-poo d looz d een-VAIR-noo k faz ah-TAY oosh loo-GAH-resh koh-MOONGSH pah-REH-sair-eng mysh preh-SEE-soosh",
+    "grammarFocus": "describing atmosphere",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "As sombras ficam mais n\u00edtidas e tudo parece ganhar contorno.",
+        "english": "The shadows become sharper and everything seems to gain outline."
+      }
+    ],
+    "tags": ["winter", "light", "observation"]
+  },
+  {
+    "id": "20-wsn-b1b2-031",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think people sometimes underestimate how much weather shapes social life in subtle ways.",
+    "portuguese": "Acho que as pessoas por vezes subestimam o quanto o tempo molda a vida social de formas subtis.",
+    "pronunciationNote": "AH-shoo k az peh-SOH-ash poor VAY-zesh soo-behsh-tee-MANG oo KWAN-too oo TEM-poo MOL-dah ah VEE-dah soh-see-AL d FOR-mash soob-TEESH",
+    "grammarFocus": "expressing an opinion",
+    "notes": "Useful in broader conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muda o ritmo das conversas, dos encontros e at\u00e9 da vontade de sair.",
+        "english": "It changes the rhythm of conversations, meetings, and even the desire to go out."
+      }
+    ],
+    "tags": ["weather", "social life", "analysis"]
+  },
+  {
+    "id": "20-wsn-b1b2-032",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The landscapes I trust most are the ones that still have character when the weather turns flat.",
+    "portuguese": "As paisagens em que mais confio s\u00e3o as que ainda t\u00eam car\u00e1ter quando o tempo fica plano.",
+    "pronunciationNote": "azh pie-ZAH-zhensh eng k mysh kon-FEE-oo sown az k een-DAH TAYNG kah-RAK-ter KWAN-doo oo TEM-poo FEE-kah PLAH-noo",
+    "grammarFocus": "describing standards",
+    "notes": "Useful in landscape discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se um lugar s\u00f3 resulta com o filtro certo, talvez n\u00e3o tenha tanta for\u00e7a assim.",
+        "english": "If a place only works with the right filter, perhaps it is not that strong."
+      }
+    ],
+    "tags": ["landscape", "weather", "aesthetics"]
+  },
+  {
+    "id": "20-wsn-b1b2-033",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I usually notice nature most clearly when I stop trying to have an experience and just pay attention to what is already there.",
+    "portuguese": "Costumo reparar mais claramente na natureza quando deixo de tentar ter uma experi\u00eancia e simplesmente presto aten\u00e7\u00e3o ao que j\u00e1 est\u00e1 ali.",
+    "pronunciationNote": "koosh-TOO-mah rreh-pah-RAR mysh klah-RAH-men-t nah nah-too-reh-zah KWAN-doo DAY-shoo d ten-TAR tair OO-mah eks-peh-ree-EN-see-ah ee seem-plehz-MEN-t PREHSH-too ah-ten-SOWN ow k zhah esh-TAH ah-LEE",
+    "grammarFocus": "describing awareness",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muitas vezes o mais forte \u00e9 aquilo que n\u00e3o est\u00e1vamos \u00e0 espera de notar.",
+        "english": "Often the strongest thing is what we were not expecting to notice."
+      }
+    ],
+    "tags": ["nature", "attention", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-034",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I prefer trails that feel varied rather than technically impressive but monotonous.",
+    "portuguese": "Prefiro trilhos que parecem variados em vez de tecnicamente impressionantes mas mon\u00f3tonos.",
+    "pronunciationNote": "preh-FEE-roo TREE-lyoosh k pah-REH-seng vah-ree-AH-doosh eng vez d tek-nee-kah-MEN-t eem-presh-see-oh-NAN-tesh mahz moh-NOH-toh-noosh",
+    "grammarFocus": "contrasting qualities",
+    "notes": "Useful in hiking conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o caminho me surpreende aos poucos, fico muito mais presente.",
+        "english": "If the path keeps surprising me gradually, I stay much more present."
+      }
+    ],
+    "tags": ["trails", "walking", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-035",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The right kind of wind can make a place feel alive, but too much of it makes everything feel defensive.",
+    "portuguese": "O tipo certo de vento pode dar vida a um lugar, mas vento a mais faz tudo parecer defensivo.",
+    "pronunciationNote": "oo TEE-poo SER-too d VEN-too PODE dar VEE-dah ah oom loo-GAR, mahz VEN-too ah mysh faz TOO-doo pah-REH-sair deh-feng-SEE-voo",
+    "grammarFocus": "contrasting effects",
+    "notes": "Useful in coastal and mountain talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma brisa abre o espa\u00e7o; uma rajada constante fecha-o.",
+        "english": "A breeze opens the space up; a constant gust closes it down."
+      }
+    ],
+    "tags": ["wind", "places", "weather"]
+  },
+  {
+    "id": "20-wsn-b1b2-036",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often feel closer to a place in off-season months, when it is not performing itself for visitors.",
+    "portuguese": "Muitas vezes sinto-me mais pr\u00f3ximo de um lugar fora de \u00e9poca, quando n\u00e3o est\u00e1 a representar-se para visitantes.",
+    "pronunciationNote": "MOOY-tash VAY-zesh SEEN-too-m mysh PROHk-see-moo d oom loo-GAR FOR-ah d EH-poh-kah, KWAN-doo nown esh-TAH ah rreh-preh-zeng-TAR-s PAH-rah vee-zee-TAN-tesh",
+    "grammarFocus": "describing emotional connection",
+    "notes": "Useful in travel conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem tanta pressa ou ru\u00eddo, noto melhor a sua textura real.",
+        "english": "Without so much rush or noise, I notice its real texture better."
+      }
+    ],
+    "tags": ["travel", "seasons", "places"]
+  },
+  {
+    "id": "20-wsn-b1b2-037",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need nature to feel untouched; I need it to feel honest.",
+    "portuguese": "N\u00e3o preciso que a natureza pare\u00e7a intocada; preciso que pare\u00e7a honesta.",
+    "pronunciationNote": "nown preh-SEE-zoo k ah nah-too-reh-zah pah-REH-sah een-toh-KAH-dah; preh-SEE-zoo k pah-REH-sah oh-NESH-tah",
+    "grammarFocus": "stating a principle",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, isso vale mais do que uma ideia rom\u00e2ntica de pureza.",
+        "english": "For me, that matters more than a romantic idea of purity."
+      }
+    ],
+    "tags": ["nature", "values", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-038",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I enjoy most about autumn is the sense of transition without the exhaustion of full summer heat.",
+    "portuguese": "O que mais gosto no outono \u00e9 a sensa\u00e7\u00e3o de transi\u00e7\u00e3o sem o desgaste do calor forte do ver\u00e3o.",
+    "pronunciationNote": "oo k mysh GOSH-too noo ow-TOH-noo eh ah sen-sah-SOWN d trans-ee-SOWN seng oo dezh-GASH-t doo kah-LOR FOR-t doo veh-ROWN",
+    "grammarFocus": "describing why you like something",
+    "notes": "Useful in seasons conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece um tempo mais respir\u00e1vel sem perder totalmente a luz.",
+        "english": "It feels like more breathable weather without losing the light completely."
+      }
+    ],
+    "tags": ["autumn", "seasons", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-039",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "A place feels richer to me when the weather changes how you move through it rather than just how it looks.",
+    "portuguese": "Um lugar parece-me mais rico quando o tempo muda a forma como nos movemos por ele e n\u00e3o apenas a forma como ele se mostra.",
+    "pronunciationNote": "oom loo-GAR pah-REH-s-m mysh RREE-koo KWAN-doo oo TEM-poo MOO-dah ah FOR-mah KOH-moo noosh moh-VAY-moosh poor EH-l ee nown ah-PEH-nash ah FOR-mah KOH-moo EH-l s MOHSH-trah",
+    "grammarFocus": "describing experience",
+    "notes": "Useful in travel and outdoor conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o clima muda o ritmo do corpo, o lugar entra mais fundo na mem\u00f3ria.",
+        "english": "If the climate changes the body's rhythm, the place goes deeper into memory."
+      }
+    ],
+    "tags": ["places", "weather", "experience"]
+  },
+  {
+    "id": "20-wsn-b1b2-040",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I generally trust my own sense of the sky more once I have spent time in the same region.",
+    "portuguese": "Costumo confiar mais na minha leitura do c\u00e9u depois de passar algum tempo na mesma regi\u00e3o.",
+    "pronunciationNote": "koosh-TOO-mah kon-fee-AR mysh nah MEE-nyah lay-TOO-rah doo SEH-oo deh-POYSH d pah-SAR al-GOOM TEM-poo nah MAYZ-mah rreh-zhee-OWN",
+    "grammarFocus": "describing learned intuition",
+    "notes": "Useful in practical weather talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de algum tempo, aprende-se a notar sinais pequenos.",
+        "english": "After a while, you learn to notice small signs."
+      }
+    ],
+    "tags": ["weather", "observation", "experience"]
+  },
+  {
+    "id": "20-wsn-b1b2-041",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The kind of cold I enjoy is the kind that sharpens things, not the kind that seeps into everything.",
+    "portuguese": "O frio de que gosto \u00e9 aquele que afia as coisas, e n\u00e3o aquele que se mete em tudo.",
+    "pronunciationNote": "oo FREE-oo d k GOSH-too eh ah-KEH-l k ah-FEE-ah az KOY-zash, ee nown ah-KEH-l k s MEH-t eng TOO-doo",
+    "grammarFocus": "contrasting kinds of experience",
+    "notes": "Useful in weather preference discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma coisa \u00e9 acordar; outra \u00e9 ficar preso ao desconforto o dia inteiro.",
+        "english": "One thing is waking up; another is being trapped in discomfort all day."
+      }
+    ],
+    "tags": ["cold", "preferences", "weather"]
+  },
+  {
+    "id": "20-wsn-b1b2-042",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate paths that make room for pauses, views, and changes in pace rather than only for progress.",
+    "portuguese": "Dou valor a caminhos que deixam espa\u00e7o para pausas, vistas e mudan\u00e7as de ritmo, e n\u00e3o apenas para avan\u00e7ar.",
+    "pronunciationNote": "doh vah-LOR ah kah-MEE-nyoosh k DAY-shang esh-PAH-soo PAH-rah POW-zash, VEESH-tash ee moo-DAN-sash d REET-moo, ee nown ah-PEH-nash PAH-rah ah-vahn-SAR",
+    "grammarFocus": "describing what you value",
+    "notes": "Useful in walking and hiking conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "O passeio sabe melhor quando o corpo e o olhar podem ajustar-se.",
+        "english": "A walk feels better when the body and the gaze can adjust."
+      }
+    ],
+    "tags": ["walking", "paths", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-043",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "There is a certain kind of mist that does not hide a landscape so much as simplify it.",
+    "portuguese": "H\u00e1 um certo tipo de neblina que n\u00e3o esconde tanto uma paisagem como a simplifica.",
+    "pronunciationNote": "AH oom SER-too TEE-poo d neh-BLEE-nah k nown esh-KON-d TAN-too OO-mah pie-ZAH-zheng KOH-moo ah seem-plee-FEE-kah",
+    "grammarFocus": "describing a visual effect",
+    "notes": "Useful in descriptive conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "De repente, s\u00f3 ficam as linhas principais e tudo ganha outro peso.",
+        "english": "Suddenly, only the main lines remain and everything takes on a different weight."
+      }
+    ],
+    "tags": ["mist", "landscape", "description"]
+  },
+  {
+    "id": "20-wsn-b1b2-044",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I stay long enough in one place, I start noticing not just the view but the pattern of the weather itself.",
+    "portuguese": "Se fico tempo suficiente num lugar, come\u00e7o a notar n\u00e3o s\u00f3 a vista mas tamb\u00e9m o pr\u00f3prio padr\u00e3o do tempo.",
+    "pronunciationNote": "s FEE-koo TEM-poo soo-fee-see-EN-t noom loo-GAR, koh-MEH-soo ah noh-TAR nown soh ah VEESH-tah mahz tam-BAYNG oo PROH-pree-oo pah-DROWN doo TEM-poo",
+    "grammarFocus": "describing growing awareness",
+    "notes": "Useful in place-based conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "A paisagem deixa de ser s\u00f3 imagem e passa a ter comportamento.",
+        "english": "The landscape stops being just an image and starts having behaviour."
+      }
+    ],
+    "tags": ["place", "weather", "observation"]
+  },
+  {
+    "id": "20-wsn-b1b2-045",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Good outdoor weather, for me, is weather that lets the body relax without making the mind sleepy.",
+    "portuguese": "Bom tempo para estar l\u00e1 fora, para mim, \u00e9 o tempo que deixa o corpo relaxar sem adormecer a cabe\u00e7a.",
+    "pronunciationNote": "bong TEM-poo PAH-rah esh-TAR lah FOR-ah, PAH-rah meeng, eh oo TEM-poo k DAY-shah oo KOR-poo rreh-lah-SHAR seng ah-dor-meh-SAIR ah kah-BEH-sah",
+    "grammarFocus": "defining something",
+    "notes": "Useful in lifestyle conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero energia calma, n\u00e3o torpor nem irrita\u00e7\u00e3o.",
+        "english": "I want calm energy, not sluggishness or irritation."
+      }
+    ],
+    "tags": ["outdoors", "weather", "preferences"]
+  },
+  {
+    "id": "20-wsn-b1b2-046",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like places where you can sense the season not only visually, but also in smell, sound, and movement.",
+    "portuguese": "Gosto de lugares onde se sente a esta\u00e7\u00e3o n\u00e3o s\u00f3 visualmente, mas tamb\u00e9m no cheiro, no som e no movimento.",
+    "pronunciationNote": "GOSH-too d loo-GAH-resh ON-d s SEN-t ah esh-tah-SOWN nown soh vee-zhoo-al-MEN-t, mahz tam-BAYNG noo SHAY-roo, noo som ee noo moh-vee-MEN-too",
+    "grammarFocus": "describing sensory experience",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo muda em conjunto, a esta\u00e7\u00e3o torna-se muito mais real.",
+        "english": "When everything changes together, the season becomes much more real."
+      }
+    ],
+    "tags": ["seasons", "senses", "nature"]
+  },
+  {
+    "id": "20-wsn-b1b2-047",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not think comfort and wildness are opposites; the best places often hold both at once.",
+    "portuguese": "N\u00e3o acho que conforto e lado selvagem sejam opostos; os melhores lugares muitas vezes t\u00eam os dois ao mesmo tempo.",
+    "pronunciationNote": "nown AH-shoo k kon-FOR-too ee LAH-doo sel-VAH-zheng ZHAY-ang oh-POH-stoosh; oosh meh-LYOH-resh loo-GAH-resh MOOY-tash VAY-zesh TAYNG oosh DOYSH ow MAYZ-moo TEM-poo",
+    "grammarFocus": "making an argument",
+    "notes": "Useful in nature and travel discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma margem acess\u00edvel pode ainda assim dar-nos a sensa\u00e7\u00e3o de abertura e risco.",
+        "english": "An accessible riverbank can still give us a feeling of openness and risk."
+      }
+    ],
+    "tags": ["nature", "comfort", "wildness"]
+  },
+  {
+    "id": "20-wsn-b1b2-048",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find that weather becomes more interesting the less I ask it to match my plans perfectly.",
+    "portuguese": "Acho que o tempo se torna mais interessante quanto menos lhe pe\u00e7o que combine perfeitamente com os meus planos.",
+    "pronunciationNote": "AH-shoo k oo TEM-poo s TOR-nah mysh een-teh-reh-SAN-t KWAN-too MEN-oosh lyeh PESSH-oo k kong-BEE-neh pair-fay-tah-MEN-t kong oosh MAY-oosh PLAH-noosh",
+    "grammarFocus": "describing a shift in attitude",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando deixo margem para adapta\u00e7\u00e3o, noto muito mais do lugar em si.",
+        "english": "When I leave room for adaptation, I notice much more of the place itself."
+      }
+    ],
+    "tags": ["weather", "planning", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-049",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The older I get, the more I value nature less as spectacle and more as calibration.",
+    "portuguese": "Quanto mais velho fico, mais valorizo a natureza menos como espet\u00e1culo e mais como forma de me recalibrar.",
+    "pronunciationNote": "KWAN-too mysh VEL-yoo FEE-koo, mysh vah-loh-REE-zoo ah nah-too-reh-zah MEN-oosh KOH-moo esh-peh-TAH-koo-loo ee mysh KOH-moo FOR-mah d m rreh-kah-lee-BRAR",
+    "grammarFocus": "describing a change in values",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre preciso de deslumbramento; muitas vezes preciso s\u00f3 de me recentrar.",
+        "english": "I do not always need wonder; often I just need to recenter myself."
+      }
+    ],
+    "tags": ["nature", "values", "reflection"]
+  },
+  {
+    "id": "20-wsn-b1b2-050",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If a landscape stays with me afterwards, it is usually because the weather, the light, and my state of mind all lined up for a moment.",
+    "portuguese": "Se uma paisagem fica comigo depois, \u00e9 geralmente porque o tempo, a luz e o meu estado de esp\u00edrito se alinharam por um momento.",
+    "pronunciationNote": "s OO-mah pie-ZAH-zheng FEE-kah kon-TEE-goo deh-POYSH, eh zheh-rahl-MEN-t poor-k oo TEM-poo, ah looz ee oo may-oo esh-TAH-doo d esh-PEE-ree-too s ah-lee-NYAH-rang poor oom moo-MEN-too",
+    "grammarFocus": "explaining a memory",
+    "notes": "Useful in reflective and descriptive conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o foi s\u00f3 o lugar; foi a coincid\u00eancia certa entre o lugar e quem eu era naquele instante.",
+        "english": "It was not just the place; it was the right coincidence between the place and who I was in that moment."
+      }
+    ],
+    "tags": ["memory", "landscape", "reflection"]
+  }
+]

@@ -113,7 +113,7 @@ export default function FlashcardLibraryPanel({
                 key={subject.id}
                 type="button"
                 onClick={() => setSubjectId(subject.id)}
-                className={`rounded-[1.5rem] border p-4 text-left text-sm transition ${
+                className={`flex min-h-[5.5rem] items-center rounded-[1.5rem] border p-4 text-left text-sm transition ${
                   isSelected ? 'border-sun/50 bg-white/15' : 'border-white/10 bg-slate-950/20 hover:bg-white/10'
                 }`}
               >

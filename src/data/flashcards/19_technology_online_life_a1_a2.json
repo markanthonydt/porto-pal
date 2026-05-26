@@ -1,0 +1,952 @@
+[
+  {
+    "id": "19-tol-a1a2-001",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you use your phone a lot?",
+    "portuguese": "Usas muito o telem\u00f3vel?",
+    "pronunciationNote": "OO-zash MOOY-too oo تہ-leh-MOH-vel",
+    "grammarFocus": "asking about habits",
+    "notes": "General question about phone use.",
+    "exampleSentences": [
+      {
+        "portuguese": "Usas muito o telem\u00f3vel durante o dia?",
+        "english": "Do you use your phone a lot during the day?"
+      }
+    ],
+    "tags": ["technology", "phone", "habits"]
+  },
+  {
+    "id": "19-tol-a1a2-002",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I check my email every day.",
+    "portuguese": "Vejo o meu email todos os dias.",
+    "pronunciationNote": "VEH-zhoo oo may-oo ee-MAIL TOH-dooz oosh DEE-ash",
+    "grammarFocus": "talking about routine",
+    "notes": "Useful for everyday digital habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manh\u00e3, vejo o meu email todos os dias.",
+        "english": "In the morning, I check my email every day."
+      }
+    ],
+    "tags": ["email", "routine", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-003",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My battery is low.",
+    "portuguese": "A minha bateria est\u00e1 fraca.",
+    "pronunciationNote": "ah MEE-nyah bah-teh-REE-ah esh-TAH FRAH-kah",
+    "grammarFocus": "describing device status",
+    "notes": "Useful when using a phone or laptop.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de um carregador. A minha bateria est\u00e1 fraca.",
+        "english": "I need a charger. My battery is low."
+      }
+    ],
+    "tags": ["battery", "device", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-004",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a charger?",
+    "portuguese": "Tens um carregador?",
+    "pronunciationNote": "TENSH oom kah-rreh-gah-DOR",
+    "grammarFocus": "asking for an object",
+    "notes": "Useful for practical situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, tens um carregador?",
+        "english": "Sorry, do you have a charger?"
+      }
+    ],
+    "tags": ["charger", "request", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-005",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I charge my phone here?",
+    "portuguese": "Posso carregar o telem\u00f3vel aqui?",
+    "pronunciationNote": "POH-soo kah-rreh-GAR oo تہ-leh-MOH-vel ah-KEE",
+    "grammarFocus": "asking permission",
+    "notes": "Useful in cafes and public spaces.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso carregar o telem\u00f3vel aqui por um bocadinho?",
+        "english": "Can I charge my phone here for a bit?"
+      }
+    ],
+    "tags": ["phone", "charging", "permission"]
+  },
+  {
+    "id": "19-tol-a1a2-006",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The internet is slow.",
+    "portuguese": "A internet est\u00e1 lenta.",
+    "pronunciationNote": "ah een-ter-NET esh-TAH LEN-tah",
+    "grammarFocus": "describing connection quality",
+    "notes": "Basic complaint about Wi-Fi or data.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje a internet est\u00e1 lenta.",
+        "english": "Today the internet is slow."
+      }
+    ],
+    "tags": ["internet", "wifi", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-007",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there Wi-Fi here?",
+    "portuguese": "H\u00e1 Wi-Fi aqui?",
+    "pronunciationNote": "AH wai-fai ah-KEE",
+    "grammarFocus": "asking about availability",
+    "notes": "Useful in cafes, hotels, and public places.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, h\u00e1 Wi-Fi aqui?",
+        "english": "Excuse me, is there Wi-Fi here?"
+      }
+    ],
+    "tags": ["wifi", "internet", "availability"]
+  },
+  {
+    "id": "19-tol-a1a2-008",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What is the Wi-Fi password?",
+    "portuguese": "Qual \u00e9 a palavra-passe do Wi-Fi?",
+    "pronunciationNote": "kwahl eh ah pah-LAHV-rah PAH-s doo wai-fai",
+    "grammarFocus": "asking for information",
+    "notes": "European Portuguese uses palavra-passe.",
+    "exampleSentences": [
+      {
+        "portuguese": "Qual \u00e9 a palavra-passe do Wi-Fi, por favor?",
+        "english": "What is the Wi-Fi password, please?"
+      }
+    ],
+    "tags": ["wifi", "password", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-009",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The signal is weak.",
+    "portuguese": "O sinal est\u00e1 fraco.",
+    "pronunciationNote": "oo see-NAL esh-TAH FRAH-koo",
+    "grammarFocus": "describing connection problems",
+    "notes": "Useful for phones and data.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui o sinal est\u00e1 fraco.",
+        "english": "The signal is weak here."
+      }
+    ],
+    "tags": ["signal", "phone", "connection"]
+  },
+  {
+    "id": "19-tol-a1a2-010",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to connect to the internet.",
+    "portuguese": "Preciso de me ligar \u00e0 internet.",
+    "pronunciationNote": "preh-SEE-zoo d m lee-GAR ah een-ter-NET",
+    "grammarFocus": "expressing need",
+    "notes": "General connectivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de me ligar \u00e0 internet para trabalhar.",
+        "english": "I need to connect to the internet to work."
+      }
+    ],
+    "tags": ["internet", "need", "connection"]
+  },
+  {
+    "id": "19-tol-a1a2-011",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you send me the link?",
+    "portuguese": "Podes enviar-me o link?",
+    "pronunciationNote": "POH-desh en-vee-AR-m oo lingk",
+    "grammarFocus": "asking someone to do something",
+    "notes": "Common online-life request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando puderes, podes enviar-me o link?",
+        "english": "When you can, can you send me the link?"
+      }
+    ],
+    "tags": ["link", "messages", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-012",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I sent you a message.",
+    "portuguese": "Enviei-te uma mensagem.",
+    "pronunciationNote": "en-vee-AY-t OO-mah men-SAH-zheng",
+    "grammarFocus": "talking about recent actions",
+    "notes": "Useful for messaging apps.",
+    "exampleSentences": [
+      {
+        "portuguese": "Enviei-te uma mensagem h\u00e1 pouco.",
+        "english": "I sent you a message a little while ago."
+      }
+    ],
+    "tags": ["message", "apps", "communication"]
+  },
+  {
+    "id": "19-tol-a1a2-013",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Did you get my message?",
+    "portuguese": "Recebeste a minha mensagem?",
+    "pronunciationNote": "reh-SEH-besht ah MEE-nyah men-SAH-zheng",
+    "grammarFocus": "asking about receipt",
+    "notes": "Useful in everyday messaging.",
+    "exampleSentences": [
+      {
+        "portuguese": "Recebeste a minha mensagem de ontem?",
+        "english": "Did you get my message from yesterday?"
+      }
+    ],
+    "tags": ["message", "communication", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-014",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I forgot my password.",
+    "portuguese": "Esqueci-me da palavra-passe.",
+    "pronunciationNote": "esh-keh-SEE-m dah pah-LAHV-rah PAH-s",
+    "grammarFocus": "talking about a problem",
+    "notes": "Useful for account access.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo entrar. Esqueci-me da palavra-passe.",
+        "english": "I cannot get in. I forgot my password."
+      }
+    ],
+    "tags": ["password", "account", "problem"]
+  },
+  {
+    "id": "19-tol-a1a2-015",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot log in.",
+    "portuguese": "N\u00e3o consigo entrar.",
+    "pronunciationNote": "nown kon-SEE-goo en-TRAR",
+    "grammarFocus": "describing a problem",
+    "notes": "Common for websites and apps.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo entrar na aplica\u00e7\u00e3o.",
+        "english": "I cannot log in to the app."
+      }
+    ],
+    "tags": ["login", "problem", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-016",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The app is not working.",
+    "portuguese": "A aplica\u00e7\u00e3o n\u00e3o est\u00e1 a funcionar.",
+    "pronunciationNote": "ah ah-plee-kah-SOWN nown esh-TAH ah foon-see-oh-NAR",
+    "grammarFocus": "describing a malfunction",
+    "notes": "Useful for technical problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje a aplica\u00e7\u00e3o n\u00e3o est\u00e1 a funcionar bem.",
+        "english": "Today the app is not working well."
+      }
+    ],
+    "tags": ["app", "problem", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-017",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My screen is broken.",
+    "portuguese": "O meu ecr\u00e3 est\u00e1 partido.",
+    "pronunciationNote": "oo may-oo eh-KRAN esh-TAH pahr-TEE-doo",
+    "grammarFocus": "describing device damage",
+    "notes": "Useful in repair situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo usar bem o telem\u00f3vel. O meu ecr\u00e3 est\u00e1 partido.",
+        "english": "I cannot use my phone properly. My screen is broken."
+      }
+    ],
+    "tags": ["screen", "repair", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-018",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to update my phone.",
+    "portuguese": "Preciso de atualizar o telem\u00f3vel.",
+    "pronunciationNote": "preh-SEE-zoo d ah-too-ah-lee-ZAR oo تہ-leh-MOH-vel",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for software updates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de atualizar o telem\u00f3vel esta noite.",
+        "english": "I need to update my phone tonight."
+      }
+    ],
+    "tags": ["update", "phone", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-019",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we make a video call?",
+    "portuguese": "Podemos fazer uma videochamada?",
+    "pronunciationNote": "poh-DEH-moosh fah-ZAIR OO-mah vee-deh-oh-shah-MAH-dah",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful for remote conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiseres, podemos fazer uma videochamada.",
+        "english": "If you want, we can make a video call."
+      }
+    ],
+    "tags": ["video call", "communication", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-020",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot hear you well.",
+    "portuguese": "N\u00e3o te o\u00e7o bem.",
+    "pronunciationNote": "nown t aw-soh beng",
+    "grammarFocus": "describing call problems",
+    "notes": "Useful in phone and video calls.",
+    "exampleSentences": [
+      {
+        "portuguese": "A liga\u00e7\u00e3o est\u00e1 m\u00e1. N\u00e3o te o\u00e7o bem.",
+        "english": "The connection is bad. I cannot hear you well."
+      }
+    ],
+    "tags": ["call", "audio", "problem"]
+  },
+  {
+    "id": "19-tol-a1a2-021",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Your camera is off.",
+    "portuguese": "A tua c\u00e2mara est\u00e1 desligada.",
+    "pronunciationNote": "ah TOO-ah KAH-mah-rah esh-TAH deezh-lee-GAH-dah",
+    "grammarFocus": "describing device status",
+    "notes": "Useful in video calls.",
+    "exampleSentences": [
+      {
+        "portuguese": "A tua c\u00e2mara est\u00e1 desligada no Zoom.",
+        "english": "Your camera is off on Zoom."
+      }
+    ],
+    "tags": ["camera", "video call", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-022",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you see my screen?",
+    "portuguese": "Consegues ver o meu ecr\u00e3?",
+    "pronunciationNote": "kon-SEH-guesh vair oo may-oo eh-KRAN",
+    "grammarFocus": "checking understanding",
+    "notes": "Useful while sharing a screen.",
+    "exampleSentences": [
+      {
+        "portuguese": "Consegues ver o meu ecr\u00e3 agora?",
+        "english": "Can you see my screen now?"
+      }
+    ],
+    "tags": ["screen", "video call", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-023",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am working from home today.",
+    "portuguese": "Hoje estou a trabalhar a partir de casa.",
+    "pronunciationNote": "OH-zh esh-TOH ah trah-bah-LYAR ah pahr-TEER d KAH-zah",
+    "grammarFocus": "talking about current arrangements",
+    "notes": "Useful for remote work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a trabalhar a partir de casa o dia todo.",
+        "english": "Today I am working from home all day."
+      }
+    ],
+    "tags": ["remote work", "routine", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-024",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am in an online meeting.",
+    "portuguese": "Estou numa reuni\u00e3o online.",
+    "pronunciationNote": "esh-TOH NOO-mah reh-oo-nee-OWN on-LINE",
+    "grammarFocus": "talking about current activity",
+    "notes": "Useful for work and study.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o posso falar agora. Estou numa reuni\u00e3o online.",
+        "english": "I cannot talk now. I am in an online meeting."
+      }
+    ],
+    "tags": ["meeting", "online", "work"]
+  },
+  {
+    "id": "19-tol-a1a2-025",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you mute your microphone?",
+    "portuguese": "Podes desligar o microfone?",
+    "pronunciationNote": "POH-desh deezh-lee-GAR oo mee-kroh-FOH-n",
+    "grammarFocus": "making a request",
+    "notes": "Useful in calls and meetings.",
+    "exampleSentences": [
+      {
+        "portuguese": "H\u00e1 barulho. Podes desligar o microfone?",
+        "english": "There is noise. Can you mute your microphone?"
+      }
+    ],
+    "tags": ["microphone", "meeting", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-026",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to download this file.",
+    "portuguese": "Preciso de descarregar este ficheiro.",
+    "pronunciationNote": "preh-SEE-zoo d desh-kahr-reh-GAR ESH-t fee-SHAY-roo",
+    "grammarFocus": "expressing need",
+    "notes": "European Portuguese uses ficheiro for file.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de descarregar este ficheiro para a reuni\u00e3o.",
+        "english": "I need to download this file for the meeting."
+      }
+    ],
+    "tags": ["download", "file", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-027",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you open the file?",
+    "portuguese": "Podes abrir o ficheiro?",
+    "pronunciationNote": "POH-desh ah-BREER oo fee-SHAY-roo",
+    "grammarFocus": "asking someone to do something",
+    "notes": "Useful with documents and attachments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes abrir o ficheiro que te mandei?",
+        "english": "Can you open the file I sent you?"
+      }
+    ],
+    "tags": ["file", "document", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-028",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It takes a long time to load.",
+    "portuguese": "Demora muito tempo a carregar.",
+    "pronunciationNote": "deh-MOH-rah MOOY-too TEM-poo ah kah-rreh-GAR",
+    "grammarFocus": "describing performance",
+    "notes": "Useful for sites and apps.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje a p\u00e1gina demora muito tempo a carregar.",
+        "english": "Today the page takes a long time to load."
+      }
+    ],
+    "tags": ["loading", "website", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-029",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The website is down.",
+    "portuguese": "O site est\u00e1 em baixo.",
+    "pronunciationNote": "oo site esh-TAH eng BY-shoo",
+    "grammarFocus": "describing a service problem",
+    "notes": "Useful in online contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo entrar porque o site est\u00e1 em baixo.",
+        "english": "I cannot access it because the website is down."
+      }
+    ],
+    "tags": ["website", "problem", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-030",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I only saw your message now.",
+    "portuguese": "S\u00f3 vi a tua mensagem agora.",
+    "pronunciationNote": "soh vee ah TOO-ah men-SAH-zheng ah-GOH-rah",
+    "grammarFocus": "talking about recent events",
+    "notes": "Useful in chats.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, s\u00f3 vi a tua mensagem agora.",
+        "english": "Sorry, I only saw your message now."
+      }
+    ],
+    "tags": ["messages", "chat", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-031",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am offline right now.",
+    "portuguese": "Estou offline neste momento.",
+    "pronunciationNote": "esh-TOH off-LINE NESH-t moo-MEN-too",
+    "grammarFocus": "talking about current state",
+    "notes": "Useful in chat or work contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu n\u00e3o responder, estou offline neste momento.",
+        "english": "If I do not reply, I am offline right now."
+      }
+    ],
+    "tags": ["offline", "status", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-032",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need more storage space.",
+    "portuguese": "Preciso de mais espa\u00e7o de armazenamento.",
+    "pronunciationNote": "preh-SEE-zoo d mysh esh-PAH-soo d ar-mah-zeh-nah-MEN-too",
+    "grammarFocus": "expressing a technical need",
+    "notes": "Useful for phones and laptops.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo guardar mais fotos. Preciso de mais espa\u00e7o de armazenamento.",
+        "english": "I cannot save more photos. I need more storage space."
+      }
+    ],
+    "tags": ["storage", "device", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-033",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to save this document.",
+    "portuguese": "Preciso de guardar este documento.",
+    "pronunciationNote": "preh-SEE-zoo d goo-ahr-DAR ESH-t doh-koo-MEN-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for work and study.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de fechar, preciso de guardar este documento.",
+        "english": "Before closing, I need to save this document."
+      }
+    ],
+    "tags": ["document", "save", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-034",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you send it as a PDF?",
+    "portuguese": "Podes enviar isso em PDF?",
+    "pronunciationNote": "POH-desh en-vee-AR EE-soo eng pee-deh-EF",
+    "grammarFocus": "asking for format",
+    "notes": "Useful with files and forms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for poss\u00edvel, podes enviar isso em PDF?",
+        "english": "If possible, can you send it as a PDF?"
+      }
+    ],
+    "tags": ["pdf", "file", "request"]
+  },
+  {
+    "id": "19-tol-a1a2-035",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I forgot to attach the file.",
+    "portuguese": "Esqueci-me de anexar o ficheiro.",
+    "pronunciationNote": "esh-keh-SEE-m d ah-nehk-SAR oo fee-SHAY-roo",
+    "grammarFocus": "talking about a mistake",
+    "notes": "Useful for email.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pe\u00e7o desculpa, esqueci-me de anexar o ficheiro.",
+        "english": "Sorry, I forgot to attach the file."
+      }
+    ],
+    "tags": ["email", "attachment", "mistake"]
+  },
+  {
+    "id": "19-tol-a1a2-036",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please check your spam folder.",
+    "portuguese": "V\u00ea a pasta de spam, por favor.",
+    "pronunciationNote": "veh ah PAHSH-tah d spam poor fah-VOR",
+    "grammarFocus": "giving an instruction",
+    "notes": "Useful for missing emails.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o recebeste nada, v\u00ea a pasta de spam, por favor.",
+        "english": "If you did not receive anything, please check your spam folder."
+      }
+    ],
+    "tags": ["email", "spam", "instruction"]
+  },
+  {
+    "id": "19-tol-a1a2-037",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need help with this website.",
+    "portuguese": "Preciso de ajuda com este site.",
+    "pronunciationNote": "preh-SEE-zoo d ah-ZHOO-dah kong ESH-t site",
+    "grammarFocus": "asking for help",
+    "notes": "General support request.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o percebo bem isto. Preciso de ajuda com este site.",
+        "english": "I do not really understand this. I need help with this website."
+      }
+    ],
+    "tags": ["website", "help", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-038",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you show me how to do it?",
+    "portuguese": "Podes mostrar-me como se faz?",
+    "pronunciationNote": "POH-desh moosh-TRAR-m KOH-moo s faz",
+    "grammarFocus": "asking for guidance",
+    "notes": "Useful with apps and websites.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o sei usar isto. Podes mostrar-me como se faz?",
+        "english": "I do not know how to use this. Can you show me how to do it?"
+      }
+    ],
+    "tags": ["help", "instruction", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-039",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not use that app.",
+    "portuguese": "N\u00e3o uso essa aplica\u00e7\u00e3o.",
+    "pronunciationNote": "nown OO-zoo EH-sah ah-plee-kah-SOWN",
+    "grammarFocus": "expressing habits or preferences",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o uso essa aplica\u00e7\u00e3o, mas posso instalar.",
+        "english": "I do not use that app, but I can install it."
+      }
+    ],
+    "tags": ["app", "preferences", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-040",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I usually listen to podcasts.",
+    "portuguese": "Costumo ouvir podcasts.",
+    "pronunciationNote": "koosh-TOO-m oo-VEER POD-kashs",
+    "grammarFocus": "talking about habits",
+    "notes": "Useful for media habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando vou a p\u00e9 para o trabalho, costumo ouvir podcasts.",
+        "english": "When I walk to work, I usually listen to podcasts."
+      }
+    ],
+    "tags": ["podcasts", "media", "habits"]
+  },
+  {
+    "id": "19-tol-a1a2-041",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I watch videos online.",
+    "portuguese": "Vejo v\u00eddeos online.",
+    "pronunciationNote": "VEH-zhoo VEE-dee-oosh on-LINE",
+    "grammarFocus": "talking about habits",
+    "notes": "Useful for general online life.",
+    "exampleSentences": [
+      {
+        "portuguese": "\u00c0 noite, vejo v\u00eddeos online.",
+        "english": "At night, I watch videos online."
+      }
+    ],
+    "tags": ["videos", "online", "habits"]
+  },
+  {
+    "id": "19-tol-a1a2-042",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you follow them on social media?",
+    "portuguese": "Segues-os nas redes sociais?",
+    "pronunciationNote": "SEH-guesh-oosh nazh REH-desh soh-see-AISH",
+    "grammarFocus": "asking about habits",
+    "notes": "Useful in online conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Segues-os nas redes sociais ou n\u00e3o?",
+        "english": "Do you follow them on social media or not?"
+      }
+    ],
+    "tags": ["social media", "habits", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-043",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not post much online.",
+    "portuguese": "N\u00e3o publico muito online.",
+    "pronunciationNote": "nown poo-BLEE-koo MOOY-too on-LINE",
+    "grammarFocus": "describing habits",
+    "notes": "Useful for casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vejo muita coisa, mas n\u00e3o publico muito online.",
+        "english": "I watch a lot of things, but I do not post much online."
+      }
+    ],
+    "tags": ["social media", "posting", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-044",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you share your screen?",
+    "portuguese": "Podes partilhar o ecr\u00e3?",
+    "pronunciationNote": "POH-desh pahr-tee-LYAR oo eh-KRAN",
+    "grammarFocus": "making a request",
+    "notes": "Useful in meetings and calls.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para eu ver melhor, podes partilhar o ecr\u00e3?",
+        "english": "So I can see better, can you share your screen?"
+      }
+    ],
+    "tags": ["screen share", "meeting", "online"]
+  },
+  {
+    "id": "19-tol-a1a2-045",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to restart the computer.",
+    "portuguese": "Preciso de reiniciar o computador.",
+    "pronunciationNote": "preh-SEE-zoo d ray-ee-nee-see-AR oo kom-poo-tah-DOR",
+    "grammarFocus": "expressing need",
+    "notes": "Basic troubleshooting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Est\u00e1 muito lento. Preciso de reiniciar o computador.",
+        "english": "It is very slow. I need to restart the computer."
+      }
+    ],
+    "tags": ["computer", "restart", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-046",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It works better on my laptop.",
+    "portuguese": "Funciona melhor no meu port\u00e1til.",
+    "pronunciationNote": "foon-see-OH-nah meh-LYOR noo may-oo poor-TAH-teel",
+    "grammarFocus": "comparing devices",
+    "notes": "Useful when switching devices.",
+    "exampleSentences": [
+      {
+        "portuguese": "No telem\u00f3vel \u00e9 estranho, mas funciona melhor no meu port\u00e1til.",
+        "english": "It is strange on my phone, but it works better on my laptop."
+      }
+    ],
+    "tags": ["laptop", "device", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-047",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to print this.",
+    "portuguese": "Preciso de imprimir isto.",
+    "pronunciationNote": "preh-SEE-zoo d eem-pree-MEER EES-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful with forms and tickets.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de imprimir isto hoje.",
+        "english": "I need to print this today."
+      }
+    ],
+    "tags": ["print", "document", "technology"]
+  },
+  {
+    "id": "19-tol-a1a2-048",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you email it to me?",
+    "portuguese": "Podes mandar-me isso por email?",
+    "pronunciationNote": "POH-desh man-DAR-m EE-soo poor ee-MAIL",
+    "grammarFocus": "asking for an action",
+    "notes": "Useful with files and documents.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de mensagem, podes mandar-me isso por email?",
+        "english": "Instead of a message, can you email it to me?"
+      }
+    ],
+    "tags": ["email", "request", "documents"]
+  },
+  {
+    "id": "19-tol-a1a2-049",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am waiting for a reply.",
+    "portuguese": "Estou \u00e0 espera de resposta.",
+    "pronunciationNote": "esh-TOH ah esh-PEH-rah d resh-POHS-tah",
+    "grammarFocus": "talking about current situation",
+    "notes": "Useful for email and messages.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estou \u00e0 espera de resposta deles.",
+        "english": "I am still waiting for their reply."
+      }
+    ],
+    "tags": ["reply", "email", "communication"]
+  },
+  {
+    "id": "19-tol-a1a2-050",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I will send it later.",
+    "portuguese": "Envio isso mais tarde.",
+    "pronunciationNote": "en-VEE-oo EE-soo mysh TAR-d",
+    "grammarFocus": "talking about future actions",
+    "notes": "Useful in messages and work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora n\u00e3o consigo, mas envio isso mais tarde.",
+        "english": "I cannot do it now, but I will send it later."
+      }
+    ],
+    "tags": ["messages", "future", "online"]
+  }
+]

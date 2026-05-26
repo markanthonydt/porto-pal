@@ -26,6 +26,18 @@ import transportTransitA1A2 from './13_transport_public_transit_a1_a2.json';
 import transportTransitB1B2 from './13_transport_public_transit_b1_b2.json';
 import accommodationA1A2 from './14_accommodation_hotels_a1_a2.json';
 import accommodationB1B2 from './14_accommodation_hotels_b1_b2.json';
+import problemsA1A2 from './15_problems_emergencies_repairs_a1_a2.json';
+import problemsB1B2 from './15_problems_emergencies_repairs_b1_b2.json';
+import leisureA1A2 from './16_leisure_hobbies_social_plans_a1_a2.json';
+import leisureB1B2 from './16_leisure_hobbies_social_plans_b1_b2.json';
+import musicEventsA1A2 from './17_music_concerts_events_a1_a2.json';
+import musicEventsB1B2 from './17_music_concerts_events_b1_b2.json';
+import booksGamesA1A2 from './18_books_games_fantasy_scifi_a1_a2.json';
+import booksGamesB1B2 from './18_books_games_fantasy_scifi_b1_b2.json';
+import technologyOnlineA1A2 from './19_technology_online_life_a1_a2.json';
+import technologyOnlineB1B2 from './19_technology_online_life_b1_b2.json';
+import weatherSeasonsNatureA1A2 from './20_weather_seasons_nature_a1_a2.json';
+import weatherSeasonsNatureB1B2 from './20_weather_seasons_nature_b1_b2.json';
 
 export const subjectCatalog = [
   { id: 'greetings-social', order: 1, subject: 'Greetings & Social Basics' },
@@ -42,6 +54,12 @@ export const subjectCatalog = [
   { id: 'time-dates-scheduling', order: 12, subject: 'Time, Dates & Scheduling' },
   { id: 'transport-public-transit', order: 13, subject: 'Transport & Public Transit' },
   { id: 'accommodation-hotels', order: 14, subject: 'Accommodation & Hotels' },
+  { id: 'problems-emergencies-repairs', order: 15, subject: 'Problems, Emergencies & Repairs' },
+  { id: 'leisure-hobbies-social-plans', order: 16, subject: 'Leisure, Hobbies & Social Plans' },
+  { id: 'music-concerts-events', order: 17, subject: 'Music, Concerts & Events' },
+  { id: 'books-games-fantasy-scifi', order: 18, subject: 'Books, Games, Fantasy & Sci-Fi' },
+  { id: 'technology-online-life', order: 19, subject: 'Technology & Online Life' },
+  { id: 'weather-seasons-nature', order: 20, subject: 'Weather, Seasons & Nature' },
 ];
 
 const flashcardSetSources = [
@@ -268,6 +286,102 @@ const flashcardSetSources = [
     levelBand: 'B1-B2',
     cardCount: 50,
     cards: accommodationB1B2,
+  },
+  {
+    id: '15_problems_emergencies_repairs_a1_a2',
+    subjectId: 'problems-emergencies-repairs',
+    subject: 'Problems, Emergencies & Repairs',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: problemsA1A2,
+  },
+  {
+    id: '15_problems_emergencies_repairs_b1_b2',
+    subjectId: 'problems-emergencies-repairs',
+    subject: 'Problems, Emergencies & Repairs',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: problemsB1B2,
+  },
+  {
+    id: '16_leisure_hobbies_social_plans_a1_a2',
+    subjectId: 'leisure-hobbies-social-plans',
+    subject: 'Leisure, Hobbies & Social Plans',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: leisureA1A2,
+  },
+  {
+    id: '16_leisure_hobbies_social_plans_b1_b2',
+    subjectId: 'leisure-hobbies-social-plans',
+    subject: 'Leisure, Hobbies & Social Plans',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: leisureB1B2,
+  },
+  {
+    id: '17_music_concerts_events_a1_a2',
+    subjectId: 'music-concerts-events',
+    subject: 'Music, Concerts & Events',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: musicEventsA1A2,
+  },
+  {
+    id: '17_music_concerts_events_b1_b2',
+    subjectId: 'music-concerts-events',
+    subject: 'Music, Concerts & Events',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: musicEventsB1B2,
+  },
+  {
+    id: '18_books_games_fantasy_scifi_a1_a2',
+    subjectId: 'books-games-fantasy-scifi',
+    subject: 'Books, Games, Fantasy & Sci-Fi',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: booksGamesA1A2,
+  },
+  {
+    id: '18_books_games_fantasy_scifi_b1_b2',
+    subjectId: 'books-games-fantasy-scifi',
+    subject: 'Books, Games, Fantasy & Sci-Fi',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: booksGamesB1B2,
+  },
+  {
+    id: '19_technology_online_life_a1_a2',
+    subjectId: 'technology-online-life',
+    subject: 'Technology & Online Life',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: technologyOnlineA1A2,
+  },
+  {
+    id: '19_technology_online_life_b1_b2',
+    subjectId: 'technology-online-life',
+    subject: 'Technology & Online Life',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: technologyOnlineB1B2,
+  },
+  {
+    id: '20_weather_seasons_nature_a1_a2',
+    subjectId: 'weather-seasons-nature',
+    subject: 'Weather, Seasons & Nature',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: weatherSeasonsNatureA1A2,
+  },
+  {
+    id: '20_weather_seasons_nature_b1_b2',
+    subjectId: 'weather-seasons-nature',
+    subject: 'Weather, Seasons & Nature',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: weatherSeasonsNatureB1B2,
   },
 ];
 

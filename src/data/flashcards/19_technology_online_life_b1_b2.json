@@ -1,0 +1,952 @@
+[
+  {
+    "id": "19-tol-b1b2-001",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try to keep notifications under control, otherwise they fragment my attention all day.",
+    "portuguese": "Tento manter as notifica\u00e7\u00f5es sob controlo, sen\u00e3o ando o dia todo com a aten\u00e7\u00e3o fragmentada.",
+    "pronunciationNote": "TEN-too man-TAIR az noh-tee-fee-kah-SOINSH sob kon-TROH-loo, seh-NOWN AN-doo oo dee-ah TOH-doo kong ah ah-ten-SOWN frag-men-TAH-dah",
+    "grammarFocus": "describing digital habits",
+    "notes": "Useful for discussing phone use and focus.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se deixo tudo ligado, sinto que nunca desligo realmente.",
+        "english": "If I leave everything on, I feel like I never really switch off."
+      }
+    ],
+    "tags": ["notifications", "focus", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-002",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind using new apps, but only if they actually solve a problem I already have.",
+    "portuguese": "N\u00e3o me importo de usar aplica\u00e7\u00f5es novas, mas s\u00f3 se resolverem mesmo um problema que eu j\u00e1 tenho.",
+    "pronunciationNote": "nown m eem-POR-too d oo-ZAR ah-plee-kah-SOINSH NOH-vash, mahz soh s reh-zool-VAIR-eng MAY-zmoo oom proh-BLAY-mah k eh-oo zhah TEN-yoo",
+    "grammarFocus": "qualifying preferences",
+    "notes": "Useful for talking about technology choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o me apetece instalar mais uma coisa s\u00f3 porque est\u00e1 na moda.",
+        "english": "I do not feel like installing yet another thing just because it is fashionable."
+      }
+    ],
+    "tags": ["apps", "preferences", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-003",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What frustrates me most is not slow technology itself, but unreliable technology.",
+    "portuguese": "O que mais me frustra n\u00e3o \u00e9 a tecnologia lenta em si, mas a tecnologia pouco fi\u00e1vel.",
+    "pronunciationNote": "oo k mysh m froosh-TRAH nown eh ah tek-noh-loh-ZHEE-ah LEN-tah eng s, mahz ah tek-noh-loh-ZHEE-ah POH-koo fee-AH-vel",
+    "grammarFocus": "expressing frustration",
+    "notes": "Useful in troubleshooting discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se sei com o que contar, espero; se falha ao acaso, irrita-me muito mais.",
+        "english": "If I know what to expect, I wait; if it fails randomly, it irritates me much more."
+      }
+    ],
+    "tags": ["technology", "frustration", "reliability"]
+  },
+  {
+    "id": "19-tol-b1b2-004",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I usually switch devices depending on the task, because some things are simply easier on a bigger screen.",
+    "portuguese": "Normalmente mudo de dispositivo conforme a tarefa, porque certas coisas s\u00e3o simplesmente mais f\u00e1ceis num ecr\u00e3 maior.",
+    "pronunciationNote": "nor-mal-MEN-t MOO-doo d dees-poh-zee-TEE-voo kon-FOR-m ah tah-REH-fah, poor-k SER-tash KOY-zash sown seem-plehz-MEN-t mysh FAH-seish noom eh-KRAN may-OR",
+    "grammarFocus": "explaining choices",
+    "notes": "Useful for work and productivity talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Responder a mensagens no telem\u00f3vel ainda vai, mas escrever textos longos j\u00e1 \u00e9 outra hist\u00f3ria.",
+        "english": "Replying to messages on a phone is fine, but writing long texts is another story."
+      }
+    ],
+    "tags": ["devices", "work", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-005",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have become much more careful about where I log in, especially on public networks.",
+    "portuguese": "Tenho ficado muito mais cuidadoso com os s\u00edtios onde inicio sess\u00e3o, sobretudo em redes p\u00fablicas.",
+    "pronunciationNote": "TEN-yoo fee-KAH-doo MOOY-too mysh koo-ee-dah-DOH-zoo kong oosh SEE-tee-oosh ON-d ee-NEE-see-oo seh-SOWN, soh-breh-TOO-doo eng REH-desh POO-blee-kash",
+    "grammarFocus": "talking about changed habits",
+    "notes": "Useful for privacy and security discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes nem pensava nisso, agora j\u00e1 me faz diferen\u00e7a.",
+        "english": "Before I did not even think about it; now it matters to me."
+      }
+    ],
+    "tags": ["security", "privacy", "online"]
+  },
+  {
+    "id": "19-tol-b1b2-006",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the connection keeps dropping, I would rather switch to audio only than lose the thread completely.",
+    "portuguese": "Se a liga\u00e7\u00e3o continua a cair, prefiro passar s\u00f3 para \u00e1udio do que perder completamente o fio \u00e0 conversa.",
+    "pronunciationNote": "s ah lee-gah-SOWN kon-TEE-noo-ah ah kah-EER, preh-FEE-roo pah-SAR soh PAH-rah AU-dee-oo doo k pair-DER kong-pleh-tah-MEN-t oo fee-oh ah kon-VEHR-sah",
+    "grammarFocus": "explaining a practical preference",
+    "notes": "Useful in remote meetings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Imagem sem estabilidade para mim atrapalha mais do que ajuda.",
+        "english": "For me, unstable video gets in the way more than it helps."
+      }
+    ],
+    "tags": ["calls", "connection", "meetings"]
+  },
+  {
+    "id": "19-tol-b1b2-007",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I prefer tools that get out of the way, rather than ones that constantly ask for my attention.",
+    "portuguese": "Prefiro ferramentas que saem da frente, em vez de outras que est\u00e3o sempre a pedir aten\u00e7\u00e3o.",
+    "pronunciationNote": "preh-FEE-roo fair-rah-MEN-tash k SAH-em dah FREN-t, eng vez d OH-trash k esh-TOWN SAYM-pr ah peh-DEER ah-ten-SOWN",
+    "grammarFocus": "describing preferences",
+    "notes": "Useful in productivity discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a ferramenta me interrompe demais, deixo de a usar depressa.",
+        "english": "If the tool interrupts me too much, I stop using it quickly."
+      }
+    ],
+    "tags": ["tools", "productivity", "preferences"]
+  },
+  {
+    "id": "19-tol-b1b2-008",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What usually wastes the most time is not the main problem, but all the tiny interruptions around it.",
+    "portuguese": "O que costuma desperdi\u00e7ar mais tempo n\u00e3o \u00e9 o problema principal, mas todas as pequenas interrup\u00e7\u00f5es \u00e0 volta dele.",
+    "pronunciationNote": "oo k koosh-TOO-mah desh-pair-dee-SAR mysh TEM-poo nown eh oo proh-BLAY-mah preen-see-PAL, mahz TOH-dash az peh-KEH-nash een-ter-roop-SOINSH ah VOL-tah DEH-l",
+    "grammarFocus": "describing impact",
+    "notes": "Useful in work-from-home conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma falha de cinco minutos acaba por roubar meia hora.",
+        "english": "A five-minute problem ends up stealing half an hour."
+      }
+    ],
+    "tags": ["productivity", "technology", "work"]
+  },
+  {
+    "id": "19-tol-b1b2-009",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not really trust platforms that make it hard to export or recover your own data.",
+    "portuguese": "N\u00e3o confio muito em plataformas que dificultam exportar ou recuperar os nossos pr\u00f3prios dados.",
+    "pronunciationNote": "nown kon-FEE-oo MOOY-too eng প্লah-tah-FOR-mash k dee-fee-KOOL-tang eks-pohr-TAR oh reh-koo-peh-RAR oosh NOH-soosh PROH-pree-oosh DAH-doosh",
+    "grammarFocus": "expressing distrust",
+    "notes": "Useful for discussing digital services.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se entrar \u00e9 f\u00e1cil mas sair \u00e9 dif\u00edcil, fico logo desconfiado.",
+        "english": "If getting in is easy but getting out is hard, I get suspicious straight away."
+      }
+    ],
+    "tags": ["data", "platforms", "privacy"]
+  },
+  {
+    "id": "19-tol-b1b2-010",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like being reachable, but I also need parts of the day when nothing can get through to me.",
+    "portuguese": "Gosto de estar contact\u00e1vel, mas tamb\u00e9m preciso de partes do dia em que nada me chega.",
+    "pronunciationNote": "GOSH-too d esh-TAR kon-tak-TAH-vel, mahz tam-BAYNG preh-SEE-zoo d PAR-tesh doo dee-ah eng k NAH-dah m SHEH-gah",
+    "grammarFocus": "balancing two needs",
+    "notes": "Useful in digital-boundary discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o ponho limites, sinto que estou sempre de servi\u00e7o.",
+        "english": "If I do not set limits, I feel like I am always on duty."
+      }
+    ],
+    "tags": ["boundaries", "phone", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-011",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you resend that as an attachment instead of as a photo? It is much easier to work with.",
+    "portuguese": "Podias reenviar isso como anexo em vez de fotografia? \u00c9 muito mais f\u00e1cil de trabalhar assim.",
+    "pronunciationNote": "poh-DEE-ash ray-en-vee-AR EE-soo KOH-moo ah-NEHk-soo eng vez d فوh-toh-grah-FEE-ah? eh MOOY-too mysh FAH-seel d trah-bah-LYAR ah-SEENG",
+    "grammarFocus": "making a polite request",
+    "notes": "Useful in work and admin contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na foto at\u00e9 se percebe, mas n\u00e3o d\u00e1 jeito para editar.",
+        "english": "You can understand it in the photo, but it is not convenient for editing."
+      }
+    ],
+    "tags": ["attachments", "files", "work"]
+  },
+  {
+    "id": "19-tol-b1b2-012",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The problem is not that the app is complicated; it is that the important options are hidden in odd places.",
+    "portuguese": "O problema n\u00e3o \u00e9 a aplica\u00e7\u00e3o ser complicada; \u00e9 as op\u00e7\u00f5es importantes estarem escondidas em s\u00edtios estranhos.",
+    "pronunciationNote": "oo proh-BLAY-mah nown eh ah ah-plee-kah-SOWN sair kong-plee-KAH-dah; eh az op-SOINSH eem-pohr-TAN-tesh esh-TAH-reng esh-kon-DEE-dash eng SEE-tee-oosh esh-TRAN-yoosh",
+    "grammarFocus": "explaining a usability issue",
+    "notes": "Useful in technical feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fosse complexo mas claro, ainda se aprendia.",
+        "english": "If it were complex but clear, you could still learn it."
+      }
+    ],
+    "tags": ["usability", "apps", "feedback"]
+  },
+  {
+    "id": "19-tol-b1b2-013",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I usually leave big uploads running in the background because they take forever on my connection.",
+    "portuguese": "Costumo deixar uploads grandes a correr em segundo plano porque demoram imenso na minha liga\u00e7\u00e3o.",
+    "pronunciationNote": "koosh-TOO-mah day-SHAR up-LOADS GRAN-dzh ah koh-RER eng seh-GOON-doo PLAH-noo poor-k deh-MOH-rang ee-MEN-soo nah MEE-nyah lee-gah-SOWN",
+    "grammarFocus": "explaining routine habits",
+    "notes": "Useful for practical online-life talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fico \u00e0 espera, n\u00e3o fa\u00e7o mais nada o resto da tarde.",
+        "english": "If I wait for it, I do nothing else for the rest of the afternoon."
+      }
+    ],
+    "tags": ["uploads", "internet", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-014",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have become stricter about backups after losing files I assumed were safely stored.",
+    "portuguese": "Fiquei mais rigoroso com c\u00f3pias de seguran\u00e7a depois de perder ficheiros que eu assumia estarem bem guardados.",
+    "pronunciationNote": "fee-KAY mysh ree-goh-ROH-zoo kong KOH-pee-ash d seh-goo-RAN-sah deh-POYSH d pair-DER fee-SHAY-roosh k eh-oo ah-soo-MEE-ah esh-TAH-reng beng goo-ahr-DAH-doosh",
+    "grammarFocus": "talking about changed behaviour",
+    "notes": "Useful in data-loss discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aprendi da pior forma que confiar n\u00e3o chega.",
+        "english": "I learned the hard way that trust is not enough."
+      }
+    ],
+    "tags": ["backup", "files", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-015",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather wait a bit longer for a reply than keep chasing people across three different apps.",
+    "portuguese": "Prefiro esperar um pouco mais por resposta do que andar a perseguir pessoas em tr\u00eas aplica\u00e7\u00f5es diferentes.",
+    "pronunciationNote": "preh-FEE-roo esh-peh-RAR oom POH-koo mysh poor resh-POHS-tah doo k AN-dar ah pair-seh-GEER peh-SOH-ash eng trays ah-plee-kah-SOINSH dee-feh-REN-tesh",
+    "grammarFocus": "stating preference",
+    "notes": "Useful in communication discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo se espalha, perde-se tempo s\u00f3 a encontrar a conversa certa.",
+        "english": "When everything gets scattered, you waste time just finding the right conversation."
+      }
+    ],
+    "tags": ["communication", "apps", "preferences"]
+  },
+  {
+    "id": "19-tol-b1b2-016",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The hardest part of remote meetings is often not the technology, but the way attention gets diluted.",
+    "portuguese": "A parte mais dif\u00edcil das reuni\u00f5es remotas muitas vezes n\u00e3o \u00e9 a tecnologia, mas a forma como a aten\u00e7\u00e3o se dilui.",
+    "pronunciationNote": "ah PAR-t mysh dee-FEE-seel dazh reh-oo-nee-SOINSH rreh-MOH-tash MOOY-tash VAY-zesh nown eh ah tek-noh-loh-ZHEE-ah, mahz ah FOR-mah KOH-moo ah ah-ten-SOWN s dee-LOO-ee",
+    "grammarFocus": "analysing a situation",
+    "notes": "Useful in work discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo quando tudo funciona, nem sempre h\u00e1 presen\u00e7a real.",
+        "english": "Even when everything works, there is not always real presence."
+      }
+    ],
+    "tags": ["remote work", "meetings", "attention"]
+  },
+  {
+    "id": "19-tol-b1b2-017",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I am troubleshooting under time pressure, I want clear steps, not clever design.",
+    "portuguese": "Se estou a resolver um problema com pressa, quero passos claros, n\u00e3o design engenhoso.",
+    "pronunciationNote": "s esh-TOH ah reh-zool-VAIR oom proh-BLAY-mah kong PREH-sah, KEH-roo PAH-soosh KLAH-roosh, nown deh-ZAIN en-zheng-YOH-zoo",
+    "grammarFocus": "stating requirements",
+    "notes": "Useful in practical support conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando algo falha, a eleg\u00e2ncia vale menos do que a clareza.",
+        "english": "When something fails, elegance matters less than clarity."
+      }
+    ],
+    "tags": ["support", "design", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-018",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I keep my files organised by project because otherwise search becomes my whole system.",
+    "portuguese": "Mantenho os meus ficheiros organizados por projeto porque, sen\u00e3o, a pesquisa passa a ser o meu sistema inteiro.",
+    "pronunciationNote": "man-TAY-nyoo ooz MAY-oosh fee-SHAY-roosh or-gah-nee-ZAH-doosh poor proh-ZHEH-too poor-k seh-NOWN, ah pehs-KEE-zah PAH-sah ah sair oo may-oo sees-TAY-mah een-TAY-roo",
+    "grammarFocus": "explaining organisation habits",
+    "notes": "Useful for work and study conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo est\u00e1 misturado, encontro as coisas tarde demais.",
+        "english": "When everything is mixed together, I find things too late."
+      }
+    ],
+    "tags": ["files", "organisation", "productivity"]
+  },
+  {
+    "id": "19-tol-b1b2-019",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am fine with automation as long as I still understand what it is doing in the background.",
+    "portuguese": "N\u00e3o tenho problema com automa\u00e7\u00e3o desde que eu continue a perceber o que est\u00e1 a acontecer por tr\u00e1s.",
+    "pronunciationNote": "nown TEN-yoo proh-BLAY-mah kong aw-toh-mah-SOWN DEHZ-d k eh-oo kon-tee-NOO ah pair-seh-BER oo k esh-TAH ah ah-kon-teh-SAIR poor TRAHSH",
+    "grammarFocus": "setting a condition",
+    "notes": "Useful in technology conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o processo fica invis\u00edvel demais, j\u00e1 come\u00e7o a desconfiar.",
+        "english": "If the process becomes too invisible, I start getting suspicious."
+      }
+    ],
+    "tags": ["automation", "trust", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-020",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I generally read the permissions before installing something, especially if it asks for more access than seems reasonable.",
+    "portuguese": "Normalmente leio as permiss\u00f5es antes de instalar alguma coisa, sobretudo se pedir mais acesso do que parece razo\u00e1vel.",
+    "pronunciationNote": "nor-mal-MEN-t LAY-oo az pair-mee-SOINSH AN-tesh d eens-tah-LAR al-GOO-mah KOY-zah, soh-breh-TOO-doo s peh-DEER mysh ah-SEH-soo doo k pah-REH-sah rrah-zoo-AH-vel",
+    "grammarFocus": "describing cautious habits",
+    "notes": "Useful for privacy discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se uma aplica\u00e7\u00e3o simples quer saber tudo sobre mim, isso n\u00e3o me agrada.",
+        "english": "If a simple app wants to know everything about me, I do not like that."
+      }
+    ],
+    "tags": ["privacy", "permissions", "apps"]
+  },
+  {
+    "id": "19-tol-b1b2-021",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The interface looks polished, but the basic workflow still feels clumsy to me.",
+    "portuguese": "A interface parece polida, mas o fluxo b\u00e1sico continua a parecer-me desajeitado.",
+    "pronunciationNote": "ah een-ter-FAIS pah-REH-s pol-LEE-dah, mahz oo FLOO-shoo BAH-zee-koo kon-TEE-noo-ah ah pah-REH-sair-m deh-zhai-tah-DOO",
+    "grammarFocus": "giving balanced criticism",
+    "notes": "Useful for reviews and feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma boa apar\u00eancia n\u00e3o compensa uma rotina mal pensada.",
+        "english": "A good appearance does not make up for a poorly thought-out workflow."
+      }
+    ],
+    "tags": ["interface", "workflow", "feedback"]
+  },
+  {
+    "id": "19-tol-b1b2-022",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find voice notes useful when they save time, but exhausting when they replace simple written information.",
+    "portuguese": "Acho as notas de voz \u00fateis quando poupam tempo, mas cansativas quando substituem informa\u00e7\u00e3o simples por escrito.",
+    "pronunciationNote": "AH-shoo az NOH-tash d voz OO-teish KWAN-doo POU-pang TEM-poo, mahz kan-sah-TEE-vash KWAN-doo soob-stee-TOO-eng een-for-mah-SOWN SEEM-plehz poor esh-KREE-too",
+    "grammarFocus": "weighing pros and cons",
+    "notes": "Useful for messaging habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depende sempre do contexto e daquilo que \u00e9 preciso recuperar depois.",
+        "english": "It always depends on the context and on what needs to be retrieved later."
+      }
+    ],
+    "tags": ["messages", "voice notes", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-023",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try not to answer every message immediately, because otherwise the day gets shaped by other people's urgency.",
+    "portuguese": "Tento n\u00e3o responder a todas as mensagens imediatamente, porque sen\u00e3o o dia fica moldado pela urg\u00eancia dos outros.",
+    "pronunciationNote": "TEN-too nown resh-pon-DER ah TOH-dash az men-SAH-zhensh eem-eh-dee-ah-tah-MEN-t, poor-k seh-NOWN oo dee-ah FEE-kah mol-DAH-doo PEL-ah oor-ZHEN-see-ah dooz OH-troosh",
+    "grammarFocus": "explaining boundaries",
+    "notes": "Useful in productivity and communication discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se respondo a tudo logo, nunca avan\u00e7o no que estou a fazer.",
+        "english": "If I answer everything straight away, I never make progress on what I am doing."
+      }
+    ],
+    "tags": ["messages", "boundaries", "productivity"]
+  },
+  {
+    "id": "19-tol-b1b2-024",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The update itself was not the issue; the problem was that it changed three things nobody had asked to change.",
+    "portuguese": "A atualiza\u00e7\u00e3o em si n\u00e3o foi o problema; o problema foi ter mudado tr\u00eas coisas que ningu\u00e9m tinha pedido para mudar.",
+    "pronunciationNote": "ah ah-too-ah-lee-zah-SOWN eng s nown foy oo proh-BLAY-mah; oo proh-BLAY-mah foy tair moo-DAH-doo trays KOY-zash k neen-GAYNG TEE-nyah peh-DEE-doo PAH-rah moo-DAR",
+    "grammarFocus": "explaining frustration",
+    "notes": "Useful in software discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando melhoram uma coisa e estragam duas, \u00e9 dif\u00edcil achar piada.",
+        "english": "When they improve one thing and break two, it is hard to find it amusing."
+      }
+    ],
+    "tags": ["updates", "software", "frustration"]
+  },
+  {
+    "id": "19-tol-b1b2-025",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you send me the latest version, I can compare it with the one I already have open.",
+    "portuguese": "Se me enviares a vers\u00e3o mais recente, posso compar\u00e1-la com a que j\u00e1 tenho aberta.",
+    "pronunciationNote": "s m en-vee-AH-resh ah vair-SOWN mysh rreh-SEN-t, POH-soo kom-pah-RAH-lah kong ah k zhah TEN-yoo ah-BEHR-tah",
+    "grammarFocus": "describing a practical next step",
+    "notes": "Useful in collaborative work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim vemos logo se o problema vem do ficheiro ou da forma como foi editado.",
+        "english": "That way we can immediately see whether the problem comes from the file or from how it was edited."
+      }
+    ],
+    "tags": ["files", "versions", "work"]
+  },
+  {
+    "id": "19-tol-b1b2-026",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not against social media, but I try to use it deliberately rather than by reflex.",
+    "portuguese": "N\u00e3o sou contra as redes sociais, mas tento us\u00e1-las de forma deliberada e n\u00e3o por reflexo.",
+    "pronunciationNote": "nown soh KON-trah az REH-desh soh-see-AISH, mahz TEN-too oo-ZAH-lash d FOR-mah deh-lee-beh-RAH-dah ee nown poor rreh-FLEK-soo",
+    "grammarFocus": "describing intentional habits",
+    "notes": "Useful in lifestyle discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se abro sem pensar, acabo l\u00e1 mais tempo do que queria.",
+        "english": "If I open it without thinking, I end up there longer than I wanted."
+      }
+    ],
+    "tags": ["social media", "habits", "online"]
+  },
+  {
+    "id": "19-tol-b1b2-027",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like having cloud access, but I still feel calmer when critical files also exist locally.",
+    "portuguese": "Gosto de ter acesso na cloud, mas continuo a sentir-me mais tranquilo quando os ficheiros importantes tamb\u00e9m existem localmente.",
+    "pronunciationNote": "GOSH-too d tair ah-SEH-soo nah cloud, mahz kon-TEE-noo ah seen-TEER-m mysh tran-KEE-loo KWAN-doo oosh fee-SHAY-roosh eem-pohr-TAN-tesh tam-BAYNG ek-ZEESH-teng loh-kahl-MEN-t",
+    "grammarFocus": "balancing convenience and security",
+    "notes": "Useful in storage discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o \u00e9 falta de confian\u00e7a; \u00e9 s\u00f3 redund\u00e2ncia.",
+        "english": "It is not a lack of trust; it is just redundancy."
+      }
+    ],
+    "tags": ["cloud", "files", "storage"]
+  },
+  {
+    "id": "19-tol-b1b2-028",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more steps a platform adds to a simple task, the more likely I am to put it off.",
+    "portuguese": "Quanto mais passos uma plataforma acrescenta a uma tarefa simples, mais prov\u00e1vel \u00e9 eu adi\u00e1-la.",
+    "pronunciationNote": "KWAN-too mysh PAH-soosh OO-mah প্লah-tah-FOR-mah ah-kreh-SEN-tah ah OO-mah tah-REH-fah SEEM-plehz, mysh proh-VAH-vel eh eh-oo ah-dee-AH-lah",
+    "grammarFocus": "describing behavioural effects",
+    "notes": "Useful in usability discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se algo me pede energia extra sem necessidade, vou arrastando.",
+        "english": "If something asks extra energy from me for no need, I keep dragging it out."
+      }
+    ],
+    "tags": ["platforms", "usability", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-029",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need every service to be smart; I need it to be predictable.",
+    "portuguese": "N\u00e3o preciso que todos os servi\u00e7os sejam inteligentes; preciso que sejam previs\u00edveis.",
+    "pronunciationNote": "nown preh-SEE-zoo k TOH-dooz oosh sair-VEE-soosh ZHAY-ang een-teh-lee-ZHEN-tesh; preh-SEE-zoo k ZHAY-ang preh-vee-ZEE-veish",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in discussions about AI and automation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se uma ferramenta muda o comportamento sem aviso, deixa de me servir.",
+        "english": "If a tool changes behaviour without warning, it stops being useful to me."
+      }
+    ],
+    "tags": ["services", "automation", "preferences"]
+  },
+  {
+    "id": "19-tol-b1b2-030",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often save links to read later, but the real challenge is actually going back to them.",
+    "portuguese": "Guardo muitas vezes links para ler mais tarde, mas o verdadeiro desafio \u00e9 voltar mesmo a eles.",
+    "pronunciationNote": "goo-AHR-doo MOOY-tash VAY-zesh lingks PAH-rah lair mysh TAR-d, mahz oo vair-dah-DAY-roo deh-zah-FEE-oo eh vol-TAR MAY-zmoo ah AY-loosh",
+    "grammarFocus": "describing habits realistically",
+    "notes": "Useful in online-life conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "A inten\u00e7\u00e3o \u00e9 boa; a execu\u00e7\u00e3o \u00e9 outra conversa.",
+        "english": "The intention is good; the execution is another conversation."
+      }
+    ],
+    "tags": ["links", "reading", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-031",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can adapt to new systems, but I appreciate it when the logic behind them is visible.",
+    "portuguese": "Consigo adaptar-me a sistemas novos, mas agrade\u00e7o quando a l\u00f3gica por tr\u00e1s deles est\u00e1 vis\u00edvel.",
+    "pronunciationNote": "kon-SEE-goo ah-dap-TAR-m ah sees-TAY-mash NOH-voosh, mahz ah-grah-DAY-soo KWAN-doo ah LOH-zhee-kah poor TRAHSH DEH-loosh esh-TAH vee-ZEE-vel",
+    "grammarFocus": "describing adaptation",
+    "notes": "Useful for discussing learning curves.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando percebo o padr\u00e3o, ganho velocidade muito depressa.",
+        "english": "When I understand the pattern, I gain speed very quickly."
+      }
+    ],
+    "tags": ["systems", "learning", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-032",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather fix the root of the issue once than keep using awkward workarounds forever.",
+    "portuguese": "Prefiro resolver a raiz do problema uma vez do que continuar para sempre com solu\u00e7\u00f5es improvisadas.",
+    "pronunciationNote": "preh-FEE-roo reh-zool-VAIR ah RAH-eezh doo proh-BLAY-mah OO-mah vez doo k kon-tee-NOO-ahr PAH-rah SAYM-pr kong soh-loo-SOINSH eem-proh-vee-ZAH-dash",
+    "grammarFocus": "stating a preference strongly",
+    "notes": "Useful in technical discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A adapta\u00e7\u00e3o tempor\u00e1ria acaba quase sempre por ficar permanente.",
+        "english": "The temporary workaround almost always ends up becoming permanent."
+      }
+    ],
+    "tags": ["troubleshooting", "problems", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-033",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What matters most to me in a work tool is not how impressive it looks, but how frictionless it feels after a month.",
+    "portuguese": "O que mais me importa numa ferramenta de trabalho n\u00e3o \u00e9 o aspeto impressionante, mas a falta de fric\u00e7\u00e3o passado um m\u00eas.",
+    "pronunciationNote": "oo k mysh m eem-POR-tah NOO-mah fair-rah-MEN-tah d trah-BAH-lyoo nown eh oo ahsh-PEH-too eem-presh-see-oh-NAN-t, mahz ah FAL-tah d freek-SOWN pah-SAH-doo oom MESH",
+    "grammarFocus": "describing long-term criteria",
+    "notes": "Useful in productivity discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "No in\u00edcio quase tudo parece bom; depois \u00e9 que se nota o desgaste.",
+        "english": "At first almost everything seems good; afterwards you notice the friction."
+      }
+    ],
+    "tags": ["work tools", "productivity", "analysis"]
+  },
+  {
+    "id": "19-tol-b1b2-034",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think people underestimate how tiring low-level digital friction can be over the course of a week.",
+    "portuguese": "Acho que as pessoas subestimam o cansa\u00e7o que a pequena fric\u00e7\u00e3o digital pode criar ao longo de uma semana.",
+    "pronunciationNote": "AH-shoo k az peh-SOH-ash soo-behsh-tee-MANG oo kan-SAH-soo k ah peh-KEH-nah freek-SOWN dee-zhee-TAL PODE kree-AR ow LONG-goo d OO-mah seh-MAH-nah",
+    "grammarFocus": "expressing an opinion",
+    "notes": "Useful in reflective conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma pequena irrita\u00e7\u00e3o repetida dez vezes por dia deixa de ser pequena.",
+        "english": "A small irritation repeated ten times a day stops being small."
+      }
+    ],
+    "tags": ["digital life", "stress", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-035",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am more likely to trust a recommendation if the person explains how they actually use the tool day to day.",
+    "portuguese": "Tenho mais tend\u00eancia para confiar numa recomenda\u00e7\u00e3o se a pessoa explicar como usa realmente a ferramenta no dia a dia.",
+    "pronunciationNote": "TEN-yoo mysh ten-DEN-see-ah PAH-rah kon-fee-AR NOO-mah reh-koh-men-dah-SOWN s ah peh-SOH-ah eks-plee-KAR KOH-moo OO-zah rreh-al-MEN-t ah fair-rah-MEN-tah noo dee-ah ah DEE-ah",
+    "grammarFocus": "describing what persuades you",
+    "notes": "Useful in recommendation conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "A experi\u00eancia concreta diz-me mais do que uma lista de funcionalidades.",
+        "english": "Concrete experience tells me more than a list of features."
+      }
+    ],
+    "tags": ["recommendations", "tools", "online"]
+  },
+  {
+    "id": "19-tol-b1b2-036",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not think being constantly connected has made communication clearer; often it has just made it more immediate.",
+    "portuguese": "N\u00e3o acho que estar constantemente ligado tenha tornado a comunica\u00e7\u00e3o mais clara; muitas vezes s\u00f3 a tornou mais imediata.",
+    "pronunciationNote": "nown AH-shoo k esh-TAR konsh-tan-teh-MEN-t lee-GAH-doo TEN-yah tor-NAH-doo ah koh-moo-nee-kah-SOWN mysh KLAH-rah; MOOY-tash VAY-zesh soh ah tor-NOH mysh eem-eh-dee-AH-tah",
+    "grammarFocus": "making a nuanced argument",
+    "notes": "Useful in broader discussions about digital life.",
+    "exampleSentences": [
+      {
+        "portuguese": "Rapidez e clareza nem sempre andam juntas.",
+        "english": "Speed and clarity do not always go together."
+      }
+    ],
+    "tags": ["communication", "digital life", "analysis"]
+  },
+  {
+    "id": "19-tol-b1b2-037",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If a platform makes simple collaboration feel heavy, people stop using it properly no matter how powerful it is.",
+    "portuguese": "Se uma plataforma torna a colabora\u00e7\u00e3o simples pesada, as pessoas deixam de a usar bem por muito poderosa que seja.",
+    "pronunciationNote": "s OO-mah প্লah-tah-FOR-mah TOR-nah ah koh-lah-boh-rah-SOWN SEEM-plehz peh-ZAH-dah, az peh-SOH-ash DAY-shang d ah oo-ZAR beng poor MOOY-too poh-deh-ROH-zah k ZHAY-gah",
+    "grammarFocus": "arguing from consequences",
+    "notes": "Useful in work-tool discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A capacidade te\u00f3rica vale pouco se a experi\u00eancia real afasta toda a gente.",
+        "english": "Theoretical capability matters little if the real experience drives everyone away."
+      }
+    ],
+    "tags": ["collaboration", "platforms", "work"]
+  },
+  {
+    "id": "19-tol-b1b2-038",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often turn off autoplay because I prefer choosing what gets my attention next.",
+    "portuguese": "Desligo muitas vezes a reprodu\u00e7\u00e3o autom\u00e1tica porque prefiro escolher o que me prende a aten\u00e7\u00e3o a seguir.",
+    "pronunciationNote": "deezh-LEE-goo MOOY-tash VAY-zesh ah rreh-proh-doo-SOWN aw-toh-MAH-tee-kah poor-k preh-FEE-roo esh-koh-LYAIR oo k m PREN-d ah ah-ten-SOWN ah seh-GEER",
+    "grammarFocus": "describing media habits",
+    "notes": "Useful in conversations about streaming and focus.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o corto o embalo, continuo sem querer.",
+        "english": "If I do not cut the momentum, I keep going without meaning to."
+      }
+    ],
+    "tags": ["media", "streaming", "habits"]
+  },
+  {
+    "id": "19-tol-b1b2-039",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The most useful support is usually the kind that helps me understand the pattern, not just this one fix.",
+    "portuguese": "A ajuda mais \u00fatil costuma ser a que me ajuda a perceber o padr\u00e3o, e n\u00e3o apenas esta corre\u00e7\u00e3o isolada.",
+    "pronunciationNote": "ah ah-ZHOO-dah mysh OO-teel koosh-TOO-mah sair ah k m ah-ZHOO-dah ah pair-seh-BER oo pah-DROWN, ee nown ah-PEH-nash ESH-tah koh-rreh-SOWN ee-zoh-LAH-dah",
+    "grammarFocus": "describing good support",
+    "notes": "Useful in troubleshooting conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se percebo a l\u00f3gica, ganho autonomia da pr\u00f3xima vez.",
+        "english": "If I understand the logic, I gain autonomy next time."
+      }
+    ],
+    "tags": ["support", "learning", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-040",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try to separate urgent messages from important ones, because they are not always the same thing.",
+    "portuguese": "Tento separar mensagens urgentes de mensagens importantes, porque nem sempre s\u00e3o a mesma coisa.",
+    "pronunciationNote": "TEN-too seh-pah-RAR men-SAH-zhensh oor-ZHEN-tesh d men-SAH-zhensh eem-pohr-TAN-tesh, poor-k neng SAYM-pr sown ah MAYZ-mah KOY-zah",
+    "grammarFocus": "making a distinction",
+    "notes": "Useful in digital-boundary discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que chega a correr pode n\u00e3o ser o que mais merece tempo.",
+        "english": "What arrives urgently may not be what most deserves time."
+      }
+    ],
+    "tags": ["messages", "priorities", "communication"]
+  },
+  {
+    "id": "19-tol-b1b2-041",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the tool saves me time individually but makes coordination harder for everyone else, I am not sure it is worth it.",
+    "portuguese": "Se a ferramenta me poupa tempo individualmente mas dificulta a coordena\u00e7\u00e3o para toda a gente, n\u00e3o sei se compensa.",
+    "pronunciationNote": "s ah fair-rah-MEN-tah m POU-pah TEM-poo een-dee-vee-doo-al-MEN-t mahz dee-fee-KOOL-tah ah koor-deh-nah-SOWN PAH-rah TOH-dah ah ZHEN-t, nown say s kong-PEN-sah",
+    "grammarFocus": "weighing tradeoffs",
+    "notes": "Useful in collaborative work discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A efici\u00eancia individual nem sempre melhora o sistema todo.",
+        "english": "Individual efficiency does not always improve the whole system."
+      }
+    ],
+    "tags": ["collaboration", "tools", "tradeoffs"]
+  },
+  {
+    "id": "19-tol-b1b2-042",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am wary of updates that promise simplicity but actually remove useful control.",
+    "portuguese": "Desconfio de atualiza\u00e7\u00f5es que prometem simplicidade mas na pr\u00e1tica retiram controlo \u00fatil.",
+    "pronunciationNote": "desh-kon-FEE-oo d ah-too-ah-lee-zah-SOINSH k proh-MEH-teng seem-plee-see-DAH-d mahz nah PRAH-tee-kah rreh-TEE-rang kon-TROH-loo OO-teel",
+    "grammarFocus": "expressing concern",
+    "notes": "Useful in software discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo o que parece mais simples \u00e9 realmente melhor para quem usa.",
+        "english": "Not everything that seems simpler is actually better for the user."
+      }
+    ],
+    "tags": ["updates", "control", "software"]
+  },
+  {
+    "id": "19-tol-b1b2-043",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The real value of a digital tool usually appears when it quietly supports a habit you already want to keep.",
+    "portuguese": "O verdadeiro valor de uma ferramenta digital costuma aparecer quando apoia discretamente um h\u00e1bito que j\u00e1 queres manter.",
+    "pronunciationNote": "oo vair-dah-DAY-roo vah-LOR d OO-mah fair-rah-MEN-tah dee-zhee-TAL koosh-TOO-mah ah-pah-reh-SAIR KWAN-doo ah-POI-ah deesh-kreh-tah-MEN-t oom AH-bee-too k zhah KEH-resh man-TAIR",
+    "grammarFocus": "describing value",
+    "notes": "Useful in reflective conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo encaixa naturalmente, quase nos esquecemos da ferramenta em si.",
+        "english": "When everything fits naturally, we almost forget the tool itself."
+      }
+    ],
+    "tags": ["tools", "habits", "digital life"]
+  },
+  {
+    "id": "19-tol-b1b2-044",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather ask a few extra questions than make assumptions and create the wrong account, file, or setting.",
+    "portuguese": "Prefiro fazer mais algumas perguntas do que assumir coisas e criar a conta, o ficheiro ou a defini\u00e7\u00e3o errada.",
+    "pronunciationNote": "preh-FEE-roo fah-ZAIR mysh al-GOO-mash pair-GOON-tash doo k ah-soo-MEER KOY-zash ee kree-AR ah KON-tah, oo fee-SHAY-roo oo ah deh-fee-nee-SOWN eh-RRAH-dah",
+    "grammarFocus": "stating a cautious preference",
+    "notes": "Useful in setup and admin contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Corrigir depois quase sempre demora mais do que clarificar antes.",
+        "english": "Fixing it afterwards almost always takes longer than clarifying it beforehand."
+      }
+    ],
+    "tags": ["setup", "caution", "technology"]
+  },
+  {
+    "id": "19-tol-b1b2-045",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The best online spaces for me are the ones that allow depth without demanding constant performance.",
+    "portuguese": "Os melhores espa\u00e7os online para mim s\u00e3o os que permitem profundidade sem exigirem desempenho constante.",
+    "pronunciationNote": "oosh meh-LYOH-resh esh-PAH-soosh on-LINE PAH-rah meeng sown oosh k pair-MEE-teng proh-foon-dee-DAH-d seng eh-zhee-ZHEE-reng dehsh-em-PEN-yoo konsh-TAN-t",
+    "grammarFocus": "describing social preferences",
+    "notes": "Useful in conversations about online communities.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo vira montra, fico com menos vontade de participar.",
+        "english": "If everything turns into a shop window, I feel less like taking part."
+      }
+    ],
+    "tags": ["online communities", "social media", "preferences"]
+  },
+  {
+    "id": "19-tol-b1b2-046",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find it easier to concentrate when I choose one communication channel for each kind of conversation.",
+    "portuguese": "Acho mais f\u00e1cil concentrar-me quando escolho um canal de comunica\u00e7\u00e3o para cada tipo de conversa.",
+    "pronunciationNote": "AH-shoo mysh FAH-seel kon-seng-TRAR-m KWAN-doo esh-KOL-yoo oom kah-NAL d koh-moo-nee-kah-SOWN PAH-rah KAH-dah TEE-poo d kon-VEHR-sah",
+    "grammarFocus": "explaining organisation habits",
+    "notes": "Useful in work and personal communication discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo acontece em todo o lado, perco o fio com facilidade.",
+        "english": "If everything happens everywhere, I lose the thread easily."
+      }
+    ],
+    "tags": ["communication", "organisation", "productivity"]
+  },
+  {
+    "id": "19-tol-b1b2-047",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can tolerate a rough interface if the underlying logic is solid and respectful of my time.",
+    "portuguese": "Consigo tolerar uma interface menos polida se a l\u00f3gica de base for s\u00f3lida e respeitar o meu tempo.",
+    "pronunciationNote": "kon-SEE-goo toh-leh-RAR OO-mah een-ter-FAIS MEN-oosh pol-LEE-dah s ah LOH-zhee-kah d BAH-s for SOH-lee-dah ee resh-pay-TAR oo may-oo TEM-poo",
+    "grammarFocus": "balancing tradeoffs",
+    "notes": "Useful in software evaluations.",
+    "exampleSentences": [
+      {
+        "portuguese": "O acabamento visual impressiona; a estrutura \u00e9 que me faz ficar.",
+        "english": "The visual polish impresses; the structure is what makes me stay."
+      }
+    ],
+    "tags": ["interface", "logic", "software"]
+  },
+  {
+    "id": "19-tol-b1b2-048",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "When a service fails silently instead of clearly, it creates twice as much uncertainty.",
+    "portuguese": "Quando um servi\u00e7o falha em sil\u00eancio em vez de falhar claramente, cria o dobro da incerteza.",
+    "pronunciationNote": "KWAN-doo oom sair-VEE-soo FAH-lyah eng see-LEN-see-oo eng vez d FAH-lyar klah-RAH-men-t, KREE-ah oo DOH-broo dah een-ser-TEH-zah",
+    "grammarFocus": "explaining consequences",
+    "notes": "Useful in support and design discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu soubesse logo o que aconteceu, resolvia muito mais depressa.",
+        "english": "If I knew immediately what had happened, I would solve it much faster."
+      }
+    ],
+    "tags": ["errors", "services", "support"]
+  },
+  {
+    "id": "19-tol-b1b2-049",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The tools I keep returning to are usually not the most exciting ones, but the ones that stay dependable under pressure.",
+    "portuguese": "As ferramentas a que volto acabam por n\u00e3o ser as mais entusiasmantes, mas sim as que continuam fi\u00e1veis sob press\u00e3o.",
+    "pronunciationNote": "az fair-rah-MEN-tash ah k VOL-too ah-KAH-bang poor nown sair az mysh en-too-zee-ahz-MAN-tesh, mahz seeng az k kon-TEE-noo-ang fee-AH-veish sob preh-SOWN",
+    "grammarFocus": "describing long-term preference",
+    "notes": "Useful in recommendation conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No dia a dia, a consist\u00eancia vale mais do que o brilho inicial.",
+        "english": "In day-to-day life, consistency matters more than initial excitement."
+      }
+    ],
+    "tags": ["tools", "reliability", "preferences"]
+  },
+  {
+    "id": "19-tol-b1b2-050",
+    "subject": "Technology & Online Life",
+    "subjectId": "technology-online-life",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If digital life is going to take up so much space, I at least want it arranged in a way that supports how I think.",
+    "portuguese": "Se a vida digital vai ocupar tanto espa\u00e7o, ao menos quero t\u00ea-la organizada de uma forma que apoie a maneira como penso.",
+    "pronunciationNote": "s ah VEE-dah dee-zhee-TAL vy oh-koo-PAR TAN-too esh-PAH-soo, ow MEN-oosh KEH-roo TAY-lah or-gah-nee-ZAH-dah d OO-mah FOR-mah k ah-POI-ah ah mah-NAY-rah KOH-moo PEN-soo",
+    "grammarFocus": "expressing a broad principle",
+    "notes": "Useful in reflective conversation about technology.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a ferramenta molda os meus dias, quero que essa influ\u00eancia seja consciente e n\u00e3o acidental.",
+        "english": "If a tool shapes my days, I want that influence to be conscious rather than accidental."
+      }
+    ],
+    "tags": ["digital life", "organisation", "reflection"]
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "17-mce-b1b2-001",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am happy to go, but I would rather know what kind of atmosphere to expect before I commit.",
+    "portuguese": "Tenho todo o gosto em ir, mas preferia saber que ambiente esperar antes de me comprometer.",
+    "pronunciationNote": "TEN-yoo TOH-doo oo GOSH-too eng eer, mahz preh-feh-REE-ah sah-BER k am-bee-EN-t esh-peh-RAR AN-tsh d m kong-proh-meh-TAIR",
+    "grammarFocus": "asking for context",
+    "notes": "Useful when invited to unfamiliar events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso ajuda-me a perceber se é mesmo o meu género.",
+        "english": "That helps me work out whether it is really my kind of thing."
+      }
+    ],
+    "tags": ["events", "atmosphere", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-002",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like live music most when the venue is intimate enough to still feel connected to what is happening on stage.",
+    "portuguese": "Gosto mais de música ao vivo quando a sala é íntima o suficiente para ainda sentir ligação ao que se passa em palco.",
+    "pronunciationNote": "GOSH-too mysh d MOO-zee-kah ow VEE-voo KWAN-doo ah SAH-lah eh EEN-tee-mah oo soo-fee-see-EN-t PAH-rah een-DAH seen-TEER lee-gah-SOWN ow k s PAH-sah eng PAL-goo",
+    "grammarFocus": "describing nuanced preferences",
+    "notes": "Useful in cultural conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em espaços demasiado grandes, perco um pouco essa sensação.",
+        "english": "In spaces that are too big, I lose that feeling a little."
+      }
+    ],
+    "tags": ["music", "venues", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-003",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am open to the plan, but I would rather not spend a lot if I am not sure I will enjoy the lineup.",
+    "portuguese": "Estou aberto ao plano, mas preferia não gastar muito se não tiver a certeza de que vou gostar do cartaz.",
+    "pronunciationNote": "esh-TOH ah-BER-too ow PLAH-noo, mahz preh-feh-REE-ah nown gash-TAR MOOY-too s nown tee-VAIR ah seh-TEH-zah d k voh gosh-TAR doo kar-TAZH",
+    "grammarFocus": "conditional interest",
+    "notes": "Useful for festivals or paid events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me explicares quem vai tocar, ajuda-me a decidir.",
+        "english": "If you explain who is playing, it helps me decide."
+      }
+    ],
+    "tags": ["music", "tickets", "decision-making"]
+  },
+  {
+    "id": "17-mce-b1b2-004",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "To be honest, I am less interested in the headliner than in the overall atmosphere of the event.",
+    "portuguese": "Para ser sincero, interessa-me menos o cabeça de cartaz do que o ambiente geral do evento.",
+    "pronunciationNote": "PAH-rah sair seen-SEH-roo, een-teh-REH-sah-m MEN-oosh oo keh-BEH-sah d kar-TAZH doo k oo am-bee-EN-t zheh-RAL doo eh-VEN-too",
+    "grammarFocus": "comparing priorities",
+    "notes": "Useful in music conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a energia for boa, isso pesa muito para mim.",
+        "english": "If the energy is good, that matters a lot to me."
+      }
+    ],
+    "tags": ["music", "events", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-005",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind crowds in principle, but only if the event is organised well enough to make them manageable.",
+    "portuguese": "Em princípio não me importo com multidões, mas só se o evento estiver organizado o suficiente para serem suportáveis.",
+    "pronunciationNote": "eng preen-SEE-pee-oo nown m eem-POR-too kong mool-tee-DOYNSH, mahz soh s oo eh-VEN-too esh-TEE-vair or-gah-nee-ZAH-doo oo soo-fee-see-EN-t PAH-rah sair-RANG soo-poor-TAH-veesh",
+    "grammarFocus": "qualifying a preference",
+    "notes": "Useful in event planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, fico cansado depressa.",
+        "english": "Otherwise I get tired quickly."
+      }
+    ],
+    "tags": ["events", "crowds", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-006",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we are going to spend that much on tickets, I would rather make a full evening of it.",
+    "portuguese": "Se vamos gastar tanto em bilhetes, preferia aproveitar a noite em condições.",
+    "pronunciationNote": "s VAH-moosh gash-TAR TAN-too eng bee-LYEH-tsh, preh-feh-REE-ah ah-proh-vay-TAR ah NOY-t eng kon-dee-SOYNSH",
+    "grammarFocus": "reasoning about value",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Senão sabe um pouco a desperdício.",
+        "english": "Otherwise it feels a bit wasteful."
+      }
+    ],
+    "tags": ["tickets", "value", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-007",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would probably enjoy the event more if we agreed on a clear meeting point in case we get separated.",
+    "portuguese": "Provavelmente aproveitaria mais o evento se combinássemos um ponto de encontro claro para o caso de nos separarmos.",
+    "pronunciationNote": "proh-vah-vel-MEN-t ah-proh-vay-tee-AH-vah mysh oo eh-VEN-too s kong-bee-NAH-seh-moosh oom PON-too d en-KON-troo KLAH-roo PAH-rah oo KAH-zoo d noosh seh-pah-RAHR-moosh",
+    "grammarFocus": "planning proactively",
+    "notes": "Useful at festivals or large venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com tanta gente, é fácil perdermo-nos.",
+        "english": "With so many people, it is easy to lose each other."
+      }
+    ],
+    "tags": ["events", "group", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-008",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am interested, but I would want to know whether the event feels more formal or more relaxed.",
+    "portuguese": "Interessa-me, mas gostava de saber se o evento é mais formal ou mais descontraído.",
+    "pronunciationNote": "een-teh-REH-sah-m, mahz gosh-TAH-vah d sah-BER s oo eh-VEN-too eh mysh for-MAL oh mysh desh-kon-trah-EE-doo",
+    "grammarFocus": "asking about tone",
+    "notes": "Useful when choosing what kind of event suits you.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso influencia logo a minha vontade de ir.",
+        "english": "That immediately affects whether I feel like going."
+      }
+    ],
+    "tags": ["events", "tone", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-009",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I enjoy discovering new artists live, but only when the venue makes it easy to actually listen properly.",
+    "portuguese": "Gosto de descobrir artistas novos ao vivo, mas só quando o espaço facilita ouvir com atenção.",
+    "pronunciationNote": "GOSH-too d desh-koo-BREER ar-TEESH-tash NOH-voosh ow VEE-voo, mahz soh KWAN-doo oo esh-PAH-soo fah-see-LEE-tah oh-VEER kong ah-ten-SOWN",
+    "grammarFocus": "describing ideal conditions",
+    "notes": "Useful in music conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiver demasiado confuso, perco o interesse depressa.",
+        "english": "If it is too chaotic, I lose interest quickly."
+      }
+    ],
+    "tags": ["music", "artists", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-010",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather not decide immediately; I need a little context first.",
+    "portuguese": "Preferia não decidir imediatamente; preciso primeiro de um pouco de contexto.",
+    "pronunciationNote": "preh-feh-REE-ah nown deh-see-DEER ee-meh-dee-ah-tah-MEN-t; preh-SEE-zoo pree-MAY-roo d oom POH-koo d kong-TEKSH-too",
+    "grammarFocus": "delaying commitment politely",
+    "notes": "Useful when invited suddenly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me explicares melhor, talvez seja mais fácil dizer que sim.",
+        "english": "If you explain it better, it may be easier for me to say yes."
+      }
+    ],
+    "tags": ["planning", "decision", "social"]
+  },
+  {
+    "id": "17-mce-b1b2-011",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like the social side of these events, but I do not necessarily need to stay until the very end.",
+    "portuguese": "Gosto da parte social destes eventos, mas não preciso necessariamente de ficar até ao fim.",
+    "pronunciationNote": "GOSH-too dah PAR-t soh-SYAL DESH-tesh eh-VEN-toosh, mahz nown preh-SEE-zoo neh-seh-sah-ree-ah-MEN-t d fee-KAR ah-TAY ow feeng",
+    "grammarFocus": "setting expectations",
+    "notes": "Useful in group plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes gosto mais do início do que da parte final.",
+        "english": "Sometimes I prefer the beginning to the final part."
+      }
+    ],
+    "tags": ["events", "social", "expectations"]
+  },
+  {
+    "id": "17-mce-b1b2-012",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we are making a proper plan, I would rather sort out the tickets sooner rather than risk missing out.",
+    "portuguese": "Se vamos fazer um plano a sério, preferia tratar dos bilhetes mais cedo para não corrermos o risco de ficar sem eles.",
+    "pronunciationNote": "s VAH-moosh fah-ZAIR oom PLAH-noo ah SAY-ree-oo, preh-feh-REE-ah trah-TAR doosh bee-LYEH-tsh mysh SAY-doo PAH-rah nown koh-REHR-moosh oo HEESH-koo d fee-KAR seng EH-lysh",
+    "grammarFocus": "planning ahead",
+    "notes": "Useful for popular events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois é sempre mais stressante.",
+        "english": "Afterwards it is always more stressful."
+      }
+    ],
+    "tags": ["tickets", "planning", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-013",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not so interested in the event as such; I am more interested in the people I would be going with.",
+    "portuguese": "Não me interessa tanto o evento em si; interessa-me mais as pessoas com quem iria.",
+    "pronunciationNote": "nown m een-teh-REH-sah TAN-too oo eh-VEN-too eng s; een-teh-REH-sah-m mysh ash peh-SOH-ash kong kANG ee-REE-ah",
+    "grammarFocus": "explaining motivation",
+    "notes": "Useful in social conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "A companhia faz muita diferença para mim.",
+        "english": "The company makes a big difference to me."
+      }
+    ],
+    "tags": ["social", "motivation", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-014",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the plan is mainly to catch up and talk, I would probably choose a quieter place than this.",
+    "portuguese": "Se o plano é sobretudo pôr a conversa em dia, provavelmente escolheria um sítio mais calmo do que este.",
+    "pronunciationNote": "s oo PLAH-noo eh soh-breh-TOO-doo poor ah kong-VAIR-sah eng DEE-ah, proh-vah-vel-MEN-t esh-koh-lyeh-REE-ah oom SEE-tee-oo mysh KAL-mo doo k ESH-t",
+    "grammarFocus": "matching place to purpose",
+    "notes": "Useful when evaluating venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui a música domina demasiado o espaço.",
+        "english": "Here the music dominates the space too much."
+      }
+    ],
+    "tags": ["venues", "conversation", "social"]
+  },
+  {
+    "id": "17-mce-b1b2-015",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind travelling a bit for a good event, provided it really feels worth the effort.",
+    "portuguese": "Não me importo de me deslocar um pouco por um bom evento, desde que sinta que vale mesmo o esforço.",
+    "pronunciationNote": "nown m eem-POR-too d m desh-loh-KAR oom POH-koo poor oom bong eh-VEN-too, DEHZ-d k seen-TAH k VAH-l MAY-zmoo oo esh-FOR-soo",
+    "grammarFocus": "explaining conditions",
+    "notes": "Useful in planning outings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for apenas mais do mesmo, já não me motiva tanto.",
+        "english": "If it is just more of the same, it does not motivate me as much."
+      }
+    ],
+    "tags": ["events", "travel", "value"]
+  },
+  {
+    "id": "17-mce-b1b2-016",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The idea sounds good, but I would prefer not to spend the whole time queuing or pushing through crowds.",
+    "portuguese": "A ideia soa bem, mas preferia não passar o tempo todo em filas ou a empurrar multidões.",
+    "pronunciationNote": "ah ee-DAY-ah SOH-ah beng, mahz preh-feh-REE-ah nown pah-SAR oo TEM-poo TOH-doo eng FEE-lash oh ah emp-oo-HAR mool-tee-DOYNSH",
+    "grammarFocus": "expressing reservations",
+    "notes": "Useful when discussing big events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim isso estraga muito a experiência.",
+        "english": "For me that really spoils the experience."
+      }
+    ],
+    "tags": ["events", "crowds", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-017",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you had to describe the crowd in one sentence, what would you say it is like?",
+    "portuguese": "Se tivesses de descrever o público numa frase, como dirias que ele é?",
+    "pronunciationNote": "s tee-VESH-s d desh-kreh-VAIR oo POO-blee-koo NOO-mah FRAH-z, KOH-moo dee-REE-ash k EH-lee eh",
+    "grammarFocus": "asking for a social description",
+    "notes": "Useful before attending unfamiliar events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ajuda-me a perceber se me vou sentir à vontade.",
+        "english": "It helps me work out whether I will feel comfortable."
+      }
+    ],
+    "tags": ["events", "crowd", "questions"]
+  },
+  {
+    "id": "17-mce-b1b2-018",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am definitely curious, but I would rather not commit until I have checked how late it runs.",
+    "portuguese": "Estou claramente curioso, mas preferia não me comprometer sem ver até que horas se prolonga.",
+    "pronunciationNote": "esh-TOH klah-RAH-men-t koo-ree-OH-zoo, mahz preh-feh-REE-ah nown m kong-proh-meh-TAIR seng vair ah-TAY k OR-ash s proh-LONG-gah",
+    "grammarFocus": "conditional interest",
+    "notes": "Useful for evening events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se acabar muito tarde, já complica um pouco.",
+        "english": "If it ends very late, it becomes a bit more complicated."
+      }
+    ],
+    "tags": ["events", "timing", "decision-making"]
+  },
+  {
+    "id": "17-mce-b1b2-019",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "For me, the best events are the ones that feel well thought out without feeling overly controlled.",
+    "portuguese": "Para mim, os melhores eventos são os que parecem bem pensados sem parecer demasiado controlados.",
+    "pronunciationNote": "PAH-rah meeng, oosh meh-LYORSH eh-VEN-toosh sown oosh k pah-REH-sang beng pen-SAH-doosh seng pah-REH-sair deh-mah-zee-AH-doo kon-troh-LAH-doosh",
+    "grammarFocus": "describing ideal events",
+    "notes": "Useful in cultural conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de sentir alguma estrutura, mas também espontaneidade.",
+        "english": "I like to feel some structure, but also spontaneity."
+      }
+    ],
+    "tags": ["events", "preferences", "conversation"]
+  },
+  {
+    "id": "17-mce-b1b2-020",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we are going mainly for the music, I would rather arrive early enough to settle in properly.",
+    "portuguese": "Se vamos principalmente pela música, preferia chegar com tempo para nos instalarmos em condições.",
+    "pronunciationNote": "s VAH-moosh preen-see-pahl-MEN-t PEH-lah MOO-zee-kah, preh-feh-REE-ah sheh-GAR kong TEM-poo PAH-rah noosh eens-tah-LAR-moosh eng kon-dee-SOYNSH",
+    "grammarFocus": "planning intentionally",
+    "notes": "Useful for concerts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Chegar em cima da hora deixa-me sempre mais stressado.",
+        "english": "Arriving at the last minute always leaves me more stressed."
+      }
+    ],
+    "tags": ["music", "planning", "timing"]
+  },
+  {
+    "id": "17-mce-b1b2-021",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I enjoy the excitement of bigger events, but only in fairly small doses.",
+    "portuguese": "Gosto da excitação dos eventos maiores, mas só em doses relativamente pequenas.",
+    "pronunciationNote": "GOSH-too dah ek-see-tah-SOWN dooz eh-VEN-toosh my-oh-resh, mahz soh eng DOH-zesh reh-lah-tee-vah-MEN-t peh-KAY-nash",
+    "grammarFocus": "qualifying enjoyment",
+    "notes": "Useful in talking about energy levels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois preciso sempre de algum tempo mais tranquilo.",
+        "english": "Afterwards I always need some quieter time."
+      }
+    ],
+    "tags": ["events", "energy", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-022",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am more likely to enjoy the night if the plan leaves room to leave whenever it feels right.",
+    "portuguese": "É mais provável que eu aproveite a noite se o plano deixar margem para sair quando fizer sentido.",
+    "pronunciationNote": "eh mysh proh-VAH-vel k eh-oo ah-proh-VAY-t ah NOY-t s oo PLAH-noo day-SHAR MAR-zheng PAH-rah syr KWAN-doo fah-ZAIR sen-TEE-doo",
+    "grammarFocus": "explaining comfort conditions",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não gosto de sentir que estou preso a um horário rígido.",
+        "english": "I do not like feeling stuck to a rigid schedule."
+      }
+    ],
+    "tags": ["social", "flexibility", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-023",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can see why people love this kind of event, but I am not sure I have the energy for it tonight.",
+    "portuguese": "Percebo porque é que as pessoas adoram este tipo de evento, mas não sei se tenho energia para isso hoje.",
+    "pronunciationNote": "pair-SEH-boo poor-k eh k ash peh-SOH-ash ah-DOH-rang ESH-t TEE-poo d eh-VEN-too, mahz nown say s TEN-yoo eh-nair-ZHEE-ah PAH-rah EE-soo OH-zh",
+    "grammarFocus": "soft reluctance",
+    "notes": "Useful when declining.",
+    "exampleSentences": [
+      {
+        "portuguese": "Noutro dia até alinhava melhor.",
+        "english": "On another day I would probably be more up for it."
+      }
+    ],
+    "tags": ["events", "declining", "energy"]
+  },
+  {
+    "id": "17-mce-b1b2-024",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the idea is mainly to spend time together, I am flexible about the actual event itself.",
+    "portuguese": "Se a ideia é sobretudo estarmos juntos, sou flexível em relação ao evento em si.",
+    "pronunciationNote": "s ah ee-DAY-ah eh soh-breh-TOO-doo esh-TAR-moosh ZHOON-toosh, soh flek-SEE-vel eng reh-lah-SOWN ow eh-VEN-too eng s",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in group planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "O importante para mim é mais a companhia do que o programa.",
+        "english": "What matters more to me is the company than the programme."
+      }
+    ],
+    "tags": ["social", "priorities", "group"]
+  },
+  {
+    "id": "17-mce-b1b2-025",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it make more sense to meet somewhere nearby first rather than trying to find each other in the middle of everything?",
+    "portuguese": "Faria mais sentido encontrarmo-nos primeiro num sítio ali perto em vez de tentarmos encontrar-nos no meio da confusão?",
+    "pronunciationNote": "fah-REE-ah mysh sen-TEE-doo en-kon-TRAR-moosh pree-MAY-roo noom SEE-tee-oo ah-LEE PER-too eng vez d ten-TAR-moosh en-kon-TRAR-noosh noo MAY-oo dah kong-foo-ZOWN",
+    "grammarFocus": "suggesting a practical plan",
+    "notes": "Useful at large events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de entrarmos, pode ser muito mais difícil.",
+        "english": "After we go in, it may be much harder."
+      }
+    ],
+    "tags": ["events", "meeting", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-026",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need to recognise every song; what matters more is whether the performance feels alive.",
+    "portuguese": "Não preciso de reconhecer todas as músicas; o que importa mais é saber se a atuação tem vida.",
+    "pronunciationNote": "nown preh-SEE-zoo d reh-kon-yeh-SAIR TOH-dash ash MOO-zee-kash; oo k eem-POR-tah mysh eh sah-BER s ah ah-too-ah-SOWN teng VEE-dah",
+    "grammarFocus": "describing live music taste",
+    "notes": "Useful in music conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes prefiro isso a ouvir só êxitos conhecidos.",
+        "english": "Sometimes I prefer that to hearing only familiar hits."
+      }
+    ],
+    "tags": ["music", "performance", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-027",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I would get more out of it if I knew a bit of the context beforehand.",
+    "portuguese": "Acho que aproveitava mais se soubesse um pouco do contexto antes.",
+    "pronunciationNote": "AH-shoo k ah-proh-vay-TAH-vah mysh s soh-BESH-s oom POH-koo doo kong-TEKSH-too AN-tsh",
+    "grammarFocus": "explaining appreciation",
+    "notes": "Useful for concerts, exhibitions, or shows.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem que fosse só quem são ou porque são conhecidos.",
+        "english": "Even if it were just who they are or why they are known."
+      }
+    ],
+    "tags": ["events", "context", "understanding"]
+  },
+  {
+    "id": "17-mce-b1b2-028",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather not treat it as just another item on the list if we are going to bother going at all.",
+    "portuguese": "Preferia não tratar isto como só mais uma coisa da lista se nos vamos dar ao trabalho de ir.",
+    "pronunciationNote": "preh-feh-REE-ah nown trah-TAR EES-too KOH-moo soh mysh OO-mah KOY-zah dah LEESH-tah s noosh VAH-moosh dar ow trah-BAH-lyoo d eer",
+    "grammarFocus": "valuing intentional plans",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se é para ir, que seja com vontade.",
+        "english": "If we are going, it should be with real enthusiasm."
+      }
+    ],
+    "tags": ["plans", "values", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-029",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not against a bigger event, but I would want recovery time afterwards.",
+    "portuguese": "Não sou contra um evento maior, mas ia querer algum tempo de recuperação depois.",
+    "pronunciationNote": "nown soh KON-trah oom eh-VEN-too my-OR, mahz EE-ah keh-RER al-GOOM TEM-poo d reh-koo-peh-rah-SOWN deh-POYSH",
+    "grammarFocus": "talking about energy management",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "No dia seguinte gosto de ter um ritmo mais calmo.",
+        "english": "The next day I like to have a calmer pace."
+      }
+    ],
+    "tags": ["events", "energy", "social"]
+  },
+  {
+    "id": "17-mce-b1b2-030",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What would persuade me most is hearing why you think this one is worth going to specifically.",
+    "portuguese": "O que mais me convenceria seria ouvir porque é que achas que vale a pena ir a este em particular.",
+    "pronunciationNote": "oo k mysh m kong-ven-seh-REE-ah seh-REE-ah oh-VEER poor-k eh k AH-shash k VAH-l ah PEH-nah eer ah ESH-t eng par-tee-koo-LAR",
+    "grammarFocus": "asking for personal recommendation",
+    "notes": "Useful when deciding about events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a forma como alguém fala de uma coisa muda tudo.",
+        "english": "Sometimes the way someone talks about something changes everything."
+      }
+    ],
+    "tags": ["events", "recommendation", "decision"]
+  },
+  {
+    "id": "17-mce-b1b2-031",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I could enjoy that, but only if we keep the logistics simple and the expectations realistic.",
+    "portuguese": "Até podia gostar disso, mas só se mantivermos a logística simples e as expectativas realistas.",
+    "pronunciationNote": "ah-TAY POH-dee-ah gosh-TAR DEE-soo, mahz soh s man-tee-VAIR-moosh ah loh-ZHEESH-tee-kah SEEM-plesh ee az esh-pek-tah-TEE-vash heh-ah-LEESH-tash",
+    "grammarFocus": "setting conditions",
+    "notes": "Useful in planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando se complica demais, perde logo o encanto para mim.",
+        "english": "When it becomes too complicated, it immediately loses its charm for me."
+      }
+    ],
+    "tags": ["events", "planning", "conditions"]
+  },
+  {
+    "id": "17-mce-b1b2-032",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am usually more interested in how an event feels as a whole than in any single headline detail.",
+    "portuguese": "Normalmente interessa-me mais a sensação geral do evento do que qualquer detalhe isolado do cartaz.",
+    "pronunciationNote": "nor-mal-MEN-t een-teh-REH-sah-m mysh ah sen-sah-SOWN zheh-RAL doo eh-VEN-too doo k kwal-KAIR deh-TAH-ly ee-zoh-LAH-doo doo kar-TAZH",
+    "grammarFocus": "describing holistic taste",
+    "notes": "Useful in music and event conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim conta o conjunto, não só o nome principal.",
+        "english": "For me the whole package matters, not only the headliner."
+      }
+    ],
+    "tags": ["events", "taste", "music"]
+  },
+  {
+    "id": "17-mce-b1b2-033",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the event ends up feeling too intense, I would rather be able to step away without it becoming a big deal.",
+    "portuguese": "Se o evento acabar por parecer intenso demais, preferia poder afastar-me sem que isso se tornasse um problema.",
+    "pronunciationNote": "s oo eh-VEN-too ah-kah-BAR poor pah-REH-sair een-TEN-soo deh-MYSH, preh-feh-REE-ah poo-DER ah-fash-TAR-m seng k EE-soo s tor-NAH-s oom proh-BLAY-mah",
+    "grammarFocus": "setting personal boundaries",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando sei que tenho essa liberdade, aproveito mais.",
+        "english": "When I know I have that freedom, I enjoy it more."
+      }
+    ],
+    "tags": ["events", "boundaries", "comfort"]
+  },
+  {
+    "id": "17-mce-b1b2-034",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would be more inclined to say yes if the plan included some quieter moment before or after the event itself.",
+    "portuguese": "Estaria mais inclinado a dizer que sim se o plano incluísse algum momento mais calmo antes ou depois do próprio evento.",
+    "pronunciationNote": "esh-tah-REE-ah mysh een-klee-NAH-doo ah dee-ZAIR k seeng s oo PLAH-noo een-kloo-EE-s al-GOOM moh-MEN-too mysh KAL-mo AN-tsh oh deh-POYSH doo PROH-pree-oo eh-VEN-too",
+    "grammarFocus": "describing an ideal structure",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ajuda-me a entrar e a sair da experiência com mais equilíbrio.",
+        "english": "It helps me enter and leave the experience with more balance."
+      }
+    ],
+    "tags": ["events", "structure", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-035",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the plan is still vague, I would rather keep it as a possibility than commit too firmly right away.",
+    "portuguese": "Se o plano ainda está vago, preferia mantê-lo como possibilidade em vez de me comprometer já demasiado.",
+    "pronunciationNote": "s oo PLAH-noo een-DAH esh-TAH VAH-goo, preh-feh-REE-ah man-TAY-loo KOH-moo pos-see-bee-lee-DAH-d eng vez d m kong-proh-meh-TAIR zhah deh-mah-zee-AH-doo",
+    "grammarFocus": "keeping plans provisional",
+    "notes": "Useful in uncertain planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim ninguém cria expectativas demasiado cedo.",
+        "english": "That way nobody builds expectations too early."
+      }
+    ],
+    "tags": ["plans", "uncertainty", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-036",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I would connect with it more if I understood what people find special about it.",
+    "portuguese": "Acho que me ligaria mais a isso se percebesse o que as pessoas acham especial.",
+    "pronunciationNote": "AH-shoo k m lee-gah-REE-ah mysh ah EE-soo s pair-seh-BEH-s oo k ash peh-SOH-ash AH-shang esh-peh-see-AL",
+    "grammarFocus": "wanting more context",
+    "notes": "Useful in cultural conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes uma pequena explicação muda completamente a experiência.",
+        "english": "Sometimes a small explanation completely changes the experience."
+      }
+    ],
+    "tags": ["culture", "events", "understanding"]
+  },
+  {
+    "id": "17-mce-b1b2-037",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like there to be some structure, but I do not want every minute of the evening overplanned.",
+    "portuguese": "Gosto que haja alguma estrutura, mas não quero cada minuto da noite planeado ao detalhe.",
+    "pronunciationNote": "GOSH-too k AH-zhah al-GOO-mah esh-troo-TOO-rah, mahz nown KEH-roo KAH-dah mee-NOO-too dah NOY-t plah-neh-AH-doo ow deh-TAH-ly",
+    "grammarFocus": "balancing structure and freedom",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fica demasiado rígido, perde graça para mim.",
+        "english": "If it becomes too rigid, it loses its charm for me."
+      }
+    ],
+    "tags": ["plans", "structure", "social"]
+  },
+  {
+    "id": "17-mce-b1b2-038",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather pay a bit more for a better experience than save money and spend the whole time uncomfortable.",
+    "portuguese": "Preferia pagar um pouco mais por uma experiência melhor do que poupar e passar o tempo todo desconfortável.",
+    "pronunciationNote": "preh-feh-REE-ah pah-GAR oom POH-koo mysh poor OO-mah esh-peh-ree-EN-see-ah meh-LYOR doo k poh-PAHR ee pah-SAR oo TEM-poo TOH-doo desh-kon-for-TAH-vel",
+    "grammarFocus": "comparing value and comfort",
+    "notes": "Useful for ticket choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim a qualidade da experiência conta muito.",
+        "english": "For me the quality of the experience matters a lot."
+      }
+    ],
+    "tags": ["tickets", "comfort", "value"]
+  },
+  {
+    "id": "17-mce-b1b2-039",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If it turns out not to be my thing, I am still happy to have gone for the experience of it.",
+    "portuguese": "Se afinal não for muito a minha praia, ainda assim fico contente por ter ido pela experiência.",
+    "pronunciationNote": "s ah-fee-NAL nown for MOOY-too ah MEE-nyah PRY-ah, een-DAH ah-SEENG FEE-koo kon-TEN-t poor tair EE-doo PEH-lah esh-peh-ree-EN-see-ah",
+    "grammarFocus": "open-mindedness",
+    "notes": "Useful in trying new events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes o contexto compensa mais do que o gosto inicial.",
+        "english": "Sometimes the context makes up for it more than the initial taste."
+      }
+    ],
+    "tags": ["events", "openness", "experience"]
+  },
+  {
+    "id": "17-mce-b1b2-040",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like plans that feel memorable without needing to be overwhelming.",
+    "portuguese": "Gosto de planos memoráveis sem que sejam avassaladores.",
+    "pronunciationNote": "GOSH-too d PLAH-noosh meh-moh-RAH-veesh seng k ZHAY-jang ah-vah-sah-lah-DOHRSH",
+    "grammarFocus": "describing ideal experiences",
+    "notes": "Useful in talking about taste.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim esse equilíbrio é o ideal.",
+        "english": "For me that balance is ideal."
+      }
+    ],
+    "tags": ["events", "preferences", "experience"]
+  },
+  {
+    "id": "17-mce-b1b2-041",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be fair to say the event is more about the atmosphere than about any one performance?",
+    "portuguese": "Seria justo dizer que o evento é mais pelo ambiente do que por uma atuação em particular?",
+    "pronunciationNote": "seh-REE-ah ZHOOSH-too dee-ZAIR k oo eh-VEN-too eh mysh PEH-loo am-bee-EN-t doo k poor OO-mah ah-too-ah-SOWN eng par-tee-koo-LAR",
+    "grammarFocus": "checking interpretation",
+    "notes": "Useful when deciding if an event suits you.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso muda um pouco a forma como o vejo.",
+        "english": "That changes how I see it a bit."
+      }
+    ],
+    "tags": ["events", "atmosphere", "questions"]
+  },
+  {
+    "id": "17-mce-b1b2-042",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the event is mainly standing, I would rather know that in advance than discover it on the day.",
+    "portuguese": "Se o evento é sobretudo de pé, preferia saber isso com antecedência em vez de descobrir no próprio dia.",
+    "pronunciationNote": "s oo eh-VEN-too eh soh-breh-TOO-doo d peh, preh-feh-REE-ah sah-BER EE-soo kong an-teh-seh-DEN-see-ah eng vez d desh-koo-BREER noo PROH-pree-oo DEE-ah",
+    "grammarFocus": "checking practical details",
+    "notes": "Useful when comfort matters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dependendo do dia, isso pode fazer diferença.",
+        "english": "Depending on the day, that can make a difference."
+      }
+    ],
+    "tags": ["events", "comfort", "planning"]
+  },
+  {
+    "id": "17-mce-b1b2-043",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I could be persuaded, but mostly by the people and the atmosphere rather than the event alone.",
+    "portuguese": "Podia ser convencido, mas sobretudo pelas pessoas e pelo ambiente, mais do que pelo evento em si.",
+    "pronunciationNote": "POH-dee-ah sair kong-ven-SEE-doo, mahz soh-breh-TOO-doo PEH-lash peh-SOH-ash ee PEH-loo am-bee-EN-t, mysh doo k PEH-loo eh-VEN-too eng s",
+    "grammarFocus": "explaining what persuades you",
+    "notes": "Useful in social invitations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a companhia for boa, fico muito mais inclinado a alinhar.",
+        "english": "If the company is good, I am much more inclined to say yes."
+      }
+    ],
+    "tags": ["social", "motivation", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-044",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I prefer events that feel thoughtfully put together rather than just loud and busy.",
+    "portuguese": "Prefiro eventos que pareçam pensados com cuidado, em vez de apenas altos e cheios.",
+    "pronunciationNote": "preh-FEE-roo eh-VEN-toosh k pah-REH-sang pen-SAH-doosh kong kwee-DAH-doo, eng vez d ah-PEH-nash AL-toosh ee SHAY-oosh",
+    "grammarFocus": "describing taste",
+    "notes": "Useful in cultural discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim a intenção nota-se bastante.",
+        "english": "For me the intention is quite noticeable."
+      }
+    ],
+    "tags": ["events", "taste", "preferences"]
+  },
+  {
+    "id": "17-mce-b1b2-045",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more I understand why people are excited about it, the more likely I am to get drawn in too.",
+    "portuguese": "Quanto melhor percebo porque é que as pessoas estão entusiasmadas com isso, mais provável é eu também entrar no espírito.",
+    "pronunciationNote": "KWAN-too meh-LYOR pair-SEH-boo poor-k eh k ash peh-SOH-ash esh-TOWN en-too-zee-AHSH-mah-dash kong EE-soo, mysh proh-VAH-vel eh eh-oo tam-BAYNG en-TRAR noo esh-PEE-ree-too",
+    "grammarFocus": "describing social influence",
+    "notes": "Useful in conversation about events.",
+    "exampleSentences": [
+      {
+        "portuguese": "O entusiasmo contagia, se fizer sentido para mim.",
+        "english": "Enthusiasm is contagious, if it makes sense to me."
+      }
+    ],
+    "tags": ["events", "social", "enthusiasm"]
+  },
+  {
+    "id": "17-mce-b1b2-046",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like the idea of the event, but I suspect the practical side may matter more than the concept itself.",
+    "portuguese": "Gosto da ideia do evento, mas suspeito que a parte prática possa pesar mais do que o conceito em si.",
+    "pronunciationNote": "GOSH-too dah ee-DAY-ah doo eh-VEN-too, mahz soosh-PEY-too k ah PAR-t PRAH-tee-kah POS-sah peh-ZAR mysh doo k oo kong-SAY-too eng s",
+    "grammarFocus": "balancing concept and logistics",
+    "notes": "Useful when deciding whether to go.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for complicado demais, já muda tudo.",
+        "english": "If it is too complicated, it changes everything."
+      }
+    ],
+    "tags": ["events", "logistics", "decision"]
+  },
+  {
+    "id": "17-mce-b1b2-047",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we are going to commit to it, I would rather make a proper plan than leave everything vague.",
+    "portuguese": "Se nos vamos comprometer com isso, preferia fazer um plano em condições em vez de deixar tudo vago.",
+    "pronunciationNote": "s noosh VAH-moosh kong-proh-meh-TAIR kong EE-soo, preh-feh-REE-ah fah-ZAIR oom PLAH-noo eng kon-dee-SOYNSH eng vez d day-SHAR TOO-doo VAH-goo",
+    "grammarFocus": "preferring clarity",
+    "notes": "Useful in event planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando fica tudo indefinido, normalmente complica.",
+        "english": "When everything stays undefined, it usually becomes complicated."
+      }
+    ],
+    "tags": ["planning", "clarity", "events"]
+  },
+  {
+    "id": "17-mce-b1b2-048",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need it to be perfect; I just need it to feel worth the effort and reasonably enjoyable.",
+    "portuguese": "Não preciso que seja perfeito; só preciso que valha o esforço e que seja razoavelmente agradável.",
+    "pronunciationNote": "nown preh-SEE-zoo k ZHAY-gah pair-FAY-too; soh preh-SEE-zoo k VAH-lyah oo esh-FOR-soo ee k ZHAY-gah hah-zoh-ah-vel-MEN-t ah-grah-DAH-vel",
+    "grammarFocus": "setting realistic expectations",
+    "notes": "Useful in discussing plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes isso é mais do que suficiente.",
+        "english": "Sometimes that is more than enough."
+      }
+    ],
+    "tags": ["events", "expectations", "value"]
+  },
+  {
+    "id": "17-mce-b1b2-049",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I am looking for is less a spectacle and more a genuinely enjoyable shared experience.",
+    "portuguese": "O que procuro é menos um espetáculo e mais uma experiência genuinamente agradável em conjunto.",
+    "pronunciationNote": "oo k proh-KOO-roo eh MEN-oosh oom esh-peh-TAH-koo-loo ee mysh OO-mah esh-peh-ree-EN-see-ah zhen-wee-nah-MEN-t ah-grah-DAH-vel eng kon-ZHOON-too",
+    "grammarFocus": "describing what you value",
+    "notes": "Useful in social conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim a parte humana conta muito.",
+        "english": "For me the human side matters a lot."
+      }
+    ],
+    "tags": ["social", "experience", "values"]
+  },
+  {
+    "id": "17-mce-b1b2-050",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That sounds like the kind of event I would enjoy if the practical details line up well enough.",
+    "portuguese": "Isso soa ao tipo de evento de que eu gostaria, se os detalhes práticos encaixarem bem.",
+    "pronunciationNote": "EE-soo SOH-ah ow TEE-poo d eh-VEN-too d k eh-oo gosh-tah-REE-ah, s oosh deh-TAH-lysh PRAH-tee-koosh en-kay-SHAR-eng beng",
+    "grammarFocus": "conditional enthusiasm",
+    "notes": "Useful when almost agreeing to plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se correr bem logisticamente, parece-me uma boa ideia.",
+        "english": "If it works out logistically, it seems like a good idea to me."
+      }
+    ],
+    "tags": ["events", "planning", "agreement"]
+  }
+]

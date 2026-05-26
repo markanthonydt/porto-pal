@@ -1,0 +1,952 @@
+[
+  {
+    "id": "17-mce-a1a2-001",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you like live music?",
+    "portuguese": "Gostas de música ao vivo?",
+    "pronunciationNote": "GOSH-tash d MOO-zee-kah ow VEE-voo",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, gostas de música ao vivo?",
+        "english": "At the weekend, do you like live music?"
+      }
+    ],
+    "tags": ["music", "preferences", "conversation"]
+  },
+  {
+    "id": "17-mce-a1a2-002",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I love concerts.",
+    "portuguese": "Adoro concertos.",
+    "pronunciationNote": "ah-DOH-roo kong-SAIR-toosh",
+    "grammarFocus": "expressing strong preference",
+    "notes": "Simple opinion statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "No verão, adoro concertos ao ar livre.",
+        "english": "In summer, I love outdoor concerts."
+      }
+    ],
+    "tags": ["music", "concerts", "preferences"]
+  },
+  {
+    "id": "17-mce-a1a2-003",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like small venues.",
+    "portuguese": "Gosto de salas pequenas.",
+    "pronunciationNote": "GOSH-too d SAH-lash peh-KAY-nash",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful when talking about concerts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para concertos, gosto de salas pequenas.",
+        "english": "For concerts, I like small venues."
+      }
+    ],
+    "tags": ["music", "venues", "preferences"]
+  },
+  {
+    "id": "17-mce-a1a2-004",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer quiet events.",
+    "portuguese": "Prefiro eventos mais calmos.",
+    "pronunciationNote": "preh-FEE-roo eh-VEN-toosh mysh KAL-moosh",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful for social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro eventos mais calmos do que festas grandes.",
+        "english": "I prefer quieter events to big parties."
+      }
+    ],
+    "tags": ["events", "preferences", "social"]
+  },
+  {
+    "id": "17-mce-a1a2-005",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to go to a concert?",
+    "portuguese": "Queres ir a um concerto?",
+    "pronunciationNote": "KEH-resh eer ah oom kong-SAIR-too",
+    "grammarFocus": "making an invitation",
+    "notes": "Common concert invitation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na sexta-feira, queres ir a um concerto?",
+        "english": "On Friday, do you want to go to a concert?"
+      }
+    ],
+    "tags": ["music", "concert", "invitation"]
+  },
+  {
+    "id": "17-mce-a1a2-006",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to go to a festival?",
+    "portuguese": "Queres ir a um festival?",
+    "pronunciationNote": "KEH-resh eer ah oom fesh-tee-VAL",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful in summer plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este verão, queres ir a um festival?",
+        "english": "This summer, do you want to go to a festival?"
+      }
+    ],
+    "tags": ["music", "festival", "invitation"]
+  },
+  {
+    "id": "17-mce-a1a2-007",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to come with us?",
+    "portuguese": "Queres vir connosco?",
+    "pronunciationNote": "KEH-resh veer koh-NOSH-koo",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful for group plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vamos a um evento. Queres vir connosco?",
+        "english": "We are going to an event. Do you want to come with us?"
+      }
+    ],
+    "tags": ["events", "group", "invitation"]
+  },
+  {
+    "id": "17-mce-a1a2-008",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does it start?",
+    "portuguese": "A que horas começa?",
+    "pronunciationNote": "ah k OR-ash koh-MEH-sah",
+    "grammarFocus": "asking about event timing",
+    "notes": "Useful before going out.",
+    "exampleSentences": [
+      {
+        "portuguese": "O concerto, a que horas começa?",
+        "english": "The concert, what time does it start?"
+      }
+    ],
+    "tags": ["events", "timing", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-009",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does it finish?",
+    "portuguese": "A que horas acaba?",
+    "pronunciationNote": "ah k OR-ash ah-KAH-bah",
+    "grammarFocus": "asking about event timing",
+    "notes": "Useful for evening planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sabes a que horas acaba?",
+        "english": "Do you know what time it finishes?"
+      }
+    ],
+    "tags": ["events", "timing", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-010",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is it?",
+    "portuguese": "Onde é?",
+    "pronunciationNote": "ON-d eh",
+    "grammarFocus": "asking for location",
+    "notes": "Useful in event planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "O evento onde é?",
+        "english": "Where is the event?"
+      }
+    ],
+    "tags": ["events", "location", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-011",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a ticket?",
+    "portuguese": "Tens bilhete?",
+    "pronunciationNote": "TANGSH bee-LYEH-t",
+    "grammarFocus": "asking about possession",
+    "notes": "Useful before entering.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o concerto, tens bilhete?",
+        "english": "For the concert, do you have a ticket?"
+      }
+    ],
+    "tags": ["tickets", "concert", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-012",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to buy a ticket.",
+    "portuguese": "Preciso de comprar bilhete.",
+    "pronunciationNote": "preh-SEE-zoo d kom-PRAR bee-LYEH-t",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful before an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda preciso de comprar bilhete para sábado.",
+        "english": "I still need to buy a ticket for Saturday."
+      }
+    ],
+    "tags": ["tickets", "events", "buying"]
+  },
+  {
+    "id": "17-mce-a1a2-013",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much is the ticket?",
+    "portuguese": "Quanto custa o bilhete?",
+    "pronunciationNote": "KWAN-too KOOSH-tah oo bee-LYEH-t",
+    "grammarFocus": "asking the price",
+    "notes": "Useful at ticket offices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto custa o bilhete para hoje?",
+        "english": "How much is the ticket for today?"
+      }
+    ],
+    "tags": ["tickets", "price", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-014",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I buy tickets here?",
+    "portuguese": "Posso comprar bilhetes aqui?",
+    "pronunciationNote": "POS-soo kom-PRAR bee-LYEH-tsh ah-KEE",
+    "grammarFocus": "asking permission or possibility",
+    "notes": "Useful at venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o espetáculo, posso comprar bilhetes aqui?",
+        "english": "For the show, can I buy tickets here?"
+      }
+    ],
+    "tags": ["tickets", "venue", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-015",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POS-soo pah-GAR kong kar-TOWN",
+    "grammarFocus": "asking about payment",
+    "notes": "Useful at venues or ticket desks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar com cartão pelos bilhetes?",
+        "english": "Can I pay by card for the tickets?"
+      }
+    ],
+    "tags": ["tickets", "payment", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-016",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the entrance?",
+    "portuguese": "Onde fica a entrada?",
+    "pronunciationNote": "ON-d fEE-kah ah en-TRAH-dah",
+    "grammarFocus": "asking for location",
+    "notes": "Useful at venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica a entrada?",
+        "english": "Excuse me, where is the entrance?"
+      }
+    ],
+    "tags": ["venue", "entrance", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-017",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where are our seats?",
+    "portuguese": "Onde são os nossos lugares?",
+    "pronunciationNote": "ON-d sown oosh NOH-soosh loo-GARSH",
+    "grammarFocus": "asking for location",
+    "notes": "Useful in seated venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com estes bilhetes, onde são os nossos lugares?",
+        "english": "With these tickets, where are our seats?"
+      }
+    ],
+    "tags": ["venue", "seats", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-018",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is this seat free?",
+    "portuguese": "Este lugar está livre?",
+    "pronunciationNote": "ESH-t loo-GAR esh-TAH LEE-vr",
+    "grammarFocus": "asking availability",
+    "notes": "Useful in open seating.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, este lugar está livre?",
+        "english": "Excuse me, is this seat free?"
+      }
+    ],
+    "tags": ["venue", "seats", "politeness"]
+  },
+  {
+    "id": "17-mce-a1a2-019",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is very crowded.",
+    "portuguese": "Está muito cheio.",
+    "pronunciationNote": "esh-TAH MOOY-too SHAY-oo",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful at busy events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui à frente está muito cheio.",
+        "english": "It is very crowded up front here."
+      }
+    ],
+    "tags": ["events", "crowd", "description"]
+  },
+  {
+    "id": "17-mce-a1a2-020",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too loud.",
+    "portuguese": "Está demasiado alto.",
+    "pronunciationNote": "esh-TAH deh-mah-zee-AH-doo AL-too",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful when commenting on volume.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, está demasiado alto aqui.",
+        "english": "For me, it is too loud here."
+      }
+    ],
+    "tags": ["music", "volume", "description"]
+  },
+  {
+    "id": "17-mce-a1a2-021",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is great.",
+    "portuguese": "É ótimo.",
+    "pronunciationNote": "eh OH-tee-moo",
+    "grammarFocus": "giving an opinion",
+    "notes": "Simple positive reaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "O concerto é ótimo.",
+        "english": "The concert is great."
+      }
+    ],
+    "tags": ["music", "opinion", "reaction"]
+  },
+  {
+    "id": "17-mce-a1a2-022",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I really like this song.",
+    "portuguese": "Gosto mesmo desta música.",
+    "pronunciationNote": "GOSH-too MAY-zmoo DESH-tah MOO-zee-kah",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful during live music.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não a conhecia, mas gosto mesmo desta música.",
+        "english": "I did not know it, but I really like this song."
+      }
+    ],
+    "tags": ["music", "song", "opinion"]
+  },
+  {
+    "id": "17-mce-a1a2-023",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not know this band.",
+    "portuguese": "Não conheço esta banda.",
+    "pronunciationNote": "nown kon-YEH-soo ESH-tah BAN-dah",
+    "grammarFocus": "talking about knowledge",
+    "notes": "Useful in music conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não conheço esta banda, mas soa bem.",
+        "english": "I do not know this band, but they sound good."
+      }
+    ],
+    "tags": ["music", "band", "conversation"]
+  },
+  {
+    "id": "17-mce-a1a2-024",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you know this artist?",
+    "portuguese": "Conheces este artista?",
+    "pronunciationNote": "kon-YEH-sesh ESH-t ar-TEESH-tah",
+    "grammarFocus": "asking about knowledge",
+    "notes": "Useful in music conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Conheces este artista ou não?",
+        "english": "Do you know this artist or not?"
+      }
+    ],
+    "tags": ["music", "artist", "conversation"]
+  },
+  {
+    "id": "17-mce-a1a2-025",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What kind of music is it?",
+    "portuguese": "Que tipo de música é?",
+    "pronunciationNote": "k TEE-poo d MOO-zee-kah eh",
+    "grammarFocus": "asking for information",
+    "notes": "Useful before events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não conheço. Que tipo de música é?",
+        "english": "I do not know it. What kind of music is it?"
+      }
+    ],
+    "tags": ["music", "genre", "questions"]
+  },
+  {
+    "id": "17-mce-a1a2-026",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to dance?",
+    "portuguese": "Queres dançar?",
+    "pronunciationNote": "KEH-resh dan-SAR",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful at parties or concerts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta música é boa. Queres dançar?",
+        "english": "This music is good. Do you want to dance?"
+      }
+    ],
+    "tags": ["music", "dance", "invitation"]
+  },
+  {
+    "id": "17-mce-a1a2-027",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to get a drink?",
+    "portuguese": "Queres ir buscar uma bebida?",
+    "pronunciationNote": "KEH-resh eer boo-SHKAR OO-mah beh-BEE-dah",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful at events.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de começar, queres ir buscar uma bebida?",
+        "english": "Before it starts, do you want to get a drink?"
+      }
+    ],
+    "tags": ["events", "drink", "invitation"]
+  },
+  {
+    "id": "17-mce-a1a2-028",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going to the bar.",
+    "portuguese": "Vou ao bar.",
+    "pronunciationNote": "voh ow BAR",
+    "grammarFocus": "talking about immediate plans",
+    "notes": "Useful at venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou ao bar e já volto.",
+        "english": "I am going to the bar and I will be right back."
+      }
+    ],
+    "tags": ["events", "bar", "venue"]
+  },
+  {
+    "id": "17-mce-a1a2-029",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am outside.",
+    "portuguese": "Estou cá fora.",
+    "pronunciationNote": "esh-TOH kah FOR-ah",
+    "grammarFocus": "describing location",
+    "notes": "Useful for meeting friends.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já cheguei. Estou cá fora.",
+        "english": "I have arrived. I am outside."
+      }
+    ],
+    "tags": ["events", "meeting", "location"]
+  },
+  {
+    "id": "17-mce-a1a2-030",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am inside.",
+    "portuguese": "Estou lá dentro.",
+    "pronunciationNote": "esh-TOH lah DEN-troo",
+    "grammarFocus": "describing location",
+    "notes": "Useful for meeting friends.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já entrei. Estou lá dentro.",
+        "english": "I am already in. I am inside."
+      }
+    ],
+    "tags": ["events", "meeting", "location"]
+  },
+  {
+    "id": "17-mce-a1a2-031",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot hear you well.",
+    "portuguese": "Não te ouço bem.",
+    "pronunciationNote": "nown t OH-soo beng",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful at loud venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui está muito alto. Não te ouço bem.",
+        "english": "It is very loud here. I cannot hear you well."
+      }
+    ],
+    "tags": ["events", "volume", "conversation"]
+  },
+  {
+    "id": "17-mce-a1a2-032",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Shall we go outside?",
+    "portuguese": "Vamos lá fora?",
+    "pronunciationNote": "VAH-moosh lah FOR-ah",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful when it is too loud.",
+    "exampleSentences": [
+      {
+        "portuguese": "Está muito barulho. Vamos lá fora?",
+        "english": "It is very noisy. Shall we go outside?"
+      }
+    ],
+    "tags": ["events", "suggestion", "noise"]
+  },
+  {
+    "id": "17-mce-a1a2-033",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am on my way.",
+    "portuguese": "Já vou.",
+    "pronunciationNote": "zhah voh",
+    "grammarFocus": "talking about immediate action",
+    "notes": "Useful when meeting people.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espera por mim, já vou.",
+        "english": "Wait for me, I am on my way."
+      }
+    ],
+    "tags": ["events", "meeting", "movement"]
+  },
+  {
+    "id": "17-mce-a1a2-034",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am running late.",
+    "portuguese": "Estou atrasado.",
+    "pronunciationNote": "esh-TOH ah-trah-ZAH-doo",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful when meeting friends.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, estou atrasado.",
+        "english": "Sorry, I am running late."
+      }
+    ],
+    "tags": ["events", "timing", "meeting"]
+  },
+  {
+    "id": "17-mce-a1a2-035",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Save me a place.",
+    "portuguese": "Guarda-me um lugar.",
+    "pronunciationNote": "GWAR-dah-m oom loo-GAR",
+    "grammarFocus": "imperative request",
+    "notes": "Useful in queues or venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou buscar água. Guarda-me um lugar.",
+        "english": "I am going to get water. Save me a place."
+      }
+    ],
+    "tags": ["events", "space", "request"]
+  },
+  {
+    "id": "17-mce-a1a2-036",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Shall we stand here?",
+    "portuguese": "Ficamos aqui?",
+    "pronunciationNote": "fee-KAH-moosh ah-KEE",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful in standing venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vê-se bem daqui. Ficamos aqui?",
+        "english": "You can see well from here. Shall we stand here?"
+      }
+    ],
+    "tags": ["events", "space", "suggestion"]
+  },
+  {
+    "id": "17-mce-a1a2-037",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to leave now?",
+    "portuguese": "Queres ir embora agora?",
+    "pronunciationNote": "KEH-resh eer om-BOH-rah ah-GOH-rah",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful when wrapping up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Está muito cheio. Queres ir embora agora?",
+        "english": "It is very crowded. Do you want to leave now?"
+      }
+    ],
+    "tags": ["events", "leaving", "suggestion"]
+  },
+  {
+    "id": "17-mce-a1a2-038",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to stay a bit longer.",
+    "portuguese": "Quero ficar mais um bocado.",
+    "pronunciationNote": "KEH-roo fee-KAR mysh oom bah-KAH-doo",
+    "grammarFocus": "expressing preference",
+    "notes": "Useful in social plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda está bom. Quero ficar mais um bocado.",
+        "english": "It is still good. I want to stay a bit longer."
+      }
+    ],
+    "tags": ["events", "staying", "preference"]
+  },
+  {
+    "id": "17-mce-a1a2-039",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I had a great time.",
+    "portuguese": "Gostei muito.",
+    "pronunciationNote": "gosh-TAY MOOY-too",
+    "grammarFocus": "reacting positively",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pelo convite. Gostei muito.",
+        "english": "Thanks for the invitation. I had a great time."
+      }
+    ],
+    "tags": ["events", "reaction", "positive"]
+  },
+  {
+    "id": "17-mce-a1a2-040",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It was fun.",
+    "portuguese": "Foi divertido.",
+    "pronunciationNote": "foy dee-vair-TEE-doo",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Foi divertido, temos de repetir.",
+        "english": "It was fun, we should do it again."
+      }
+    ],
+    "tags": ["events", "reaction", "positive"]
+  },
+  {
+    "id": "17-mce-a1a2-041",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It was too crowded for me.",
+    "portuguese": "Para mim, estava demasiado cheio.",
+    "pronunciationNote": "PAH-rah meeng, esh-TAH-vah deh-mah-zee-AH-doo SHAY-oo",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "A música era boa, mas para mim estava demasiado cheio.",
+        "english": "The music was good, but it was too crowded for me."
+      }
+    ],
+    "tags": ["events", "crowd", "reaction"]
+  },
+  {
+    "id": "17-mce-a1a2-042",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Would you go again?",
+    "portuguese": "Voltavas a ir?",
+    "pronunciationNote": "vol-TAH-vash ah eer",
+    "grammarFocus": "asking for an opinion",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houvesse outro concerto, voltavas a ir?",
+        "english": "If there were another concert, would you go again?"
+      }
+    ],
+    "tags": ["events", "opinion", "conversation"]
+  },
+  {
+    "id": "17-mce-a1a2-043",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would go again.",
+    "portuguese": "Eu voltava a ir.",
+    "pronunciationNote": "eh-oo vol-TAH-vah ah eer",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, eu voltava a ir.",
+        "english": "Yes, I would go again."
+      }
+    ],
+    "tags": ["events", "opinion", "reaction"]
+  },
+  {
+    "id": "17-mce-a1a2-044",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would not go again.",
+    "portuguese": "Eu não voltava a ir.",
+    "pronunciationNote": "eh-oo nown vol-TAH-vah ah eer",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful after an event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sinceramente, eu não voltava a ir.",
+        "english": "Honestly, I would not go again."
+      }
+    ],
+    "tags": ["events", "opinion", "reaction"]
+  },
+  {
+    "id": "17-mce-a1a2-045",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a show tonight.",
+    "portuguese": "Há um espetáculo esta noite.",
+    "pronunciationNote": "ah oom esh-peh-TAH-koo-loo ESH-tah NOY-t",
+    "grammarFocus": "sharing information",
+    "notes": "Useful when making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "No centro, há um espetáculo esta noite.",
+        "english": "In the centre, there is a show tonight."
+      }
+    ],
+    "tags": ["events", "show", "plans"]
+  },
+  {
+    "id": "17-mce-a1a2-046",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is an event this weekend.",
+    "portuguese": "Há um evento este fim de semana.",
+    "pronunciationNote": "ah oom eh-VEN-too ESH-t feeng d seh-MAH-nah",
+    "grammarFocus": "sharing information",
+    "notes": "Useful in social conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "No parque, há um evento este fim de semana.",
+        "english": "In the park, there is an event this weekend."
+      }
+    ],
+    "tags": ["events", "weekend", "plans"]
+  },
+  {
+    "id": "17-mce-a1a2-047",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is sold out.",
+    "portuguese": "Está esgotado.",
+    "pronunciationNote": "esh-TAH esh-goo-TAH-doo",
+    "grammarFocus": "describing availability",
+    "notes": "Useful with tickets.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já não há bilhetes. Está esgotado.",
+        "english": "There are no tickets left. It is sold out."
+      }
+    ],
+    "tags": ["tickets", "availability", "events"]
+  },
+  {
+    "id": "17-mce-a1a2-048",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to leave early.",
+    "portuguese": "Tenho de sair cedo.",
+    "pronunciationNote": "TEN-yoo d syr SAY-doo",
+    "grammarFocus": "expressing necessity",
+    "notes": "Useful when arranging expectations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã trabalho, por isso tenho de sair cedo.",
+        "english": "I work tomorrow, so I need to leave early."
+      }
+    ],
+    "tags": ["events", "leaving", "plans"]
+  },
+  {
+    "id": "17-mce-a1a2-049",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Message me when you arrive.",
+    "portuguese": "Manda-me mensagem quando chegares.",
+    "pronunciationNote": "MAN-dah-m men-SAH-zheng KWAN-doo sheh-GAH-resh",
+    "grammarFocus": "imperative request",
+    "notes": "Useful when meeting up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu ainda não estiver lá, manda-me mensagem quando chegares.",
+        "english": "If I am not there yet, message me when you arrive."
+      }
+    ],
+    "tags": ["meeting", "communication", "events"]
+  },
+  {
+    "id": "17-mce-a1a2-050",
+    "subject": "Music, Concerts & Events",
+    "subjectId": "music-concerts-events",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let us do this again sometime.",
+    "portuguese": "Temos de repetir isto um dia.",
+    "pronunciationNote": "TEH-moosh d reh-peh-TEER EES-too oom DEE-ah",
+    "grammarFocus": "closing socially",
+    "notes": "Useful after a good event.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostei muito. Temos de repetir isto um dia.",
+        "english": "I really enjoyed it. Let us do this again sometime."
+      }
+    ],
+    "tags": ["events", "closing", "social"]
+  }
+]

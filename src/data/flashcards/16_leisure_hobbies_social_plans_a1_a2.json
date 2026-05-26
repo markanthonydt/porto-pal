@@ -1,0 +1,952 @@
+[
+  {
+    "id": "16-lhsp-a1a2-001",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you like to do in your free time?",
+    "portuguese": "O que gostas de fazer no teu tempo livre?",
+    "pronunciationNote": "oo k GOSH-tash d fah-ZAIR noo تہ-oo TEM-poo LEE-vr",
+    "grammarFocus": "asking about hobbies",
+    "notes": "Basic social question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, o que gostas de fazer no teu tempo livre?",
+        "english": "At the weekend, what do you like to do in your free time?"
+      }
+    ],
+    "tags": ["hobbies", "social", "conversation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-002",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like to read.",
+    "portuguese": "Gosto de ler.",
+    "pronunciationNote": "GOSH-too d lair",
+    "grammarFocus": "expressing likes",
+    "notes": "Simple hobby statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite, gosto de ler.",
+        "english": "At night, I like to read."
+      }
+    ],
+    "tags": ["hobbies", "reading", "likes"]
+  },
+  {
+    "id": "16-lhsp-a1a2-003",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like to cook.",
+    "portuguese": "Gosto de cozinhar.",
+    "pronunciationNote": "GOSH-too d koo-zeen-YAR",
+    "grammarFocus": "expressing likes",
+    "notes": "Simple hobby statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao domingo, gosto de cozinhar.",
+        "english": "On Sundays, I like to cook."
+      }
+    ],
+    "tags": ["hobbies", "cooking", "likes"]
+  },
+  {
+    "id": "16-lhsp-a1a2-004",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like to go for walks.",
+    "portuguese": "Gosto de passear.",
+    "pronunciationNote": "GOSH-too d pah-seh-AR",
+    "grammarFocus": "expressing likes",
+    "notes": "Useful for casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando está bom tempo, gosto de passear.",
+        "english": "When the weather is good, I like to go for walks."
+      }
+    ],
+    "tags": ["hobbies", "walking", "likes"]
+  },
+  {
+    "id": "16-lhsp-a1a2-005",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like sport.",
+    "portuguese": "Gosto de desporto.",
+    "pronunciationNote": "GOSH-too d desh-POR-too",
+    "grammarFocus": "expressing likes",
+    "notes": "General interest statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de desporto, mas não vejo sempre.",
+        "english": "I like sport, but I do not always watch it."
+      }
+    ],
+    "tags": ["hobbies", "sport", "likes"]
+  },
+  {
+    "id": "16-lhsp-a1a2-006",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I play football.",
+    "portuguese": "Jogo futebol.",
+    "pronunciationNote": "ZHO-goo foot-bohl",
+    "grammarFocus": "talking about activities",
+    "notes": "Simple hobby statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao sábado, jogo futebol com amigos.",
+        "english": "On Saturdays, I play football with friends."
+      }
+    ],
+    "tags": ["hobbies", "sport", "football"]
+  },
+  {
+    "id": "16-lhsp-a1a2-007",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to the gym.",
+    "portuguese": "Vou ao ginásio.",
+    "pronunciationNote": "voh ow zhee-NAH-zee-oo",
+    "grammarFocus": "talking about routines",
+    "notes": "Useful hobby or routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Duas vezes por semana, vou ao ginásio.",
+        "english": "Twice a week, I go to the gym."
+      }
+    ],
+    "tags": ["hobbies", "exercise", "routine"]
+  },
+  {
+    "id": "16-lhsp-a1a2-008",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I watch films.",
+    "portuguese": "Vejo filmes.",
+    "pronunciationNote": "VAY-zhoo FEEL-mesh",
+    "grammarFocus": "talking about activities",
+    "notes": "Simple hobby statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite, vejo filmes em casa.",
+        "english": "At night, I watch films at home."
+      }
+    ],
+    "tags": ["hobbies", "films", "entertainment"]
+  },
+  {
+    "id": "16-lhsp-a1a2-009",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I listen to music.",
+    "portuguese": "Ouço música.",
+    "pronunciationNote": "OH-soo MOO-zee-kah",
+    "grammarFocus": "talking about activities",
+    "notes": "Simple hobby statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando trabalho, ouço música.",
+        "english": "When I work, I listen to music."
+      }
+    ],
+    "tags": ["hobbies", "music", "entertainment"]
+  },
+  {
+    "id": "16-lhsp-a1a2-010",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like video games.",
+    "portuguese": "Gosto de videojogos.",
+    "pronunciationNote": "GOSH-too d vee-deh-oh-ZHO-goosh",
+    "grammarFocus": "expressing likes",
+    "notes": "Useful for casual interests.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de videojogos, sobretudo à noite.",
+        "english": "I like video games, especially at night."
+      }
+    ],
+    "tags": ["hobbies", "games", "likes"]
+  },
+  {
+    "id": "16-lhsp-a1a2-011",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What are you doing this weekend?",
+    "portuguese": "O que vais fazer este fim de semana?",
+    "pronunciationNote": "oo k vysh fah-ZAIR ESH-t feeng d seh-MAH-nah",
+    "grammarFocus": "asking about plans",
+    "notes": "Common social question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não sei. O que vais fazer este fim de semana?",
+        "english": "I do not know yet. What are you doing this weekend?"
+      }
+    ],
+    "tags": ["plans", "weekend", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-012",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to go out?",
+    "portuguese": "Queres sair?",
+    "pronunciationNote": "KEH-resh syr",
+    "grammarFocus": "making an invitation",
+    "notes": "Simple invitation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Logo à noite, queres sair?",
+        "english": "Later tonight, do you want to go out?"
+      }
+    ],
+    "tags": ["plans", "invitation", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-013",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to have a coffee?",
+    "portuguese": "Queres tomar um café?",
+    "pronunciationNote": "KEH-resh toh-MAR oom kah-FEH",
+    "grammarFocus": "making an invitation",
+    "notes": "Very common social invitation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã à tarde, queres tomar um café?",
+        "english": "Tomorrow afternoon, do you want to have a coffee?"
+      }
+    ],
+    "tags": ["plans", "coffee", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-014",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to have dinner?",
+    "portuguese": "Queres jantar?",
+    "pronunciationNote": "KEH-resh zhan-TAR",
+    "grammarFocus": "making an invitation",
+    "notes": "Simple dinner invitation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje, queres jantar comigo?",
+        "english": "Today, do you want to have dinner with me?"
+      }
+    ],
+    "tags": ["plans", "dinner", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-015",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to watch a film?",
+    "portuguese": "Queres ver um filme?",
+    "pronunciationNote": "KEH-resh vair oom FEEL-m",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful social suggestion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais logo, queres ver um filme?",
+        "english": "Later on, do you want to watch a film?"
+      }
+    ],
+    "tags": ["plans", "film", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-016",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to go to the beach?",
+    "portuguese": "Queres ir à praia?",
+    "pronunciationNote": "KEH-resh eer ah PRY-ah",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful in Portugal.",
+    "exampleSentences": [
+      {
+        "portuguese": "No sábado, queres ir à praia?",
+        "english": "On Saturday, do you want to go to the beach?"
+      }
+    ],
+    "tags": ["plans", "beach", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-017",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to go for a walk?",
+    "portuguese": "Queres ir dar uma volta?",
+    "pronunciationNote": "KEH-resh eer dar OO-mah VOL-tah",
+    "grammarFocus": "making an invitation",
+    "notes": "Common informal suggestion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de almoço, queres ir dar uma volta?",
+        "english": "After lunch, do you want to go for a walk?"
+      }
+    ],
+    "tags": ["plans", "walk", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-018",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you want to come with us?",
+    "portuguese": "Queres vir connosco?",
+    "pronunciationNote": "KEH-resh veer koh-NOSH-koo",
+    "grammarFocus": "making an invitation",
+    "notes": "Useful for group plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vamos ao centro. Queres vir connosco?",
+        "english": "We are going to the centre. Do you want to come with us?"
+      }
+    ],
+    "tags": ["plans", "group", "invitation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-019",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That sounds good.",
+    "portuguese": "Parece bem.",
+    "pronunciationNote": "pah-REH-s beng",
+    "grammarFocus": "reacting positively",
+    "notes": "Useful when accepting suggestions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, parece bem.",
+        "english": "Yes, that sounds good."
+      }
+    ],
+    "tags": ["social", "reaction", "plans"]
+  },
+  {
+    "id": "16-lhsp-a1a2-020",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Great idea.",
+    "portuguese": "Boa ideia.",
+    "pronunciationNote": "BOH-ah ee-DAY-ah",
+    "grammarFocus": "reacting positively",
+    "notes": "Common positive reaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ir ao parque é uma boa ideia.",
+        "english": "Going to the park is a great idea."
+      }
+    ],
+    "tags": ["social", "reaction", "ideas"]
+  },
+  {
+    "id": "16-lhsp-a1a2-021",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Sorry, I cannot.",
+    "portuguese": "Desculpa, não posso.",
+    "pronunciationNote": "desh-KOOL-pah, nown POS-soo",
+    "grammarFocus": "declining politely",
+    "notes": "Useful for social invitations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, não posso hoje.",
+        "english": "Sorry, I cannot today."
+      }
+    ],
+    "tags": ["social", "declining", "plans"]
+  },
+  {
+    "id": "16-lhsp-a1a2-022",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Maybe another day.",
+    "portuguese": "Talvez outro dia.",
+    "pronunciationNote": "tal-VEHZ OH-troo DEE-ah",
+    "grammarFocus": "declining politely",
+    "notes": "Useful when softening refusal.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje não consigo. Talvez outro dia.",
+        "english": "I cannot today. Maybe another day."
+      }
+    ],
+    "tags": ["social", "declining", "politeness"]
+  },
+  {
+    "id": "16-lhsp-a1a2-023",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time shall we meet?",
+    "portuguese": "A que horas combinamos?",
+    "pronunciationNote": "ah k OR-ash kong-bee-NAH-moosh",
+    "grammarFocus": "arranging plans",
+    "notes": "Useful for making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã, a que horas combinamos?",
+        "english": "Tomorrow, what time shall we meet?"
+      }
+    ],
+    "tags": ["plans", "timing", "meeting"]
+  },
+  {
+    "id": "16-lhsp-a1a2-024",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where shall we meet?",
+    "portuguese": "Onde combinamos?",
+    "pronunciationNote": "ON-d kong-bee-NAH-moosh",
+    "grammarFocus": "arranging plans",
+    "notes": "Useful for making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "No centro ou aqui? Onde combinamos?",
+        "english": "In the centre or here? Where shall we meet?"
+      }
+    ],
+    "tags": ["plans", "meeting", "location"]
+  },
+  {
+    "id": "16-lhsp-a1a2-025",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let us meet at the station.",
+    "portuguese": "Combinamos na estação.",
+    "pronunciationNote": "kong-bee-NAH-moosh nah esh-tah-SOWN",
+    "grammarFocus": "suggesting a plan",
+    "notes": "Useful for arranging plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Combinamos na estação às sete.",
+        "english": "Let us meet at the station at seven."
+      }
+    ],
+    "tags": ["plans", "meeting", "station"]
+  },
+  {
+    "id": "16-lhsp-a1a2-026",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am free this afternoon.",
+    "portuguese": "Estou livre esta tarde.",
+    "pronunciationNote": "esh-TOH LEE-vr ESH-tah TAR-d",
+    "grammarFocus": "stating availability",
+    "notes": "Useful for making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiseres, estou livre esta tarde.",
+        "english": "If you want, I am free this afternoon."
+      }
+    ],
+    "tags": ["plans", "availability", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-027",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am busy today.",
+    "portuguese": "Hoje estou ocupado.",
+    "pronunciationNote": "OH-zh esh-TOH oh-koo-PAH-doo",
+    "grammarFocus": "stating availability",
+    "notes": "Useful when declining.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou ocupado, mas amanhã talvez possa.",
+        "english": "I am busy today, but maybe tomorrow I can."
+      }
+    ],
+    "tags": ["plans", "availability", "declining"]
+  },
+  {
+    "id": "16-lhsp-a1a2-028",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am tired today.",
+    "portuguese": "Hoje estou cansado.",
+    "pronunciationNote": "OH-zh esh-TOH kan-SAH-doo",
+    "grammarFocus": "giving a reason",
+    "notes": "Useful when declining softly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, hoje estou cansado.",
+        "english": "Sorry, I am tired today."
+      }
+    ],
+    "tags": ["social", "declining", "reason"]
+  },
+  {
+    "id": "16-lhsp-a1a2-029",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Maybe next week.",
+    "portuguese": "Talvez para a semana.",
+    "pronunciationNote": "tal-VEHZ PAH-rah ah seh-MAH-nah",
+    "grammarFocus": "suggesting another time",
+    "notes": "Useful when rescheduling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta semana não dá. Talvez para a semana.",
+        "english": "This week is not possible. Maybe next week."
+      }
+    ],
+    "tags": ["plans", "rescheduling", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-030",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I can on Friday.",
+    "portuguese": "Posso na sexta-feira.",
+    "pronunciationNote": "POS-soo nah SAYSH-tah FAY-rah",
+    "grammarFocus": "stating availability",
+    "notes": "Useful for making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na quarta não posso, mas posso na sexta-feira.",
+        "english": "I cannot on Wednesday, but I can on Friday."
+      }
+    ],
+    "tags": ["plans", "availability", "calendar"]
+  },
+  {
+    "id": "16-lhsp-a1a2-031",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Shall we go together?",
+    "portuguese": "Vamos juntos?",
+    "pronunciationNote": "VAH-moosh ZHOON-toosh",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful in casual planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiseres, vamos juntos.",
+        "english": "If you want, shall we go together?"
+      }
+    ],
+    "tags": ["plans", "suggestion", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-032",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am with friends.",
+    "portuguese": "Estou com amigos.",
+    "pronunciationNote": "esh-TOH kong ah-MEE-goosh",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful in social conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora estou com amigos no café.",
+        "english": "Right now I am with friends at the café."
+      }
+    ],
+    "tags": ["social", "friends", "conversation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-033",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am at home.",
+    "portuguese": "Estou em casa.",
+    "pronunciationNote": "esh-TOH eng KAH-zah",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful in casual plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou em casa a descansar.",
+        "english": "Today I am at home resting."
+      }
+    ],
+    "tags": ["social", "home", "plans"]
+  },
+  {
+    "id": "16-lhsp-a1a2-034",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going out tonight.",
+    "portuguese": "Vou sair logo à noite.",
+    "pronunciationNote": "voh syr LOH-goo ah NOY-t",
+    "grammarFocus": "talking about plans",
+    "notes": "Useful for evening plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não posso jantar em casa porque vou sair logo à noite.",
+        "english": "I cannot have dinner at home because I am going out tonight."
+      }
+    ],
+    "tags": ["plans", "evening", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-035",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am staying in tonight.",
+    "portuguese": "Hoje fico em casa.",
+    "pronunciationNote": "OH-zh FEE-koo eng KAH-zah",
+    "grammarFocus": "talking about plans",
+    "notes": "Useful for declining invitations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou cansado, por isso hoje fico em casa.",
+        "english": "I am tired, so I am staying in tonight."
+      }
+    ],
+    "tags": ["plans", "home", "declining"]
+  },
+  {
+    "id": "16-lhsp-a1a2-036",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What kind of music do you like?",
+    "portuguese": "Que tipo de música gostas?",
+    "pronunciationNote": "k TEE-poo d MOO-zee-kah GOSH-tash",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que tipo de música gostas de ouvir?",
+        "english": "What kind of music do you like to listen to?"
+      }
+    ],
+    "tags": ["music", "preferences", "conversation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-037",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What films do you like?",
+    "portuguese": "Que filmes gostas?",
+    "pronunciationNote": "k FEEL-mesh GOSH-tash",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que filmes gostas de ver?",
+        "english": "What films do you like to watch?"
+      }
+    ],
+    "tags": ["films", "preferences", "conversation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-038",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you like going out?",
+    "portuguese": "Gostas de sair?",
+    "pronunciationNote": "GOSH-tash d syr",
+    "grammarFocus": "asking about preferences",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, gostas de sair?",
+        "english": "At the weekend, do you like going out?"
+      }
+    ],
+    "tags": ["social", "preferences", "going-out"]
+  },
+  {
+    "id": "16-lhsp-a1a2-039",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer quiet places.",
+    "portuguese": "Prefiro sítios calmos.",
+    "pronunciationNote": "preh-FEE-roo SEE-tee-oosh KAL-moosh",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para conversar, prefiro sítios calmos.",
+        "english": "For talking, I prefer quiet places."
+      }
+    ],
+    "tags": ["preferences", "social", "places"]
+  },
+  {
+    "id": "16-lhsp-a1a2-040",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer busy places.",
+    "portuguese": "Prefiro sítios com movimento.",
+    "pronunciationNote": "preh-FEE-roo SEE-tee-oosh kong moo-vee-MEN-too",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite, prefiro sítios com movimento.",
+        "english": "At night, I prefer lively places."
+      }
+    ],
+    "tags": ["preferences", "social", "places"]
+  },
+  {
+    "id": "16-lhsp-a1a2-041",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am meeting some friends.",
+    "portuguese": "Vou encontrar-me com uns amigos.",
+    "pronunciationNote": "voh en-kon-TRAR-m kong oonz ah-MEE-goosh",
+    "grammarFocus": "talking about plans",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais logo, vou encontrar-me com uns amigos.",
+        "english": "Later on, I am meeting some friends."
+      }
+    ],
+    "tags": ["plans", "friends", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-042",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you know a good place?",
+    "portuguese": "Conheces um sítio bom?",
+    "pronunciationNote": "kon-YEH-sesh oom SEE-tee-oo bong",
+    "grammarFocus": "asking for recommendations",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para tomar um café, conheces um sítio bom?",
+        "english": "To have a coffee, do you know a good place?"
+      }
+    ],
+    "tags": ["plans", "recommendations", "places"]
+  },
+  {
+    "id": "16-lhsp-a1a2-043",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not know yet.",
+    "portuguese": "Ainda não sei.",
+    "pronunciationNote": "een-DAH nown say",
+    "grammarFocus": "expressing uncertainty",
+    "notes": "Useful in planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não sei se posso ir.",
+        "english": "I do not know yet if I can go."
+      }
+    ],
+    "tags": ["plans", "uncertainty", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-044",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That works for me.",
+    "portuguese": "Para mim, está bem.",
+    "pronunciationNote": "PAH-rah meeng, esh-TAH beng",
+    "grammarFocus": "agreeing to a plan",
+    "notes": "Useful for arrangements.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às seis? Para mim, está bem.",
+        "english": "At six? That works for me."
+      }
+    ],
+    "tags": ["plans", "agreement", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-045",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is too early for me.",
+    "portuguese": "Isso é cedo demais para mim.",
+    "pronunciationNote": "EE-soo eh SAY-doo deh-MYSH PAH-rah meeng",
+    "grammarFocus": "explaining availability",
+    "notes": "Useful when negotiating plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às oito da manhã? Isso é cedo demais para mim.",
+        "english": "At eight in the morning? That is too early for me."
+      }
+    ],
+    "tags": ["plans", "timing", "negotiation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-046",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is too late for me.",
+    "portuguese": "Isso é tarde demais para mim.",
+    "pronunciationNote": "EE-soo eh TAR-d deh-MYSH PAH-rah meeng",
+    "grammarFocus": "explaining availability",
+    "notes": "Useful when negotiating plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "À meia-noite? Isso é tarde demais para mim.",
+        "english": "At midnight? That is too late for me."
+      }
+    ],
+    "tags": ["plans", "timing", "negotiation"]
+  },
+  {
+    "id": "16-lhsp-a1a2-047",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am interested.",
+    "portuguese": "Tenho interesse.",
+    "pronunciationNote": "TEN-yoo een-teh-RESH-t",
+    "grammarFocus": "showing interest",
+    "notes": "Useful in invitations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece divertido. Tenho interesse.",
+        "english": "It sounds fun. I am interested."
+      }
+    ],
+    "tags": ["social", "interest", "plans"]
+  },
+  {
+    "id": "16-lhsp-a1a2-048",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not very interested.",
+    "portuguese": "Não tenho muito interesse.",
+    "pronunciationNote": "nown TEN-yoo MOOY-too een-teh-RESH-t",
+    "grammarFocus": "showing limited interest",
+    "notes": "Soft way to decline.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para ser sincero, não tenho muito interesse nisso.",
+        "english": "To be honest, I am not very interested in that."
+      }
+    ],
+    "tags": ["social", "declining", "interest"]
+  },
+  {
+    "id": "16-lhsp-a1a2-049",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let me know.",
+    "portuguese": "Diz-me.",
+    "pronunciationNote": "deezh-m",
+    "grammarFocus": "simple imperative",
+    "notes": "Useful in making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando souberes, diz-me.",
+        "english": "When you know, let me know."
+      }
+    ],
+    "tags": ["plans", "communication", "social"]
+  },
+  {
+    "id": "16-lhsp-a1a2-050",
+    "subject": "Leisure, Hobbies & Social Plans",
+    "subjectId": "leisure-hobbies-social-plans",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "See you then.",
+    "portuguese": "Até logo então.",
+    "pronunciationNote": "ah-TEH LOH-goo en-TOWN",
+    "grammarFocus": "closing plans",
+    "notes": "Useful after arranging something.",
+    "exampleSentences": [
+      {
+        "portuguese": "Combinado. Até logo então.",
+        "english": "Agreed. See you then."
+      }
+    ],
+    "tags": ["plans", "closing", "social"]
+  }
+]

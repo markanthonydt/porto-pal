@@ -1,0 +1,952 @@
+[
+  {
+    "id": "20-wsn-a1a2-001",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is sunny today.",
+    "portuguese": "Hoje est\u00e1 sol.",
+    "pronunciationNote": "OH-zheh esh-TAH sol",
+    "grammarFocus": "describing weather",
+    "notes": "Basic weather phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 sol e apetece sair.",
+        "english": "It is sunny today and it makes you want to go out."
+      }
+    ],
+    "tags": ["weather", "sun", "daily life"]
+  },
+  {
+    "id": "20-wsn-a1a2-002",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is raining.",
+    "portuguese": "Est\u00e1 a chover.",
+    "pronunciationNote": "esh-TAH ah shoh-VAIR",
+    "grammarFocus": "describing weather",
+    "notes": "Common weather phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Leva guarda-chuva, est\u00e1 a chover.",
+        "english": "Take an umbrella, it is raining."
+      }
+    ],
+    "tags": ["weather", "rain", "daily life"]
+  },
+  {
+    "id": "20-wsn-a1a2-003",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is windy.",
+    "portuguese": "Est\u00e1 vento.",
+    "pronunciationNote": "esh-TAH VEN-too",
+    "grammarFocus": "describing weather",
+    "notes": "Common weather phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 vento junto ao mar.",
+        "english": "It is windy by the sea today."
+      }
+    ],
+    "tags": ["weather", "wind", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-004",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is cold.",
+    "portuguese": "Est\u00e1 frio.",
+    "pronunciationNote": "esh-TAH FREE-oo",
+    "grammarFocus": "describing weather",
+    "notes": "Basic temperature phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 frio de manh\u00e3.",
+        "english": "It is cold this morning."
+      }
+    ],
+    "tags": ["weather", "cold", "temperature"]
+  },
+  {
+    "id": "20-wsn-a1a2-005",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is hot.",
+    "portuguese": "Est\u00e1 calor.",
+    "pronunciationNote": "esh-TAH kah-LOR",
+    "grammarFocus": "describing weather",
+    "notes": "Basic temperature phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 calor demais para andar muito.",
+        "english": "It is too hot today to walk much."
+      }
+    ],
+    "tags": ["weather", "heat", "temperature"]
+  },
+  {
+    "id": "20-wsn-a1a2-006",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is cloudy.",
+    "portuguese": "Est\u00e1 nublado.",
+    "pronunciationNote": "esh-TAH noo-BLAH-doo",
+    "grammarFocus": "describing weather",
+    "notes": "Useful for overcast days.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 nublado, mas n\u00e3o parece chover.",
+        "english": "It is cloudy today, but it does not look like rain."
+      }
+    ],
+    "tags": ["weather", "clouds", "sky"]
+  },
+  {
+    "id": "20-wsn-a1a2-007",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is a nice day.",
+    "portuguese": "\u00c9 um dia bonito.",
+    "pronunciationNote": "eh oom DEE-ah boh-NEE-too",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful for casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "\u00c9 um dia bonito para passear.",
+        "english": "It is a nice day for a walk."
+      }
+    ],
+    "tags": ["weather", "opinion", "conversation"]
+  },
+  {
+    "id": "20-wsn-a1a2-008",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The weather is bad today.",
+    "portuguese": "O tempo est\u00e1 mau hoje.",
+    "pronunciationNote": "oo TEM-poo esh-TAH mao OH-zheh",
+    "grammarFocus": "describing weather",
+    "notes": "General bad-weather phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O tempo est\u00e1 mau hoje, por isso fico em casa.",
+        "english": "The weather is bad today, so I am staying home."
+      }
+    ],
+    "tags": ["weather", "bad weather", "daily life"]
+  },
+  {
+    "id": "20-wsn-a1a2-009",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What is the weather like tomorrow?",
+    "portuguese": "Como vai estar o tempo amanh\u00e3?",
+    "pronunciationNote": "KOH-moo vy esh-TAR oo TEM-poo ah-ma-NYAN",
+    "grammarFocus": "asking about future weather",
+    "notes": "Useful for planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como vai estar o tempo amanh\u00e3 de manh\u00e3?",
+        "english": "What will the weather be like tomorrow morning?"
+      }
+    ],
+    "tags": ["weather", "planning", "future"]
+  },
+  {
+    "id": "20-wsn-a1a2-010",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do I need an umbrella?",
+    "portuguese": "Preciso de guarda-chuva?",
+    "pronunciationNote": "preh-SEE-zoo d GWAR-dah SHOO-vah",
+    "grammarFocus": "asking about necessity",
+    "notes": "Useful before going out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fores sair, achas que preciso de guarda-chuva?",
+        "english": "If you are going out, do you think I need an umbrella?"
+      }
+    ],
+    "tags": ["rain", "umbrella", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-011",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Take a jacket.",
+    "portuguese": "Leva um casaco.",
+    "pronunciationNote": "LEH-vah oom kah-ZAH-koo",
+    "grammarFocus": "giving advice",
+    "notes": "Useful in weather conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Leva um casaco porque vai arrefecer.",
+        "english": "Take a jacket because it is going to get colder."
+      }
+    ],
+    "tags": ["clothes", "weather", "advice"]
+  },
+  {
+    "id": "20-wsn-a1a2-012",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It might rain later.",
+    "portuguese": "Pode chover mais tarde.",
+    "pronunciationNote": "POH-deh shoh-VAIR mysh TAR-d",
+    "grammarFocus": "talking about possibility",
+    "notes": "Useful for forecasts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Leva o guarda-chuva. Pode chover mais tarde.",
+        "english": "Take the umbrella. It might rain later."
+      }
+    ],
+    "tags": ["weather", "forecast", "rain"]
+  },
+  {
+    "id": "20-wsn-a1a2-013",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is going to be warm.",
+    "portuguese": "Vai estar ameno.",
+    "pronunciationNote": "vy esh-TAR ah-MEH-noo",
+    "grammarFocus": "talking about forecast",
+    "notes": "Useful for mild weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim de semana vai estar ameno.",
+        "english": "It is going to be mild at the weekend."
+      }
+    ],
+    "tags": ["forecast", "temperature", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-014",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Spring is my favourite season.",
+    "portuguese": "A primavera \u00e9 a minha esta\u00e7\u00e3o preferida.",
+    "pronunciationNote": "ah pree-mah-VEH-rah eh ah MEE-nyah esh-tah-SOWN preh-feh-REE-dah",
+    "grammarFocus": "expressing preferences",
+    "notes": "Basic seasons phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A primavera \u00e9 a minha esta\u00e7\u00e3o preferida porque os dias ficam maiores.",
+        "english": "Spring is my favourite season because the days get longer."
+      }
+    ],
+    "tags": ["seasons", "spring", "preferences"]
+  },
+  {
+    "id": "20-wsn-a1a2-015",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Summer is very hot here.",
+    "portuguese": "O ver\u00e3o \u00e9 muito quente aqui.",
+    "pronunciationNote": "oo veh-ROWN eh MOOY-too KEN-t ah-KEE",
+    "grammarFocus": "describing seasons",
+    "notes": "Useful for local climate.",
+    "exampleSentences": [
+      {
+        "portuguese": "No interior, o ver\u00e3o \u00e9 muito quente aqui.",
+        "english": "Inland, summer is very hot here."
+      }
+    ],
+    "tags": ["summer", "seasons", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-016",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Autumn is beautiful.",
+    "portuguese": "O outono \u00e9 bonito.",
+    "pronunciationNote": "oo ow-TOH-noo eh boh-NEE-too",
+    "grammarFocus": "giving an opinion",
+    "notes": "Simple seasonal opinion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com as folhas a mudar, o outono \u00e9 bonito.",
+        "english": "With the leaves changing, autumn is beautiful."
+      }
+    ],
+    "tags": ["autumn", "seasons", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-017",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Winter is colder near the mountains.",
+    "portuguese": "O inverno \u00e9 mais frio perto das montanhas.",
+    "pronunciationNote": "oo een-VAIR-noo eh mysh FREE-oo PEHR-too dazh مون-TAHN-yash",
+    "grammarFocus": "comparing conditions",
+    "notes": "Useful for talking about places.",
+    "exampleSentences": [
+      {
+        "portuguese": "L\u00e1 em cima, o inverno \u00e9 mais frio perto das montanhas.",
+        "english": "Up there, winter is colder near the mountains."
+      }
+    ],
+    "tags": ["winter", "mountains", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-018",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The days are getting longer.",
+    "portuguese": "Os dias est\u00e3o a ficar maiores.",
+    "pronunciationNote": "oosh DEE-ash esh-TOWN ah fee-KAR may-OR-esh",
+    "grammarFocus": "describing change",
+    "notes": "Useful in seasonal conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na primavera, os dias est\u00e3o a ficar maiores.",
+        "english": "In spring, the days are getting longer."
+      }
+    ],
+    "tags": ["days", "seasons", "change"]
+  },
+  {
+    "id": "20-wsn-a1a2-019",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The nights are colder now.",
+    "portuguese": "As noites est\u00e3o mais frias agora.",
+    "pronunciationNote": "azh NOY-tesh esh-TOWN mysh FREE-ash ah-GOH-rah",
+    "grammarFocus": "describing change",
+    "notes": "Useful in seasonal conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em outubro, as noites est\u00e3o mais frias agora.",
+        "english": "In October, the nights are colder now."
+      }
+    ],
+    "tags": ["nights", "temperature", "seasons"]
+  },
+  {
+    "id": "20-wsn-a1a2-020",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I love the sea in summer.",
+    "portuguese": "Adoro o mar no ver\u00e3o.",
+    "pronunciationNote": "ah-DOH-roo oo mar noo veh-ROWN",
+    "grammarFocus": "expressing likes",
+    "notes": "Useful for nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Adoro o mar no ver\u00e3o, sobretudo de manh\u00e3.",
+        "english": "I love the sea in summer, especially in the morning."
+      }
+    ],
+    "tags": ["sea", "summer", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-021",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The beach is very busy today.",
+    "portuguese": "A praia est\u00e1 muito cheia hoje.",
+    "pronunciationNote": "ah PRAI-ah esh-TAH MOOY-too SHAY-ah OH-zheh",
+    "grammarFocus": "describing places",
+    "notes": "Useful in coastal areas.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este calor, a praia est\u00e1 muito cheia hoje.",
+        "english": "With this heat, the beach is very crowded today."
+      }
+    ],
+    "tags": ["beach", "summer", "places"]
+  },
+  {
+    "id": "20-wsn-a1a2-022",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The water is cold.",
+    "portuguese": "A \u00e1gua est\u00e1 fria.",
+    "pronunciationNote": "ah AH-gwah esh-TAH FREE-ah",
+    "grammarFocus": "describing conditions",
+    "notes": "Useful at the beach or river.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje a \u00e1gua est\u00e1 fria, mas est\u00e1 boa na mesma.",
+        "english": "The water is cold today, but it is still nice."
+      }
+    ],
+    "tags": ["water", "beach", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-023",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The sky is clear.",
+    "portuguese": "O c\u00e9u est\u00e1 limpo.",
+    "pronunciationNote": "oo SEH-oo esh-TAH LEEM-poo",
+    "grammarFocus": "describing nature",
+    "notes": "Useful for weather and views.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje o c\u00e9u est\u00e1 limpo e azul.",
+        "english": "The sky is clear and blue today."
+      }
+    ],
+    "tags": ["sky", "weather", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-024",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There are a lot of clouds.",
+    "portuguese": "H\u00e1 muitas nuvens.",
+    "pronunciationNote": "AH MOOY-tash NOO-vensh",
+    "grammarFocus": "describing weather",
+    "notes": "Useful for sky conditions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje h\u00e1 muitas nuvens, por isso n\u00e3o est\u00e1 muito quente.",
+        "english": "There are a lot of clouds today, so it is not very hot."
+      }
+    ],
+    "tags": ["clouds", "sky", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-025",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The air feels fresh.",
+    "portuguese": "O ar est\u00e1 fresco.",
+    "pronunciationNote": "oo ar esh-TAH FRESH-koo",
+    "grammarFocus": "describing sensation",
+    "notes": "Useful in nature and weather talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manh\u00e3, o ar est\u00e1 fresco.",
+        "english": "In the morning, the air feels fresh."
+      }
+    ],
+    "tags": ["air", "weather", "sensation"]
+  },
+  {
+    "id": "20-wsn-a1a2-026",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The sun is strong today.",
+    "portuguese": "O sol est\u00e1 forte hoje.",
+    "pronunciationNote": "oo sol esh-TAH FOR-t OH-zheh",
+    "grammarFocus": "describing conditions",
+    "notes": "Useful for summer days.",
+    "exampleSentences": [
+      {
+        "portuguese": "Leva chap\u00e9u. O sol est\u00e1 forte hoje.",
+        "english": "Take a hat. The sun is strong today."
+      }
+    ],
+    "tags": ["sun", "summer", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-027",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is shade over there.",
+    "portuguese": "H\u00e1 sombra ali.",
+    "pronunciationNote": "AH SOHM-brah ah-LEE",
+    "grammarFocus": "describing location",
+    "notes": "Useful in parks and beaches.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiveres com calor, h\u00e1 sombra ali.",
+        "english": "If you are hot, there is shade over there."
+      }
+    ],
+    "tags": ["shade", "sun", "places"]
+  },
+  {
+    "id": "20-wsn-a1a2-028",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let us sit outside.",
+    "portuguese": "Vamos sentar-nos l\u00e1 fora.",
+    "pronunciationNote": "VAH-moosh sen-TAR-noosh lah FOR-ah",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful in good weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Est\u00e1 bom tempo. Vamos sentar-nos l\u00e1 fora.",
+        "english": "The weather is nice. Let us sit outside."
+      }
+    ],
+    "tags": ["outside", "good weather", "suggestions"]
+  },
+  {
+    "id": "20-wsn-a1a2-029",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let us stay inside.",
+    "portuguese": "Vamos ficar c\u00e1 dentro.",
+    "pronunciationNote": "VAH-moosh fee-KAR kah DEN-troo",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful in bad weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Est\u00e1 a chover. Vamos ficar c\u00e1 dentro.",
+        "english": "It is raining. Let us stay inside."
+      }
+    ],
+    "tags": ["inside", "bad weather", "suggestions"]
+  },
+  {
+    "id": "20-wsn-a1a2-030",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The park is lovely in spring.",
+    "portuguese": "O parque \u00e9 lindo na primavera.",
+    "pronunciationNote": "oo PAR-k eh LEEN-doo nah pree-mah-VEH-rah",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful for nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com as flores, o parque \u00e9 lindo na primavera.",
+        "english": "With the flowers, the park is lovely in spring."
+      }
+    ],
+    "tags": ["park", "spring", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-031",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There are flowers everywhere.",
+    "portuguese": "H\u00e1 flores por todo o lado.",
+    "pronunciationNote": "AH FLOR-esh poor TOH-doo oo LAH-doo",
+    "grammarFocus": "describing a place",
+    "notes": "Useful in spring and garden contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nesta altura, h\u00e1 flores por todo o lado.",
+        "english": "At this time of year, there are flowers everywhere."
+      }
+    ],
+    "tags": ["flowers", "nature", "spring"]
+  },
+  {
+    "id": "20-wsn-a1a2-032",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The leaves are falling.",
+    "portuguese": "As folhas est\u00e3o a cair.",
+    "pronunciationNote": "azh FOH-lyash esh-TOWN ah kah-EER",
+    "grammarFocus": "describing seasonal change",
+    "notes": "Useful in autumn.",
+    "exampleSentences": [
+      {
+        "portuguese": "No outono, as folhas est\u00e3o a cair.",
+        "english": "In autumn, the leaves are falling."
+      }
+    ],
+    "tags": ["autumn", "leaves", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-033",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The trees are beautiful here.",
+    "portuguese": "As \u00e1rvores s\u00e3o bonitas aqui.",
+    "pronunciationNote": "azh AR-voh-resh sown boh-NEE-tash ah-KEE",
+    "grammarFocus": "describing nature",
+    "notes": "Useful in parks and countryside.",
+    "exampleSentences": [
+      {
+        "portuguese": "No outono, as \u00e1rvores s\u00e3o bonitas aqui.",
+        "english": "In autumn, the trees are beautiful here."
+      }
+    ],
+    "tags": ["trees", "nature", "places"]
+  },
+  {
+    "id": "20-wsn-a1a2-034",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like walking in the countryside.",
+    "portuguese": "Gosto de caminhar no campo.",
+    "pronunciationNote": "GOSH-too d kah-mee-NYAR noo KAHM-poo",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful for nature conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, gosto de caminhar no campo.",
+        "english": "At the weekend, I like walking in the countryside."
+      }
+    ],
+    "tags": ["countryside", "walking", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-035",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The view is amazing.",
+    "portuguese": "A vista \u00e9 incr\u00edvel.",
+    "pronunciationNote": "ah VEESH-tah eh een-KREE-vel",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful in nature and travel contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Do miradouro, a vista \u00e9 incr\u00edvel.",
+        "english": "From the viewpoint, the view is amazing."
+      }
+    ],
+    "tags": ["view", "nature", "travel"]
+  },
+  {
+    "id": "20-wsn-a1a2-036",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It gets dark early in winter.",
+    "portuguese": "No inverno escurece cedo.",
+    "pronunciationNote": "noo een-VAIR-noo esh-koo-REH-seh SEH-doo",
+    "grammarFocus": "describing seasonal patterns",
+    "notes": "Useful in seasonal conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "No inverno escurece cedo, por isso prefiro sair mais cedo tamb\u00e9m.",
+        "english": "It gets dark early in winter, so I prefer to go out earlier too."
+      }
+    ],
+    "tags": ["winter", "days", "seasonal change"]
+  },
+  {
+    "id": "20-wsn-a1a2-037",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The sunrise is beautiful.",
+    "portuguese": "O nascer do sol \u00e9 bonito.",
+    "pronunciationNote": "oo nah-SAIR doo sol eh boh-NEE-too",
+    "grammarFocus": "describing nature",
+    "notes": "Useful in scenic conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na praia, o nascer do sol \u00e9 bonito.",
+        "english": "At the beach, the sunrise is beautiful."
+      }
+    ],
+    "tags": ["sunrise", "nature", "beauty"]
+  },
+  {
+    "id": "20-wsn-a1a2-038",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The sunset is beautiful.",
+    "portuguese": "O p\u00f4r do sol \u00e9 bonito.",
+    "pronunciationNote": "oo por doo sol eh boh-NEE-too",
+    "grammarFocus": "describing nature",
+    "notes": "Useful in scenic conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "No ver\u00e3o, o p\u00f4r do sol \u00e9 bonito junto ao rio.",
+        "english": "In summer, the sunset is beautiful by the river."
+      }
+    ],
+    "tags": ["sunset", "nature", "beauty"]
+  },
+  {
+    "id": "20-wsn-a1a2-039",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is fog this morning.",
+    "portuguese": "H\u00e1 nevoeiro esta manh\u00e3.",
+    "pronunciationNote": "AH neh-voy-RAIR-oo ESH-tah man-YAN",
+    "grammarFocus": "describing weather",
+    "notes": "Useful in winter and coastal areas.",
+    "exampleSentences": [
+      {
+        "portuguese": "Conduz com cuidado, h\u00e1 nevoeiro esta manh\u00e3.",
+        "english": "Drive carefully, there is fog this morning."
+      }
+    ],
+    "tags": ["fog", "weather", "morning"]
+  },
+  {
+    "id": "20-wsn-a1a2-040",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is very humid today.",
+    "portuguese": "Hoje est\u00e1 muito h\u00famido.",
+    "pronunciationNote": "OH-zheh esh-TAH MOOY-too OO-mee-doo",
+    "grammarFocus": "describing weather",
+    "notes": "Useful in summer or coastal areas.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje est\u00e1 muito h\u00famido e pesado.",
+        "english": "It is very humid and heavy today."
+      }
+    ],
+    "tags": ["humidity", "weather", "summer"]
+  },
+  {
+    "id": "20-wsn-a1a2-041",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The air is dry here.",
+    "portuguese": "O ar \u00e9 seco aqui.",
+    "pronunciationNote": "oo ar eh SEH-koo ah-KEE",
+    "grammarFocus": "describing conditions",
+    "notes": "Useful when comparing places.",
+    "exampleSentences": [
+      {
+        "portuguese": "No interior, o ar \u00e9 seco aqui.",
+        "english": "Inland, the air is dry here."
+      }
+    ],
+    "tags": ["air", "dry", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-042",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need sunscreen.",
+    "portuguese": "Preciso de protetor solar.",
+    "pronunciationNote": "preh-SEE-zoo d proh-teh-TOR soh-LAR",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for sunny days.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este sol, preciso de protetor solar.",
+        "english": "With this sun, I need sunscreen."
+      }
+    ],
+    "tags": ["sun", "summer", "health"]
+  },
+  {
+    "id": "20-wsn-a1a2-043",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We should go earlier before it gets too hot.",
+    "portuguese": "Dev\u00edamos ir mais cedo antes de ficar demasiado quente.",
+    "pronunciationNote": "deh-VEE-ah-moosh eer mysh SEH-doo AN-tesh d fee-KAR deh-mah-zee-AH-doo KEN-t",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful for planning around weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para caminhar melhor, dev\u00edamos ir mais cedo antes de ficar demasiado quente.",
+        "english": "To walk more comfortably, we should go earlier before it gets too hot."
+      }
+    ],
+    "tags": ["planning", "heat", "weather"]
+  },
+  {
+    "id": "20-wsn-a1a2-044",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is perfect weather for a walk.",
+    "portuguese": "Est\u00e1 um tempo perfeito para passear.",
+    "pronunciationNote": "esh-TAH oom TEM-poo pair-FAY-too PAH-rah pah-seh-AR",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful in everyday conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem frio nem calor, est\u00e1 um tempo perfeito para passear.",
+        "english": "Neither cold nor hot, it is perfect weather for a walk."
+      }
+    ],
+    "tags": ["walking", "weather", "opinion"]
+  },
+  {
+    "id": "20-wsn-a1a2-045",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The river is beautiful in winter.",
+    "portuguese": "O rio \u00e9 bonito no inverno.",
+    "pronunciationNote": "oo REE-oo eh boh-NEE-too noo een-VAIR-noo",
+    "grammarFocus": "describing nature",
+    "notes": "Useful in scenic conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com a luz baixa, o rio \u00e9 bonito no inverno.",
+        "english": "With the low light, the river is beautiful in winter."
+      }
+    ],
+    "tags": ["river", "winter", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-046",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The mountains are far away.",
+    "portuguese": "As montanhas ficam longe.",
+    "pronunciationNote": "azh مون-TAHN-yash FEE-kang LON-zh",
+    "grammarFocus": "describing location",
+    "notes": "Useful when talking about landscapes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Daqui, as montanhas ficam longe.",
+        "english": "From here, the mountains are far away."
+      }
+    ],
+    "tags": ["mountains", "landscape", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-047",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like hearing the rain at night.",
+    "portuguese": "Gosto de ouvir a chuva \u00e0 noite.",
+    "pronunciationNote": "GOSH-too d oo-VEER ah SHOO-vah ah NOY-t",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in personal conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando estou em casa, gosto de ouvir a chuva \u00e0 noite.",
+        "english": "When I am at home, I like hearing the rain at night."
+      }
+    ],
+    "tags": ["rain", "night", "preferences"]
+  },
+  {
+    "id": "20-wsn-a1a2-048",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The garden looks lovely.",
+    "portuguese": "O jardim est\u00e1 lindo.",
+    "pronunciationNote": "oo zhar-DEENG esh-TAH LEEN-doo",
+    "grammarFocus": "describing a place",
+    "notes": "Useful in spring and summer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com as flores abertas, o jardim est\u00e1 lindo.",
+        "english": "With the flowers open, the garden looks lovely."
+      }
+    ],
+    "tags": ["garden", "flowers", "nature"]
+  },
+  {
+    "id": "20-wsn-a1a2-049",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to go to the countryside this weekend.",
+    "portuguese": "Quero ir ao campo este fim de semana.",
+    "pronunciationNote": "KEH-roo eer ow KAHM-poo ESH-t feeng d seh-MAH-nah",
+    "grammarFocus": "talking about plans",
+    "notes": "Useful in social planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiver bom tempo, quero ir ao campo este fim de semana.",
+        "english": "If the weather is good, I want to go to the countryside this weekend."
+      }
+    ],
+    "tags": ["plans", "countryside", "weekend"]
+  },
+  {
+    "id": "20-wsn-a1a2-050",
+    "subject": "Weather, Seasons & Nature",
+    "subjectId": "weather-seasons-nature",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Let us check the forecast first.",
+    "portuguese": "Vamos ver primeiro a previs\u00e3o do tempo.",
+    "pronunciationNote": "VAH-moosh vair pree-MAIR-oo ah preh-vee-ZOWN doo TEM-poo",
+    "grammarFocus": "making a suggestion",
+    "notes": "Useful before making plans.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de marcar, vamos ver primeiro a previs\u00e3o do tempo.",
+        "english": "Before deciding, let us check the forecast first."
+      }
+    ],
+    "tags": ["forecast", "planning", "weather"]
+  }
+]

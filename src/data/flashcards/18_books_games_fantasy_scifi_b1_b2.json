@@ -1,0 +1,952 @@
+[
+  {
+    "id": "18-bgfs-b1b2-001",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What usually draws me in is not just the plot, but the feeling that the world has real depth behind it.",
+    "portuguese": "O que normalmente me prende não é só o enredo, mas a sensação de que o mundo tem profundidade verdadeira por trás.",
+    "pronunciationNote": "oo k nor-mal-MEN-t m PREN-d nown eh soh oo en-REH-doo, mahz ah sen-sah-SOWN d k oo MUN-doo teng proh-foon-dee-DAH-d vehr-dah-DAY-rah poor TRAHSH",
+    "grammarFocus": "describing literary preferences",
+    "notes": "Useful for fantasy and sci-fi discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o cenário parece vivo, eu entro logo na história.",
+        "english": "If the setting feels alive, I get into the story straight away."
+      }
+    ],
+    "tags": ["worldbuilding", "books", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-002",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like fantasy most when the magical elements feel woven into the world rather than added on top of it.",
+    "portuguese": "Gosto mais de fantasia quando os elementos mágicos parecem fazer parte do mundo, em vez de estarem só por cima.",
+    "pronunciationNote": "GOSH-too mysh d fan-tah-ZEE-ah KWAN-doo ooz eh-leh-MEN-toosh MAH-zhee-koosh pah-REH-sang fah-ZAIR PAR-t doo MUN-doo, eng vez d esh-TAH-reng soh poor SEE-mah",
+    "grammarFocus": "describing genre taste",
+    "notes": "Useful in fantasy discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando a magia parece natural, a história convence-me mais.",
+        "english": "When the magic feels natural, the story convinces me more."
+      }
+    ],
+    "tags": ["fantasy", "magic", "worldbuilding"]
+  },
+  {
+    "id": "18-bgfs-b1b2-003",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "With science fiction, I am usually more interested in the ideas than in the spectacle.",
+    "portuguese": "Na ficção científica, interessam-me normalmente mais as ideias do que o espetáculo.",
+    "pronunciationNote": "nah feek-SOWN see-en-TEE-fee-kah, een-teh-REH-sang-m nor-mal-MEN-t mysh az ee-DAY-ash doo k oo esh-peh-TAH-koo-loo",
+    "grammarFocus": "contrasting priorities",
+    "notes": "Useful in sci-fi conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me faz pensar, já me ganhou bastante.",
+        "english": "If it makes me think, it has already won me over quite a lot."
+      }
+    ],
+    "tags": ["scifi", "ideas", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-004",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not necessarily need a fast plot if the characters and the atmosphere are strong enough.",
+    "portuguese": "Não preciso necessariamente de um enredo rápido se as personagens e a atmosfera forem suficientemente fortes.",
+    "pronunciationNote": "nown preh-SEE-zoo neh-seh-sah-ree-ah-MEN-t d oom en-REH-doo HAH-pee-doo s az pair-soh-NAH-zhensh ee ah ah-tmohs-FEH-rah FOR-eng soo-fee-see-EN-teh-MEN-t FOR-tesh",
+    "grammarFocus": "qualifying taste",
+    "notes": "Useful in books and games conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes gosto de ficar num mundo durante mais tempo.",
+        "english": "Sometimes I like staying in a world for longer."
+      }
+    ],
+    "tags": ["books", "characters", "atmosphere"]
+  },
+  {
+    "id": "18-bgfs-b1b2-005",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I enjoy most in games is the feeling that exploration is rewarded rather than just padded out.",
+    "portuguese": "O que mais gosto nos jogos é a sensação de que explorar compensa, em vez de servir só para encher.",
+    "pronunciationNote": "oo k mysh GOSH-too noosh ZHO-goosh eh ah sen-sah-SOWN d k esh-ploh-RAR kong-PEN-sah, eng vez d sair-VEER soh PAH-rah en-SHAYR",
+    "grammarFocus": "talking about gameplay preferences",
+    "notes": "Useful in game discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o mundo recompensa curiosidade, fico logo mais envolvido.",
+        "english": "When the world rewards curiosity, I immediately feel more engaged."
+      }
+    ],
+    "tags": ["games", "exploration", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-006",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like stories that trust you to piece things together instead of explaining everything too early.",
+    "portuguese": "Gosto de histórias que confiam em nós para ligar as peças, em vez de explicarem tudo cedo demais.",
+    "pronunciationNote": "GOSH-too d eesh-TOH-ree-ash k kong-FEE-ang eng nohsh PAH-rah lee-GAR az PYE-sash, eng vez d eks-plee-KAH-reng TOO-doo SAY-doo deh-MYSH",
+    "grammarFocus": "describing narrative taste",
+    "notes": "Useful in books and games discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando a obra respeita a inteligência do leitor, ganha muito comigo.",
+        "english": "When a work respects the reader's intelligence, it wins a lot with me."
+      }
+    ],
+    "tags": ["narrative", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-b1b2-007",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am usually more forgiving of a weak ending if the journey getting there was memorable enough.",
+    "portuguese": "Costumo perdoar mais facilmente um final fraco se o percurso até lá tiver valido muito a pena.",
+    "pronunciationNote": "koosh-TOO-mah pair-DOH-ar mysh fah-see-EL-men-t oom fee-NAL FRAH-koo s oo pair-KOOR-soo ah-TAY lah tee-VAIR VAH-lee-doo MOOY-too ah PEH-nah",
+    "grammarFocus": "weighing strengths and weaknesses",
+    "notes": "Useful in review-style conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo precisa de fechar perfeitamente para resultar comigo.",
+        "english": "Not everything needs to end perfectly to work for me."
+      }
+    ],
+    "tags": ["ending", "reviews", "story"]
+  },
+  {
+    "id": "18-bgfs-b1b2-008",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less interested in realistic detail than in whether the world feels internally consistent.",
+    "portuguese": "Interessa-me menos o detalhe realista do que saber se o mundo é coerente por dentro.",
+    "pronunciationNote": "een-teh-REH-sah-m MEN-oosh oo deh-TAH-ly reh-ah-LEESH-tah doo k sah-BER s oo MUN-doo eh koo-eh-REN-t poor DEN-troo",
+    "grammarFocus": "describing critical preferences",
+    "notes": "Useful in fantasy and sci-fi discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se as regras fazem sentido, entro facilmente no jogo da obra.",
+        "english": "If the rules make sense, I easily buy into the work."
+      }
+    ],
+    "tags": ["worldbuilding", "consistency", "scifi"]
+  },
+  {
+    "id": "18-bgfs-b1b2-009",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can enjoy quite dense lore, as long as it feels meaningful rather than just decorative.",
+    "portuguese": "Consigo gostar de lore bastante denso, desde que pareça significativo e não apenas decorativo.",
+    "pronunciationNote": "kon-SEE-goo gosh-TAR d lore bahsh-TAN-t DEN-soo, DEHZ-d k pah-REH-sah seeg-nee-fee-kah-TEE-voo ee nown ah-PEH-nash deh-koh-rah-TEE-voo",
+    "grammarFocus": "talking about lore",
+    "notes": "Useful in fantasy and game conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se só existe para parecer profundo, perco o interesse.",
+        "english": "If it only exists to seem deep, I lose interest."
+      }
+    ],
+    "tags": ["lore", "fantasy", "games"]
+  },
+  {
+    "id": "18-bgfs-b1b2-010",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I usually connect more with stories that leave emotional space than with ones that constantly chase spectacle.",
+    "portuguese": "Costumo ligar-me mais a histórias que deixam espaço emocional do que àquelas que andam sempre atrás do espetáculo.",
+    "pronunciationNote": "koosh-TOO-mah lee-GAR-m mysh ah eesh-TOH-ree-ash k DAY-shang esh-PAH-soo eh-moh-see-oh-NAL doo k ah-KEH-lash k AN-dang SAYM-pr ah-TRAHSH doo esh-peh-TAH-koo-loo",
+    "grammarFocus": "describing emotional taste",
+    "notes": "Useful in discussing books, films, or games.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo é intensidade, acabo por me desligar.",
+        "english": "When everything is intensity, I end up disconnecting."
+      }
+    ],
+    "tags": ["story", "emotion", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-011",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am often more interested in a morally complicated character than in a straightforward hero.",
+    "portuguese": "Muitas vezes interessa-me mais uma personagem moralmente complicada do que um herói mais direto.",
+    "pronunciationNote": "MOOY-tash VAY-zesh een-teh-REH-sah-m mysh OO-mah pair-soh-NAH-zheng moh-ral-MEN-t kong-plee-KAH-dah doo k oom eh-ROY mysh dee-REH-too",
+    "grammarFocus": "comparing character types",
+    "notes": "Useful in character discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando uma personagem tem contradições, para mim fica mais humana.",
+        "english": "When a character has contradictions, they feel more human to me."
+      }
+    ],
+    "tags": ["characters", "morality", "story"]
+  },
+  {
+    "id": "18-bgfs-b1b2-012",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What usually convinces me to keep going is the sense that the story knows where it is heading.",
+    "portuguese": "O que normalmente me convence a continuar é a sensação de que a história sabe para onde vai.",
+    "pronunciationNote": "oo k nor-mal-MEN-t m kong-VEN-s ah kon-tee-noo-AR eh ah sen-sah-SOWN d k ah eesh-TOH-ree-ah SAH-b PAH-rah ON-d vy",
+    "grammarFocus": "describing narrative confidence",
+    "notes": "Useful in discussing pacing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que demore, se houver direção eu mantenho-me investido.",
+        "english": "Even if it takes time, if there is direction I stay invested."
+      }
+    ],
+    "tags": ["story", "pacing", "books"]
+  },
+  {
+    "id": "18-bgfs-b1b2-013",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate it when a game trusts the player to experiment instead of over-explaining every system.",
+    "portuguese": "Gosto quando um jogo confia no jogador para experimentar em vez de explicar demasiado cada sistema.",
+    "pronunciationNote": "GOSH-too KWAN-doo oom ZHO-goo kong-FEE-ah noo zhoo-GAH-dOR PAH-rah eks-peh-ree-men-TAR eng vez d eks-plee-KAR deh-mah-zee-AH-doo KAH-dah sees-TAY-mah",
+    "grammarFocus": "describing game design preferences",
+    "notes": "Useful in gaming discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo é explicado em excesso, sinto menos descoberta.",
+        "english": "If everything is over-explained, I feel less discovery."
+      }
+    ],
+    "tags": ["games", "design", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-014",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind a slow start if it is doing meaningful groundwork rather than just delaying the interesting part.",
+    "portuguese": "Não me importo com um início lento se estiver a construir base de forma útil, em vez de apenas adiar a parte interessante.",
+    "pronunciationNote": "nown m eem-POR-too kong oom ee-NEE-see-oo LEN-too s esh-TEE-vair ah kongs-troo-EER BAH-s d FOR-mah OO-teel, eng vez d ah-PEH-nash ah-dee-AR ah PAR-t een-teh-reh-SAN-t",
+    "grammarFocus": "qualifying pacing preferences",
+    "notes": "Useful in review conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o contexto que cria for importante, aceito bem a lentidão.",
+        "english": "If the context it builds matters, I accept the slowness well."
+      }
+    ],
+    "tags": ["pacing", "books", "story"]
+  },
+  {
+    "id": "18-bgfs-b1b2-015",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the setting is doing a lot of the heavy lifting here, which is not a criticism if it works.",
+    "portuguese": "Acho que o cenário está a fazer grande parte do trabalho aqui, o que não é uma crítica se resultar.",
+    "pronunciationNote": "AH-shoo k oo seh-NAH-ree-oo esh-TAH ah fah-ZAIR GRAN-d PAR-t doo trah-BAH-lyoo ah-KEE, oo k nown eh OO-mah KREE-tee-kah s reh-zool-TAR",
+    "grammarFocus": "balanced critique",
+    "notes": "Useful in analytical discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre é preciso que tudo brilhe da mesma forma.",
+        "english": "It is not always necessary for everything to shine equally."
+      }
+    ],
+    "tags": ["analysis", "setting", "books"]
+  },
+  {
+    "id": "18-bgfs-b1b2-016",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am much more likely to stay engaged if the mystery feels layered rather than just withheld for the sake of suspense.",
+    "portuguese": "É muito mais provável que eu me mantenha envolvido se o mistério parecer ter camadas, e não estar só escondido para criar suspense.",
+    "pronunciationNote": "eh MOOY-too mysh proh-VAH-vel k eh-oo m man-TAY-nyah en-vol-VEE-doo s oo meesh-TEH-ree-oo pah-REH-sair tair KAH-mah-dash, ee nown esh-TAR soh esh-kon-DEE-doo PAH-rah kree-AR soos-PEN-s",
+    "grammarFocus": "discussing mystery writing",
+    "notes": "Useful in books and games conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o mistério tem substância, fico muito mais curioso.",
+        "english": "When the mystery has substance, I become much more curious."
+      }
+    ],
+    "tags": ["mystery", "story", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-017",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I enjoy books and games that leave some room for interpretation instead of locking everything down too neatly.",
+    "portuguese": "Gosto de livros e jogos que deixam algum espaço para interpretação, em vez de fecharem tudo demasiado bem.",
+    "pronunciationNote": "GOSH-too d LEE-vroosh ee ZHO-goosh k DAY-shang al-GOOM esh-PAH-soo PAH-rah een-tair-preh-tah-SOWN, eng vez d feh-SHAR-eng TOO-doo deh-mah-zee-AH-doo beng",
+    "grammarFocus": "describing interpretive taste",
+    "notes": "Useful in critical conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes gosto de continuar a pensar na obra depois do fim.",
+        "english": "Sometimes I like to keep thinking about the work after it ends."
+      }
+    ],
+    "tags": ["interpretation", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-b1b2-018",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The thing that usually makes me recommend something is not perfection, but a strong sense of identity.",
+    "portuguese": "O que me leva normalmente a recomendar uma obra não é a perfeição, mas uma identidade forte.",
+    "pronunciationNote": "oo k m LEH-vah nor-mal-MEN-t ah reh-koh-men-DAR OO-mah OH-br nown eh ah pair-feh-ee-SOWN, mahz OO-mah ee-den-tee-DAH-d FOR-t",
+    "grammarFocus": "describing recommendation criteria",
+    "notes": "Useful in recommendation talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se sei exatamente o que está a tentar ser, já me conquista bastante.",
+        "english": "If I know exactly what it is trying to be, that already wins me over a lot."
+      }
+    ],
+    "tags": ["recommendation", "analysis", "taste"]
+  },
+  {
+    "id": "18-bgfs-b1b2-019",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to forgive awkward writing more easily than shallow characters.",
+    "portuguese": "Tendo a perdoar mais facilmente uma escrita irregular do que personagens superficiais.",
+    "pronunciationNote": "TEN-doo ah pair-DOH-ar mysh fah-see-EL-men-t OO-mah esh-KREE-tah eer-reh-goo-LAR doo k pair-soh-NAH-zhensh soo-pair-fee-see-AISH",
+    "grammarFocus": "comparing flaws",
+    "notes": "Useful in literary discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me importo com as personagens, continuo quase sempre.",
+        "english": "If I care about the characters, I almost always keep going."
+      }
+    ],
+    "tags": ["writing", "characters", "books"]
+  },
+  {
+    "id": "18-bgfs-b1b2-020",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the game respects my time, I am usually much more patient with its difficulty.",
+    "portuguese": "Se o jogo respeita o meu tempo, normalmente tenho muito mais paciência para a dificuldade.",
+    "pronunciationNote": "s oo ZHO-goo resh-PAY-tah oo may-oo TEM-poo, nor-mal-MEN-t TEN-yoo MOOY-too mysh pah-see-EN-see-ah PAH-rah ah dee-fee-KOOL-dah-d",
+    "grammarFocus": "describing gameplay values",
+    "notes": "Useful in gaming conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "O problema não é ser difícil, é ser injusto ou repetitivo.",
+        "english": "The problem is not that it is hard, it is that it is unfair or repetitive."
+      }
+    ],
+    "tags": ["games", "difficulty", "design"]
+  },
+  {
+    "id": "18-bgfs-b1b2-021",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I love it when a fantasy setting feels old in the best possible way, as if it existed long before the story began.",
+    "portuguese": "Adoro quando um mundo de fantasia parece antigo da melhor maneira, como se existisse muito antes da história começar.",
+    "pronunciationNote": "ah-DOH-roo KWAN-doo oom MUN-doo d fan-tah-ZEE-ah pah-REH-s an-TEE-goo dah meh-LYOR mah-NAY-rah, KOH-moo s egh-zeesh-TEE-s MOOY-too AN-tsh dah eesh-TOH-ree-ah koh-meh-SAR",
+    "grammarFocus": "describing immersive worldbuilding",
+    "notes": "Useful in fantasy discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esses detalhes fazem-me acreditar muito mais no cenário.",
+        "english": "Those details make me believe in the setting much more."
+      }
+    ],
+    "tags": ["fantasy", "worldbuilding", "immersion"]
+  },
+  {
+    "id": "18-bgfs-b1b2-022",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "With science fiction, I especially enjoy stories that use speculative ideas to say something interesting about people now.",
+    "portuguese": "Na ficção científica, gosto especialmente de histórias que usam ideias especulativas para dizer algo interessante sobre as pessoas de agora.",
+    "pronunciationNote": "nah feek-SOWN see-en-TEE-fee-kah, GOSH-too esh-peh-see-al-MEN-t d eesh-TOH-ree-ash k OO-zang ee-DAY-ash esh-peh-koo-lah-TEE-vash PAH-rah dee-ZAIR AL-goo een-teh-reh-SAN-t SOH-br az peh-SOH-ash d ah-GOH-rah",
+    "grammarFocus": "describing thematic interests",
+    "notes": "Useful in sci-fi discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o conceito conversa com o presente, para mim ganha muito peso.",
+        "english": "When the concept speaks to the present, for me it gains a lot of weight."
+      }
+    ],
+    "tags": ["scifi", "themes", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-023",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am usually more interested in whether a twist feels earned than in whether I managed to predict it.",
+    "portuguese": "Interessa-me normalmente mais saber se uma reviravolta foi merecida do que se consegui prevê-la.",
+    "pronunciationNote": "een-teh-REH-sah-m nor-mal-MEN-t mysh sah-BER s OO-mah reh-vee-rah-VOL-tah foy meh-reh-SEE-dah doo k s kon-SEE-gee prev-AY-lah",
+    "grammarFocus": "evaluating plot twists",
+    "notes": "Useful in spoiler-light discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso não a ver chegar, mas quero sentir que faz sentido.",
+        "english": "I may not see it coming, but I want it to feel like it makes sense."
+      }
+    ],
+    "tags": ["plot", "twists", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-024",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The reason I keep recommending it is that it feels distinctive, even where it is imperfect.",
+    "portuguese": "A razão por que continuo a recomendá-la é que parece distintiva, mesmo onde é imperfeita.",
+    "pronunciationNote": "ah hah-ZOWN poor k kon-TEE-noo ah reh-koh-men-DAH-lah eh k pah-REH-s deesh-teen-TEE-vah, MAY-zmoo ON-d eh eem-pair-FAY-tah",
+    "grammarFocus": "explaining recommendations",
+    "notes": "Useful in review conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro algo com personalidade a algo mais polido mas sem identidade.",
+        "english": "I prefer something with personality to something more polished but without identity."
+      }
+    ],
+    "tags": ["recommendation", "identity", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-025",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not always looking for comfort in stories; sometimes I want them to unsettle me a little.",
+    "portuguese": "Nem sempre procuro conforto nas histórias; às vezes quero que me deixem um pouco inquieto.",
+    "pronunciationNote": "neng SAYM-pr proh-KOO-roo kong-FOR-too naz eesh-TOH-ree-ash; ahsh VAY-zesh KEH-roo k m DAY-shang oom POH-koo een-kyeh-TOO",
+    "grammarFocus": "describing emotional preferences",
+    "notes": "Useful in literary conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me fazem pensar durante dias, isso conta a favor.",
+        "english": "If they make me think for days, that counts in their favour."
+      }
+    ],
+    "tags": ["emotion", "books", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-026",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In games, I am often willing to accept simple mechanics if the atmosphere is strong enough to carry them.",
+    "portuguese": "Nos jogos, muitas vezes aceito mecânicas simples se a atmosfera for suficientemente forte para as sustentar.",
+    "pronunciationNote": "noosh ZHO-goosh, MOOY-tash VAY-zesh ah-SAY-too meh-KAH-nee-kash SEEM-plesh s ah ah-tmohs-FEH-rah for soo-fee-see-EN-teh-MEN-t FOR-t PAH-rah az soos-ten-TAR",
+    "grammarFocus": "balancing mechanics and atmosphere",
+    "notes": "Useful in game discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o mundo me absorve, nem noto tanto as limitações.",
+        "english": "If the world absorbs me, I barely notice the limitations."
+      }
+    ],
+    "tags": ["games", "mechanics", "atmosphere"]
+  },
+  {
+    "id": "18-bgfs-b1b2-027",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like the kind of ending that feels both surprising and inevitable at the same time.",
+    "portuguese": "Gosto daquele tipo de final que parece surpreendente e inevitável ao mesmo tempo.",
+    "pronunciationNote": "GOSH-too dah-KEH-l TEE-poo d fee-NAL k pah-REH-s soo-pren-den-T ee ee-neh-vee-TAH-vel ow MAY-zmoo TEM-poo",
+    "grammarFocus": "describing ideal endings",
+    "notes": "Useful in book and film talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando acaba, sinto que não podia ter sido de outra maneira.",
+        "english": "When it ends, I feel it could not have gone any other way."
+      }
+    ],
+    "tags": ["ending", "story", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-028",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need every question answered, but I do need the unanswered parts to feel intentional.",
+    "portuguese": "Não preciso que todas as perguntas sejam respondidas, mas preciso que o que fica em aberto pareça intencional.",
+    "pronunciationNote": "nown preh-SEE-zoo k TOH-dash az pair-GOON-tash ZHAY-jang resh-pon-DEE-dash, mahz preh-SEE-zoo k oo k FEE-kah eng ah-BER-too pah-REH-sah een-ten-see-oh-NAL",
+    "grammarFocus": "describing tolerance for ambiguity",
+    "notes": "Useful in critical discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando a ambiguidade é pensada, sabe melhor do que quando parece descuido.",
+        "english": "When ambiguity is deliberate, it feels better than when it seems careless."
+      }
+    ],
+    "tags": ["ambiguity", "analysis", "story"]
+  },
+  {
+    "id": "18-bgfs-b1b2-029",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What keeps me engaged is the sense that the story is in conversation with itself on more than one level.",
+    "portuguese": "O que me mantém envolvido é a sensação de que a história conversa consigo própria em mais do que um nível.",
+    "pronunciationNote": "oo k m man-TAYNG en-vol-VEE-doo eh ah sen-sah-SOWN d k ah eesh-TOH-ree-ah kong-VAIR-sah kong-SEE-goo PROH-pree-ah eng mysh doo k oom nee-VEL",
+    "grammarFocus": "describing thematic depth",
+    "notes": "Useful in literary discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando há eco entre temas, personagens e estrutura, noto logo.",
+        "english": "When there is an echo between themes, characters, and structure, I notice it immediately."
+      }
+    ],
+    "tags": ["analysis", "themes", "books"]
+  },
+  {
+    "id": "18-bgfs-b1b2-030",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am usually more willing to forgive clunky dialogue than a world that does not hold together.",
+    "portuguese": "Costumo estar mais disposto a perdoar diálogos pouco naturais do que um mundo que não se aguenta.",
+    "pronunciationNote": "koosh-TOO-mah esh-TAR mysh deesh-POOSH-too ah pair-DOH-ar dee-AH-loo-goosh POH-koo nah-too-RAISH doo k oom MUN-doo k nown s ah-GWEN-tah",
+    "grammarFocus": "comparing flaws",
+    "notes": "Useful in reviews.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o cenário me convence, aguento melhor outras falhas.",
+        "english": "If the setting convinces me, I tolerate other flaws better."
+      }
+    ],
+    "tags": ["dialogue", "worldbuilding", "reviews"]
+  },
+  {
+    "id": "18-bgfs-b1b2-031",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am at my most invested when a story makes me care about consequences instead of just outcomes.",
+    "portuguese": "Fico mais investido quando uma história me faz importar com as consequências, e não só com os resultados.",
+    "pronunciationNote": "FEE-koo mysh een-vesh-TEE-doo KWAN-doo OO-mah eesh-TOH-ree-ah m faz eem-por-TAR kong az kong-seh-KWEN-see-ash, ee nown soh kong oosh reh-zool-TAH-doosh",
+    "grammarFocus": "describing emotional investment",
+    "notes": "Useful in story discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando sinto peso nas escolhas, envolvo-me muito mais.",
+        "english": "When I feel weight in the choices, I get much more involved."
+      }
+    ],
+    "tags": ["story", "consequences", "emotion"]
+  },
+  {
+    "id": "18-bgfs-b1b2-032",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "For me, good worldbuilding is less about quantity of detail and more about the right details in the right places.",
+    "portuguese": "Para mim, bom worldbuilding tem menos a ver com a quantidade de detalhe e mais com os detalhes certos nos sítios certos.",
+    "pronunciationNote": "PAH-rah meeng, bong worldbuilding teng MEN-oosh ah vair kong ah kwan-tee-DAH-d d deh-TAH-ly ee mysh kong oosh deh-TAH-lysh SER-toosh noosh SEE-tee-oosh SER-toosh",
+    "grammarFocus": "describing quality criteria",
+    "notes": "Useful in fantasy and sci-fi discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não preciso de uma enciclopédia, só de sinais de que o mundo vive para além da página.",
+        "english": "I do not need an encyclopedia, just signs that the world lives beyond the page."
+      }
+    ],
+    "tags": ["worldbuilding", "analysis", "fantasy"]
+  },
+  {
+    "id": "18-bgfs-b1b2-033",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am more interested in games that create a strong mood than in ones that simply throw content at you endlessly.",
+    "portuguese": "Interessa-me mais jogos que criam um ambiente forte do que aqueles que atiram conteúdo sem fim.",
+    "pronunciationNote": "een-teh-REH-sah-m mysh ZHO-goosh k KREE-ang oom am-bee-EN-t FOR-t doo k ah-KEH-loosh k ah-TEE-rang kong-teh-OO-doo seng feeng",
+    "grammarFocus": "describing game preferences",
+    "notes": "Useful in gaming discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se só houver quantidade, acabo por me cansar mais depressa.",
+        "english": "If there is only quantity, I end up tiring of it more quickly."
+      }
+    ],
+    "tags": ["games", "mood", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-034",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the strongest stories are often the ones that know exactly what they want to be.",
+    "portuguese": "Acho que as histórias mais fortes são muitas vezes as que sabem exatamente o que querem ser.",
+    "pronunciationNote": "AH-shoo k az eesh-TOH-ree-ash mysh FOR-tesh sown MOOY-tash VAY-zesh az k SAH-bang eh-zak-tah-MEN-t oo k KEH-rem sair",
+    "grammarFocus": "expressing a critical view",
+    "notes": "Useful in recommendation and review conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que não façam tudo, fazem bem aquilo a que se propõem.",
+        "english": "Even if they do not do everything, they do well what they set out to do."
+      }
+    ],
+    "tags": ["story", "identity", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-035",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If a story is going to be long, I need to feel that it is expanding my understanding rather than just extending the runtime.",
+    "portuguese": "Se uma história vai ser longa, preciso de sentir que está a expandir a minha compreensão e não apenas a alongar-se.",
+    "pronunciationNote": "s OO-mah eesh-TOH-ree-ah vy sair LONG-gah, preh-SEE-zoo d seen-TEER k esh-TAH ah esh-pan-DEER ah MEE-nyah kong-preh-en-SOWN ee nown ah-PEH-nash ah al-long-GAR-s",
+    "grammarFocus": "describing tolerance for length",
+    "notes": "Useful in books, series, and games discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o tempo investido compensa, nem noto a duração.",
+        "english": "When the invested time pays off, I barely notice the length."
+      }
+    ],
+    "tags": ["length", "pacing", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-036",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am usually drawn to fantasy that treats wonder seriously rather than ironically.",
+    "portuguese": "Costumo ser atraído por fantasia que trata o maravilhoso com seriedade, e não com ironia.",
+    "pronunciationNote": "koosh-TOO-mah sair ah-TRAH-ee-doo poor fan-tah-ZEE-ah k TRAH-tah oo mah-rah-vee-YOH-zoo kong seh-ree-eh-DAH-d, ee nown kong ee-roh-NEE-ah",
+    "grammarFocus": "describing tonal preference",
+    "notes": "Useful in fantasy discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando a obra acredita em si mesma, eu acredito mais nela também.",
+        "english": "When the work believes in itself, I believe in it more too."
+      }
+    ],
+    "tags": ["fantasy", "tone", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-037",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Science fiction loses me a bit when the concepts are interesting but the people feel emotionally thin.",
+    "portuguese": "A ficção científica perde-me um pouco quando os conceitos são interessantes mas as pessoas parecem emocionalmente finas.",
+    "pronunciationNote": "ah feek-SOWN see-en-TEE-fee-kah PAIR-d-m oom POH-koo KWAN-doo oosh kong-SAY-toosh sown een-teh-reh-SAN-tesh mahz az peh-SOH-ash pah-REH-sang eh-moh-see-oh-nal-MEN-t FEE-nash",
+    "grammarFocus": "balancing ideas and characters",
+    "notes": "Useful in sci-fi discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não me importo com ninguém, custa-me ficar realmente investido.",
+        "english": "If I do not care about anyone, it is hard for me to stay truly invested."
+      }
+    ],
+    "tags": ["scifi", "characters", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-038",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather have a smaller story with real emotional weight than a huge one that feels empty to me.",
+    "portuguese": "Preferia uma história mais pequena com peso emocional real do que uma enorme que me parecesse vazia.",
+    "pronunciationNote": "preh-feh-REE-ah OO-mah eesh-TOH-ree-ah mysh peh-KAY-nah kong PAY-zoo eh-moh-see-oh-NAL heh-AL doo k OO-mah eh-NOR-m k m pah-REH-sessh VAH-zee-ah",
+    "grammarFocus": "comparing scale and depth",
+    "notes": "Useful in taste discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim o impacto importa mais do que a escala.",
+        "english": "For me, the impact matters more than the scale."
+      }
+    ],
+    "tags": ["emotion", "story", "preferences"]
+  },
+  {
+    "id": "18-bgfs-b1b2-039",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The thing I keep thinking about afterwards is usually not the twist itself, but what it changes emotionally.",
+    "portuguese": "Aquilo em que continuo a pensar depois não é normalmente a reviravolta em si, mas aquilo que ela muda emocionalmente.",
+    "pronunciationNote": "ah-KEE-loo eng k kon-TEE-noo ah pen-SAR deh-POYSH nown eh nor-mal-MEN-t ah reh-vee-rah-VOL-tah eng s, mahz ah-KEE-loo k EH-lah MOO-dah eh-moh-see-oh-nal-MEN-t",
+    "grammarFocus": "reflecting on narrative impact",
+    "notes": "Useful in post-read/post-play discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se só surpreende, passa depressa; se mexe comigo, fica.",
+        "english": "If it only surprises, it passes quickly; if it moves me, it stays."
+      }
+    ],
+    "tags": ["twist", "emotion", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-040",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I like games that let you inhabit a role rather than just complete a checklist of tasks.",
+    "portuguese": "Gosto de jogos que nos deixam habitar um papel, em vez de apenas cumprir uma lista de tarefas.",
+    "pronunciationNote": "GOSH-too d ZHO-goosh k noosh DAY-shang ah-bee-TAR oom pah-PEL, eng vez d ah-PEH-nash koom-PRIR OO-mah LEESH-tah d tah-REH-fash",
+    "grammarFocus": "describing immersive game preferences",
+    "notes": "Useful in game discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando sinto presença dentro do mundo, fico muito mais envolvido.",
+        "english": "When I feel present inside the world, I become much more involved."
+      }
+    ],
+    "tags": ["games", "roleplay", "immersion"]
+  },
+  {
+    "id": "18-bgfs-b1b2-041",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can forgive a familiar premise if the execution has enough personality.",
+    "portuguese": "Consigo perdoar uma premissa familiar se a execução tiver personalidade suficiente.",
+    "pronunciationNote": "kon-SEE-goo pair-DOH-ar OO-mah preh-MEE-sah fah-mee-LEE-ar s ah ek-seh-koo-SOWN tee-VAIR pair-soh-nah-lee-DAH-d soo-fee-see-EN-t",
+    "grammarFocus": "talking about originality and execution",
+    "notes": "Useful in reviews.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo precisa de ser totalmente novo para resultar.",
+        "english": "Not everything needs to be completely new to work."
+      }
+    ],
+    "tags": ["premise", "execution", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-042",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I want from a recommendation is less a summary of the plot and more a sense of why it stayed with you.",
+    "portuguese": "O que quero de uma recomendação é menos um resumo do enredo e mais uma ideia de porque ficou contigo.",
+    "pronunciationNote": "oo k KEH-roo d OO-mah reh-koh-men-dah-SOWN eh MEN-oosh oom reh-ZOO-moo doo en-REH-doo ee mysh OO-mah ee-DAY-ah d poor-k fee-KOH kon-TEE-goo",
+    "grammarFocus": "asking for meaningful recommendations",
+    "notes": "Useful in book and game conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso diz-me muito mais do que uma lista de acontecimentos.",
+        "english": "That tells me much more than a list of events."
+      }
+    ],
+    "tags": ["recommendation", "books", "games"]
+  },
+  {
+    "id": "18-bgfs-b1b2-043",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need the lore to be explained like a textbook, but I do need to feel there is structure underneath it.",
+    "portuguese": "Não preciso que o lore seja explicado como um manual, mas preciso de sentir que há uma estrutura por baixo.",
+    "pronunciationNote": "nown preh-SEE-zoo k oo lore ZHAY-gah eks-plee-KAH-doo KOH-moo oom mah-noo-AL, mahz preh-SEE-zoo d seen-TEER k ah OO-mah esh-troo-TOO-rah poor BY-shoo",
+    "grammarFocus": "describing lore preferences",
+    "notes": "Useful in fantasy and sci-fi talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo parece improvisado, perco a confiança na obra.",
+        "english": "If everything feels improvised, I lose confidence in the work."
+      }
+    ],
+    "tags": ["lore", "structure", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-044",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am much more interested in stories that reward close attention than in ones that just rush you along.",
+    "portuguese": "Interesso-me muito mais por histórias que recompensam atenção do que por aquelas que nos empurram sempre para a frente.",
+    "pronunciationNote": "een-teh-REH-soo-m MOOY-too mysh poor eesh-TOH-ree-ash k reh-kong-PEN-sang ah-ten-SOWN doo k poor ah-KEH-lash k noosh emp-oo-HANG SAYM-pr PAH-rah ah FREN-t",
+    "grammarFocus": "describing narrative engagement",
+    "notes": "Useful in discussions of books or games.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando noto detalhes novos em revisitas, valorizo muito isso.",
+        "english": "When I notice new details on revisits, I value that a lot."
+      }
+    ],
+    "tags": ["attention", "story", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-045",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "For me, a memorable setting can carry me through a lot of slower or rougher sections.",
+    "portuguese": "Para mim, um cenário memorável consegue levar-me através de muitas partes mais lentas ou irregulares.",
+    "pronunciationNote": "PAH-rah meeng, oom seh-NAH-ree-oo meh-moh-RAH-vel kon-SEG-yeh leh-VAR-m ah-trah-VEHSH d MOOY-tash PAR-tesh mysh LEN-tash oh eer-reh-goo-LAH-resh",
+    "grammarFocus": "describing what keeps you engaged",
+    "notes": "Useful in reviews.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quero continuar só para voltar àquele mundo, já é um sinal forte.",
+        "english": "If I want to continue just to return to that world, that is already a strong sign."
+      }
+    ],
+    "tags": ["setting", "pacing", "reviews"]
+  },
+  {
+    "id": "18-bgfs-b1b2-046",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often like endings that open the story outward rather than closing every thread completely.",
+    "portuguese": "Gosto muitas vezes de finais que abrem a história para fora em vez de fecharem todas as pontas por completo.",
+    "pronunciationNote": "GOSH-too MOOY-tash VAY-zesh d fee-NAYSH k AH-brem ah eesh-TOH-ree-ah PAH-rah FOR-ah eng vez d feh-SHAR-eng TOH-dash az PON-tash poor kong-PLEH-too",
+    "grammarFocus": "describing preferred endings",
+    "notes": "Useful in literary discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me deixam espaço para continuar a imaginar, isso agrada-me.",
+        "english": "If they leave me space to keep imagining, I like that."
+      }
+    ],
+    "tags": ["endings", "interpretation", "books"]
+  },
+  {
+    "id": "18-bgfs-b1b2-047",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the most interesting games are often the ones where mechanics, narrative, and atmosphere are all in conversation.",
+    "portuguese": "Acho que os jogos mais interessantes são muitas vezes aqueles em que mecânicas, narrativa e atmosfera estão em diálogo.",
+    "pronunciationNote": "AH-shoo k oosh ZHO-goosh mysh een-teh-reh-SAN-tesh sown MOOY-tash VAY-zesh ah-KEH-loosh eng k meh-KAH-nee-kash, nah-rrah-TEE-vah ee ah-tmohs-FEH-rah esh-TOWN eng dee-AH-loo-goo",
+    "grammarFocus": "describing integrated design",
+    "notes": "Useful in game analysis.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo aponta na mesma direção, o impacto é muito maior.",
+        "english": "When everything points in the same direction, the impact is much greater."
+      }
+    ],
+    "tags": ["games", "design", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-048",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less impressed by big twists than by stories that gradually deepen your understanding of what is at stake.",
+    "portuguese": "Impressionam-me menos as grandes reviravoltas do que histórias que aprofundam aos poucos aquilo que está em jogo.",
+    "pronunciationNote": "eem-presh-SAH-m m MEN-oosh az GRAN-dzh reh-vee-rah-VOL-tash doo k eesh-TOH-ree-ash k ah-proh-foon-DANG owsh POH-koosh ah-KEE-loo k esh-TAH eng ZHO-goo",
+    "grammarFocus": "describing narrative values",
+    "notes": "Useful in critical discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o peso aumenta sem pressa, o efeito final é mais forte.",
+        "english": "When the weight grows gradually, the final effect is stronger."
+      }
+    ],
+    "tags": ["story", "stakes", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-049",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What usually stays with me is not the premise alone, but the emotional texture of how it is told.",
+    "portuguese": "O que normalmente fica comigo não é só a premissa, mas a textura emocional da forma como é contada.",
+    "pronunciationNote": "oo k nor-mal-MEN-t FEE-kah kon-TEE-goo nown eh soh ah preh-MEE-sah, mahz ah teks-TOO-rah eh-moh-see-oh-NAL dah FOR-mah KOH-moo eh kon-TAH-dah",
+    "grammarFocus": "reflecting on storytelling",
+    "notes": "Useful in book and film conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes duas histórias parecidas podem ter impactos completamente diferentes.",
+        "english": "Sometimes two similar stories can have completely different impacts."
+      }
+    ],
+    "tags": ["storytelling", "emotion", "analysis"]
+  },
+  {
+    "id": "18-bgfs-b1b2-050",
+    "subject": "Books, Games, Fantasy & Sci-Fi",
+    "subjectId": "books-games-fantasy-scifi",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If something leaves me wanting to talk about it afterwards, that is usually a sign it really worked for me.",
+    "portuguese": "Se uma obra me deixa com vontade de falar sobre ela depois, isso costuma ser sinal de que resultou mesmo para mim.",
+    "pronunciationNote": "s OO-mah OH-br m DAY-shah kong von-TAH-d d fah-LAR SOH-br EH-lah deh-POYSH, EE-soo koosh-TOO-mah sair seen-YAL d k reh-zool-TOH MAY-zmoo PAH-rah meeng",
+    "grammarFocus": "describing impact",
+    "notes": "Useful in recommendations and reviews.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando uma obra continua comigo, sei que houve ali qualquer coisa especial.",
+        "english": "When a work stays with me, I know there was something special there."
+      }
+    ],
+    "tags": ["impact", "recommendation", "reviews"]
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "15-per-b1b2-001",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to overreact, but I think this needs attention fairly quickly.",
+    "portuguese": "Não quero exagerar, mas acho que isto precisa de atenção com alguma rapidez.",
+    "pronunciationNote": "nown KEH-roo eh-zah-zheh-RAR, mahz AH-shoo k EES-too preh-SEE-zah d ah-ten-SOWN kong al-GOO-mah hah-pee-DEHSH",
+    "grammarFocus": "softened urgency",
+    "notes": "Useful when a problem is serious but not catastrophic.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não é pânico, mas também não convém deixar andar.",
+        "english": "It is not panic, but it is not a good idea to leave it either."
+      }
+    ],
+    "tags": ["problem", "urgency", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-002",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you help me understand whether this is dangerous or just inconvenient?",
+    "portuguese": "Pode ajudar-me a perceber se isto é perigoso ou só inconveniente?",
+    "pronunciationNote": "POH-d ah-zhoo-DAR-m ah pair-SEH-bair s EES-too eh peh-ree-GOH-zoo oh soh een-kon-veh-nee-EN-t",
+    "grammarFocus": "asking for assessment",
+    "notes": "Useful when you need guidance.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho a certeza de quão sério é o problema.",
+        "english": "I am not sure how serious the problem is."
+      }
+    ],
+    "tags": ["problem", "assessment", "help"]
+  },
+  {
+    "id": "15-per-b1b2-003",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I seem to have locked myself out, and I am not sure what the quickest solution is.",
+    "portuguese": "Parece que me fechei fora de casa, e não tenho a certeza de qual é a solução mais rápida.",
+    "pronunciationNote": "pah-REH-s k m feh-SHAY FOR-ah d KAH-zah, ee nown TEN-yoo ah seh-TEH-zah d kwal eh ah soh-loo-SOWN mysh HAH-pee-dah",
+    "grammarFocus": "explaining a situation",
+    "notes": "Useful in locksmith situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho as chaves lá dentro, por isso preciso de orientação.",
+        "english": "My keys are inside, so I need guidance."
+      }
+    ],
+    "tags": ["lockout", "locksmith", "help"]
+  },
+  {
+    "id": "15-per-b1b2-004",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The problem is not constant, which makes it a bit harder to explain clearly.",
+    "portuguese": "O problema não é constante, o que torna um pouco mais difícil explicá-lo com clareza.",
+    "pronunciationNote": "oo proh-BLAY-mah nown eh kon-STAAN-t, oo k TOR-nah oom POH-koo mysh dee-FEE-seel eks-plee-KAH-loo kong klah-REH-zah",
+    "grammarFocus": "describing a variable problem",
+    "notes": "Useful with intermittent faults.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes funciona, às vezes não.",
+        "english": "Sometimes it works, sometimes it does not."
+      }
+    ],
+    "tags": ["repair", "fault", "explanation"]
+  },
+  {
+    "id": "15-per-b1b2-005",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I can manage for the moment, but I need to know when someone can realistically come.",
+    "portuguese": "Acho que consigo aguentar para já, mas preciso de saber quando é que alguém pode vir de forma realista.",
+    "pronunciationNote": "AH-shoo k kon-SEE-goo ah-gwen-TAR PAH-rah zhah, mahz preh-SEE-zoo d sah-BER KWAN-doo eh k al-GAYNG POH-d veer d FOR-mah heh-ah-LEESH-tah",
+    "grammarFocus": "asking for realistic timing",
+    "notes": "Useful when arranging repairs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo organizar o resto do dia.",
+        "english": "That way I can organise the rest of the day."
+      }
+    ],
+    "tags": ["repair", "timing", "arrangements"]
+  },
+  {
+    "id": "15-per-b1b2-006",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "There seems to be water coming through from somewhere, but I cannot tell exactly where it is starting.",
+    "portuguese": "Parece haver água a entrar de algum lado, mas não consigo perceber exatamente onde começa.",
+    "pronunciationNote": "pah-REH-s ah-VER AH-gwah ah en-TRAR d al-GOOM LAH-doo, mahz nown kon-SEE-goo pair-SEH-bair eh-zak-tah-MEN-t ON-d koh-MEH-sah",
+    "grammarFocus": "describing a leak",
+    "notes": "Useful in plumbing problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "O problema está a espalhar-se, por isso queria avisar depressa.",
+        "english": "The problem is spreading, so I wanted to warn someone quickly."
+      }
+    ],
+    "tags": ["repair", "leak", "plumbing"]
+  },
+  {
+    "id": "15-per-b1b2-007",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It may not be an emergency in the strict sense, but I do not think it should be ignored either.",
+    "portuguese": "Talvez não seja uma emergência no sentido estrito, mas também não me parece que deva ser ignorado.",
+    "pronunciationNote": "tal-VEHZ nown ZHAY-gah OO-mah eh-mer-ZHEN-see-ah noo sen-TEE-doo esh-TREE-too, mahz tam-BAYNG nown m pah-REH-s k DEH-vah sair eeg-noh-RAH-doo",
+    "grammarFocus": "balanced assessment",
+    "notes": "Useful when reporting a serious issue calmly.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só evitar que ficasse pior.",
+        "english": "I just wanted to avoid it getting worse."
+      }
+    ],
+    "tags": ["problem", "urgency", "assessment"]
+  },
+  {
+    "id": "15-per-b1b2-008",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind talking me through what I should do first while I wait for help?",
+    "portuguese": "Importa-se de me explicar o que devo fazer primeiro enquanto espero por ajuda?",
+    "pronunciationNote": "eem-POR-tah-s d m eks-plee-KAR oo k DEH-voo fah-ZAIR pree-MAY-roo eng-KWAN-too esh-PEH-roo poor ah-ZHOO-dah",
+    "grammarFocus": "asking for guidance",
+    "notes": "Useful while waiting for professionals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero ter a certeza de que não pioro a situação.",
+        "english": "I want to make sure I do not make the situation worse."
+      }
+    ],
+    "tags": ["help", "guidance", "emergency"]
+  },
+  {
+    "id": "15-per-b1b2-009",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the main issue is that the lock turns, but the door still does not release properly.",
+    "portuguese": "Acho que o principal problema é que a fechadura roda, mas a porta mesmo assim não destranca como deve ser.",
+    "pronunciationNote": "AH-shoo k oo preen-see-PAL proh-BLAY-mah eh k ah feh-shah-DOO-rah HOH-dah, mahz ah POR-tah MAY-zmoo ah-seeng nown desh-TRAN-kah KOH-moo DEH-vah sair",
+    "grammarFocus": "explaining a mechanical problem",
+    "notes": "Useful for locksmiths and landlords.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria explicar bem para facilitar a visita.",
+        "english": "I wanted to explain it clearly to make the visit easier."
+      }
+    ],
+    "tags": ["repair", "lock", "mechanical"]
+  },
+  {
+    "id": "15-per-b1b2-010",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "From what I can tell, the damage looks superficial, but I would rather have someone confirm that.",
+    "portuguese": "Pelo que vejo, o estrago parece superficial, mas preferia que alguém confirmasse isso.",
+    "pronunciationNote": "PEH-loo k VAY-zhoo, oo esh-TRAH-goo pah-REH-s soo-pair-fee-see-AL, mahz preh-feh-REE-ah k al-GAYNG kong-feer-MAH-s EE-soo",
+    "grammarFocus": "tentative assessment",
+    "notes": "Useful when you do not want to guess.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sou especialista, por isso não quero assumir.",
+        "english": "I am not a specialist, so I do not want to assume."
+      }
+    ],
+    "tags": ["damage", "assessment", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-011",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I realise you may not be the right person to deal with this directly, but could you point me to who is?",
+    "portuguese": "Percebo que talvez não seja a pessoa certa para tratar disto diretamente, mas podia indicar-me quem é?",
+    "pronunciationNote": "pair-SEH-boo k tal-VEHZ nown ZHAY-gah ah peh-SOH-ah SER-tah PAH-rah trah-TAR DEESH-too dee-reh-tah-MEN-t, mahz POH-dee-ah een-dee-KAR-m kANG eh",
+    "grammarFocus": "polite redirection request",
+    "notes": "Useful in buildings, offices, or reception desks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria perder tempo a falar com a pessoa errada.",
+        "english": "I did not want to waste time speaking to the wrong person."
+      }
+    ],
+    "tags": ["help", "coordination", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-012",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have already tried the obvious things, so I do not think it is just user error.",
+    "portuguese": "Já tentei as coisas mais óbvias, por isso não me parece que seja apenas erro meu.",
+    "pronunciationNote": "zhah ten-TAY ash KOY-zash mysh OH-vee-ash, poor EE-soo nown m pah-REH-s k ZHAY-gah ah-PEH-nash EH-roo may-oo",
+    "grammarFocus": "explaining prior steps",
+    "notes": "Useful when reporting device or appliance problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desliguei e voltei a ligar, mas continua igual.",
+        "english": "I turned it off and on again, but it is still the same."
+      }
+    ],
+    "tags": ["repair", "device", "troubleshooting"]
+  },
+  {
+    "id": "15-per-b1b2-013",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If someone cannot come today, I need to know whether it is safe to leave it as it is until tomorrow.",
+    "portuguese": "Se ninguém puder vir hoje, preciso de saber se é seguro deixar isto assim até amanhã.",
+    "pronunciationNote": "s neeng-GAYNG poo-DER veer OH-zh, preh-SEE-zoo d sah-BER s eh seh-GOO-roo day-SHAR EES-too ah-SEENG ah-TAY ah-mah-NYAH",
+    "grammarFocus": "asking about safety",
+    "notes": "Useful when immediate repair is not possible.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha preocupação principal é a segurança.",
+        "english": "My main concern is safety."
+      }
+    ],
+    "tags": ["repair", "safety", "timing"]
+  },
+  {
+    "id": "15-per-b1b2-014",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather describe the symptoms carefully than guess at the cause.",
+    "portuguese": "Prefiro descrever os sintomas com cuidado do que adivinhar a causa.",
+    "pronunciationNote": "preh-FEE-roo desh-kreh-VAIR oosh SEEN-too-mash kong kwee-DAH-doo doo k ah-dee-veen-YAR ah KOW-zah",
+    "grammarFocus": "careful explanation",
+    "notes": "Useful when reporting faults or health issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim é mais fácil para quem percebe do assunto.",
+        "english": "That way it is easier for someone who understands the issue."
+      }
+    ],
+    "tags": ["explanation", "repair", "medical"]
+  },
+  {
+    "id": "15-per-b1b2-015",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The difficult part is that it only happens under certain conditions, which makes it hard to reproduce.",
+    "portuguese": "A parte difícil é que isto só acontece em certas condições, o que torna difícil reproduzir.",
+    "pronunciationNote": "ah PAR-t dee-FEE-seel eh k EES-too soh ah-kon-TEH-s eng SER-tash kon-dee-SOYNSH, oo k TOR-nah dee-FEE-seel reh-proh-doo-ZEER",
+    "grammarFocus": "describing intermittent issues",
+    "notes": "Useful in technical or mechanical problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso percebo que seja complicado avaliar.",
+        "english": "That is why I understand it is complicated to assess."
+      }
+    ],
+    "tags": ["repair", "technical", "fault"]
+  },
+  {
+    "id": "15-per-b1b2-016",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to stay calm, but I need to know what the next step should be.",
+    "portuguese": "Estou a tentar manter a calma, mas preciso de saber qual deve ser o próximo passo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR man-TAIR ah KAL-mah, mahz preh-SEE-zoo d sah-BER kwal DEH-vah sair oo PROK-see-moo PAH-soo",
+    "grammarFocus": "asking for guidance",
+    "notes": "Useful in emergencies and stressful problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ajuda-me ter uma instrução clara.",
+        "english": "It helps me to have a clear instruction."
+      }
+    ],
+    "tags": ["emergency", "guidance", "stress"]
+  },
+  {
+    "id": "15-per-b1b2-017",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the safest thing is to stop using it until someone has looked at it properly.",
+    "portuguese": "Acho que o mais seguro é deixar de usar isto até alguém o ver como deve ser.",
+    "pronunciationNote": "AH-shoo k oo mysh seh-GOO-roo eh day-SHAR d oo-ZAR EES-too ah-TAY al-GAYNG oo vair KOH-moo DEH-vah sair",
+    "grammarFocus": "stating a cautious view",
+    "notes": "Useful with faulty appliances or vehicles.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero correr o risco de piorar a situação.",
+        "english": "I do not want to risk making the situation worse."
+      }
+    ],
+    "tags": ["repair", "safety", "caution"]
+  },
+  {
+    "id": "15-per-b1b2-018",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know roughly what kind of cost I should expect before I commit to anything?",
+    "portuguese": "Pode dizer-me, mais ou menos, com que tipo de custo devo contar antes de avançar?",
+    "pronunciationNote": "POH-d dee-ZER-m, mysh oh MEN-oosh, kong k TEE-poo d KOOSH-too DEH-voo kong-TAR AN-tsh d ah-van-SAR",
+    "grammarFocus": "asking about cost",
+    "notes": "Useful when arranging repairs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero só ter uma ideia antes de decidir.",
+        "english": "I just want to have an idea before deciding."
+      }
+    ],
+    "tags": ["repair", "cost", "arrangements"]
+  },
+  {
+    "id": "15-per-b1b2-019",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less concerned about convenience than about making sure this is dealt with properly.",
+    "portuguese": "Preocupa-me menos a conveniência do que garantir que isto seja tratado como deve ser.",
+    "pronunciationNote": "preh-oh-KOO-pah-m MEN-oosh ah kong-veh-nee-EN-see-ah doo k gah-ran-TEER k EES-too ZHAY-gah trah-TAH-doo KOH-moo DEH-vah sair",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in serious problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro uma solução boa a uma solução rápida mas fraca.",
+        "english": "I prefer a good solution to a quick but weak one."
+      }
+    ],
+    "tags": ["repair", "priorities", "quality"]
+  },
+  {
+    "id": "15-per-b1b2-020",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can send photos if that makes it easier to understand the damage before coming out.",
+    "portuguese": "Posso enviar fotografias, se isso facilitar perceber o estrago antes de virem.",
+    "pronunciationNote": "POS-soo en-vee-AR foo-toh-grah-FEE-ash, s EE-soo fah-see-lee-TAR pair-SEH-bair oo esh-TRAH-goo AN-tsh d VEE-reng",
+    "grammarFocus": "offering useful information",
+    "notes": "Useful in repair coordination.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim consigam trazer o material certo.",
+        "english": "Maybe that way they can bring the right equipment."
+      }
+    ],
+    "tags": ["repair", "photos", "coordination"]
+  },
+  {
+    "id": "15-per-b1b2-021",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What worries me most is not the damage itself, but the possibility of it getting worse overnight.",
+    "portuguese": "O que mais me preocupa não é o estrago em si, mas a possibilidade de piorar durante a noite.",
+    "pronunciationNote": "oo k mysh m preh-oh-KOO-pah nown eh oo esh-TRAH-goo eng s, mahz ah pos-see-bee-lee-DAH-d d pee-oh-RAR doo-RAN-t ah NOY-t",
+    "grammarFocus": "explaining concern",
+    "notes": "Useful when asking for urgent action.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso estou a tentar agir depressa.",
+        "english": "That is why I am trying to act quickly."
+      }
+    ],
+    "tags": ["repair", "urgency", "damage"]
+  },
+  {
+    "id": "15-per-b1b2-022",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am fairly sure I left it here, so I am trying to work out whether it was lost or stolen.",
+    "portuguese": "Tenho quase a certeza de que o deixei aqui, por isso estou a tentar perceber se foi perdido ou roubado.",
+    "pronunciationNote": "TEN-yoo KWA-z ah seh-TEH-zah d k oo day-SHAY ah-KEE, poor EE-soo esh-TOH ah ten-TAR pair-SEH-bair s foy pair-DEE-doo oh hoo-BAH-doo",
+    "grammarFocus": "explaining uncertainty",
+    "notes": "Useful for lost property or police reports.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só perceber o que faz mais sentido.",
+        "english": "I just wanted to understand what makes more sense."
+      }
+    ],
+    "tags": ["lost-item", "theft", "police"]
+  },
+  {
+    "id": "15-per-b1b2-023",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand there may be a process to follow, but I would appreciate knowing what order things need to happen in.",
+    "portuguese": "Percebo que possa haver um processo a seguir, mas agradecia saber em que ordem é preciso fazer as coisas.",
+    "pronunciationNote": "pair-SEH-boo k POS-sah ah-VER oom proh-SEH-soo ah seh-GEER, mahz ah-grah-deh-SEE-ah sah-BER eng k OR-dem eh preh-SEE-zoo fah-ZAIR ash KOY-zash",
+    "grammarFocus": "asking about procedure",
+    "notes": "Useful with insurance, police, or repairs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ajuda-me muito ter uma sequência clara.",
+        "english": "It helps me a lot to have a clear sequence."
+      }
+    ],
+    "tags": ["procedure", "repair", "police"]
+  },
+  {
+    "id": "15-per-b1b2-024",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you need me to stay available for a time window, I can do that, but I need some idea of how long.",
+    "portuguese": "Se precisarem que eu fique disponível durante um intervalo de tempo, posso fazê-lo, mas preciso de ter uma ideia de quanto tempo.",
+    "pronunciationNote": "s preh-see-ZAH-reng k eh-oo FEE-k dees-poo-NEE-vel doo-RAN-t oom een-tair-VAH-loo d TEM-poo, POS-soo fah-ZAY-loo, mahz preh-SEE-zoo d tair OO-mah ee-DAY-ah d KWAN-too TEM-poo",
+    "grammarFocus": "setting practical constraints",
+    "notes": "Useful when booking appointments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo organizar o meu dia melhor.",
+        "english": "That way I can organise my day better."
+      }
+    ],
+    "tags": ["repair", "appointment", "timing"]
+  },
+  {
+    "id": "15-per-b1b2-025",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may be wrong, but it sounds as if the issue is deeper than just a simple reset.",
+    "portuguese": "Posso estar enganado, mas parece-me que o problema é mais fundo do que um simples reinício.",
+    "pronunciationNote": "POS-soo esh-TAR en-gah-NAH-doo, mahz pah-REH-s-m k oo proh-BLAY-mah eh mysh FOON-doo doo k oom SEEM-plesh reh-ee-NEE-see-oo",
+    "grammarFocus": "tentative diagnosis",
+    "notes": "Useful in technical problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já tentei o básico e não resultou.",
+        "english": "I already tried the basics and it did not work."
+      }
+    ],
+    "tags": ["technical", "repair", "assessment"]
+  },
+  {
+    "id": "15-per-b1b2-026",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would feel better if someone with the right expertise could take a proper look at it.",
+    "portuguese": "Ficava mais descansado se alguém com a experiência certa pudesse ver isto como deve ser.",
+    "pronunciationNote": "fee-KAH-vah mysh desh-kan-SAH-doo s al-GAYNG kong ah esh-pair-YEN-see-ah SER-tah poo-DESH-s vair EES-too KOH-moo DEH-vah sair",
+    "grammarFocus": "expressing reassurance needs",
+    "notes": "Useful with technical or safety issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro confirmar do que arriscar.",
+        "english": "I prefer to confirm rather than take a risk."
+      }
+    ],
+    "tags": ["repair", "expertise", "safety"]
+  },
+  {
+    "id": "15-per-b1b2-027",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not expecting an instant fix, but I do need a clear sense of what happens next.",
+    "portuguese": "Não estou à espera de uma solução instantânea, mas preciso mesmo de ter claro o que acontece a seguir.",
+    "pronunciationNote": "nown esh-TOH ah esh-PAY-rah d OO-mah soh-loo-SOWN een-stan-TAH-nee-ah, mahz preh-SEE-zoo MAY-zmoo d tair KLAH-roo oo k ah-kon-TEH-s ah seh-GEER",
+    "grammarFocus": "requesting clarity",
+    "notes": "Useful in service interactions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A incerteza é a parte mais difícil.",
+        "english": "The uncertainty is the hardest part."
+      }
+    ],
+    "tags": ["repair", "clarity", "service"]
+  },
+  {
+    "id": "15-per-b1b2-028",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether there is anything I should avoid doing until this has been checked properly?",
+    "portuguese": "Pode dizer-me se há alguma coisa que eu deva evitar fazer até isto ser verificado como deve ser?",
+    "pronunciationNote": "POH-d dee-ZER-m s ah al-GOO-mah KOY-zah k eh-oo DEH-vah eh-vee-TAR fah-ZAIR ah-TAY EES-too sair veh-ree-fee-KAH-doo KOH-moo DEH-vah sair",
+    "grammarFocus": "asking about precautions",
+    "notes": "Useful for safety-related issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria piorar a situação sem querer.",
+        "english": "I did not want to make the situation worse by accident."
+      }
+    ],
+    "tags": ["safety", "precautions", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-029",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The main issue now is that I no longer have access to my phone or cards, so I need practical advice fast.",
+    "portuguese": "O principal problema agora é que deixei de ter acesso ao telefone e aos cartões, por isso preciso de conselhos práticos depressa.",
+    "pronunciationNote": "oo preen-see-PAL proh-BLAY-mah ah-GOH-rah eh k day-SHAY d tair ah-SEH-soo ow teh-leh-FOH-n ee owsh kar-TOYNSH, poor EE-soo preh-SEE-zoo d kong-SAY-lyoosh PRAH-tee-koosh deh-PREH-sah",
+    "grammarFocus": "explaining consequences",
+    "notes": "Useful after loss or theft.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem isso fico bastante limitado.",
+        "english": "Without that I am quite limited."
+      }
+    ],
+    "tags": ["theft", "lost-item", "urgency"]
+  },
+  {
+    "id": "15-per-b1b2-030",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to give you useful information without making assumptions I cannot support.",
+    "portuguese": "Estou a tentar dar-lhe informação útil sem fazer suposições que não consigo sustentar.",
+    "pronunciationNote": "esh-TOH ah ten-TAR dar-ly een-for-mah-SOWN OO-teel seng fah-ZAIR soo-poh-zee-SOYNSH k nown kon-SEE-goo soos-ten-TAR",
+    "grammarFocus": "careful reporting",
+    "notes": "Useful in formal problem reports.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro ser rigoroso do que dizer algo impreciso.",
+        "english": "I prefer to be precise rather than say something inaccurate."
+      }
+    ],
+    "tags": ["reporting", "clarity", "problem"]
+  },
+  {
+    "id": "15-per-b1b2-031",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At this point I am mainly trying to reduce the risk, even if the full fix has to wait.",
+    "portuguese": "Neste momento estou sobretudo a tentar reduzir o risco, mesmo que a reparação completa tenha de esperar.",
+    "pronunciationNote": "NESH-t moh-MEN-too esh-TOH soh-breh-TOO-doo ah ten-TAR reh-doo-ZEER oo HEESH-koo, MAY-zmoo k ah reh-pah-rah-SOWN kong-PLEH-tah TEN-yah d esh-peh-RAR",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in safety-focused decisions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Primeiro quero estabilizar a situação.",
+        "english": "First I want to stabilise the situation."
+      }
+    ],
+    "tags": ["repair", "risk", "priorities"]
+  },
+  {
+    "id": "15-per-b1b2-032",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not sure whether this belongs more to maintenance, security, or emergency services.",
+    "portuguese": "Não tenho a certeza se isto pertence mais à manutenção, à segurança ou aos serviços de emergência.",
+    "pronunciationNote": "nown TEN-yoo ah seh-TEH-zah s EES-too pair-TEN-s mysh ah man-ten-SOWN, ah seh-goo-RAN-sah oh owsh sair-VEE-soosh d eh-mer-ZHEN-see-ah",
+    "grammarFocus": "asking for categorisation",
+    "notes": "Useful in buildings or institutions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso queria confirmar quem devo contactar.",
+        "english": "That is why I wanted to confirm who I should contact."
+      }
+    ],
+    "tags": ["coordination", "service", "emergency"]
+  },
+  {
+    "id": "15-per-b1b2-033",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It would help me if you could tell me what information you need from me first.",
+    "portuguese": "Ajudava-me se me pudesse dizer primeiro de que informação precisa da minha parte.",
+    "pronunciationNote": "ah-zhoo-DAH-vah-m s m poo-DESH-s dee-ZAIR pree-MAY-roo d k een-for-mah-SOWN preh-SEE-zah dah MEE-nyah PAR-t",
+    "grammarFocus": "requesting structure",
+    "notes": "Useful in formal reports and calls.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo responder de forma mais organizada.",
+        "english": "That way I can answer in a more organised way."
+      }
+    ],
+    "tags": ["reporting", "information", "help"]
+  },
+  {
+    "id": "15-per-b1b2-034",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather be cautious now than discover later that I underestimated the problem.",
+    "portuguese": "Prefiro ser cauteloso agora do que descobrir mais tarde que subestimei o problema.",
+    "pronunciationNote": "preh-FEE-roo sair kow-teh-LOH-zoo ah-GOH-rah doo k desh-koo-BREER mysh TAR-d k soo-besh-tee-MAY oo proh-BLAY-mah",
+    "grammarFocus": "explaining caution",
+    "notes": "Useful when justifying urgent action.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero correr um risco desnecessário.",
+        "english": "I do not want to take an unnecessary risk."
+      }
+    ],
+    "tags": ["caution", "risk", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-035",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the issue cannot be solved immediately, I need to know what temporary workaround is safest.",
+    "portuguese": "Se o problema não puder ser resolvido imediatamente, preciso de saber qual é a solução temporária mais segura.",
+    "pronunciationNote": "s oo proh-BLAY-mah nown poo-DER sair reh-zol-VEE-doo ee-meh-dee-ah-tah-MEN-t, preh-SEE-zoo d sah-BER kwal eh ah soh-loo-SOWN tem-poo-RAH-ree-ah mysh seh-GOO-rah",
+    "grammarFocus": "asking about temporary measures",
+    "notes": "Useful when waiting for full repair.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem que seja só por esta noite.",
+        "english": "Even if it is only for tonight."
+      }
+    ],
+    "tags": ["repair", "temporary", "safety"]
+  },
+  {
+    "id": "15-per-b1b2-036",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have already made the place as safe as I can, but I do not think it should be left like this for long.",
+    "portuguese": "Já deixei o local o mais seguro que consigo, mas não me parece que deva ficar assim durante muito tempo.",
+    "pronunciationNote": "zhah day-SHAY oo loh-KAL oo mysh seh-GOO-roo k kon-SEE-goo, mahz nown m pah-REH-s k DEH-vah fee-KAR ah-SEENG doo-RAN-t MOOY-too TEM-poo",
+    "grammarFocus": "explaining current status",
+    "notes": "Useful after taking interim measures.",
+    "exampleSentences": [
+      {
+        "portuguese": "Foi o melhor que consegui fazer até agora.",
+        "english": "It was the best I could do so far."
+      }
+    ],
+    "tags": ["repair", "safety", "status"]
+  },
+  {
+    "id": "15-per-b1b2-037",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I suspect there has been a misunderstanding, so I would prefer to clarify the facts before jumping to conclusions.",
+    "portuguese": "Suspeito que tenha havido um mal-entendido, por isso preferia esclarecer os factos antes de tirar conclusões.",
+    "pronunciationNote": "soosh-PEY-too k TEN-yah ah-VEE-doo oom mal-en-ten-DEE-doo, poor EE-soo preh-feh-REE-ah esh-klah-reh-SAIR oosh FAK-toosh AN-tsh d tee-RAR kong-kloo-ZOYNSH",
+    "grammarFocus": "de-escalating a situation",
+    "notes": "Useful in disputes after damage or loss.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero só perceber exatamente o que aconteceu.",
+        "english": "I just want to understand exactly what happened."
+      }
+    ],
+    "tags": ["dispute", "clarification", "problem"]
+  },
+  {
+    "id": "15-per-b1b2-038",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if I wrote down the timeline so nothing important gets missed?",
+    "portuguese": "Ajudava se eu escrevesse a sequência dos acontecimentos para que nada importante ficasse por dizer?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s eh-oo esh-kreh-VESH-s ah seh-KWEN-see-ah doosh ah-kon-teh-see-MEN-toosh PAH-rah k NAH-dah een-poor-TAN-t fee-KAH-s poor dee-ZAIR",
+    "grammarFocus": "offering structured information",
+    "notes": "Useful in police or insurance-style reports.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes é mais fácil assim do que explicar de cabeça.",
+        "english": "Sometimes that is easier than explaining from memory."
+      }
+    ],
+    "tags": ["reporting", "timeline", "clarity"]
+  },
+  {
+    "id": "15-per-b1b2-039",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to know whether this is something you handle directly or whether I should contact someone else.",
+    "portuguese": "Preciso de saber se isto é algo que tratam diretamente ou se devo contactar outra pessoa.",
+    "pronunciationNote": "preh-SEE-zoo d sah-BER s EES-too eh AL-goo k trah-TANG dee-reh-tah-MEN-t oh s DEH-voo kon-tak-TAR OW-trah peh-SOH-ah",
+    "grammarFocus": "asking about responsibility",
+    "notes": "Useful with buildings, hotels, or landlords.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só quero seguir o caminho mais certo.",
+        "english": "I just want to follow the right path."
+      }
+    ],
+    "tags": ["responsibility", "repair", "coordination"]
+  },
+  {
+    "id": "15-per-b1b2-040",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand there are limits to what can be done immediately, but communication would help a lot.",
+    "portuguese": "Percebo que haja limites ao que pode ser feito de imediato, mas a comunicação ajudaria muito.",
+    "pronunciationNote": "pair-SEH-boo k AH-zhah LEE-mee-tesh ow k POH-d sair FAY-too d ee-meh-dee-AH-too, mahz ah koh-moo-nee-kah-SOWN ah-zhoo-dah-REE-ah MOOY-too",
+    "grammarFocus": "requesting better communication",
+    "notes": "Useful in delayed service situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo uma atualização curta já faria diferença.",
+        "english": "Even a short update would already make a difference."
+      }
+    ],
+    "tags": ["service", "communication", "repair"]
+  },
+  {
+    "id": "15-per-b1b2-041",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At the moment I am mostly trying to prevent the situation from escalating.",
+    "portuguese": "Neste momento, estou sobretudo a tentar impedir que a situação se agrave.",
+    "pronunciationNote": "NESH-t moh-MEN-too, esh-TOH soh-breh-TOO-doo ah ten-TAR een-peh-DEER k ah see-too-ah-SOWN s ah-GRAH-v",
+    "grammarFocus": "stating an immediate goal",
+    "notes": "Useful in emergencies and damage situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois tratamos do resto com calma.",
+        "english": "After that we can deal with the rest calmly."
+      }
+    ],
+    "tags": ["emergency", "damage", "control"]
+  },
+  {
+    "id": "15-per-b1b2-042",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather report this properly now than discover later that I should have done so earlier.",
+    "portuguese": "Prefiro comunicar isto devidamente agora do que descobrir mais tarde que o devia ter feito antes.",
+    "pronunciationNote": "preh-FEE-roo koh-moo-nee-KAR EES-too deh-vee-dah-MEN-t ah-GOH-rah doo k desh-koo-BREER mysh TAR-d k oo deh-VEE-ah tair FAY-too AN-tsh",
+    "grammarFocus": "justifying prompt action",
+    "notes": "Useful with formal reporting.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim fica tudo registado desde o início.",
+        "english": "That way everything is recorded from the start."
+      }
+    ],
+    "tags": ["reporting", "formal", "problem"]
+  },
+  {
+    "id": "15-per-b1b2-043",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I describe the symptoms one by one, it may be easier to identify the real cause.",
+    "portuguese": "Se eu descrever os sintomas um por um, talvez seja mais fácil identificar a causa real.",
+    "pronunciationNote": "s eh-oo desh-kreh-VAIR oosh SEEN-too-mash oom poor oom, tal-VEHZ ZHAY-gah mysh FAH-seel ee-den-tee-fee-KAR ah KOW-zah heh-AL",
+    "grammarFocus": "structuring an explanation",
+    "notes": "Useful in repairs and health issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei o nome técnico, mas sei o que noto.",
+        "english": "I do not know the technical name, but I know what I notice."
+      }
+    ],
+    "tags": ["explanation", "repair", "medical"]
+  },
+  {
+    "id": "15-per-b1b2-044",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying not to make assumptions, but it feels as though the problem started after the last repair.",
+    "portuguese": "Estou a tentar não tirar conclusões, mas parece-me que o problema começou depois da última reparação.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nown tee-RAR kong-kloo-ZOYNSH, mahz pah-REH-s-m k oo proh-BLAY-mah koh-meh-SOH deh-POYSH dah OOL-tee-mah reh-pah-rah-SOWN",
+    "grammarFocus": "careful suspicion",
+    "notes": "Useful when discussing recurring issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode ser coincidência, mas achei melhor mencionar.",
+        "english": "It may be a coincidence, but I thought it was better to mention it."
+      }
+    ],
+    "tags": ["repair", "recurring", "discussion"]
+  },
+  {
+    "id": "15-per-b1b2-045",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need certainty right away, but I do need a sensible plan for what to do next.",
+    "portuguese": "Não preciso de certezas imediatas, mas preciso de um plano sensato para saber o que fazer a seguir.",
+    "pronunciationNote": "nown preh-SEE-zoo d sair-TEH-zash ee-meh-dee-AH-tash, mahz preh-SEE-zoo d oom PLAH-noo sen-SAH-too PAH-rah sah-BER oo k fah-ZAIR ah seh-GEER",
+    "grammarFocus": "requesting a plan",
+    "notes": "Useful in ongoing problems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso já me deixava muito mais tranquilo.",
+        "english": "That alone would make me much more at ease."
+      }
+    ],
+    "tags": ["planning", "repair", "problem-solving"]
+  },
+  {
+    "id": "15-per-b1b2-046",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "As far as I can tell, nothing is actively on fire, but the smell is strong enough to worry me.",
+    "portuguese": "Pelo que consigo perceber, nada está ativamente a arder, mas o cheiro é suficientemente forte para me preocupar.",
+    "pronunciationNote": "PEH-loo k kon-SEE-goo pair-SEH-bair, NAH-dah esh-TAH ah-tee-vah-MEN-t ah ar-DER, mahz oo SHAY-roo eh soo-fee-see-en-teh-MEN-t FOR-t PAH-rah m preh-oh-koo-PAR",
+    "grammarFocus": "describing a concerning situation",
+    "notes": "Useful with smoke or burning smells.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso queria confirmar se é seguro ficar aqui.",
+        "english": "That is why I wanted to confirm whether it is safe to stay here."
+      }
+    ],
+    "tags": ["fire", "safety", "smell"]
+  },
+  {
+    "id": "15-per-b1b2-047",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is paperwork or a report that needs to be filed, I would rather do that sooner than later.",
+    "portuguese": "Se houver alguma papelada ou relatório a preencher, prefiro tratar disso mais cedo do que mais tarde.",
+    "pronunciationNote": "s oo-VER al-GOO-mah pah-peh-LAH-dah oh reh-lah-TOH-ree-oo ah preh-en-SHAIR, preh-FEE-roo trah-TAR DEE-soo mysh SAY-doo doo k mysh TAR-d",
+    "grammarFocus": "formal follow-up",
+    "notes": "Useful after theft, accidents, or damage.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim não corro o risco de me esquecer de algum detalhe.",
+        "english": "That way I do not risk forgetting some detail."
+      }
+    ],
+    "tags": ["report", "formal", "problem"]
+  },
+  {
+    "id": "15-per-b1b2-048",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know it is difficult to diagnose remotely, but even a rough first impression would help.",
+    "portuguese": "Sei que é difícil diagnosticar à distância, mas até uma primeira impressão aproximada já ajudava.",
+    "pronunciationNote": "say k eh dee-FEE-seel dee-ahg-nosh-tee-KAR ah deesh-TAN-see-ah, mahz ah-TAY OO-mah pree-MAY-rah eem-presh-SOWN ah-prok-see-MAH-dah zhah ah-zhoo-DAH-vah",
+    "grammarFocus": "asking for preliminary advice",
+    "notes": "Useful by phone or message.",
+    "exampleSentences": [
+      {
+        "portuguese": "Era só para perceber a gravidade provável.",
+        "english": "It was just to understand the likely seriousness."
+      }
+    ],
+    "tags": ["remote", "repair", "advice"]
+  },
+  {
+    "id": "15-per-b1b2-049",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thank you for taking this seriously. It helps a lot when the response is clear and practical.",
+    "portuguese": "Obrigado por levarem isto a sério. Ajuda muito quando a resposta é clara e prática.",
+    "pronunciationNote": "oh-bree-GAH-doo poor leh-VAH-reng EES-too ah SAY-ree-oo. ah-ZHOO-dah MOOY-too KWAN-doo ah resh-POHSH-tah eh KLAH-rah ee PRAH-tee-kah",
+    "grammarFocus": "acknowledging good service",
+    "notes": "Useful after getting useful help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim sei melhor como proceder.",
+        "english": "That way I know better how to proceed."
+      }
+    ],
+    "tags": ["politeness", "service", "help"]
+  },
+  {
+    "id": "15-per-b1b2-050",
+    "subject": "Problems, Emergencies & Repairs",
+    "subjectId": "problems-emergencies-repairs",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Now that I understand the situation better, I can make a more sensible decision about what to do.",
+    "portuguese": "Agora que percebo melhor a situação, posso tomar uma decisão mais sensata sobre o que fazer.",
+    "pronunciationNote": "ah-GOH-rah k pair-SEH-boo meh-LYOR ah see-too-ah-SOWN, POS-soo toh-MAR OO-mah deh-see-ZOWN mysh sen-SAH-tah SOH-br oo k fah-ZAIR",
+    "grammarFocus": "closing with clarity",
+    "notes": "Useful after receiving guidance.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pela explicação. Foi muito útil.",
+        "english": "Thank you for the explanation. It was very useful."
+      }
+    ],
+    "tags": ["politeness", "guidance", "closing"]
+  }
+]
