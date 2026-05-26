@@ -24,11 +24,12 @@ export default function WordBankPanel({ deck, getCardStats, markWordBankCard, se
           return (
             <article key={entry.id} className="rounded-[1.5rem] border border-white/10 bg-slate-950/35 p-4">
               <div className="flex items-start justify-between gap-4">
-                <div>
-                  <p className="text-lg font-semibold text-white">{entry.portuguese}</p>
-                  <p className="mt-1 text-sm text-slate-200">{entry.english}</p>
-                  <p className="mt-2 text-xs uppercase tracking-[0.2em] text-slate-500">{entry.grammarFocus}</p>
-                </div>
+              <div>
+                <p className="text-lg font-semibold text-white">{entry.portuguese}</p>
+                <p className="mt-1 text-sm text-slate-200">{entry.english}</p>
+                <p className="mt-1 text-xs text-slate-400">{entry.pronunciationNote}</p>
+                <p className="mt-2 text-xs uppercase tracking-[0.2em] text-slate-500">{entry.grammarFocus}</p>
+              </div>
                 <p className={`min-w-20 rounded-full px-3 py-1 text-center text-xs ${statusClasses}`}>{statusLabel}</p>
               </div>
               <div className="mt-4 flex flex-col gap-2 sm:flex-row">
