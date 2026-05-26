@@ -1,6 +1,12 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { buildDeck, buildMultipleChoiceOptions, buildPromptConfig, modes } from '../lib/flashcardSession';
+import {
+  buildDeck,
+  buildMultipleChoiceOptions,
+  buildPromptConfig,
+  buildReviewSetExerciseMap,
+  modes,
+} from '../lib/flashcardSession';
 
 const CHUNK_RELOAD_KEY = 'porto-pal-chunk-reload-attempted';
 
@@ -23,6 +29,8 @@ export function useFlashcardSession() {
   const [answer, setAnswer] = useState('');
   const [feedback, setFeedback] = useState(null);
   const [deck, setDeck] = useState([]);
+  const [reviewSetExerciseMap, setReviewSetExerciseMap] = useState({});
+  const [revealedLetterCount, setRevealedLetterCount] = useState(0);
   const [isLoadingSet, setIsLoadingSet] = useState(false);
   const [loadError, setLoadError] = useState(null);
 
@@ -85,22 +93,26 @@ export function useFlashcardSession() {
   }, [ensureSetLoaded, selectedSetDefinition]);
 
   useEffect(() => {
-    setDeck(buildDeck(selectedSet, mode, getCardStats));
+    const nextDeck = buildDeck(selectedSet, mode, getCardStats);
+    setDeck(nextDeck);
+    setReviewSetExerciseMap(mode === 'review-set' ? buildReviewSetExerciseMap(nextDeck) : {});
     setShowAnswer(false);
     setIndex(0);
     setAnswer('');
     setFeedback(null);
+    setRevealedLetterCount(0);
   }, [selectedSet?.id, mode]);
 
   const card = deck.length ? deck[index] : null;
-  const promptConfig = useMemo(() => buildPromptConfig(card, mode, index), [card, index, mode]);
+  const activeMode = mode === 'review-set' && card ? reviewSetExerciseMap[card.id] || 'translate-en-pt' : mode;
+  const promptConfig = useMemo(() => buildPromptConfig(card, activeMode, index), [activeMode, card, index]);
   const multipleChoiceOptions = useMemo(() => {
-    if (!mode.startsWith('multiple-choice')) {
+    if (!activeMode.startsWith('multiple-choice')) {
       return [];
     }
 
     return buildMultipleChoiceOptions(card, selectedSet, promptConfig);
-  }, [card, mode, promptConfig, selectedSet]);
+  }, [activeMode, card, promptConfig, selectedSet]);
 
   const modeLabel = modes.find((entry) => entry.id === mode)?.label;
 
@@ -108,6 +120,7 @@ export function useFlashcardSession() {
     setShowAnswer(false);
     setAnswer('');
     setFeedback(null);
+    setRevealedLetterCount(0);
   }
 
   function moveNext() {
@@ -144,7 +157,7 @@ export function useFlashcardSession() {
     }
 
     const isCorrect = submitPractice(card, selectedValue, promptConfig.expected, {
-      mode: 'multiple-choice',
+      mode: activeMode,
       prompt: promptConfig.promptText,
       expectedLanguage: promptConfig.expectedLanguage,
     });
@@ -164,8 +177,9 @@ export function useFlashcardSession() {
     }
 
     const isCorrect = submitPractice(card, answer, promptConfig.expected, {
-      mode,
+      mode: activeMode,
       prompt: promptConfig.promptText,
+      assisted: revealedLetterCount > 0,
       expectedLanguage: promptConfig.expectedLanguage,
     });
 
@@ -177,6 +191,19 @@ export function useFlashcardSession() {
 
   function insertCharacter(character) {
     setAnswer((current) => `${current}${character}`);
+  }
+
+  function revealNextLetter() {
+    if (!promptConfig || feedback) {
+      return;
+    }
+
+    setAnswer((current) => {
+      const expected = promptConfig.expected || '';
+      const nextLength = Math.min(current.length + 1, expected.length);
+      return expected.slice(0, nextLength);
+    });
+    setRevealedLetterCount((current) => current + 1);
   }
 
   function markCurrentCard(knewIt) {
@@ -214,6 +241,7 @@ export function useFlashcardSession() {
     levelBand,
     loadError,
     mode,
+    activeMode,
     modeLabel,
     multipleChoiceOptions,
     promptConfig,
@@ -235,5 +263,7 @@ export function useFlashcardSession() {
     markCurrentCard,
     markWordBankCard,
     moveNext,
+    revealNextLetter,
+    revealedLetterCount,
   };
 }

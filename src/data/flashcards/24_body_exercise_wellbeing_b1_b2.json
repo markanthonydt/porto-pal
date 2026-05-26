@@ -1,0 +1,952 @@
+[
+  {
+    "id": "24-bew-b1b2-001",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I feel stiff if I spend too long sitting down.",
+    "portuguese": "Fico preso se passo demasiado tempo sentado.",
+    "pronunciationNote": "FEE-koo PREH-zoo s PAH-soo deh-mah-ZYAH-doo TEM-poo sen-TAH-doo",
+    "grammarFocus": "conditional with se",
+    "notes": "Useful for talking about sedentary habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando trabalho muitas horas seguidas, fico preso se passo demasiado tempo sentado.",
+        "english": "When I work many hours in a row, I feel stiff if I spend too long sitting down."
+      }
+    ],
+    "tags": ["stiffness", "routine", "body"]
+  },
+  {
+    "id": "24-bew-b1b2-002",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I recover better when I sleep enough.",
+    "portuguese": "Recupero melhor quando durmo o suficiente.",
+    "pronunciationNote": "rreh-koo-PEH-roo meh-LYOR KWAN-doo DOOR-moo oo soo-fee-see-EN-t",
+    "grammarFocus": "present tense with quando clause",
+    "notes": "Useful for talking about recovery.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo depois de treinar, recupero melhor quando durmo o suficiente.",
+        "english": "Even after training, I recover better when I sleep enough."
+      }
+    ],
+    "tags": ["recovery", "sleep", "exercise"]
+  },
+  {
+    "id": "24-bew-b1b2-003",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I do not move during the day, I end up feeling sluggish.",
+    "portuguese": "Se n\u00e3o me mexo durante o dia, acabo por me sentir sem energia.",
+    "pronunciationNote": "s nown m MEH-shoo door-AN-t oo DEE-ah, ah-KAH-boo poor m sen-TEER seng eh-nehr-ZHEE-ah",
+    "grammarFocus": "acabar por + infinitive",
+    "notes": "Useful for talking about inactivity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos dias em que fico em casa, se n\u00e3o me mexo durante o dia, acabo por me sentir sem energia.",
+        "english": "On the days when I stay at home, if I do not move during the day, I end up feeling sluggish."
+      }
+    ],
+    "tags": ["energy", "movement", "routine"]
+  },
+  {
+    "id": "24-bew-b1b2-004",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to find a routine that I can actually stick to.",
+    "portuguese": "Estou a tentar encontrar uma rotina que eu consiga mesmo manter.",
+    "pronunciationNote": "esh-TOH ah ten-TAR en-kon-TRAR OO-mah rroh-TEE-nah k eh-oo kon-SEE-gah MAY-zmoo man-TAIR",
+    "grammarFocus": "subjunctive with conseguir",
+    "notes": "Useful for realistic habit-building.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de planos exagerados, estou a tentar encontrar uma rotina que eu consiga mesmo manter.",
+        "english": "Instead of exaggerated plans, I am trying to find a routine that I can actually stick to."
+      }
+    ],
+    "tags": ["routine", "habits", "goals"]
+  },
+  {
+    "id": "24-bew-b1b2-005",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I push myself too hard at first and then lose momentum.",
+    "portuguese": "No in\u00edcio puxo demasiado por mim e depois perco o ritmo.",
+    "pronunciationNote": "noo ee-NEE-see-oo POO-shoo deh-mah-ZYAH-doo poor meeng ee deh-POYSH PAIR-koo oo REET-moo",
+    "grammarFocus": "sequencing with depois",
+    "notes": "Useful for describing an inconsistent pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando come\u00e7o motivado, no in\u00edcio puxo demasiado por mim e depois perco o ritmo.",
+        "english": "When I start motivated, I push myself too hard at first and then lose momentum."
+      }
+    ],
+    "tags": ["motivation", "exercise", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-006",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need exercise that helps me clear my head as well.",
+    "portuguese": "Preciso de exerc\u00edcio que me ajude tamb\u00e9m a desanuviar.",
+    "pronunciationNote": "preh-SEE-zoo d eh-zehr-SEE-see-oo k m ah-ZHOO-dah tamb-AYNG ah deh-zah-noo-vee-AR",
+    "grammarFocus": "subjunctive in relative clause",
+    "notes": "Useful for linking physical and mental wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o procuro s\u00f3 resultados f\u00edsicos; preciso de exerc\u00edcio que me ajude tamb\u00e9m a desanuviar.",
+        "english": "I am not only looking for physical results; I need exercise that helps me clear my head as well."
+      }
+    ],
+    "tags": ["mental wellbeing", "exercise", "stress"]
+  },
+  {
+    "id": "24-bew-b1b2-007",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I notice the difference when I am consistent for a few weeks.",
+    "portuguese": "Noto a diferen\u00e7a quando sou consistente durante algumas semanas.",
+    "pronunciationNote": "NOH-too ah dee-feh-REN-sah KWAN-doo soh kon-seesh-TEN-t door-AN-t al-GOO-mash seh-MAH-nash",
+    "grammarFocus": "present tense with quando clause",
+    "notes": "Useful for talking about medium-term habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que o progresso seja lento, noto a diferen\u00e7a quando sou consistente durante algumas semanas.",
+        "english": "Even if progress is slow, I notice the difference when I am consistent for a few weeks."
+      }
+    ],
+    "tags": ["consistency", "progress", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-008",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather train less often and recover properly.",
+    "portuguese": "Preferia treinar menos vezes e recuperar em condi\u00e7\u00f5es.",
+    "pronunciationNote": "preh-feh-REE-ah trey-NAR MEN-oosh VAY-zesh ee rreh-koo-peh-RAR eng kon-dee-SOYNH",
+    "grammarFocus": "conditional for preference",
+    "notes": "Useful for talking about sustainability.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de exagerar, preferia treinar menos vezes e recuperar em condi\u00e7\u00f5es.",
+        "english": "Instead of overdoing it, I would rather train less often and recover properly."
+      }
+    ],
+    "tags": ["recovery", "preferences", "training"]
+  },
+  {
+    "id": "24-bew-b1b2-009",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My shoulders get tight when I am stressed.",
+    "portuguese": "Os ombros ficam tensos quando estou stressado.",
+    "pronunciationNote": "ooz OM-broosh FEE-kang TEN-soosh KWAN-doo esh-TOH streh-SAH-doo",
+    "grammarFocus": "describing a physical pattern",
+    "notes": "Useful for linking stress and the body.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quase sempre, os ombros ficam tensos quando estou stressado.",
+        "english": "Almost always, my shoulders get tight when I am stressed."
+      }
+    ],
+    "tags": ["stress", "body", "tension"]
+  },
+  {
+    "id": "24-bew-b1b2-010",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have to remind myself to slow down and breathe.",
+    "portuguese": "Tenho de me lembrar de abrandar e respirar.",
+    "pronunciationNote": "TEN-yoo d m lemb-RAR d ah-bran-DAR ee rresh-pee-RAR",
+    "grammarFocus": "lembrar-se de + infinitive",
+    "notes": "Useful for mindfulness and stress.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo se acumula, tenho de me lembrar de abrandar e respirar.",
+        "english": "When everything piles up, I have to remind myself to slow down and breathe."
+      }
+    ],
+    "tags": ["breathing", "stress", "mindfulness"]
+  },
+  {
+    "id": "24-bew-b1b2-011",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I need most is a routine that feels manageable.",
+    "portuguese": "O que mais preciso \u00e9 de uma rotina que pare\u00e7a ger\u00edvel.",
+    "pronunciationNote": "oo k mysh preh-SEE-zoo eh d OO-mah rroh-TEE-nah k pah-REH-sah zheh-REE-vel",
+    "grammarFocus": "subjunctive in relative clause",
+    "notes": "Useful for realistic planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento, o que mais preciso \u00e9 de uma rotina que pare\u00e7a ger\u00edvel.",
+        "english": "At the moment, what I need most is a routine that feels manageable."
+      }
+    ],
+    "tags": ["routine", "planning", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-012",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can tell when I am run down because even simple things feel harder.",
+    "portuguese": "Percebo quando estou em baixo porque at\u00e9 as coisas simples custam mais.",
+    "pronunciationNote": "pehr-SEH-boo KWAN-doo esh-TOH eng BAI-shoo por-k ah-TAY az KOY-zash SEEM-plesh KOOSH-tang mysh",
+    "grammarFocus": "cause with porque",
+    "notes": "Useful for describing low energy periods.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando n\u00e3o descanso bem, percebo quando estou em baixo porque at\u00e9 as coisas simples custam mais.",
+        "english": "When I do not rest well, I can tell when I am run down because even simple things feel harder."
+      }
+    ],
+    "tags": ["energy", "fatigue", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-013",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to pay more attention to recovery, not just performance.",
+    "portuguese": "Estou a tentar dar mais aten\u00e7\u00e3o \u00e0 recupera\u00e7\u00e3o, e n\u00e3o apenas ao desempenho.",
+    "pronunciationNote": "esh-TOH ah ten-TAR dar mysh ah-ten-SOWN ah rreh-koo-peh-rah-SOWN, ee nown ah-peh-NASH ow deh-sem-PEN-yoo",
+    "grammarFocus": "contrast and indirect object",
+    "notes": "Useful for balanced training talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos \u00faltimos meses, estou a tentar dar mais aten\u00e7\u00e3o \u00e0 recupera\u00e7\u00e3o, e n\u00e3o apenas ao desempenho.",
+        "english": "In recent months, I am trying to pay more attention to recovery, not just performance."
+      }
+    ],
+    "tags": ["recovery", "performance", "training"]
+  },
+  {
+    "id": "24-bew-b1b2-014",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "A short walk usually helps me reset mentally.",
+    "portuguese": "Uma caminhada curta costuma ajudar-me a resetar mentalmente.",
+    "pronunciationNote": "OO-mah kah-mee-NYAH-dah KOOR-tah koosh-TOO-mah ah-zhoo-DAR-m ah rreh-zeh-TAR men-tal-MEN-t",
+    "grammarFocus": "costumar + infinitive",
+    "notes": "Useful for mental wellbeing habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando fico saturado, uma caminhada curta costuma ajudar-me a resetar mentalmente.",
+        "english": "When I feel saturated, a short walk usually helps me reset mentally."
+      }
+    ],
+    "tags": ["walking", "mental wellbeing", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-015",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need exercise that fits around my day rather than disrupts it.",
+    "portuguese": "Preciso de exerc\u00edcio que se encaixe no meu dia em vez de o complicar.",
+    "pronunciationNote": "preh-SEE-zoo d eh-zehr-SEE-see-oo k s en-KAI-she noo may-oo DEE-ah eng vesh d oo kom-plee-KAR",
+    "grammarFocus": "subjunctive in relative clause",
+    "notes": "Useful for realistic lifestyle planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com a rotina que tenho, preciso de exerc\u00edcio que se encaixe no meu dia em vez de o complicar.",
+        "english": "With the routine I have, I need exercise that fits around my day rather than disrupts it."
+      }
+    ],
+    "tags": ["routine", "exercise", "planning"]
+  },
+  {
+    "id": "24-bew-b1b2-016",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I am overtired, training harder usually backfires.",
+    "portuguese": "Se estiver demasiado cansado, treinar mais forte costuma sair ao contr\u00e1rio.",
+    "pronunciationNote": "s esh-TEE-ver deh-mah-ZYAH-doo kan-SAH-doo, trey-NAR mysh FOR-t koosh-TOO-mah sah-EER ow kon-TRAH-ree-oo",
+    "grammarFocus": "future subjunctive with se",
+    "notes": "Useful for talking about recovery limits.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 percebi que, se estiver demasiado cansado, treinar mais forte costuma sair ao contr\u00e1rio.",
+        "english": "I have already realised that if I am overtired, training harder usually backfires."
+      }
+    ],
+    "tags": ["recovery", "fatigue", "training"]
+  },
+  {
+    "id": "24-bew-b1b2-017",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to separate being disciplined from being too hard on myself.",
+    "portuguese": "Estou a tentar distinguir entre ser disciplinado e ser demasiado duro comigo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR deesh-teen-GEER en-tr sair dees-see-plee-NAH-doo ee sair deh-mah-ZYAH-doo DOO-roo kon-TEE-goo",
+    "grammarFocus": "distinguish between constructions",
+    "notes": "Useful for reflective wellbeing talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre \u00e9 f\u00e1cil, mas estou a tentar distinguir entre ser disciplinado e ser demasiado duro comigo.",
+        "english": "It is not always easy, but I am trying to separate being disciplined from being too hard on myself."
+      }
+    ],
+    "tags": ["discipline", "self-care", "reflection"]
+  },
+  {
+    "id": "24-bew-b1b2-018",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I sleep better when I get some daylight and movement during the day.",
+    "portuguese": "Durmo melhor quando apanho alguma luz do dia e me mexo durante o dia.",
+    "pronunciationNote": "DOOR-moo meh-LYOR KWAN-doo ah-PAH-nyoo al-GOO-mah looz doo DEE-ah ee m MEH-shoo door-AN-t oo DEE-ah",
+    "grammarFocus": "parallel actions with quando",
+    "notes": "Useful for describing sleep patterns.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fico fechado em casa, noto a diferen\u00e7a; durmo melhor quando apanho alguma luz do dia e me mexo durante o dia.",
+        "english": "If I stay indoors, I notice the difference; I sleep better when I get some daylight and movement during the day."
+      }
+    ],
+    "tags": ["sleep", "daylight", "movement"]
+  },
+  {
+    "id": "24-bew-b1b2-019",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have realised that doing something small is better than doing nothing.",
+    "portuguese": "Percebi que fazer alguma coisa pequena \u00e9 melhor do que n\u00e3o fazer nada.",
+    "pronunciationNote": "pehr-seh-BEE k fah-ZAIR al-GOO-mah KOY-zah peh-KEH-nah eh meh-LYOR doo k nown fah-ZAIR NAH-dah",
+    "grammarFocus": "comparison with do que",
+    "notes": "Useful for sustainable habit-building.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos dias mais ocupados, percebi que fazer alguma coisa pequena \u00e9 melhor do que n\u00e3o fazer nada.",
+        "english": "On busier days, I have realised that doing something small is better than doing nothing."
+      }
+    ],
+    "tags": ["habits", "motivation", "consistency"]
+  },
+  {
+    "id": "24-bew-b1b2-020",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I want to build strength without ignoring mobility.",
+    "portuguese": "Quero ganhar for\u00e7a sem ignorar a mobilidade.",
+    "pronunciationNote": "KEH-roo gan-YAR FOR-sah seng eeg-noh-RAR ah moh-bee-lee-DAH-d",
+    "grammarFocus": "goal with sem + infinitive",
+    "notes": "Useful for balanced training goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, o ideal \u00e9 quero ganhar for\u00e7a sem ignorar a mobilidade.",
+        "english": "For me, the ideal is to build strength without ignoring mobility."
+      }
+    ],
+    "tags": ["strength", "mobility", "goals"]
+  },
+  {
+    "id": "24-bew-b1b2-021",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The hardest part is usually starting, not the session itself.",
+    "portuguese": "A parte mais dif\u00edcil costuma ser come\u00e7ar, n\u00e3o o treino em si.",
+    "pronunciationNote": "ah PAR-t mysh dee-FEE-seel koosh-TOO-mah sair koh-meh-SAR, nown oo TRAY-noo eng see",
+    "grammarFocus": "contrastive structure",
+    "notes": "Useful for talking about motivation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando penso demasiado, a parte mais dif\u00edcil costuma ser come\u00e7ar, n\u00e3o o treino em si.",
+        "english": "When I overthink it, the hardest part is usually starting, not the session itself."
+      }
+    ],
+    "tags": ["motivation", "training", "mindset"]
+  },
+  {
+    "id": "24-bew-b1b2-022",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to stop treating rest as if it were wasted time.",
+    "portuguese": "Preciso de deixar de tratar o descanso como se fosse tempo perdido.",
+    "pronunciationNote": "preh-SEE-zoo d day-SHAR d trah-TAR oo desh-KAN-soo KOH-moo s FOH-s tempo pehr-DEE-doo",
+    "grammarFocus": "deixar de + infinitive and imperfect subjunctive",
+    "notes": "Useful for recovery mindset.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para treinar melhor a longo prazo, preciso de deixar de tratar o descanso como se fosse tempo perdido.",
+        "english": "To train better in the long term, I need to stop treating rest as if it were wasted time."
+      }
+    ],
+    "tags": ["rest", "recovery", "mindset"]
+  },
+  {
+    "id": "24-bew-b1b2-023",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I feel noticeably better when my day has some structure to it.",
+    "portuguese": "Sinto-me claramente melhor quando o meu dia tem alguma estrutura.",
+    "pronunciationNote": "SEEN-too-m klah-rah-MEN-t meh-LYOR KWAN-doo oo may-oo DEE-ah teng al-GOO-mah esh-troo-TOO-rah",
+    "grammarFocus": "describing general patterns",
+    "notes": "Useful for talking about routine and wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que n\u00e3o seja r\u00edgida, sinto-me claramente melhor quando o meu dia tem alguma estrutura.",
+        "english": "Even if it is not rigid, I feel noticeably better when my day has some structure to it."
+      }
+    ],
+    "tags": ["routine", "wellbeing", "structure"]
+  },
+  {
+    "id": "24-bew-b1b2-024",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I want habits that I can maintain even when life gets busy.",
+    "portuguese": "Quero h\u00e1bitos que consiga manter mesmo quando a vida fica mais ocupada.",
+    "pronunciationNote": "KEH-roo AH-bee-toosh k kon-SEE-gah man-TAIR MAY-zmoo KWAN-doo ah VEE-dah FEE-kah mysh oh-koo-PAH-dah",
+    "grammarFocus": "subjunctive in relative clause",
+    "notes": "Useful for realistic habit planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o me interessam planos imposs\u00edveis; quero h\u00e1bitos que consiga manter mesmo quando a vida fica mais ocupada.",
+        "english": "Impossible plans do not interest me; I want habits that I can maintain even when life gets busy."
+      }
+    ],
+    "tags": ["habits", "planning", "consistency"]
+  },
+  {
+    "id": "24-bew-b1b2-025",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can feel the difference between being pleasantly tired and completely drained.",
+    "portuguese": "Consigo sentir a diferen\u00e7a entre estar agradavelmente cansado e ficar completamente de rastos.",
+    "pronunciationNote": "kon-SEE-goo sen-TEER ah dee-feh-REN-sah en-tr esh-TAR ah-grah-dah-vel-MEN-t kan-SAH-doo ee fee-KAR kom-pleh-tah-MEN-t d RRAH-shtoosh",
+    "grammarFocus": "comparison between two states",
+    "notes": "Useful for discussing exercise intensity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com o tempo, consigo sentir a diferen\u00e7a entre estar agradavelmente cansado e ficar completamente de rastos.",
+        "english": "With time, I can feel the difference between being pleasantly tired and completely drained."
+      }
+    ],
+    "tags": ["fatigue", "recovery", "body awareness"]
+  },
+  {
+    "id": "24-bew-b1b2-026",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I benefit more from consistency than from occasional intense effort.",
+    "portuguese": "Beneficio mais da consist\u00eancia do que de esfor\u00e7os intensos ocasionais.",
+    "pronunciationNote": "beh-neh-FEE-see-oo mysh dah kon-seesh-TEN-see-ah doo k d esh-FOR-soosh een-TEN-soosh oh-kah-zee-oh-NAISH",
+    "grammarFocus": "comparison with do que",
+    "notes": "Useful for mature reflections on training.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de algum tempo, percebi que beneficio mais da consist\u00eancia do que de esfor\u00e7os intensos ocasionais.",
+        "english": "After some time, I realised that I benefit more from consistency than from occasional intense effort."
+      }
+    ],
+    "tags": ["consistency", "training", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-027",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am still learning how to pace myself properly.",
+    "portuguese": "Ainda estou a aprender a gerir bem o meu ritmo.",
+    "pronunciationNote": "een-DAH esh-TOH ah ah-prehn-DAYR ah zheh-REER beng oo may-oo REET-moo",
+    "grammarFocus": "learning how to do something",
+    "notes": "Useful for talking about self-management.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quer no trabalho quer no exerc\u00edcio, ainda estou a aprender a gerir bem o meu ritmo.",
+        "english": "Both at work and in exercise, I am still learning how to pace myself properly."
+      }
+    ],
+    "tags": ["pacing", "self-management", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-028",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What helps me most is keeping things simple enough to repeat.",
+    "portuguese": "O que mais me ajuda \u00e9 manter as coisas suficientemente simples para repetir.",
+    "pronunciationNote": "oo k mysh m ah-ZHOO-dah eh man-TAIR az KOY-zash soo-fee-see-en-teh-MEN-t SEEM-plesh PAH-rah rreh-peh-TEER",
+    "grammarFocus": "cleft-style emphasis",
+    "notes": "Useful for habit design.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de procurar o plano perfeito, o que mais me ajuda \u00e9 manter as coisas suficientemente simples para repetir.",
+        "english": "Instead of looking for the perfect plan, what helps me most is keeping things simple enough to repeat."
+      }
+    ],
+    "tags": ["habits", "simplicity", "routine"]
+  },
+  {
+    "id": "24-bew-b1b2-029",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I notice that my mood improves when I spend less time indoors.",
+    "portuguese": "Noto que o meu humor melhora quando passo menos tempo dentro de casa.",
+    "pronunciationNote": "NOH-too k oo may-oo oo-MOR meh-LYOH-rah KWAN-doo PAH-soo MEN-oosh TEM-poo DEN-troo d KAH-zah",
+    "grammarFocus": "subordinate clause with que",
+    "notes": "Useful for talking about mood and environment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Principalmente no inverno, noto que o meu humor melhora quando passo menos tempo dentro de casa.",
+        "english": "Especially in winter, I notice that my mood improves when I spend less time indoors."
+      }
+    ],
+    "tags": ["mood", "outdoors", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-030",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to be stronger without feeling obsessed by it.",
+    "portuguese": "Gostava de ser mais forte sem ficar obcecado com isso.",
+    "pronunciationNote": "goosh-TAH-vah d sair mysh FOR-t seng fee-KAR ob-seh-KAH-doo kong EE-soo",
+    "grammarFocus": "conditional preference with sem + infinitive",
+    "notes": "Useful for balanced fitness talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero melhorar, mas gostava de ser mais forte sem ficar obcecado com isso.",
+        "english": "I want to improve, but I would like to be stronger without feeling obsessed by it."
+      }
+    ],
+    "tags": ["fitness", "balance", "goals"]
+  },
+  {
+    "id": "24-bew-b1b2-031",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My energy dips sharply if I skip meals or sleep badly.",
+    "portuguese": "A minha energia cai bastante se salto refei\u00e7\u00f5es ou durmo mal.",
+    "pronunciationNote": "ah MEE-nyah eh-nehr-ZHEE-ah kaih bash-TAN-t s SAL-too rreh-fay-SOYNH ow DOOR-moo mahl",
+    "grammarFocus": "conditional with se",
+    "notes": "Useful for talking about basic self-care.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 sei por experi\u00eancia que a minha energia cai bastante se salto refei\u00e7\u00f5es ou durmo mal.",
+        "english": "I already know from experience that my energy dips sharply if I skip meals or sleep badly."
+      }
+    ],
+    "tags": ["energy", "food", "sleep"]
+  },
+  {
+    "id": "24-bew-b1b2-032",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to listen to my body instead of ignoring early warning signs.",
+    "portuguese": "Estou a tentar ouvir o meu corpo em vez de ignorar os primeiros sinais de alerta.",
+    "pronunciationNote": "esh-TOH ah ten-TAR oo-VEER oo may-oo KOR-poo eng vesh d eeg-noh-RAR oosh pree-MAI-roosh see-NAISH d ah-LAIR-tah",
+    "grammarFocus": "em vez de + infinitive",
+    "notes": "Useful for injury prevention and recovery.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para n\u00e3o piorar, estou a tentar ouvir o meu corpo em vez de ignorar os primeiros sinais de alerta.",
+        "english": "So that it does not get worse, I am trying to listen to my body instead of ignoring early warning signs."
+      }
+    ],
+    "tags": ["body awareness", "injury prevention", "recovery"]
+  },
+  {
+    "id": "24-bew-b1b2-033",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I recover more slowly if stress has been building up for days.",
+    "portuguese": "Recupero mais devagar se o stress se tiver acumulado durante dias.",
+    "pronunciationNote": "rreh-koo-PEH-roo mysh deh-vah-GAR s oo strehs s tee-VAIR ah-koo-moo-LAH-doo door-AN-t DEE-ash",
+    "grammarFocus": "future perfect subjunctive nuance",
+    "notes": "Useful for linking stress and recovery.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo com treino leve, recupero mais devagar se o stress se tiver acumulado durante dias.",
+        "english": "Even with light training, I recover more slowly if stress has been building up for days."
+      }
+    ],
+    "tags": ["stress", "recovery", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-034",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The goal is to feel better overall, not to chase extremes.",
+    "portuguese": "O objetivo \u00e9 sentir-me melhor no geral, n\u00e3o andar atr\u00e1s de extremos.",
+    "pronunciationNote": "oo ob-zheh-TEE-voo eh sen-TEER-m meh-LYOR noo zheh-RAL, nown an-DAR ah-TRASH d esh-TREH-moosh",
+    "grammarFocus": "contrastive infinitive phrase",
+    "notes": "Useful for balanced wellbeing goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, o objetivo \u00e9 sentir-me melhor no geral, n\u00e3o andar atr\u00e1s de extremos.",
+        "english": "For me, the goal is to feel better overall, not to chase extremes."
+      }
+    ],
+    "tags": ["goals", "balance", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-035",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have more motivation when the plan feels flexible rather than rigid.",
+    "portuguese": "Tenho mais motiva\u00e7\u00e3o quando o plano parece flex\u00edvel em vez de r\u00edgido.",
+    "pronunciationNote": "TEN-yoo mysh moh-tee-vah-SOWN KWAN-doo oo PLAH-noo pah-REH-s flex-EE-vel eng vesh d REE-zhee-doo",
+    "grammarFocus": "comparison with em vez de",
+    "notes": "Useful for designing sustainable habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sei que sou mais constante assim: tenho mais motiva\u00e7\u00e3o quando o plano parece flex\u00edvel em vez de r\u00edgido.",
+        "english": "I know I am more consistent like that: I have more motivation when the plan feels flexible rather than rigid."
+      }
+    ],
+    "tags": ["motivation", "planning", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-036",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to pay attention to the habits around exercise, not just the workout itself.",
+    "portuguese": "Preciso de prestar aten\u00e7\u00e3o aos h\u00e1bitos \u00e0 volta do exerc\u00edcio, e n\u00e3o s\u00f3 ao treino em si.",
+    "pronunciationNote": "preh-SEE-zoo d presh-TAR ah-ten-SOWN owz AH-bee-toosh ah VOL-tah doo eh-zehr-SEE-see-oo, ee nown soh ow TRAY-noo eng see",
+    "grammarFocus": "prestar aten\u00e7\u00e3o a",
+    "notes": "Useful for broader lifestyle reflections.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dormir, comer e organizar o dia contam muito, por isso preciso de prestar aten\u00e7\u00e3o aos h\u00e1bitos \u00e0 volta do exerc\u00edcio, e n\u00e3o s\u00f3 ao treino em si.",
+        "english": "Sleeping, eating and organising the day matter a lot, so I need to pay attention to the habits around exercise, not just the workout itself."
+      }
+    ],
+    "tags": ["exercise", "lifestyle", "habits"]
+  },
+  {
+    "id": "24-bew-b1b2-037",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am at my best when I balance movement, sleep, food and downtime.",
+    "portuguese": "Estou no meu melhor quando equilibro movimento, sono, alimenta\u00e7\u00e3o e descanso.",
+    "pronunciationNote": "esh-TOH noo may-oo meh-LYOR KWAN-doo eh-kee-LEE-broo moo-vee-MEN-too, SOH-noo, ah-lee-men-tah-SOWN ee desh-KAN-soo",
+    "grammarFocus": "present tense with quando",
+    "notes": "Useful for summing up wellbeing priorities.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao longo da semana, estou no meu melhor quando equilibro movimento, sono, alimenta\u00e7\u00e3o e descanso.",
+        "english": "Over the week, I am at my best when I balance movement, sleep, food and downtime."
+      }
+    ],
+    "tags": ["balance", "wellbeing", "routine"]
+  },
+  {
+    "id": "24-bew-b1b2-038",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I neglect the basics, the rest tends to unravel.",
+    "portuguese": "Se descuro o essencial, o resto costuma desfazer-se.",
+    "pronunciationNote": "s deesh-KOO-roo oo esh-sen-see-AL, oo RRESH-too koosh-TOO-mah dezh-fah-ZAIR-s",
+    "grammarFocus": "conditional with se and reflexive ending",
+    "notes": "Useful for talking about basic routines.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sono, comida e descanso s\u00e3o a base; se descuro o essencial, o resto costuma desfazer-se.",
+        "english": "Sleep, food and rest are the foundation; if I neglect the basics, the rest tends to unravel."
+      }
+    ],
+    "tags": ["basics", "routine", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-039",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to train in a way that leaves me feeling more capable, not just exhausted.",
+    "portuguese": "Gostava de treinar de uma forma que me deixasse mais capaz, e n\u00e3o apenas exausto.",
+    "pronunciationNote": "goosh-TAH-vah d trey-NAR d OO-mah FOR-mah k m day-SHAH-s mysh kah-PAHZ, ee nown ah-peh-NASH eh-ZOWS-too",
+    "grammarFocus": "imperfect subjunctive in relative clause",
+    "notes": "Useful for long-term training perspective.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fundo, gostava de treinar de uma forma que me deixasse mais capaz, e n\u00e3o apenas exausto.",
+        "english": "At the end of the day, I would like to train in a way that leaves me feeling more capable, not just exhausted."
+      }
+    ],
+    "tags": ["training", "goals", "recovery"]
+  },
+  {
+    "id": "24-bew-b1b2-040",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need habits that support my energy instead of draining it.",
+    "portuguese": "Preciso de h\u00e1bitos que apoiem a minha energia em vez de a gastarem.",
+    "pronunciationNote": "preh-SEE-zoo d AH-bee-toosh k ah-POY-eng ah MEE-nyah eh-nehr-ZHEE-ah eng vesh d ah gash-TAH-reng",
+    "grammarFocus": "subjunctive in relative clause",
+    "notes": "Useful for general wellbeing planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero simplificar a rotina: preciso de h\u00e1bitos que apoiem a minha energia em vez de a gastarem.",
+        "english": "I want to simplify the routine: I need habits that support my energy instead of draining it."
+      }
+    ],
+    "tags": ["energy", "habits", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-041",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The challenge is not knowing what to do, but doing it regularly enough to matter.",
+    "portuguese": "O desafio n\u00e3o \u00e9 saber o que fazer, mas faz\u00ea-lo com regularidade suficiente para fazer diferen\u00e7a.",
+    "pronunciationNote": "oo deh-zah-FEE-oo nown eh sah-BER oo k fah-ZAIR, mash fah-ZAY-loo kong rreh-goo-lah-ree-DAH-d soo-fee-see-EN-t PAH-rah fah-ZAIR dee-feh-REN-sah",
+    "grammarFocus": "contrast with mas",
+    "notes": "Useful for reflective habit talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 sei a teoria: o desafio n\u00e3o \u00e9 saber o que fazer, mas faz\u00ea-lo com regularidade suficiente para fazer diferen\u00e7a.",
+        "english": "I already know the theory: the challenge is not knowing what to do, but doing it regularly enough to matter."
+      }
+    ],
+    "tags": ["habits", "consistency", "reflection"]
+  },
+  {
+    "id": "24-bew-b1b2-042",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to make healthy choices feel normal rather than forced.",
+    "portuguese": "Estou a tentar fazer com que escolhas saud\u00e1veis pare\u00e7am normais, e n\u00e3o for\u00e7adas.",
+    "pronunciationNote": "esh-TOH ah ten-TAR fah-ZAIR kong k esh-KOYL-yash sow-DAH-vays pah-REH-sang nor-MAISH, ee nown for-SAH-dash",
+    "grammarFocus": "fazer com que + subjunctive",
+    "notes": "Useful for long-term behaviour change.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para durar, estou a tentar fazer com que escolhas saud\u00e1veis pare\u00e7am normais, e n\u00e3o for\u00e7adas.",
+        "english": "To make it last, I am trying to make healthy choices feel normal rather than forced."
+      }
+    ],
+    "tags": ["healthy habits", "behaviour change", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-043",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more overloaded I feel, the more I need simple routines that ground me.",
+    "portuguese": "Quanto mais sobrecarregado me sinto, mais preciso de rotinas simples que me deem estabilidade.",
+    "pronunciationNote": "KWAN-too mysh soh-breh-kah-RREH-gah-doo m SEEN-too, mysh preh-SEE-zoo d rroh-TEE-nash SEEM-plesh k m DAY-eng esh-tah-bee-lee-DAH-d",
+    "grammarFocus": "quanto mais ... mais",
+    "notes": "Useful for talking about structure under stress.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos per\u00edodos piores, quanto mais sobrecarregado me sinto, mais preciso de rotinas simples que me deem estabilidade.",
+        "english": "In the harder periods, the more overloaded I feel, the more I need simple routines that ground me."
+      }
+    ],
+    "tags": ["stress", "routine", "stability"]
+  },
+  {
+    "id": "24-bew-b1b2-044",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do better when I think in terms of routines, not all-or-nothing results.",
+    "portuguese": "Corro melhor quando penso em rotinas, e n\u00e3o em resultados de tudo ou nada.",
+    "pronunciationNote": "KOH-rroo meh-LYOR KWAN-doo PEN-soo eng rroh-TEE-nash, ee nown eng rreh-zool-TAH-doosh d TOO-doo ow NAH-dah",
+    "grammarFocus": "contrastive structure",
+    "notes": "Useful for mindset and consistency.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para n\u00e3o desistir, corro melhor quando penso em rotinas, e n\u00e3o em resultados de tudo ou nada.",
+        "english": "So that I do not give up, I do better when I think in terms of routines, not all-or-nothing results."
+      }
+    ],
+    "tags": ["mindset", "consistency", "routine"]
+  },
+  {
+    "id": "24-bew-b1b2-045",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to feel more at ease in my body, not just fitter.",
+    "portuguese": "Gostava de me sentir mais \u00e0 vontade no meu corpo, e n\u00e3o apenas em melhor forma.",
+    "pronunciationNote": "goosh-TAH-vah d m sen-TEER mysh ah von-TAH-d noo may-oo KOR-poo, ee nown ah-peh-NASH eng meh-LYOR FOR-mah",
+    "grammarFocus": "conditional preference",
+    "notes": "Useful for body confidence and wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim isso conta muito: gostava de me sentir mais \u00e0 vontade no meu corpo, e n\u00e3o apenas em melhor forma.",
+        "english": "For me that matters a lot: I would like to feel more at ease in my body, not just fitter."
+      }
+    ],
+    "tags": ["body confidence", "wellbeing", "goals"]
+  },
+  {
+    "id": "24-bew-b1b2-046",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am gradually learning which habits actually make a difference for me.",
+    "portuguese": "Estou a aprender aos poucos quais s\u00e3o os h\u00e1bitos que realmente fazem diferen\u00e7a para mim.",
+    "pronunciationNote": "esh-TOH ah ah-prehn-DAYR owsh POH-koosh kways sown ooz AH-bee-toosh k rreh-al-MEN-t FAH-zeng dee-feh-REN-sah PAH-rah meeng",
+    "grammarFocus": "relative clause with quais",
+    "notes": "Useful for reflective wellbeing talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo funciona comigo, por isso estou a aprender aos poucos quais s\u00e3o os h\u00e1bitos que realmente fazem diferen\u00e7a para mim.",
+        "english": "Not everything works for me, so I am gradually learning which habits actually make a difference for me."
+      }
+    ],
+    "tags": ["habits", "reflection", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-047",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to accept that some days call for movement and others call for rest.",
+    "portuguese": "Preciso de aceitar que alguns dias pedem movimento e outros pedem descanso.",
+    "pronunciationNote": "preh-SEE-zoo d ah-say-TAR k al-GOONSH DEE-ash PEH-deng moo-vee-MEN-too ee OH-troosh PEH-deng desh-KAN-soo",
+    "grammarFocus": "acceptance with que clause",
+    "notes": "Useful for a balanced view of training.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de for\u00e7ar sempre, preciso de aceitar que alguns dias pedem movimento e outros pedem descanso.",
+        "english": "Instead of always forcing it, I need to accept that some days call for movement and others call for rest."
+      }
+    ],
+    "tags": ["balance", "rest", "training"]
+  },
+  {
+    "id": "24-bew-b1b2-048",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What matters most is having enough energy for everyday life.",
+    "portuguese": "O que mais importa \u00e9 ter energia suficiente para o dia a dia.",
+    "pronunciationNote": "oo k mysh eem-POR-tah eh tair eh-nehr-ZHEE-ah soo-fee-see-EN-t PAH-rah oo DEE-ah ah DEE-ah",
+    "grammarFocus": "cleft-style emphasis",
+    "notes": "Useful for practical wellbeing priorities.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais do que n\u00fameros ou metas, o que mais importa \u00e9 ter energia suficiente para o dia a dia.",
+        "english": "More than numbers or targets, what matters most is having enough energy for everyday life."
+      }
+    ],
+    "tags": ["energy", "priorities", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-049",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I feel more resilient when I look after the basics consistently.",
+    "portuguese": "Sinto-me mais resistente quando cuido do essencial com consist\u00eancia.",
+    "pronunciationNote": "SEEN-too-m mysh rreh-zeesh-TEN-t KWAN-doo koo-EE-doo doo esh-sen-see-AL kong kon-seesh-TEN-see-ah",
+    "grammarFocus": "present tense with quando clause",
+    "notes": "Useful for summing up a healthy routine.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o \u00e9 perfeito, mas sinto-me mais resistente quando cuido do essencial com consist\u00eancia.",
+        "english": "It is not perfect, but I feel more resilient when I look after the basics consistently."
+      }
+    ],
+    "tags": ["resilience", "basics", "wellbeing"]
+  },
+  {
+    "id": "24-bew-b1b2-050",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know the process is gradual, but I can already feel the benefits.",
+    "portuguese": "Sei que o processo \u00e9 gradual, mas j\u00e1 consigo sentir os benef\u00edcios.",
+    "pronunciationNote": "SAY k oo proh-SEH-soo eh grah-doo-AL, mash zhah kon-SEE-goo sen-TEER oosh बेह-neh-FEE-see-oosh",
+    "grammarFocus": "subordinate clause with que",
+    "notes": "Useful for ending on a positive, reflective note.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda tenho caminho pela frente, mas sei que o processo \u00e9 gradual e j\u00e1 consigo sentir os benef\u00edcios.",
+        "english": "I still have a way to go, but I know the process is gradual and I can already feel the benefits."
+      }
+    ],
+    "tags": ["progress", "benefits", "wellbeing"]
+  }
+]

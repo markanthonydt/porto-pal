@@ -38,6 +38,14 @@ import technologyOnlineA1A2 from './19_technology_online_life_a1_a2.json';
 import technologyOnlineB1B2 from './19_technology_online_life_b1_b2.json';
 import weatherSeasonsNatureA1A2 from './20_weather_seasons_nature_a1_a2.json';
 import weatherSeasonsNatureB1B2 from './20_weather_seasons_nature_b1_b2.json';
+import appearanceClothingStyleA1A2 from './21_appearance_clothing_personal_style_a1_a2.json';
+import appearanceClothingStyleB1B2 from './21_appearance_clothing_personal_style_b1_b2.json';
+import bureaucracyAdminA1A2 from './22_bureaucracy_documents_admin_a1_a2.json';
+import bureaucracyAdminB1B2 from './22_bureaucracy_documents_admin_b1_b2.json';
+import educationStudyLearningA1A2 from './23_education_study_learning_a1_a2.json';
+import educationStudyLearningB1B2 from './23_education_study_learning_b1_b2.json';
+import bodyExerciseWellbeingA1A2 from './24_body_exercise_wellbeing_a1_a2.json';
+import bodyExerciseWellbeingB1B2 from './24_body_exercise_wellbeing_b1_b2.json';
 
 export const subjectCatalog = [
   { id: 'greetings-social', order: 1, subject: 'Greetings & Social Basics' },
@@ -60,6 +68,10 @@ export const subjectCatalog = [
   { id: 'books-games-fantasy-scifi', order: 18, subject: 'Books, Games, Fantasy & Sci-Fi' },
   { id: 'technology-online-life', order: 19, subject: 'Technology & Online Life' },
   { id: 'weather-seasons-nature', order: 20, subject: 'Weather, Seasons & Nature' },
+  { id: 'appearance-clothing-personal-style', order: 21, subject: 'Appearance, Clothing & Personal Style' },
+  { id: 'bureaucracy-documents-admin', order: 22, subject: 'Bureaucracy, Documents & Admin' },
+  { id: 'education-study-learning', order: 23, subject: 'Education, Study & Learning' },
+  { id: 'body-exercise-wellbeing', order: 24, subject: 'Body, Exercise & Wellbeing' },
 ];
 
 const flashcardSetSources = [
@@ -382,6 +394,70 @@ const flashcardSetSources = [
     levelBand: 'B1-B2',
     cardCount: 50,
     cards: weatherSeasonsNatureB1B2,
+  },
+  {
+    id: '21_appearance_clothing_personal_style_a1_a2',
+    subjectId: 'appearance-clothing-personal-style',
+    subject: 'Appearance, Clothing & Personal Style',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: appearanceClothingStyleA1A2,
+  },
+  {
+    id: '21_appearance_clothing_personal_style_b1_b2',
+    subjectId: 'appearance-clothing-personal-style',
+    subject: 'Appearance, Clothing & Personal Style',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: appearanceClothingStyleB1B2,
+  },
+  {
+    id: '22_bureaucracy_documents_admin_a1_a2',
+    subjectId: 'bureaucracy-documents-admin',
+    subject: 'Bureaucracy, Documents & Admin',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: bureaucracyAdminA1A2,
+  },
+  {
+    id: '22_bureaucracy_documents_admin_b1_b2',
+    subjectId: 'bureaucracy-documents-admin',
+    subject: 'Bureaucracy, Documents & Admin',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: bureaucracyAdminB1B2,
+  },
+  {
+    id: '23_education_study_learning_a1_a2',
+    subjectId: 'education-study-learning',
+    subject: 'Education, Study & Learning',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: educationStudyLearningA1A2,
+  },
+  {
+    id: '23_education_study_learning_b1_b2',
+    subjectId: 'education-study-learning',
+    subject: 'Education, Study & Learning',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: educationStudyLearningB1B2,
+  },
+  {
+    id: '24_body_exercise_wellbeing_a1_a2',
+    subjectId: 'body-exercise-wellbeing',
+    subject: 'Body, Exercise & Wellbeing',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: bodyExerciseWellbeingA1A2,
+  },
+  {
+    id: '24_body_exercise_wellbeing_b1_b2',
+    subjectId: 'body-exercise-wellbeing',
+    subject: 'Body, Exercise & Wellbeing',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: bodyExerciseWellbeingB1B2,
   },
 ];
 

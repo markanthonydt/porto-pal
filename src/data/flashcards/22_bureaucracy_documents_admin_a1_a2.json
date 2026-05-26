@@ -1,0 +1,952 @@
+[
+  {
+    "id": "22-bda-a1a2-001",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to fill in this form.",
+    "portuguese": "Preciso de preencher este formul\u00e1rio.",
+    "pronunciationNote": "preh-SEE-zoo d preh-en-SHAIR ESH-t for-moo-LAH-ree-oo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful in admin situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de entregar, preciso de preencher este formul\u00e1rio.",
+        "english": "Before handing it in, I need to fill in this form."
+      }
+    ],
+    "tags": ["forms", "admin", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-002",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where do I sign?",
+    "portuguese": "Onde \u00e9 que assino?",
+    "pronunciationNote": "ON-d eh k ah-SEE-noo",
+    "grammarFocus": "asking for instructions",
+    "notes": "Useful with documents and contracts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde \u00e9 que assino?",
+        "english": "Excuse me, where do I sign?"
+      }
+    ],
+    "tags": ["signature", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-003",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to make an appointment.",
+    "portuguese": "Preciso de marcar uma cita\u00e7\u00e3o.",
+    "pronunciationNote": "preh-SEE-zoo d mar-KAR OO-mah see-tah-SOWN",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for offices and services.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para tratar disto, preciso de marcar uma cita\u00e7\u00e3o.",
+        "english": "To deal with this, I need to make an appointment."
+      }
+    ],
+    "tags": ["appointments", "admin", "planning"]
+  },
+  {
+    "id": "22-bda-a1a2-004",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have an appointment today.",
+    "portuguese": "Tenho uma cita\u00e7\u00e3o hoje.",
+    "pronunciationNote": "TEN-yoo OO-mah see-tah-SOWN OH-zheh",
+    "grammarFocus": "talking about arrangements",
+    "notes": "Useful at reception desks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho uma cita\u00e7\u00e3o hoje \u00e0s dez.",
+        "english": "I have an appointment today at ten."
+      }
+    ],
+    "tags": ["appointments", "admin", "time"]
+  },
+  {
+    "id": "22-bda-a1a2-005",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need my passport.",
+    "portuguese": "Preciso do meu passaporte.",
+    "pronunciationNote": "preh-SEE-zoo doo may-oo pah-sah-POR-t",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for travel and identity checks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para isto, preciso do meu passaporte.",
+        "english": "For this, I need my passport."
+      }
+    ],
+    "tags": ["passport", "identity", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-006",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need my ID card.",
+    "portuguese": "Preciso do meu cart\u00e3o de cidad\u00e3o.",
+    "pronunciationNote": "preh-SEE-zoo doo may-oo kar-TOWN d see-dah-DOWN",
+    "grammarFocus": "expressing need",
+    "notes": "Portugal-specific ID phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para levantar isto, preciso do meu cart\u00e3o de cidad\u00e3o.",
+        "english": "To collect this, I need my ID card."
+      }
+    ],
+    "tags": ["id", "documents", "portugal"]
+  },
+  {
+    "id": "22-bda-a1a2-007",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you need a copy?",
+    "portuguese": "Precisa de uma c\u00f3pia?",
+    "pronunciationNote": "preh-SEE-zah d OO-mah KOH-pee-ah",
+    "grammarFocus": "asking about requirements",
+    "notes": "Useful when submitting documents.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho o original tamb\u00e9m. Precisa de uma c\u00f3pia?",
+        "english": "I also have the original. Do you need a copy?"
+      }
+    ],
+    "tags": ["copies", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-008",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I only have the original.",
+    "portuguese": "S\u00f3 tenho o original.",
+    "pronunciationNote": "soh TEN-yoo oo or-ee-zhee-NAL",
+    "grammarFocus": "providing information",
+    "notes": "Useful when asked for copies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento, s\u00f3 tenho o original.",
+        "english": "At the moment, I only have the original."
+      }
+    ],
+    "tags": ["documents", "original", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-009",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I send it by email?",
+    "portuguese": "Posso enviar isso por email?",
+    "pronunciationNote": "POH-soo en-vee-AR EE-soo poor ee-MAIL",
+    "grammarFocus": "asking permission",
+    "notes": "Useful for admin follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais f\u00e1cil, posso enviar isso por email?",
+        "english": "If it is easier, can I send it by email?"
+      }
+    ],
+    "tags": ["email", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-010",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I send it online?",
+    "portuguese": "Posso enviar isso online?",
+    "pronunciationNote": "POH-soo en-vee-AR EE-soo on-LINE",
+    "grammarFocus": "asking about process",
+    "notes": "Useful for portals and forms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de vir c\u00e1, posso enviar isso online?",
+        "english": "Instead of coming here, can I send it online?"
+      }
+    ],
+    "tags": ["online", "submission", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-011",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What documents do I need?",
+    "portuguese": "Que documentos \u00e9 que preciso?",
+    "pronunciationNote": "k doh-koo-MEN-toosh eh k preh-SEE-zoo",
+    "grammarFocus": "asking about requirements",
+    "notes": "Useful in any admin process.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para fazer isto, que documentos \u00e9 que preciso?",
+        "english": "To do this, what documents do I need?"
+      }
+    ],
+    "tags": ["documents", "requirements", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-012",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not have that document with me.",
+    "portuguese": "N\u00e3o tenho esse documento comigo.",
+    "pronunciationNote": "nown TEN-yoo EH-s doh-koo-MEN-too kon-TEE-goo",
+    "grammarFocus": "explaining a problem",
+    "notes": "Useful in offices and appointments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, n\u00e3o tenho esse documento comigo hoje.",
+        "english": "Sorry, I do not have that document with me today."
+      }
+    ],
+    "tags": ["documents", "problem", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-013",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I bring it later?",
+    "portuguese": "Posso trazer isso mais tarde?",
+    "pronunciationNote": "POH-soo trah-ZAIR EE-soo mysh TAR-d",
+    "grammarFocus": "asking for an option",
+    "notes": "Useful when something is missing.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o o tenho agora. Posso trazer isso mais tarde?",
+        "english": "I do not have it now. Can I bring it later?"
+      }
+    ],
+    "tags": ["documents", "follow-up", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-014",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need proof of address.",
+    "portuguese": "Preciso de um comprovativo de morada.",
+    "pronunciationNote": "preh-SEE-zoo d oom kom-proh-vah-TEE-voo d moh-RAH-dah",
+    "grammarFocus": "expressing need",
+    "notes": "Common admin requirement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para abrir a conta, preciso de um comprovativo de morada.",
+        "english": "To open the account, I need proof of address."
+      }
+    ],
+    "tags": ["address", "proof", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-015",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need proof of income.",
+    "portuguese": "Preciso de um comprovativo de rendimentos.",
+    "pronunciationNote": "preh-SEE-zoo d oom kom-proh-vah-TEE-voo d rren-dee-MEN-toosh",
+    "grammarFocus": "expressing need",
+    "notes": "Common banking or rental phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para isto, preciso de um comprovativo de rendimentos.",
+        "english": "For this, I need proof of income."
+      }
+    ],
+    "tags": ["income", "proof", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-016",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to print this document.",
+    "portuguese": "Preciso de imprimir este documento.",
+    "pronunciationNote": "preh-SEE-zoo d eem-pree-MEER ESH-t doh-koo-MEN-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful before appointments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de sair, preciso de imprimir este documento.",
+        "english": "Before leaving, I need to print this document."
+      }
+    ],
+    "tags": ["print", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-017",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a stamped copy.",
+    "portuguese": "Preciso de uma c\u00f3pia carimbada.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah KOH-pee-ah kah-reem-BAH-dah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for official paperwork.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a escola, preciso de uma c\u00f3pia carimbada.",
+        "english": "For the school, I need a stamped copy."
+      }
+    ],
+    "tags": ["copies", "stamp", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-018",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you stamp this?",
+    "portuguese": "Pode carimbar isto?",
+    "pronunciationNote": "POH-deh kah-reem-BAR EESH-too",
+    "grammarFocus": "making a request",
+    "notes": "Useful at counters and offices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando puder, pode carimbar isto?",
+        "english": "When you can, can you stamp this?"
+      }
+    ],
+    "tags": ["stamp", "request", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-019",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do I need to sign every page?",
+    "portuguese": "Tenho de assinar todas as p\u00e1ginas?",
+    "pronunciationNote": "TEN-yoo d ah-see-NAR TOH-dash az PAH-zhee-nash",
+    "grammarFocus": "asking about procedure",
+    "notes": "Useful with contracts and forms.",
+    "exampleSentences": [
+      {
+        "portuguese": "S\u00f3 para confirmar, tenho de assinar todas as p\u00e1ginas?",
+        "english": "Just to confirm, do I need to sign every page?"
+      }
+    ],
+    "tags": ["signature", "procedure", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-020",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I made a mistake on the form.",
+    "portuguese": "Enganei-me no formul\u00e1rio.",
+    "pronunciationNote": "en-gah-NAY-m noo for-moo-LAH-ree-oo",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful when filling forms in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, enganei-me no formul\u00e1rio.",
+        "english": "Sorry, I made a mistake on the form."
+      }
+    ],
+    "tags": ["forms", "mistake", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-021",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I do this online?",
+    "portuguese": "Posso fazer isto online?",
+    "pronunciationNote": "POH-soo fah-ZAIR EESH-too on-LINE",
+    "grammarFocus": "asking about process",
+    "notes": "Useful for admin tasks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de voltar aqui, posso fazer isto online?",
+        "english": "Instead of coming back here, can I do this online?"
+      }
+    ],
+    "tags": ["online", "admin", "process"]
+  },
+  {
+    "id": "22-bda-a1a2-022",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a password for the portal.",
+    "portuguese": "Preciso de palavra-passe para o portal.",
+    "pronunciationNote": "preh-SEE-zoo d pah-LAHV-rah PAH-s PAH-rah oo por-TAL",
+    "grammarFocus": "expressing need",
+    "notes": "Useful with online systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para entrar, preciso de palavra-passe para o portal.",
+        "english": "To log in, I need a password for the portal."
+      }
+    ],
+    "tags": ["portal", "password", "online"]
+  },
+  {
+    "id": "22-bda-a1a2-023",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cannot log in.",
+    "portuguese": "N\u00e3o consigo entrar.",
+    "pronunciationNote": "nown kon-SEE-goo en-TRAR",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful for admin portals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tentei duas vezes, mas n\u00e3o consigo entrar.",
+        "english": "I tried twice, but I cannot log in."
+      }
+    ],
+    "tags": ["portal", "login", "problem"]
+  },
+  {
+    "id": "22-bda-a1a2-024",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need help with this application.",
+    "portuguese": "Preciso de ajuda com este pedido.",
+    "pronunciationNote": "preh-SEE-zoo d ah-ZHOO-dah kong ESH-t peh-DEE-doo",
+    "grammarFocus": "asking for help",
+    "notes": "Useful in admin processes.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o percebo esta parte. Preciso de ajuda com este pedido.",
+        "english": "I do not understand this part. I need help with this application."
+      }
+    ],
+    "tags": ["application", "help", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-025",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do I need to write here?",
+    "portuguese": "O que \u00e9 que tenho de escrever aqui?",
+    "pronunciationNote": "oo k eh k TEN-yoo d esh-kreh-VAIR ah-KEE",
+    "grammarFocus": "asking for guidance",
+    "notes": "Useful with forms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nesta caixa, o que \u00e9 que tenho de escrever aqui?",
+        "english": "In this box, what do I need to write here?"
+      }
+    ],
+    "tags": ["forms", "help", "writing"]
+  },
+  {
+    "id": "22-bda-a1a2-026",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you explain this part?",
+    "portuguese": "Pode explicar esta parte?",
+    "pronunciationNote": "POH-deh eks-plee-KAR ESH-tah PAR-t",
+    "grammarFocus": "asking for help",
+    "notes": "Useful in offices and banks.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o percebo bem. Pode explicar esta parte?",
+        "english": "I do not quite understand. Can you explain this part?"
+      }
+    ],
+    "tags": ["help", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-027",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to update my address.",
+    "portuguese": "Preciso de atualizar a minha morada.",
+    "pronunciationNote": "preh-SEE-zoo d ah-too-ah-lee-ZAR ah MEE-nyah moh-RAH-dah",
+    "grammarFocus": "expressing need",
+    "notes": "Common admin task.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mudei de casa e preciso de atualizar a minha morada.",
+        "english": "I moved house and I need to update my address."
+      }
+    ],
+    "tags": ["address", "update", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-028",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I changed my phone number.",
+    "portuguese": "Mudei de n\u00famero de telem\u00f3vel.",
+    "pronunciationNote": "moo-DAY d NOO-meh-roo d تہ-leh-MOH-vel",
+    "grammarFocus": "giving information",
+    "notes": "Useful for updating records.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se precisar, mudei de n\u00famero de telem\u00f3vel.",
+        "english": "If necessary, I changed my phone number."
+      }
+    ],
+    "tags": ["phone number", "update", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-029",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a receipt.",
+    "portuguese": "Preciso de um comprovativo.",
+    "pronunciationNote": "preh-SEE-zoo d oom kom-proh-vah-TEE-voo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful after payments or submissions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de pagar, preciso de um comprovativo.",
+        "english": "After paying, I need a receipt."
+      }
+    ],
+    "tags": ["receipt", "proof", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-030",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you give me a receipt?",
+    "portuguese": "Pode dar-me um comprovativo?",
+    "pronunciationNote": "POH-deh dar-m oom kom-proh-vah-TEE-voo",
+    "grammarFocus": "making a request",
+    "notes": "Useful at counters and offices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para guardar, pode dar-me um comprovativo?",
+        "english": "To keep for my records, can you give me a receipt?"
+      }
+    ],
+    "tags": ["receipt", "request", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-031",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am waiting for confirmation.",
+    "portuguese": "Estou \u00e0 espera de confirma\u00e7\u00e3o.",
+    "pronunciationNote": "esh-TOH ah esh-PEH-rah d kon-feer-mah-SOWN",
+    "grammarFocus": "talking about current status",
+    "notes": "Useful for applications and bookings.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 fiz o pedido. Agora estou \u00e0 espera de confirma\u00e7\u00e3o.",
+        "english": "I already made the request. Now I am waiting for confirmation."
+      }
+    ],
+    "tags": ["confirmation", "status", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-032",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have not received anything yet.",
+    "portuguese": "Ainda n\u00e3o recebi nada.",
+    "pronunciationNote": "een-DAH nown rreh-seh-BEE NAH-dah",
+    "grammarFocus": "talking about status",
+    "notes": "Useful for follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Verifiquei o email e ainda n\u00e3o recebi nada.",
+        "english": "I checked my email and I have not received anything yet."
+      }
+    ],
+    "tags": ["follow-up", "status", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-033",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to pay this fee.",
+    "portuguese": "Preciso de pagar esta taxa.",
+    "pronunciationNote": "preh-SEE-zoo d pah-GAR ESH-tah TAH-shah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful in official procedures.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de continuar, preciso de pagar esta taxa.",
+        "english": "Before continuing, I need to pay this fee."
+      }
+    ],
+    "tags": ["fees", "payments", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-034",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where do I pay?",
+    "portuguese": "Onde \u00e9 que pago?",
+    "pronunciationNote": "ON-d eh k PAH-goo",
+    "grammarFocus": "asking about procedure",
+    "notes": "Useful at service counters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para terminar isto, onde \u00e9 que pago?",
+        "english": "To finish this, where do I pay?"
+      }
+    ],
+    "tags": ["payments", "procedure", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-035",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cart\u00e3o?",
+    "pronunciationNote": "POH-soo pah-GAR kong kar-TOWN",
+    "grammarFocus": "asking about payment method",
+    "notes": "Useful in offices and services.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar com cart\u00e3o ou s\u00f3 em dinheiro?",
+        "english": "Can I pay by card or only in cash?"
+      }
+    ],
+    "tags": ["payments", "card", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-036",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to go to another office.",
+    "portuguese": "Preciso de ir a outro balc\u00e3o.",
+    "pronunciationNote": "preh-SEE-zoo d eer ah OH-troo bal-KOWN",
+    "grammarFocus": "talking about procedure",
+    "notes": "Useful in multi-step admin buildings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Disseram-me que preciso de ir a outro balc\u00e3o.",
+        "english": "They told me I need to go to another desk."
+      }
+    ],
+    "tags": ["office", "procedure", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-037",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Which office do I need?",
+    "portuguese": "De que balc\u00e3o preciso?",
+    "pronunciationNote": "d k bal-KOWN preh-SEE-zoo",
+    "grammarFocus": "asking for direction",
+    "notes": "Useful in public service buildings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para tratar disto, de que balc\u00e3o preciso?",
+        "english": "To deal with this, which desk do I need?"
+      }
+    ],
+    "tags": ["office", "directions", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-038",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to take a number.",
+    "portuguese": "Preciso de tirar uma senha.",
+    "pronunciationNote": "preh-SEE-zoo d tee-RAR OO-mah SEN-yah",
+    "grammarFocus": "talking about procedure",
+    "notes": "Useful in waiting systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de esperar, preciso de tirar uma senha.",
+        "english": "Before waiting, I need to take a number."
+      }
+    ],
+    "tags": ["queue", "waiting", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-039",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My number has not come up yet.",
+    "portuguese": "Ainda n\u00e3o chamaram o meu n\u00famero.",
+    "pronunciationNote": "een-DAH nown shah-MAH-rang oo may-oo NOO-meh-roo",
+    "grammarFocus": "talking about status",
+    "notes": "Useful in waiting rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou \u00e0 espera. Ainda n\u00e3o chamaram o meu n\u00famero.",
+        "english": "I am waiting. They have not called my number yet."
+      }
+    ],
+    "tags": ["waiting", "queue", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-040",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to renew this document.",
+    "portuguese": "Preciso de renovar este documento.",
+    "pronunciationNote": "preh-SEE-zoo d rreh-noh-VAR ESH-t doh-koo-MEN-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for IDs, permits, and cards.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este m\u00eas, preciso de renovar este documento.",
+        "english": "This month, I need to renew this document."
+      }
+    ],
+    "tags": ["renewal", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-041",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It has expired.",
+    "portuguese": "J\u00e1 caducou.",
+    "pronunciationNote": "zhah kah-doo-KOH",
+    "grammarFocus": "talking about status",
+    "notes": "Useful for documents and cards.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o posso usar isto. J\u00e1 caducou.",
+        "english": "I cannot use this. It has expired."
+      }
+    ],
+    "tags": ["expired", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-042",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This needs to be updated.",
+    "portuguese": "Isto precisa de ser atualizado.",
+    "pronunciationNote": "EESH-too preh-SEE-zah d sair ah-too-ah-lee-ZAH-doo",
+    "grammarFocus": "describing what is needed",
+    "notes": "Useful for records and documents.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha morada mudou. Isto precisa de ser atualizado.",
+        "english": "My address changed. This needs to be updated."
+      }
+    ],
+    "tags": ["update", "records", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-043",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I come back tomorrow?",
+    "portuguese": "Posso voltar amanh\u00e3?",
+    "pronunciationNote": "POH-soo vol-TAR ah-ma-NYAN",
+    "grammarFocus": "asking about an option",
+    "notes": "Useful when a process is incomplete.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje n\u00e3o tenho tudo. Posso voltar amanh\u00e3?",
+        "english": "I do not have everything today. Can I come back tomorrow?"
+      }
+    ],
+    "tags": ["follow-up", "appointments", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-044",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time do you open?",
+    "portuguese": "A que horas abrem?",
+    "pronunciationNote": "ah k OR-ash AH-brem",
+    "grammarFocus": "asking about opening times",
+    "notes": "Useful for public offices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para vir cedo, a que horas abrem?",
+        "english": "To come early, what time do you open?"
+      }
+    ],
+    "tags": ["opening hours", "offices", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-045",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time do you close?",
+    "portuguese": "A que horas fecham?",
+    "pronunciationNote": "ah k OR-ash FEH-sham",
+    "grammarFocus": "asking about closing times",
+    "notes": "Useful for planning visits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu vier \u00e0 tarde, a que horas fecham?",
+        "english": "If I come in the afternoon, what time do you close?"
+      }
+    ],
+    "tags": ["opening hours", "offices", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-046",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a translation of this document.",
+    "portuguese": "Preciso de uma tradu\u00e7\u00e3o deste documento.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah trah-doo-SOWN DESH-t doh-koo-MEN-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for international paperwork.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para entregar isto, preciso de uma tradu\u00e7\u00e3o deste documento.",
+        "english": "To submit this, I need a translation of this document."
+      }
+    ],
+    "tags": ["translation", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-047",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need an official translation.",
+    "portuguese": "Preciso de uma tradu\u00e7\u00e3o oficial.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah trah-doo-SOWN oh-fee-see-AL",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for formal procedures.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o serve qualquer uma. Preciso de uma tradu\u00e7\u00e3o oficial.",
+        "english": "Any translation will not do. I need an official translation."
+      }
+    ],
+    "tags": ["translation", "official", "documents"]
+  },
+  {
+    "id": "22-bda-a1a2-048",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you write that down for me?",
+    "portuguese": "Pode escrever isso para mim?",
+    "pronunciationNote": "POH-deh esh-kreh-VAIR EE-soo PAH-rah meeng",
+    "grammarFocus": "asking for help",
+    "notes": "Useful when information is spoken too fast.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para eu n\u00e3o me esquecer, pode escrever isso para mim?",
+        "english": "So I do not forget, can you write that down for me?"
+      }
+    ],
+    "tags": ["help", "notes", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-049",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need the reference number.",
+    "portuguese": "Preciso do n\u00famero de refer\u00eancia.",
+    "pronunciationNote": "preh-SEE-zoo doo NOO-meh-roo d rreh-feh-REN-see-ah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful in follow-up calls and emails.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para acompanhar o processo, preciso do n\u00famero de refer\u00eancia.",
+        "english": "To track the process, I need the reference number."
+      }
+    ],
+    "tags": ["reference number", "follow-up", "admin"]
+  },
+  {
+    "id": "22-bda-a1a2-050",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think everything is ready now.",
+    "portuguese": "Acho que agora est\u00e1 tudo pronto.",
+    "pronunciationNote": "AH-shoo k ah-GOH-rah esh-TAH TOO-doo PRON-too",
+    "grammarFocus": "confirming completion",
+    "notes": "Useful at the end of a process.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 assinei e entreguei. Acho que agora est\u00e1 tudo pronto.",
+        "english": "I have already signed and handed it in. I think everything is ready now."
+      }
+    ],
+    "tags": ["completion", "admin", "documents"]
+  }
+]

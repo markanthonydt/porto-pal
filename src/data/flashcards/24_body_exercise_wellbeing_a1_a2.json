@@ -1,0 +1,952 @@
+[
+  {
+    "id": "24-bew-a1a2-001",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am tired.",
+    "portuguese": "Estou cansado.",
+    "pronunciationNote": "esh-TOH kan-SAH-doo",
+    "grammarFocus": "describing physical state",
+    "notes": "Basic phrase for everyday wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou cansado depois do trabalho.",
+        "english": "Today I am tired after work."
+      }
+    ],
+    "tags": ["body", "wellbeing", "feelings"]
+  },
+  {
+    "id": "24-bew-a1a2-002",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am full of energy today.",
+    "portuguese": "Hoje estou cheio de energia.",
+    "pronunciationNote": "OH-zheh esh-TOH SHAY-oo d eh-nehr-ZHEE-ah",
+    "grammarFocus": "describing physical state",
+    "notes": "Useful for talking about how you feel.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dormi bem, por isso hoje estou cheio de energia.",
+        "english": "I slept well, so today I am full of energy."
+      }
+    ],
+    "tags": ["energy", "wellbeing", "feelings"]
+  },
+  {
+    "id": "24-bew-a1a2-003",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My legs hurt.",
+    "portuguese": "Doem-me as pernas.",
+    "pronunciationNote": "DOH-eng-m az PAIR-nash",
+    "grammarFocus": "expressing pain",
+    "notes": "Useful after exercise or walking.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois da caminhada, doem-me as pernas.",
+        "english": "After the walk, my legs hurt."
+      }
+    ],
+    "tags": ["body", "pain", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-004",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My back hurts.",
+    "portuguese": "D\u00f3i-me as costas.",
+    "pronunciationNote": "DOY-m ash KOHS-tash",
+    "grammarFocus": "expressing pain",
+    "notes": "Useful for general physical discomfort.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje d\u00f3i-me as costas por causa da cadeira.",
+        "english": "Today my back hurts because of the chair."
+      }
+    ],
+    "tags": ["body", "pain", "back"]
+  },
+  {
+    "id": "24-bew-a1a2-005",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to rest.",
+    "portuguese": "Preciso de descansar.",
+    "pronunciationNote": "preh-SEE-zoo d desh-kan-SAR",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for general wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de descansar um pouco.",
+        "english": "Today I need to rest a little."
+      }
+    ],
+    "tags": ["rest", "wellbeing", "routine"]
+  },
+  {
+    "id": "24-bew-a1a2-006",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to sleep more.",
+    "portuguese": "Preciso de dormir mais.",
+    "pronunciationNote": "preh-SEE-zoo d door-MEER mysh",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for everyday health talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho andado cansado e preciso de dormir mais.",
+        "english": "I have been tired and I need to sleep more."
+      }
+    ],
+    "tags": ["sleep", "wellbeing", "health"]
+  },
+  {
+    "id": "24-bew-a1a2-007",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Did you sleep well?",
+    "portuguese": "Dormiste bem?",
+    "pronunciationNote": "door-MEESH-t behng",
+    "grammarFocus": "asking about sleep",
+    "notes": "Informal everyday phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje pareces bem-disposto. Dormiste bem?",
+        "english": "You seem in a good mood today. Did you sleep well?"
+      }
+    ],
+    "tags": ["sleep", "questions", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-008",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I slept badly.",
+    "portuguese": "Dormi mal.",
+    "pronunciationNote": "door-MEE mahl",
+    "grammarFocus": "past tense statement",
+    "notes": "Useful for talking about sleep quality.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acordei muitas vezes e dormi mal.",
+        "english": "I woke up many times and slept badly."
+      }
+    ],
+    "tags": ["sleep", "past", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-009",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel better after walking.",
+    "portuguese": "Sinto-me melhor depois de caminhar.",
+    "pronunciationNote": "SEEN-too-m meh-LYOR deh-POYSH d kah-mee-NYAR",
+    "grammarFocus": "reflexive verb sentir-se",
+    "notes": "Useful for wellbeing habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que seja pouco, sinto-me melhor depois de caminhar.",
+        "english": "Even if it is only a little, I feel better after walking."
+      }
+    ],
+    "tags": ["walking", "wellbeing", "habits"]
+  },
+  {
+    "id": "24-bew-a1a2-010",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to the gym twice a week.",
+    "portuguese": "Vou ao gin\u00e1sio duas vezes por semana.",
+    "pronunciationNote": "VOH ow zhee-NAH-see-oo DOO-ash VAY-zesh poor seh-MAH-nah",
+    "grammarFocus": "talking about routine",
+    "notes": "Useful for exercise habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente vou ao gin\u00e1sio duas vezes por semana.",
+        "english": "I normally go to the gym twice a week."
+      }
+    ],
+    "tags": ["gym", "routine", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-011",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to get back into shape.",
+    "portuguese": "Quero voltar \u00e0 forma.",
+    "pronunciationNote": "KEH-roo vol-TAR ah FOR-mah",
+    "grammarFocus": "expressing goals",
+    "notes": "Common phrase for fitness goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois das f\u00e9rias, quero voltar \u00e0 forma.",
+        "english": "After the holidays, I want to get back into shape."
+      }
+    ],
+    "tags": ["fitness", "goals", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-012",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to stretch.",
+    "portuguese": "Preciso de alongar.",
+    "pronunciationNote": "preh-SEE-zoo d ah-lon-GAR",
+    "grammarFocus": "expressing need",
+    "notes": "Useful before or after exercise.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de correr, preciso de alongar.",
+        "english": "Before running, I need to stretch."
+      }
+    ],
+    "tags": ["stretching", "exercise", "routine"]
+  },
+  {
+    "id": "24-bew-a1a2-013",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going for a run.",
+    "portuguese": "Vou correr.",
+    "pronunciationNote": "VOH koh-RRER",
+    "grammarFocus": "near future intention",
+    "notes": "Simple exercise phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o chover, vou correr daqui a pouco.",
+        "english": "If it does not rain, I am going for a run shortly."
+      }
+    ],
+    "tags": ["running", "exercise", "plans"]
+  },
+  {
+    "id": "24-bew-a1a2-014",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer walking to running.",
+    "portuguese": "Prefiro caminhar a correr.",
+    "pronunciationNote": "preh-FEE-roo kah-mee-NYAR ah koh-RRER",
+    "grammarFocus": "expressing preference",
+    "notes": "Useful for talking about exercise choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, prefiro caminhar a correr.",
+        "english": "For me, I prefer walking to running."
+      }
+    ],
+    "tags": ["preferences", "exercise", "walking"]
+  },
+  {
+    "id": "24-bew-a1a2-015",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to drink more water.",
+    "portuguese": "Preciso de beber mais \u00e1gua.",
+    "pronunciationNote": "preh-SEE-zoo d beh-BER mysh AH-gwah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for health habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este calor, preciso de beber mais \u00e1gua.",
+        "english": "With this heat, I need to drink more water."
+      }
+    ],
+    "tags": ["water", "hydration", "health"]
+  },
+  {
+    "id": "24-bew-a1a2-016",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am thirsty.",
+    "portuguese": "Tenho sede.",
+    "pronunciationNote": "TEN-yoo SEH-d",
+    "grammarFocus": "physical need expression",
+    "notes": "Basic body need phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do treino, tenho sede.",
+        "english": "After training, I am thirsty."
+      }
+    ],
+    "tags": ["body", "needs", "hydration"]
+  },
+  {
+    "id": "24-bew-a1a2-017",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am hungry.",
+    "portuguese": "Tenho fome.",
+    "pronunciationNote": "TEN-yoo FOH-m",
+    "grammarFocus": "physical need expression",
+    "notes": "Basic body need phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do exerc\u00edcio, tenho fome.",
+        "english": "After exercise, I am hungry."
+      }
+    ],
+    "tags": ["body", "needs", "food"]
+  },
+  {
+    "id": "24-bew-a1a2-018",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am trying to eat better.",
+    "portuguese": "Estou a tentar comer melhor.",
+    "pronunciationNote": "esh-TOH ah ten-TAR koh-MER meh-LYOR",
+    "grammarFocus": "present continuous with estar a",
+    "notes": "Useful for health goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este m\u00eas estou a tentar comer melhor.",
+        "english": "This month I am trying to eat better."
+      }
+    ],
+    "tags": ["food", "health", "goals"]
+  },
+  {
+    "id": "24-bew-a1a2-019",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I eat too quickly.",
+    "portuguese": "Como depressa demais.",
+    "pronunciationNote": "KOH-moo deh-PREH-sah deh-MYSH",
+    "grammarFocus": "describing a habit",
+    "notes": "Useful for talking about habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho de mudar isso porque como depressa demais.",
+        "english": "I have to change that because I eat too quickly."
+      }
+    ],
+    "tags": ["habits", "food", "routine"]
+  },
+  {
+    "id": "24-bew-a1a2-020",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a break.",
+    "portuguese": "Preciso de uma pausa.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah POW-zah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for work, exercise, and wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho estado muito tempo sentado. Preciso de uma pausa.",
+        "english": "I have been sitting for a long time. I need a break."
+      }
+    ],
+    "tags": ["break", "wellbeing", "routine"]
+  },
+  {
+    "id": "24-bew-a1a2-021",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I sit too much during the day.",
+    "portuguese": "Sento-me demasiado durante o dia.",
+    "pronunciationNote": "SEN-too-m deh-mah-ZYAH-doo door-AN-t oo DEE-ah",
+    "grammarFocus": "reflexive verb in daily routine",
+    "notes": "Useful for talking about activity levels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como trabalho ao computador, sento-me demasiado durante o dia.",
+        "english": "Since I work on the computer, I sit too much during the day."
+      }
+    ],
+    "tags": ["sitting", "routine", "activity"]
+  },
+  {
+    "id": "24-bew-a1a2-022",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to move more.",
+    "portuguese": "Quero mexer-me mais.",
+    "pronunciationNote": "KEH-roo meh-SHAIR-m mysh",
+    "grammarFocus": "reflexive infinitive",
+    "notes": "Natural phrase for being more active.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este trabalho, quero mexer-me mais.",
+        "english": "With this job, I want to move more."
+      }
+    ],
+    "tags": ["activity", "goals", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-023",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel stressed.",
+    "portuguese": "Sinto-me stressado.",
+    "pronunciationNote": "SEEN-too-m streh-SAH-doo",
+    "grammarFocus": "reflexive verb sentir-se",
+    "notes": "Common wellbeing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta semana sinto-me stressado.",
+        "english": "This week I feel stressed."
+      }
+    ],
+    "tags": ["stress", "wellbeing", "feelings"]
+  },
+  {
+    "id": "24-bew-a1a2-024",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to slow down.",
+    "portuguese": "Preciso de abrandar.",
+    "pronunciationNote": "preh-SEE-zoo d ah-bran-DAR",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for stress and wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho feito demasiadas coisas. Preciso de abrandar.",
+        "english": "I have been doing too many things. I need to slow down."
+      }
+    ],
+    "tags": ["stress", "rest", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-025",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am trying to relax.",
+    "portuguese": "Estou a tentar relaxar.",
+    "pronunciationNote": "esh-TOH ah ten-TAR rreh-lak-SHAR",
+    "grammarFocus": "present continuous with estar a",
+    "notes": "Useful for everyday wellbeing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje \u00e0 noite estou a tentar relaxar em casa.",
+        "english": "Tonight I am trying to relax at home."
+      }
+    ],
+    "tags": ["relaxation", "wellbeing", "stress"]
+  },
+  {
+    "id": "24-bew-a1a2-026",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A short walk helps me.",
+    "portuguese": "Uma caminhada curta ajuda-me.",
+    "pronunciationNote": "OO-mah kah-mee-NYAH-dah KOOR-tah ah-ZHOO-dah-m",
+    "grammarFocus": "object pronoun with verb",
+    "notes": "Useful for simple wellbeing talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando estou cansado, uma caminhada curta ajuda-me.",
+        "english": "When I am tired, a short walk helps me."
+      }
+    ],
+    "tags": ["walking", "wellbeing", "habits"]
+  },
+  {
+    "id": "24-bew-a1a2-027",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like doing yoga.",
+    "portuguese": "Gosto de fazer ioga.",
+    "pronunciationNote": "GOH-shtoo d fah-ZAIR YOH-gah",
+    "grammarFocus": "gostar de + infinitive",
+    "notes": "Useful for exercise preferences.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para relaxar, gosto de fazer ioga.",
+        "english": "To relax, I like doing yoga."
+      }
+    ],
+    "tags": ["yoga", "preferences", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-028",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer exercising in the morning.",
+    "portuguese": "Prefiro fazer exerc\u00edcio de manh\u00e3.",
+    "pronunciationNote": "preh-FEE-roo fah-ZAIR eh-zehr-SEE-see-oo d mah-NYAN",
+    "grammarFocus": "expressing preference",
+    "notes": "Useful for talking about routine.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho mais energia, por isso prefiro fazer exerc\u00edcio de manh\u00e3.",
+        "english": "I have more energy, so I prefer exercising in the morning."
+      }
+    ],
+    "tags": ["exercise", "routine", "preferences"]
+  },
+  {
+    "id": "24-bew-a1a2-029",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not feel like training today.",
+    "portuguese": "Hoje n\u00e3o me apetece treinar.",
+    "pronunciationNote": "OH-zheh nown m ah-peh-TEH-s trey-NAR",
+    "grammarFocus": "apetecer construction",
+    "notes": "Useful for talking about motivation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou cansado e hoje n\u00e3o me apetece treinar.",
+        "english": "I am tired and today I do not feel like training."
+      }
+    ],
+    "tags": ["motivation", "training", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-030",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel better when I move.",
+    "portuguese": "Sinto-me melhor quando me mexo.",
+    "pronunciationNote": "SEEN-too-m meh-LYOR KWAN-doo m MEH-shoo",
+    "grammarFocus": "reflexive verb in subordinate clause",
+    "notes": "Useful for talking about activity and mood.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que seja pouco, sinto-me melhor quando me mexo.",
+        "english": "Even if it is only a little, I feel better when I move."
+      }
+    ],
+    "tags": ["movement", "wellbeing", "mood"]
+  },
+  {
+    "id": "24-bew-a1a2-031",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am sore after yesterday.",
+    "portuguese": "Estou dorido de ontem.",
+    "pronunciationNote": "esh-TOH doh-REE-doo d ON-teng",
+    "grammarFocus": "describing physical aftermath",
+    "notes": "Useful after training.",
+    "exampleSentences": [
+      {
+        "portuguese": "Treinei muito e hoje estou dorido de ontem.",
+        "english": "I trained a lot and today I am sore from yesterday."
+      }
+    ],
+    "tags": ["soreness", "exercise", "body"]
+  },
+  {
+    "id": "24-bew-a1a2-032",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need an easier workout today.",
+    "portuguese": "Hoje preciso de um treino mais leve.",
+    "pronunciationNote": "OH-zheh preh-SEE-zoo d oom TRAY-noo mysh LEH-v",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for adjusting exercise intensity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como estou cansado, hoje preciso de um treino mais leve.",
+        "english": "Since I am tired, today I need an easier workout."
+      }
+    ],
+    "tags": ["training", "intensity", "exercise"]
+  },
+  {
+    "id": "24-bew-a1a2-033",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to be more consistent.",
+    "portuguese": "Quero ser mais consistente.",
+    "pronunciationNote": "KEH-roo sair mysh kon-seesh-TEN-t",
+    "grammarFocus": "expressing goals",
+    "notes": "Useful for habits and training.",
+    "exampleSentences": [
+      {
+        "portuguese": "No pr\u00f3ximo m\u00eas quero ser mais consistente.",
+        "english": "Next month I want to be more consistent."
+      }
+    ],
+    "tags": ["goals", "consistency", "habits"]
+  },
+  {
+    "id": "24-bew-a1a2-034",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I missed training this week.",
+    "portuguese": "Falhei o treino esta semana.",
+    "pronunciationNote": "fal-YAY oo TRAY-noo ESH-tah seh-MAH-nah",
+    "grammarFocus": "past tense statement",
+    "notes": "Useful for talking about routine breaks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com muito trabalho, falhei o treino esta semana.",
+        "english": "With a lot of work, I missed training this week."
+      }
+    ],
+    "tags": ["training", "routine", "past"]
+  },
+  {
+    "id": "24-bew-a1a2-035",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to start again next week.",
+    "portuguese": "Quero recome\u00e7ar na pr\u00f3xima semana.",
+    "pronunciationNote": "KEH-roo rreh-koh-meh-SAR nah PROH-see-mah seh-MAH-nah",
+    "grammarFocus": "future intention",
+    "notes": "Useful for restarting a habit.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta semana foi dif\u00edcil, mas quero recome\u00e7ar na pr\u00f3xima semana.",
+        "english": "This week was difficult, but I want to start again next week."
+      }
+    ],
+    "tags": ["goals", "routine", "restart"]
+  },
+  {
+    "id": "24-bew-a1a2-036",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I usually feel better after exercise.",
+    "portuguese": "Normalmente sinto-me melhor depois do exerc\u00edcio.",
+    "pronunciationNote": "nor-mal-MEN-t SEEN-too-m meh-LYOR deh-POYSH doo eh-zehr-SEE-see-oo",
+    "grammarFocus": "habitual action",
+    "notes": "Useful for talking about exercise effects.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que custe come\u00e7ar, normalmente sinto-me melhor depois do exerc\u00edcio.",
+        "english": "Even if it is hard to start, I usually feel better after exercise."
+      }
+    ],
+    "tags": ["exercise", "wellbeing", "habits"]
+  },
+  {
+    "id": "24-bew-a1a2-037",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need fresh air.",
+    "portuguese": "Preciso de ar fresco.",
+    "pronunciationNote": "preh-SEE-zoo d ar FRESH-koo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for wellbeing and mood.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estive muito tempo dentro de casa. Preciso de ar fresco.",
+        "english": "I was indoors for too long. I need fresh air."
+      }
+    ],
+    "tags": ["fresh air", "wellbeing", "mood"]
+  },
+  {
+    "id": "24-bew-a1a2-038",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going for a walk.",
+    "portuguese": "Vou dar uma volta.",
+    "pronunciationNote": "VOH dar OO-mah VOL-tah",
+    "grammarFocus": "near future intention",
+    "notes": "Very natural phrase for going out for a walk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para espairecer, vou dar uma volta.",
+        "english": "To clear my head, I am going for a walk."
+      }
+    ],
+    "tags": ["walking", "wellbeing", "plans"]
+  },
+  {
+    "id": "24-bew-a1a2-039",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel stiff today.",
+    "portuguese": "Hoje sinto-me preso.",
+    "pronunciationNote": "OH-zheh SEEN-too-m PREH-zoo",
+    "grammarFocus": "reflexive verb sentir-se",
+    "notes": "Useful for muscle stiffness.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de estar muito tempo sentado, hoje sinto-me preso.",
+        "english": "After sitting for a long time, today I feel stiff."
+      }
+    ],
+    "tags": ["stiffness", "body", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-040",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to move my body.",
+    "portuguese": "Preciso de mexer o corpo.",
+    "pronunciationNote": "preh-SEE-zoo d meh-SHAIR oo KOR-poo",
+    "grammarFocus": "expressing need",
+    "notes": "Simple wellbeing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de tantas horas aqui, preciso de mexer o corpo.",
+        "english": "After so many hours here, I need to move my body."
+      }
+    ],
+    "tags": ["movement", "body", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-041",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to feel stronger.",
+    "portuguese": "Quero sentir-me mais forte.",
+    "pronunciationNote": "KEH-roo sen-TEER-m mysh FOR-t",
+    "grammarFocus": "reflexive infinitive",
+    "notes": "Useful for fitness goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este ano quero sentir-me mais forte.",
+        "english": "This year I want to feel stronger."
+      }
+    ],
+    "tags": ["strength", "goals", "fitness"]
+  },
+  {
+    "id": "24-bew-a1a2-042",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not want to overdo it.",
+    "portuguese": "N\u00e3o quero exagerar.",
+    "pronunciationNote": "nown KEH-roo eh-zhah-zheh-RAR",
+    "grammarFocus": "negative intention",
+    "notes": "Useful when talking about pacing yourself.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje vou treinar, mas n\u00e3o quero exagerar.",
+        "english": "Today I am going to train, but I do not want to overdo it."
+      }
+    ],
+    "tags": ["exercise", "pacing", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-043",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a slower pace.",
+    "portuguese": "Preciso de um ritmo mais calmo.",
+    "pronunciationNote": "preh-SEE-zoo d oom REET-moo mysh KAL-moo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful in exercise classes and walks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de um ritmo mais calmo.",
+        "english": "Today I need a slower pace."
+      }
+    ],
+    "tags": ["pace", "exercise", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-044",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel calm after stretching.",
+    "portuguese": "Sinto-me calmo depois de alongar.",
+    "pronunciationNote": "SEEN-too-m KAL-moo deh-POYSH d ah-lon-GAR",
+    "grammarFocus": "reflexive verb sentir-se",
+    "notes": "Useful for talking about recovery.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim do dia, sinto-me calmo depois de alongar.",
+        "english": "At the end of the day, I feel calm after stretching."
+      }
+    ],
+    "tags": ["stretching", "calm", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-045",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I breathe better outside.",
+    "portuguese": "Respiro melhor l\u00e1 fora.",
+    "pronunciationNote": "rresh-PEE-roo meh-LYOR lah FOR-ah",
+    "grammarFocus": "present tense statement",
+    "notes": "Useful for talking about being outdoors.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando estou no parque, respiro melhor l\u00e1 fora.",
+        "english": "When I am in the park, I breathe better outside."
+      }
+    ],
+    "tags": ["breathing", "outdoors", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-046",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to take better care of myself.",
+    "portuguese": "Quero cuidar melhor de mim.",
+    "pronunciationNote": "KEH-roo koo-ee-DAR meh-LYOR d meeng",
+    "grammarFocus": "cuidar de + pronoun",
+    "notes": "Useful for general wellbeing goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este ano quero cuidar melhor de mim.",
+        "english": "This year I want to take better care of myself."
+      }
+    ],
+    "tags": ["self-care", "goals", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-047",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel heavy after eating too much.",
+    "portuguese": "Sinto-me pesado depois de comer demais.",
+    "pronunciationNote": "SEEN-too-m peh-ZAH-doo deh-POYSH d koh-MER deh-MYSH",
+    "grammarFocus": "reflexive verb sentir-se",
+    "notes": "Useful for talking about how food makes you feel.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao almo\u00e7o exagerei e sinto-me pesado depois de comer demais.",
+        "english": "At lunch I overdid it and I feel heavy after eating too much."
+      }
+    ],
+    "tags": ["food", "body", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-048",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A lighter meal is better for me.",
+    "portuguese": "Uma refei\u00e7\u00e3o mais leve faz-me melhor.",
+    "pronunciationNote": "OO-mah rreh-fay-SOWN mysh LEH-v faz-m meh-LYOR",
+    "grammarFocus": "faz-me construction",
+    "notes": "Useful for simple nutrition talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "\u00c0 noite, uma refei\u00e7\u00e3o mais leve faz-me melhor.",
+        "english": "At night, a lighter meal is better for me."
+      }
+    ],
+    "tags": ["food", "nutrition", "wellbeing"]
+  },
+  {
+    "id": "24-bew-a1a2-049",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to switch off for a while.",
+    "portuguese": "Preciso de desligar um bocado.",
+    "pronunciationNote": "preh-SEE-zoo d dezh-lee-GAR oom boh-KAH-doo",
+    "grammarFocus": "expressing need",
+    "notes": "Natural phrase for needing a mental break.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois deste dia, preciso de desligar um bocado.",
+        "english": "After this day, I need to switch off for a while."
+      }
+    ],
+    "tags": ["mental wellbeing", "rest", "stress"]
+  },
+  {
+    "id": "24-bew-a1a2-050",
+    "subject": "Body, Exercise & Wellbeing",
+    "subjectId": "body-exercise-wellbeing",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A good routine helps a lot.",
+    "portuguese": "Uma boa rotina ajuda muito.",
+    "pronunciationNote": "OO-mah BOH-ah rroh-TEE-nah ah-ZHOO-dah MOO-too",
+    "grammarFocus": "present tense statement",
+    "notes": "Useful for summarising healthy habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, uma boa rotina ajuda muito.",
+        "english": "For me, a good routine helps a lot."
+      }
+    ],
+    "tags": ["routine", "habits", "wellbeing"]
+  }
+]

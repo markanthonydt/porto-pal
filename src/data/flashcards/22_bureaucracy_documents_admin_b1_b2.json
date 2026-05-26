@@ -1,0 +1,952 @@
+[
+  {
+    "id": "22-bda-b1b2-001",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What usually makes bureaucratic processes exhausting is not one difficult step, but the accumulation of unclear small ones.",
+    "portuguese": "O que costuma tornar os processos burocr\u00e1ticos cansativos n\u00e3o \u00e9 um passo dif\u00edcil, mas a acumula\u00e7\u00e3o de passos pequenos pouco claros.",
+    "pronunciationNote": "oo k koosh-TOO-mah tor-NAR oosh proh-SEH-soosh boo-roh-KRAH-tee-koosh kan-sah-TEE-voosh nown eh oom PAH-soo dee-FEE-seel, mahz ah ah-koo-moo-lah-SOWN d PAH-soosh peh-KEH-noosh POH-koo KLAH-roosh",
+    "grammarFocus": "describing systemic frustration",
+    "notes": "Useful in admin complaints and discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Cada coisa isolada parece simples, mas juntas roubam imenso tempo e energia.",
+        "english": "Each thing on its own seems simple, but together they steal a huge amount of time and energy."
+      }
+    ],
+    "tags": ["bureaucracy", "process", "frustration"]
+  },
+  {
+    "id": "22-bda-b1b2-002",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind procedures being thorough if the logic is visible and the instructions are consistent.",
+    "portuguese": "N\u00e3o me importo que os procedimentos sejam rigorosos se a l\u00f3gica for vis\u00edvel e as instru\u00e7\u00f5es forem consistentes.",
+    "pronunciationNote": "nown m eem-POR-too k oosh proh-seh-dee-MEN-toosh ZHAY-ang rree-goo-ROH-soosh s ah LOH-zhee-kah for vee-ZEE-vel ee az eenstroo-SOINSH FOR-eng kon-seesh-TEN-tesh",
+    "grammarFocus": "setting conditions",
+    "notes": "Useful in formal discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "O problema n\u00e3o \u00e9 a exig\u00eancia; \u00e9 quando cada pessoa d\u00e1 uma vers\u00e3o diferente.",
+        "english": "The problem is not the strictness; it is when each person gives a different version."
+      }
+    ],
+    "tags": ["procedures", "logic", "instructions"]
+  },
+  {
+    "id": "22-bda-b1b2-003",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you confirm exactly which documents are mandatory and which are only supporting material?",
+    "portuguese": "Podia confirmar exatamente quais s\u00e3o os documentos obrigat\u00f3rios e quais s\u00e3o apenas material de apoio?",
+    "pronunciationNote": "poh-DEE-ah kon-feer-MAR eh-zak-tah-MEN-t KWAISH sown oosh doh-koo-MEN-toosh ob-ree-gah-TOH-ree-oosh ee KWAISH sown ah-PEH-nash mah-teh-ree-AL d ah-POI-oo",
+    "grammarFocus": "asking for precise clarification",
+    "notes": "Useful in formal admin interactions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero evitar atrasos por trazer coisas a mais ou a menos.",
+        "english": "I want to avoid delays caused by bringing too much or too little."
+      }
+    ],
+    "tags": ["documents", "clarification", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-004",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have all the documents listed, but I want to make sure I have interpreted the requirements correctly.",
+    "portuguese": "Tenho todos os documentos indicados, mas quero ter a certeza de que interpretei os requisitos corretamente.",
+    "pronunciationNote": "TEN-yoo TOH-dooz oosh doh-koo-MEN-toosh een-dee-KAH-doosh, mahz KEH-roo tair ah ser-TEH-zah d k een-ter-preh-TAY oosh rreh-kee-ZEE-toosh kor-rreh-TAH-men-t",
+    "grammarFocus": "formal reassurance-seeking",
+    "notes": "Useful in careful admin follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro confirmar agora do que descobrir depois que faltava uma coisa essencial.",
+        "english": "I would rather confirm now than discover later that one essential thing was missing."
+      }
+    ],
+    "tags": ["requirements", "documents", "confirmation"]
+  },
+  {
+    "id": "22-bda-b1b2-005",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand the general process, but I am still unclear about the order of the final steps.",
+    "portuguese": "Percebo o processo em geral, mas ainda n\u00e3o tenho clareza sobre a ordem dos passos finais.",
+    "pronunciationNote": "pair-SEH-boo oo proh-SEH-soo eng zheh-RAL, mahz een-DAH nown TEN-yoo klah-REH-zah SOH-br ah OR-deng doosh PAH-soosh fee-NAYSH",
+    "grammarFocus": "describing partial understanding",
+    "notes": "Useful when asking for process explanation.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o quero bloquear tudo por fazer uma coisa certa no momento errado.",
+        "english": "I do not want to hold everything up by doing the right thing at the wrong moment."
+      }
+    ],
+    "tags": ["process", "steps", "clarification"]
+  },
+  {
+    "id": "22-bda-b1b2-006",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to submit this digitally and then present the originals only if they are requested?",
+    "portuguese": "Seria poss\u00edvel submeter isto digitalmente e apresentar os originais apenas se forem pedidos?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel soob-meh-TAIR EESH-too dee-zhee-tal-MEN-t ee ah-preh-zen-TAR oosh or-ee-zhee-NAISH ah-PEH-nash s FOR-eng peh-DEE-doosh",
+    "grammarFocus": "polite procedural request",
+    "notes": "Useful when trying to reduce office visits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evitava desloca\u00e7\u00f5es desnecess\u00e1rias sem comprometer o processo.",
+        "english": "That way I would avoid unnecessary trips without compromising the process."
+      }
+    ],
+    "tags": ["digital submission", "documents", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-007",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I need most right now is not a full explanation, but a clear next action that will not invalidate the rest.",
+    "portuguese": "Aquilo de que mais preciso agora n\u00e3o \u00e9 de uma explica\u00e7\u00e3o completa, mas de uma a\u00e7\u00e3o seguinte clara que n\u00e3o invalide o resto.",
+    "pronunciationNote": "ah-KEE-loo d k mysh preh-SEE-zoo ah-GOH-rah nown eh d OO-mah eks-plee-kah-SOWN kom-PLEH-tah, mahz d OO-mah ah-SOWN seh-GEEN-t KLAH-rah k nown een-vah-LEE-d oo RRESH-too",
+    "grammarFocus": "stating immediate priorities",
+    "notes": "Useful in stressful admin situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu souber o pr\u00f3ximo passo certo, consigo organizar o resto com calma.",
+        "english": "If I know the correct next step, I can organise the rest calmly."
+      }
+    ],
+    "tags": ["next steps", "clarity", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-008",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like written confirmation of that, just so I do not rely only on memory later.",
+    "portuguese": "Gostava de ter confirma\u00e7\u00e3o disso por escrito, s\u00f3 para n\u00e3o depender apenas da mem\u00f3ria mais tarde.",
+    "pronunciationNote": "gosh-TAH-vah d tair kon-feer-mah-SOWN DEE-soo poor esh-KREE-too, soh PAH-rah nown deh-pen-DER ah-PEH-nash dah meh-MOH-ree-ah mysh TAR-d",
+    "grammarFocus": "requesting documentation politely",
+    "notes": "Useful in formal processes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver alguma diferen\u00e7a mais \u00e0 frente, assim tenho um ponto de refer\u00eancia claro.",
+        "english": "If any discrepancy comes up later, that gives me a clear point of reference."
+      }
+    ],
+    "tags": ["confirmation", "written proof", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-009",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My difficulty is not the form itself, but understanding what standard the form assumes I already know.",
+    "portuguese": "A minha dificuldade n\u00e3o \u00e9 o formul\u00e1rio em si, mas perceber que padr\u00e3o o formul\u00e1rio assume que eu j\u00e1 conhe\u00e7o.",
+    "pronunciationNote": "ah MEE-nyah dee-fee-kool-DAH-d nown eh oo for-moo-LAH-ree-oo eng s, mahz pair-seh-BER k pah-DROWN oo for-moo-LAH-ree-oo ah-SOO-m k eh-oo zhah kon-YEH-soo",
+    "grammarFocus": "explaining the real problem",
+    "notes": "Useful when forms are implicit or unclear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muitas vezes o campo \u00e9 curto, mas o contexto escondido por tr\u00e1s dele n\u00e3o \u00e9 nada simples.",
+        "english": "Often the field is short, but the hidden context behind it is not simple at all."
+      }
+    ],
+    "tags": ["forms", "requirements", "clarity"]
+  },
+  {
+    "id": "22-bda-b1b2-010",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I submit this today, what is the realistic timeframe for a decision or response?",
+    "portuguese": "Se eu submeter isto hoje, qual \u00e9 o prazo realista para uma decis\u00e3o ou resposta?",
+    "pronunciationNote": "s eh-oo soob-meh-TAIR EESH-too OH-zheh, kwahl eh oo PRAH-zoo rreh-ah-LEESH-tah PAH-rah OO-mah deh-see-ZOWN oo rresh-POHS-tah",
+    "grammarFocus": "asking about timeframe",
+    "notes": "Useful in formal applications.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o preciso de uma garantia absoluta, s\u00f3 de uma expectativa s\u00e9ria para me poder organizar.",
+        "english": "I do not need an absolute guarantee, just a serious expectation so I can organise myself."
+      }
+    ],
+    "tags": ["timeline", "applications", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-011",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not trying to skip the process; I just want to avoid repeating steps unnecessarily.",
+    "portuguese": "N\u00e3o estou a tentar saltar o processo; s\u00f3 quero evitar repetir passos sem necessidade.",
+    "pronunciationNote": "nown esh-TOH ah ten-TAR sal-TAR oo proh-SEH-soo; soh KEH-roo eh-vee-TAR rreh-peh-TEER PAH-soosh seng neh-seh-see-DAH-d",
+    "grammarFocus": "clarifying intent politely",
+    "notes": "Useful when asking for efficiency.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver uma forma mais direta que respeite as regras, prefiro seguir essa.",
+        "english": "If there is a more direct way that still respects the rules, I would rather follow that."
+      }
+    ],
+    "tags": ["process", "efficiency", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-012",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether this document needs to be translated officially or just translated clearly?",
+    "portuguese": "Podia dizer-me se este documento precisa de tradu\u00e7\u00e3o oficial ou apenas de uma tradu\u00e7\u00e3o clara?",
+    "pronunciationNote": "poh-DEE-ah dee-ZAIR-m s ESH-t doh-koo-MEN-too preh-SEE-zah d trah-doo-SOWN oh-fee-see-AL oo ah-PEH-nash d OO-mah trah-doo-SOWN KLAH-rah",
+    "grammarFocus": "requesting precise distinction",
+    "notes": "Useful with international paperwork.",
+    "exampleSentences": [
+      {
+        "portuguese": "Essa diferen\u00e7a muda bastante o tempo e o custo do processo.",
+        "english": "That difference changes both the time and cost of the process significantly."
+      }
+    ],
+    "tags": ["translation", "documents", "clarification"]
+  },
+  {
+    "id": "22-bda-b1b2-013",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The portal says one thing, but the email I received suggests something slightly different.",
+    "portuguese": "O portal diz uma coisa, mas o email que recebi sugere algo ligeiramente diferente.",
+    "pronunciationNote": "oo por-TAL deezh OO-mah KOY-zah, mahz oo ee-MAIL k rreh-seh-BEE soo-ZHEH-r AL-goo lee-zhai-rah-MEN-t dee-feh-REN-t",
+    "grammarFocus": "describing conflicting information",
+    "notes": "Useful when systems conflict.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de avan\u00e7ar, queria perceber qual das indica\u00e7\u00f5es devo seguir.",
+        "english": "Before moving forward, I want to understand which instruction I should follow."
+      }
+    ],
+    "tags": ["portal", "email", "conflict"]
+  },
+  {
+    "id": "22-bda-b1b2-014",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have already submitted the request, so now I mainly need to know whether any action is still expected from me.",
+    "portuguese": "J\u00e1 submeti o pedido, por isso agora preciso sobretudo de saber se ainda esperam alguma a\u00e7\u00e3o da minha parte.",
+    "pronunciationNote": "zhah soob-meh-TEE oo peh-DEE-doo, poor EE-soo ah-GOH-rah preh-SEE-zoo soh-breh-TOO-doo d sah-BER s een-DAH esh-PEH-rang al-GOO-mah ah-SOWN dah MEE-nyah PAR-t",
+    "grammarFocus": "checking status and responsibility",
+    "notes": "Useful in follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiver tudo do vosso lado, \u00f3timo; se faltar algo do meu, prefiro tratar j\u00e1 disso.",
+        "english": "If everything is on your side now, great; if something is still missing from me, I would rather deal with it now."
+      }
+    ],
+    "tags": ["follow-up", "status", "applications"]
+  },
+  {
+    "id": "22-bda-b1b2-015",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind noting on the file that I brought the missing document today?",
+    "portuguese": "Importa-se de registar no processo que trouxe hoje o documento que faltava?",
+    "pronunciationNote": "eem-POR-tah-s d rreh-zheesh-TAR noo proh-SEH-soo k trohsh OH-zheh oo doh-koo-MEN-too k fal-TAH-vah",
+    "grammarFocus": "formal polite request",
+    "notes": "Useful in document follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evito confus\u00e3o se o processo for visto por outra pessoa mais tarde.",
+        "english": "That way I avoid confusion if the file is seen by someone else later."
+      }
+    ],
+    "tags": ["record", "documents", "follow-up"]
+  },
+  {
+    "id": "22-bda-b1b2-016",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know the office is busy, but I would appreciate a rough idea of whether this is likely to take days or weeks.",
+    "portuguese": "Sei que o servi\u00e7o est\u00e1 ocupado, mas agradecia ter uma ideia aproximada se isto deve demorar dias ou semanas.",
+    "pronunciationNote": "say k oo sair-VEE-soo esh-TAH oh-koo-PAH-doo, mahz ah-grah-deh-SEE-ah tair OO-mah ee-DAY-ah ah-proh-zee-MAH-dah s EESH-too dev deh-MOH-rar DEE-ash oo seh-MAH-nash",
+    "grammarFocus": "polite timeframe request",
+    "notes": "Useful for planning around delays.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o preciso de exatid\u00e3o total, s\u00f3 de conseguir ajustar os meus planos.",
+        "english": "I do not need total precision, only to be able to adjust my plans."
+      }
+    ],
+    "tags": ["timeline", "delay", "planning"]
+  },
+  {
+    "id": "22-bda-b1b2-017",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the confusion comes from the fact that two different reference numbers seem to exist for the same process.",
+    "portuguese": "Acho que a confus\u00e3o vem do facto de parecerem existir dois n\u00fameros de refer\u00eancia diferentes para o mesmo processo.",
+    "pronunciationNote": "AH-shoo k ah kon-foo-ZOWN veng doo FAK-too d pah-reh-SEH-reng ek-zeesh-TEER doish NOO-meh-roosh d rreh-feh-REN-see-ah dee-feh-REN-tesh PAH-rah oo MAYZ-moo proh-SEH-soo",
+    "grammarFocus": "explaining a discrepancy",
+    "notes": "Useful in admin troubleshooting.",
+    "exampleSentences": [
+      {
+        "portuguese": "Enquanto isso n\u00e3o ficar claro, tenho receio de estar sempre a citar o identificador errado.",
+        "english": "Until that becomes clear, I am worried I may keep quoting the wrong identifier."
+      }
+    ],
+    "tags": ["reference numbers", "confusion", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-018",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The form leaves too much room for interpretation, so I would rather confirm than guess.",
+    "portuguese": "O formul\u00e1rio deixa margem a mais para interpreta\u00e7\u00e3o, por isso prefiro confirmar do que adivinhar.",
+    "pronunciationNote": "oo for-moo-LAH-ree-oo DAY-shah MAR-zheng ah mysh PAH-rah een-ter-preh-tah-SOWN, poor EE-soo preh-FEE-roo kon-feer-MAR doo k ah-dee-veen-YAR",
+    "grammarFocus": "justifying a clarification request",
+    "notes": "Useful in offices and support emails.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o erro depois atrasar tudo, uma pequena pergunta agora vale a pena.",
+        "english": "If a mistake later delays everything, one small question now is worth it."
+      }
+    ],
+    "tags": ["forms", "clarification", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-019",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to avoid starting over because of a technicality that could be clarified now.",
+    "portuguese": "Gostava de evitar recome\u00e7ar por causa de uma quest\u00e3o t\u00e9cnica que podia ser esclarecida agora.",
+    "pronunciationNote": "gosh-TAH-vah d eh-vee-TAR rreh-koh-meh-SAR poor KAU-zah d OO-mah kesh-TOWN TEHK-nee-kah k poh-DEE-ah sair esh-klah-reh-SEE-dah ah-GOH-rah",
+    "grammarFocus": "expressing a concern politely",
+    "notes": "Useful in formal processes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver uma maneira segura de fechar esse ponto j\u00e1, prefiro faz\u00ea-lo.",
+        "english": "If there is a safe way to settle that point now, I would rather do it."
+      }
+    ],
+    "tags": ["technicalities", "clarification", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-020",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether the date that matters here is the date of issue, the date of submission, or the date of approval?",
+    "portuguese": "Podia dizer-me se a data que interessa aqui \u00e9 a data de emiss\u00e3o, a data de entrega ou a data de aprova\u00e7\u00e3o?",
+    "pronunciationNote": "poh-DEE-ah dee-ZAIR-m s ah DAH-tah k een-teh-REH-sah ah-KEE eh ah DAH-tah d eh-mee-SOWN, ah DAH-tah d en-TREH-gah oo ah DAH-tah d ah-proh-vah-SOWN",
+    "grammarFocus": "asking for a precise distinction",
+    "notes": "Useful with deadlines and validity windows.",
+    "exampleSentences": [
+      {
+        "portuguese": "Essa diferen\u00e7a muda totalmente o documento que ainda \u00e9 v\u00e1lido para mim.",
+        "english": "That distinction completely changes which document is still valid for me."
+      }
+    ],
+    "tags": ["dates", "deadlines", "documents"]
+  },
+  {
+    "id": "22-bda-b1b2-021",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have no problem bringing the originals if necessary; I just want to know whether that trip is actually required.",
+    "portuguese": "N\u00e3o tenho problema em trazer os originais, se for preciso; s\u00f3 quero saber se essa desloca\u00e7\u00e3o \u00e9 realmente necess\u00e1ria.",
+    "pronunciationNote": "nown TEN-yoo proh-BLAY-mah eng trah-ZAIR oosh or-ee-zhee-NAISH, s for preh-SEE-zoo; soh KEH-roo sah-BER s EH-sah dehsh-loh-kah-SOWN eh rreh-al-MEN-t neh-seh-SAH-ree-ah",
+    "grammarFocus": "politely questioning necessity",
+    "notes": "Useful for distance admin tasks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver uma alternativa v\u00e1lida, prefiro segui-la em vez de perder um dia inteiro.",
+        "english": "If there is a valid alternative, I would rather follow it than lose a whole day."
+      }
+    ],
+    "tags": ["originals", "travel", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-022",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand why the rule exists; I just need help applying it correctly to my case.",
+    "portuguese": "Percebo porque \u00e9 que a regra existe; s\u00f3 preciso de ajuda para a aplicar corretamente ao meu caso.",
+    "pronunciationNote": "pair-SEH-boo poor-k eh k ah RREH-grah ek-ZEESH-t; soh preh-SEE-zoo d ah-ZHOO-dah PAH-rah ah ah-plee-KAR kor-rreh-TAH-men-t ow may-oo KAH-zoo",
+    "grammarFocus": "showing cooperation while asking for help",
+    "notes": "Useful in formal discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o estou a contestar a norma, s\u00f3 quero ter a certeza de que a leio bem.",
+        "english": "I am not challenging the rule; I just want to make sure I am reading it correctly."
+      }
+    ],
+    "tags": ["rules", "case", "clarification"]
+  },
+  {
+    "id": "22-bda-b1b2-023",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is a standard checklist for this process, I would much rather work from that than from memory.",
+    "portuguese": "Se houver uma lista de verifica\u00e7\u00e3o padr\u00e3o para este processo, prefiro muito mais trabalhar com ela do que com a mem\u00f3ria.",
+    "pronunciationNote": "s oo-VER OO-mah LEESH-tah d veh-ree-fee-kah-SOWN pah-DROWN PAH-rah ESH-t proh-SEH-soo, preh-FEE-roo MOOY-too mysh trah-bah-LYAR kong EH-lah doo k kong ah meh-MOH-ree-ah",
+    "grammarFocus": "requesting structured guidance",
+    "notes": "Useful in admin planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto mais objetivo for o apoio, menos margem h\u00e1 para erros desnecess\u00e1rios.",
+        "english": "The more objective the support is, the less room there is for unnecessary mistakes."
+      }
+    ],
+    "tags": ["checklist", "process", "documents"]
+  },
+  {
+    "id": "22-bda-b1b2-024",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The wording of that message makes it sound final, but the portal still suggests the file is under review.",
+    "portuguese": "A forma como essa mensagem est\u00e1 escrita faz parecer que a decis\u00e3o j\u00e1 \u00e9 final, mas o portal ainda sugere que o processo est\u00e1 em an\u00e1lise.",
+    "pronunciationNote": "ah FOR-mah KOH-moo EH-sah men-SAH-zheng esh-TAH esh-KREE-tah faz pah-reh-SAIR k ah deh-see-ZOWN zhah eh fee-NAL, mahz oo por-TAL een-DAH soo-ZHEH-r k oo proh-SEH-soo esh-TAH eng ah-NAH-lee-z",
+    "grammarFocus": "describing contradiction",
+    "notes": "Useful when different systems conflict.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de perceber qual das duas informa\u00e7\u00f5es devo tomar como correta.",
+        "english": "I would like to understand which of the two pieces of information I should treat as correct."
+      }
+    ],
+    "tags": ["portal", "status", "contradiction"]
+  },
+  {
+    "id": "22-bda-b1b2-025",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if I grouped the documents by category and labelled them before sending them?",
+    "portuguese": "Ajudava se eu agrupasse os documentos por categoria e os identificasse antes de os enviar?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s eh-oo ah-groo-PAH-s oosh doh-koo-MEN-toosh poor kah-teh-GOH-ree-ah ee oosh ee-den-tee-fee-KAH-s AN-tesh d oosh en-vee-AR",
+    "grammarFocus": "offering a practical solution",
+    "notes": "Useful in email follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se isso facilitar a verifica\u00e7\u00e3o, prefiro organizar logo tudo dessa maneira.",
+        "english": "If that makes verification easier, I would rather organise everything that way straight away."
+      }
+    ],
+    "tags": ["organisation", "documents", "email"]
+  },
+  {
+    "id": "22-bda-b1b2-026",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The fee itself is not my concern; I just want to know whether paying it now commits me to the next stage.",
+    "portuguese": "A taxa em si n\u00e3o \u00e9 a minha preocupa\u00e7\u00e3o; s\u00f3 quero saber se pag\u00e1-la agora me compromete com a fase seguinte.",
+    "pronunciationNote": "ah TAH-shah eng s nown eh ah MEE-nyah preh-oh-koo-pah-SOWN; soh KEH-roo sah-BER s pah-GAH-lah ah-GOH-rah m kom-proh-MEH-t kong ah FAH-z seh-GEEN-t",
+    "grammarFocus": "asking about implications",
+    "notes": "Useful before paying fees.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se ainda houver algo em aberto, prefiro resolv\u00ea-lo antes de formalizar a etapa seguinte.",
+        "english": "If anything is still open, I would rather resolve it before formalising the next stage."
+      }
+    ],
+    "tags": ["fees", "process", "implications"]
+  },
+  {
+    "id": "22-bda-b1b2-027",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to keep this process moving, but I do not want to create a new problem by rushing the wrong step.",
+    "portuguese": "Estou a tentar manter este processo a andar, mas n\u00e3o quero criar um problema novo por acelerar o passo errado.",
+    "pronunciationNote": "esh-TOH ah ten-TAR man-TAIR ESH-t proh-SEH-soo ah an-DAR, mahz nown KEH-roo kree-AR oom proh-BLAY-mah NOH-voo poor ah-seh-leh-RAR oo PAH-soo eh-RRAH-doo",
+    "grammarFocus": "explaining caution",
+    "notes": "Useful in follow-up conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver um ponto onde valha a pena parar e confirmar, prefiro faz\u00ea-lo agora.",
+        "english": "If there is a point where it is worth pausing and confirming, I would rather do it now."
+      }
+    ],
+    "tags": ["process", "caution", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-028",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the delay happened because one office assumed the other had already verified the document.",
+    "portuguese": "Acho que o atraso aconteceu porque um servi\u00e7o assumiu que o outro j\u00e1 tinha verificado o documento.",
+    "pronunciationNote": "AH-shoo k oo ah-TRAH-zoo ah-kon-teh-SEH-oo poor-k oom sair-VEE-soo ah-soo-MEW k oo OH-troo zhah TEE-nyah veh-ree-fee-KAH-doo oo doh-koo-MEN-too",
+    "grammarFocus": "explaining cause",
+    "notes": "Useful in multi-office issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se isso estiver certo, talvez o problema seja menos o documento e mais a coordena\u00e7\u00e3o entre departamentos.",
+        "english": "If that is correct, then perhaps the issue is less the document and more the coordination between departments."
+      }
+    ],
+    "tags": ["delay", "offices", "coordination"]
+  },
+  {
+    "id": "22-bda-b1b2-029",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would appreciate a note confirming that the file is complete on my side, even if the decision still takes time.",
+    "portuguese": "Agradecia uma nota a confirmar que o processo est\u00e1 completo do meu lado, mesmo que a decis\u00e3o ainda demore.",
+    "pronunciationNote": "ah-grah-deh-SEE-ah OO-mah NOH-tah ah kon-feer-MAR k oo proh-SEH-soo esh-TAH kom-PLEH-too doo may-oo LAH-doo, MAYZ-moo k ah deh-see-ZOWN een-DAH deh-MOH-r",
+    "grammarFocus": "requesting reassurance",
+    "notes": "Useful when waiting for outcomes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso ajudava-me a perceber se a espera agora \u00e9 normal ou se ainda me falta alguma interven\u00e7\u00e3o.",
+        "english": "That would help me understand whether the wait is now normal or whether I still owe some action."
+      }
+    ],
+    "tags": ["confirmation", "status", "waiting"]
+  },
+  {
+    "id": "22-bda-b1b2-030",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not asking for special treatment, only for enough clarity to follow the normal route properly.",
+    "portuguese": "N\u00e3o estou a pedir tratamento especial, apenas clareza suficiente para seguir corretamente o percurso normal.",
+    "pronunciationNote": "nown esh-TOH ah peh-DEER trah-tah-MEN-too esh-peh-see-AL, ah-PEH-nash klah-REH-zah soo-fee-see-EN-t PAH-rah seh-GEER kor-rreh-TAH-men-t oo pair-KOOR-soo nor-MAL",
+    "grammarFocus": "asserting reasonableness",
+    "notes": "Useful in difficult admin conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o caminho estiver bem explicado, sigo-o sem problema nenhum.",
+        "english": "If the path is explained properly, I will follow it without any problem."
+      }
+    ],
+    "tags": ["clarity", "process", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-031",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The application itself is straightforward; what is difficult is predicting which part will suddenly become the bottleneck.",
+    "portuguese": "O pedido em si \u00e9 direto; o dif\u00edcil \u00e9 prever qual das partes vai de repente tornar-se o bloqueio.",
+    "pronunciationNote": "oo peh-DEE-doo eng s eh dee-REH-too; oo dee-FEE-seel eh preh-VAIR kwahl dazh PAR-tesh vy d rreh-PEN-t tor-NAR-s oo bloh-KAY-oo",
+    "grammarFocus": "describing uncertainty",
+    "notes": "Useful in reflective admin discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quase nunca \u00e9 o passo principal; \u00e9 sempre um detalhe lateral que trava o conjunto.",
+        "english": "It is almost never the main step; it is always a side detail that blocks the whole thing."
+      }
+    ],
+    "tags": ["applications", "bottlenecks", "process"]
+  },
+  {
+    "id": "22-bda-b1b2-032",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you can point me to the exact regulation or page that applies, I am happy to read it and follow it closely.",
+    "portuguese": "Se me puder indicar a norma exata ou a p\u00e1gina que se aplica, leio-a com gosto e sigo-a com aten\u00e7\u00e3o.",
+    "pronunciationNote": "s m poo-DER een-dee-KAR ah NOR-mah eh-ZAH-tah oo ah PAH-zhee-nah k s ah-PLEE-kah, LAY-oo-ah kong GOSH-too ee SEE-goo-ah kong ah-ten-SOWN",
+    "grammarFocus": "asking for source material",
+    "notes": "Useful when rules are disputed or unclear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro trabalhar a partir da fonte em vez de interpreta\u00e7\u00f5es soltas.",
+        "english": "I would rather work from the source than from loose interpretations."
+      }
+    ],
+    "tags": ["regulations", "source", "clarification"]
+  },
+  {
+    "id": "22-bda-b1b2-033",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather spend ten minutes clarifying the scope now than lose a month to a preventable misunderstanding.",
+    "portuguese": "Prefiro gastar dez minutos a clarificar o alcance disto agora do que perder um m\u00eas por causa de um mal-entendido evit\u00e1vel.",
+    "pronunciationNote": "preh-FEE-roo gahs-TAR dezh mee-NOO-toosh ah klah-ree-fee-KAR oo al-KAN-sheh DEESH-too ah-GOH-rah doo k pair-DER oom MESH poor KAU-zah d oom mal-en-ten-DEE-doo eh-vee-TAH-vel",
+    "grammarFocus": "explaining why clarification matters",
+    "notes": "Useful in follow-up emails.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma pequena precis\u00e3o no in\u00edcio poupa imenso desgaste mais \u00e0 frente.",
+        "english": "A small clarification at the beginning saves a huge amount of strain later."
+      }
+    ],
+    "tags": ["clarification", "scope", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-034",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "As far as I can tell, the process is stalled not because anything is wrong, but because nobody has formally moved it to the next stage.",
+    "portuguese": "Tanto quanto consigo perceber, o processo est\u00e1 parado n\u00e3o porque haja algo errado, mas porque ningu\u00e9m o fez passar formalmente para a fase seguinte.",
+    "pronunciationNote": "TAN-too KWAN-too kon-SEE-goo pair-seh-BER, oo proh-SEH-soo esh-TAH pah-RAH-doo nown poor-k AH-zhah AL-goo eh-RRAH-doo, mahz poor-k neen-GAYNG oo fez pah-SAR for-mal-MEN-t PAH-rah ah FAH-z seh-GEEN-t",
+    "grammarFocus": "diagnosing a delay",
+    "notes": "Useful in admin escalation conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o problema for esse, talvez a solu\u00e7\u00e3o seja mais simples do que parece.",
+        "english": "If that is the issue, then perhaps the solution is simpler than it seems."
+      }
+    ],
+    "tags": ["delay", "status", "process"]
+  },
+  {
+    "id": "22-bda-b1b2-035",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know these systems are not built around edge cases, which is exactly why I want to flag mine early.",
+    "portuguese": "Sei que estes sistemas n\u00e3o foram pensados para casos-limite, e \u00e9 precisamente por isso que quero sinalizar o meu cedo.",
+    "pronunciationNote": "say k ESH-tesh sees-TAY-mash nown FOH-rang pen-SAH-doosh PAH-rah KAH-zoosh LEE-mee-t, ee eh preh-see-zah-MEN-t poor EE-soo k KEH-roo see-nyah-lee-ZAR oo may-oo SEH-doo",
+    "grammarFocus": "explaining why you are raising an issue",
+    "notes": "Useful in complex admin situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o caso for at\u00edpico, quanto mais cedo entrar no mapa melhor.",
+        "english": "If the case is unusual, the sooner it is on the map the better."
+      }
+    ],
+    "tags": ["edge cases", "systems", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-036",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would appreciate a reply even if the answer is simply that nothing can move until the current review is complete.",
+    "portuguese": "Agradecia uma resposta mesmo que seja s\u00f3 para dizer que nada pode avan\u00e7ar at\u00e9 a an\u00e1lise atual estar conclu\u00edda.",
+    "pronunciationNote": "ah-grah-deh-SEE-ah OO-mah rresh-POHS-tah MAYZ-moo k ZHAY-gah soh PAH-rah dee-ZAIR k NAH-dah PODE ah-vahn-SAR ah-TAY ah ah-NAH-lee-z ah-too-AL esh-TAR kon-kloo-EE-dah",
+    "grammarFocus": "requesting status update politely",
+    "notes": "Useful in follow-up emails.",
+    "exampleSentences": [
+      {
+        "portuguese": "O mais dif\u00edcil neste momento \u00e9 a falta de orienta\u00e7\u00e3o sobre o que fazer a seguir.",
+        "english": "What is hardest at this moment is the lack of guidance on what to do next."
+      }
+    ],
+    "tags": ["follow-up", "status", "email"]
+  },
+  {
+    "id": "22-bda-b1b2-037",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The question is not whether I can provide that information, but whether I am meant to provide it at this stage.",
+    "portuguese": "A quest\u00e3o n\u00e3o \u00e9 se eu posso fornecer essa informa\u00e7\u00e3o, mas se devo fornec\u00ea-la nesta fase.",
+    "pronunciationNote": "ah kesh-TOWN nown eh s eh-oo POH-soo for-neh-SAIR EH-sah een-for-mah-SOWN, mahz s DEH-voo for-neh-SAY-lah NESH-tah FAH-z",
+    "grammarFocus": "clarifying scope and timing",
+    "notes": "Useful when requirements are ambiguous.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a entregar cedo demais, posso estar a criar uma incompatibilidade desnecess\u00e1ria.",
+        "english": "If I submit it too early, I may create an unnecessary mismatch."
+      }
+    ],
+    "tags": ["requirements", "timing", "scope"]
+  },
+  {
+    "id": "22-bda-b1b2-038",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can adapt to the formal process, but I need the terminology to be clear enough that I do not misclassify my own case.",
+    "portuguese": "Consigo adaptar-me ao processo formal, mas preciso que a terminologia seja clara o suficiente para n\u00e3o classificar mal o meu pr\u00f3prio caso.",
+    "pronunciationNote": "kon-SEE-goo ah-dap-TAR-m ow proh-SEH-soo for-MAL, mahz preh-SEE-zoo k ah tair-mee-noh-loh-ZHEE-ah ZHAY-gah KLAH-rah oo soo-fee-see-EN-t PAH-rah nown klah-see-fee-KAR mal oo may-oo PROH-pree-oo KAH-zoo",
+    "grammarFocus": "describing a language barrier precisely",
+    "notes": "Useful in admin contexts for non-native speakers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muitas vezes o problema n\u00e3o \u00e9 a regra, \u00e9 a categoria certa dentro da regra.",
+        "english": "Often the problem is not the rule, but the right category within the rule."
+      }
+    ],
+    "tags": ["terminology", "classification", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-039",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At this point I am less worried about speed than about making sure the file is internally consistent.",
+    "portuguese": "Neste momento preocupa-me menos a rapidez do que garantir que o processo est\u00e1 internamente consistente.",
+    "pronunciationNote": "NESH-t moo-MEN-too preh-oh-koo-PAH-m MEN-oosh ah rrah-pee-DEHZ doo k gahran-TEER k oo proh-SEH-soo esh-TAH een-ter-NAH-men-t kon-seesh-TEN-t",
+    "grammarFocus": "stating priorities",
+    "notes": "Useful in formal review or follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma decis\u00e3o r\u00e1pida serve pouco se depois vier acompanhada de contradi\u00e7\u00f5es.",
+        "english": "A quick decision is of little use if it then comes with contradictions."
+      }
+    ],
+    "tags": ["consistency", "file", "priorities"]
+  },
+  {
+    "id": "22-bda-b1b2-040",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the supporting documents need to be dated within a specific window, I need to know that before requesting them.",
+    "portuguese": "Se os documentos de apoio tiverem de estar datados dentro de um prazo espec\u00edfico, preciso de saber isso antes de os pedir.",
+    "pronunciationNote": "s oosh doh-koo-MEN-toosh d ah-POI-oo tee-VAIR-eng d esh-TAR dah-TAH-doosh DEN-troo d oom PRAH-zoo esh-peh-SEE-fee-koo, preh-SEE-zoo d sah-BER EE-soo AN-tesh d oosh peh-DEER",
+    "grammarFocus": "explaining why timing matters",
+    "notes": "Useful in formal document preparation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contr\u00e1rio, posso pagar e esperar por algo que depois j\u00e1 n\u00e3o serve.",
+        "english": "Otherwise I may pay and wait for something that then no longer works."
+      }
+    ],
+    "tags": ["dated documents", "timing", "requirements"]
+  },
+  {
+    "id": "22-bda-b1b2-041",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The most reassuring outcome for me is not a promise of speed, but a clear map of what still depends on whom.",
+    "portuguese": "O resultado que me tranquiliza mais n\u00e3o \u00e9 uma promessa de rapidez, mas um mapa claro do que ainda depende de quem.",
+    "pronunciationNote": "oo rreh-zool-TAH-doo k m tran-kee-LEE-zah mysh nown eh OO-mah proh-MEH-sah d rrah-pee-DEHZ, mahz oom MAH-pah KLAH-roo doo k een-DAH deh-PEN-d d keng",
+    "grammarFocus": "describing what would help",
+    "notes": "Useful in complex multi-party processes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se percebo a rede de responsabilidades, consigo esperar com muito menos ansiedade.",
+        "english": "If I understand the network of responsibilities, I can wait with much less anxiety."
+      }
+    ],
+    "tags": ["responsibility", "status", "process"]
+  },
+  {
+    "id": "22-bda-b1b2-042",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I suspect the wording on the site was written for people already familiar with the system, not for first-time users.",
+    "portuguese": "Suspeito que o texto do site foi escrito para pessoas j\u00e1 familiarizadas com o sistema, e n\u00e3o para quem o usa pela primeira vez.",
+    "pronunciationNote": "soosh-PEI-too k oo TEKS-too doo site foy esh-KREE-too PAH-rah peh-SOH-ash zhah fah-mee-lee-ah-ree-ZAH-dash kong oo sees-TAY-mah, ee nown PAH-rah keng oo OO-zah PEL-ah pree-MAIR-ah vez",
+    "grammarFocus": "explaining usability issue",
+    "notes": "Useful in feedback and support requests.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muita coisa parece \u00f3bvia s\u00f3 para quem j\u00e1 conhece o contexto por dentro.",
+        "english": "A lot of things look obvious only to people who already know the context from the inside."
+      }
+    ],
+    "tags": ["website", "usability", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-043",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Before I resubmit anything, I want to be sure I am correcting the real issue and not just reacting to the latest message.",
+    "portuguese": "Antes de voltar a submeter alguma coisa, quero ter a certeza de que estou a corrigir o problema real e n\u00e3o apenas a reagir \u00e0 \u00faltima mensagem.",
+    "pronunciationNote": "AN-tesh d vol-TAR ah soob-meh-TAIR al-GOO-mah KOY-zah, KEH-roo tair ah ser-TEH-zah d k esh-TOH ah kor-rreh-ZHEER oo proh-BLAY-mah rreh-AL ee nown ah-PEH-nash ah rreh-ah-ZHEER ah OOL-tee-mah men-SAH-zheng",
+    "grammarFocus": "explaining caution in follow-up",
+    "notes": "Useful in resubmission contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a resposta n\u00e3o atinge a raiz do problema, s\u00f3 acrescenta mais uma volta ao processo.",
+        "english": "If the response does not address the root of the issue, it only adds one more loop to the process."
+      }
+    ],
+    "tags": ["resubmission", "correction", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-044",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can be flexible about format, but not about losing traceability once the documents leave my hands.",
+    "portuguese": "Consigo ser flex\u00edvel com o formato, mas n\u00e3o com perder rastreabilidade quando os documentos saem das minhas m\u00e3os.",
+    "pronunciationNote": "kon-SEE-goo sair flehk-SEE-vel kong oo for-MAH-too, mahz nown kong pair-DER rash-treh-ah-bee-lee-DAH-d KWAN-doo oosh doh-koo-MEN-toosh SAI-eng dazh MEE-nyash MOWNSH",
+    "grammarFocus": "stating a boundary",
+    "notes": "Useful for sensitive document handling.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se algo se perde no caminho, preciso de conseguir provar onde o entreguei e quando.",
+        "english": "If something gets lost along the way, I need to be able to prove where and when I handed it over."
+      }
+    ],
+    "tags": ["traceability", "documents", "proof"]
+  },
+  {
+    "id": "22-bda-b1b2-045",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What slows everything down is often not resistance, but the absence of a shared picture of the process.",
+    "portuguese": "O que abranda tudo muitas vezes n\u00e3o \u00e9 resist\u00eancia, mas a aus\u00eancia de uma vis\u00e3o partilhada do processo.",
+    "pronunciationNote": "oo k ah-BRAN-dah TOO-doo MOOY-tash VAY-zesh nown eh rreh-zeesh-TEN-see-ah, mahz ah ow-ZEN-see-ah d OO-mah vee-ZOWN pahr-tee-LYAH-dah doo proh-SEH-soo",
+    "grammarFocus": "analysing a process problem",
+    "notes": "Useful in reflective admin discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando cada pessoa v\u00ea s\u00f3 o seu peda\u00e7o, o conjunto fica muito mais dif\u00edcil de mover.",
+        "english": "When each person sees only their own piece, the whole becomes much harder to move."
+      }
+    ],
+    "tags": ["process", "coordination", "analysis"]
+  },
+  {
+    "id": "22-bda-b1b2-046",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If a rejection is likely, I would rather know the exact basis for it than receive only a generic outcome.",
+    "portuguese": "Se houver probabilidade de indeferimento, prefiro saber a base exata disso do que receber apenas um resultado gen\u00e9rico.",
+    "pronunciationNote": "s oo-VER proh-bah-bee-lee-DAH-d d een-deh-feh-ree-MEN-too, preh-FEE-roo sah-BER ah BAH-z eh-ZAH-tah DEE-soo doo k rreh-seh-BER ah-PEH-nash oom rreh-zool-TAH-doo zheh-NEH-ree-koo",
+    "grammarFocus": "requesting precise reasons",
+    "notes": "Useful in appeals and follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma resposta vaga n\u00e3o me permite perceber se vale a pena corrigir, contestar ou desistir.",
+        "english": "A vague response does not let me understand whether it is worth correcting, appealing, or giving up."
+      }
+    ],
+    "tags": ["rejection", "appeal", "clarity"]
+  },
+  {
+    "id": "22-bda-b1b2-047",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more forms a system requires, the more important it becomes that the language stay consistent across them.",
+    "portuguese": "Quanto mais formul\u00e1rios um sistema exige, mais importante se torna que a linguagem se mantenha consistente entre eles.",
+    "pronunciationNote": "KWAN-too mysh for-moo-LAH-ree-oosh oom sees-TAY-mah eh-ZHEE-zh, mysh eem-pohr-TAN-t s TOR-nah k ah lan-GWAH-zheng s man-TEN-yah kon-seesh-TEN-t EN-tr AY-loosh",
+    "grammarFocus": "stating a general principle",
+    "notes": "Useful in admin design discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o mesmo conceito muda de nome, o risco de erro dispara.",
+        "english": "When the same concept changes name, the risk of error shoots up."
+      }
+    ],
+    "tags": ["forms", "language", "systems"]
+  },
+  {
+    "id": "22-bda-b1b2-048",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am happy to wait my turn; what is difficult is not knowing whether I am waiting in the right queue at all.",
+    "portuguese": "N\u00e3o me custa esperar a minha vez; o dif\u00edcil \u00e9 n\u00e3o saber sequer se estou na fila certa.",
+    "pronunciationNote": "nown m KOOSH-tah esh-peh-RAR ah MEE-nyah vez; oo dee-FEE-seel eh nown sah-BER seh-KAIR s esh-TOH nah FEE-lah SER-tah",
+    "grammarFocus": "describing uncertainty",
+    "notes": "Useful in public offices and waiting systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "A espera deixa de ser o problema quando temos confian\u00e7a de que est\u00e1 a levar-nos ao s\u00edtio certo.",
+        "english": "Waiting stops being the problem when we are confident it is taking us to the right place."
+      }
+    ],
+    "tags": ["waiting", "queues", "uncertainty"]
+  },
+  {
+    "id": "22-bda-b1b2-049",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At this stage I mostly need the process to be legible, even if it is not especially fast.",
+    "portuguese": "Nesta fase, o que mais preciso \u00e9 que o processo seja leg\u00edvel, mesmo que n\u00e3o seja especialmente r\u00e1pido.",
+    "pronunciationNote": "NESH-tah FAH-z, oo k mysh preh-SEE-zoo eh k oo proh-SEH-soo ZHAY-gah leh-ZHEE-vel, MAYZ-moo k nown ZHAY-gah esh-peh-see-al-MEN-t RAH-pee-doo",
+    "grammarFocus": "stating a practical priority",
+    "notes": "Useful in follow-up communication.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu consigo ver o desenho do caminho, \u00e9 muito mais f\u00e1cil aceitar a demora.",
+        "english": "If I can see the outline of the path, it is much easier to accept the delay."
+      }
+    ],
+    "tags": ["legibility", "process", "admin"]
+  },
+  {
+    "id": "22-bda-b1b2-050",
+    "subject": "Bureaucracy, Documents & Admin",
+    "subjectId": "bureaucracy-documents-admin",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we can clarify the structure now, I am confident I can handle the rest of the paperwork without difficulty.",
+    "portuguese": "Se conseguirmos clarificar a estrutura agora, estou confiante de que consigo tratar do resto da papelada sem dificuldade.",
+    "pronunciationNote": "s kon-seh-GEE-rmoosh klah-ree-fee-KAR ah esh-troo-TOO-rah ah-GOH-rah, esh-TOH kon-fee-AN-t d k kon-SEE-goo trah-TAR doo RRESH-too dah pah-peh-LAH-dah seng dee-fee-kool-DAH-d",
+    "grammarFocus": "expressing confidence with a condition",
+    "notes": "Useful to close a support conversation constructively.",
+    "exampleSentences": [
+      {
+        "portuguese": "O problema nunca foi a vontade de cumprir, s\u00f3 a necessidade de perceber melhor o mapa antes de avan\u00e7ar.",
+        "english": "The problem was never willingness to comply, only the need to understand the map better before moving forward."
+      }
+    ],
+    "tags": ["paperwork", "clarity", "confidence"]
+  }
+]

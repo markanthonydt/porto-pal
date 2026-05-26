@@ -110,6 +110,7 @@ export function ProgressProvider({ children }) {
             prompt: details.prompt || item.english,
             expected,
             answer,
+            assisted: details.assisted || false,
             expectedLanguage: details.expectedLanguage || 'portuguese',
           }),
         );

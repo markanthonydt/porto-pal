@@ -1,0 +1,952 @@
+[
+  {
+    "id": "23-esl-a1a2-001",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am learning Portuguese.",
+    "portuguese": "Estou a aprender portugu\u00eas.",
+    "pronunciationNote": "esh-TOH ah prehn-DAYR por-too-GUEZ",
+    "grammarFocus": "present continuous with estar a",
+    "notes": "A basic way to talk about studying a language.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a aprender portugu\u00eas este ano.",
+        "english": "I am learning Portuguese this year."
+      }
+    ],
+    "tags": ["learning", "languages", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-002",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a class tomorrow.",
+    "portuguese": "Tenho uma aula amanh\u00e3.",
+    "pronunciationNote": "TEN-yoo OO-mah OW-lah ah-ma-NYAN",
+    "grammarFocus": "talking about scheduled activities",
+    "notes": "Useful for lessons and courses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho uma aula amanh\u00e3 de manh\u00e3.",
+        "english": "I have a class tomorrow morning."
+      }
+    ],
+    "tags": ["class", "schedules", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-003",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What page are we on?",
+    "portuguese": "Em que p\u00e1gina estamos?",
+    "pronunciationNote": "eng k PAH-zhee-nah esh-TAH-moosh",
+    "grammarFocus": "asking for orientation",
+    "notes": "Useful in class.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, em que p\u00e1gina estamos?",
+        "english": "Sorry, what page are we on?"
+      }
+    ],
+    "tags": ["classroom", "pages", "questions"]
+  },
+  {
+    "id": "23-esl-a1a2-004",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you repeat that?",
+    "portuguese": "Pode repetir isso?",
+    "pronunciationNote": "POH-deh rreh-peh-TEER EE-soo",
+    "grammarFocus": "polite request",
+    "notes": "Very useful with teachers and classmates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode repetir isso?",
+        "english": "Sorry, can you repeat that?"
+      }
+    ],
+    "tags": ["classroom", "help", "listening"]
+  },
+  {
+    "id": "23-esl-a1a2-005",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not understand this exercise.",
+    "portuguese": "N\u00e3o percebo este exerc\u00edcio.",
+    "pronunciationNote": "nown pehr-SEH-boo ESH-t eh-zehr-SEE-see-oo",
+    "grammarFocus": "saying you do not understand",
+    "notes": "Useful in study contexts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda n\u00e3o percebo este exerc\u00edcio.",
+        "english": "I still do not understand this exercise."
+      }
+    ],
+    "tags": ["exercise", "help", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-006",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do you say this in Portuguese?",
+    "portuguese": "Como \u00e9 que se diz isto em portugu\u00eas?",
+    "pronunciationNote": "KOH-moo eh k s diz EESH-too eng por-too-GUEZ",
+    "grammarFocus": "asking about language",
+    "notes": "Useful for vocabulary building.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como \u00e9 que se diz isto em portugu\u00eas, afinal?",
+        "english": "How do you say this in Portuguese, then?"
+      }
+    ],
+    "tags": ["vocabulary", "translation", "questions"]
+  },
+  {
+    "id": "23-esl-a1a2-007",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you write it on the board?",
+    "portuguese": "Pode escrever no quadro?",
+    "pronunciationNote": "POH-deh esh-kreh-VAIR noo KWA-droo",
+    "grammarFocus": "polite request",
+    "notes": "Useful when you need to see a word written down.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se faz favor, pode escrever no quadro?",
+        "english": "Please, can you write it on the board?"
+      }
+    ],
+    "tags": ["board", "classroom", "help"]
+  },
+  {
+    "id": "23-esl-a1a2-008",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to study more.",
+    "portuguese": "Preciso de estudar mais.",
+    "pronunciationNote": "preh-SEE-zoo d esh-too-DAR mysh",
+    "grammarFocus": "expressing need",
+    "notes": "A simple way to talk about effort.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes do teste, preciso de estudar mais.",
+        "english": "Before the test, I need to study more."
+      }
+    ],
+    "tags": ["study", "effort", "learning"]
+  },
+  {
+    "id": "23-esl-a1a2-009",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I forgot my notebook.",
+    "portuguese": "Esqueci-me do caderno.",
+    "pronunciationNote": "esh-keh-SEE-m doo kah-DER-noo",
+    "grammarFocus": "reflexive verb in the past",
+    "notes": "Useful in class.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje esqueci-me do caderno em casa.",
+        "english": "Today I forgot my notebook at home."
+      }
+    ],
+    "tags": ["notebook", "classroom", "mistakes"]
+  },
+  {
+    "id": "23-esl-a1a2-010",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a pen.",
+    "portuguese": "Preciso de uma caneta.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah kah-NAY-tah",
+    "grammarFocus": "expressing need",
+    "notes": "Basic classroom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para escrever, preciso de uma caneta.",
+        "english": "To write, I need a pen."
+      }
+    ],
+    "tags": ["supplies", "classroom", "objects"]
+  },
+  {
+    "id": "23-esl-a1a2-011",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I borrow a pen?",
+    "portuguese": "Posso pedir uma caneta emprestada?",
+    "pronunciationNote": "POH-soo peh-DEER OO-mah kah-NAY-tah eng-presh-TAH-dah",
+    "grammarFocus": "asking for something borrowed",
+    "notes": "Useful with classmates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, posso pedir uma caneta emprestada?",
+        "english": "Sorry, can I borrow a pen?"
+      }
+    ],
+    "tags": ["borrow", "classroom", "supplies"]
+  },
+  {
+    "id": "23-esl-a1a2-012",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have homework today.",
+    "portuguese": "Tenho trabalhos de casa hoje.",
+    "pronunciationNote": "TEN-yoo trah-BAH-lyoosh d KAH-zah OH-zheh",
+    "grammarFocus": "talking about obligations",
+    "notes": "Standard Portuguese expression for homework.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o posso sair cedo. Tenho trabalhos de casa hoje.",
+        "english": "I cannot go out early. I have homework today."
+      }
+    ],
+    "tags": ["homework", "study", "routine"]
+  },
+  {
+    "id": "23-esl-a1a2-013",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "When is the test?",
+    "portuguese": "Quando \u00e9 o teste?",
+    "pronunciationNote": "KWAN-doo eh oo TESH-t",
+    "grammarFocus": "asking about dates",
+    "notes": "Useful for planning study time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para me organizar, quando \u00e9 o teste?",
+        "english": "To organise myself, when is the test?"
+      }
+    ],
+    "tags": ["test", "dates", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-014",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not ready for the test.",
+    "portuguese": "N\u00e3o estou preparado para o teste.",
+    "pronunciationNote": "nown esh-TOH preh-pah-RAH-doo PAH-rah oo TESH-t",
+    "grammarFocus": "describing readiness",
+    "notes": "Useful when talking about preparation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que ainda n\u00e3o estou preparado para o teste.",
+        "english": "I think I am still not ready for the test."
+      }
+    ],
+    "tags": ["test", "preparation", "feelings"]
+  },
+  {
+    "id": "23-esl-a1a2-015",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need more time.",
+    "portuguese": "Preciso de mais tempo.",
+    "pronunciationNote": "preh-SEE-zoo d mysh TEM-poo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful during exercises and tests.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para acabar este exerc\u00edcio, preciso de mais tempo.",
+        "english": "To finish this exercise, I need more time."
+      }
+    ],
+    "tags": ["time", "study", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-016",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we check the answers?",
+    "portuguese": "Podemos ver as respostas?",
+    "pronunciationNote": "poo-DEH-moosh vair az rresh-POH-shtash",
+    "grammarFocus": "suggestion with podemos",
+    "notes": "Useful after an exercise.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, podemos ver as respostas?",
+        "english": "At the end, can we check the answers?"
+      }
+    ],
+    "tags": ["answers", "classroom", "review"]
+  },
+  {
+    "id": "23-esl-a1a2-017",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I made a mistake.",
+    "portuguese": "Cometi um erro.",
+    "pronunciationNote": "koo-meh-TEE oom EH-rroo",
+    "grammarFocus": "past tense statement",
+    "notes": "Useful when correcting work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui cometi um erro.",
+        "english": "I made a mistake here."
+      }
+    ],
+    "tags": ["mistakes", "correction", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-018",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you correct this for me?",
+    "portuguese": "Pode corrigir isto para mim?",
+    "pronunciationNote": "POH-deh kor-reh-ZHEER EESH-too PAH-rah meeng",
+    "grammarFocus": "polite request",
+    "notes": "Useful with teachers or partners.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tiver tempo, pode corrigir isto para mim?",
+        "english": "When you have time, can you correct this for me?"
+      }
+    ],
+    "tags": ["correction", "writing", "help"]
+  },
+  {
+    "id": "23-esl-a1a2-019",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do you spell that?",
+    "portuguese": "Como se soletra isso?",
+    "pronunciationNote": "KOH-moo s soo-LEH-trah EE-soo",
+    "grammarFocus": "asking about spelling",
+    "notes": "Useful for vocabulary and names.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, como se soletra isso?",
+        "english": "Sorry, how do you spell that?"
+      }
+    ],
+    "tags": ["spelling", "vocabulary", "questions"]
+  },
+  {
+    "id": "23-esl-a1a2-020",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please speak more slowly.",
+    "portuguese": "Fale mais devagar, por favor.",
+    "pronunciationNote": "FAH-leh mysh deh-vah-GAR poor fah-VOR",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful in class and outside class.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estou a aprender. Fale mais devagar, por favor.",
+        "english": "I am still learning. Please speak more slowly."
+      }
+    ],
+    "tags": ["listening", "help", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-021",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I study in the evening.",
+    "portuguese": "Estudo \u00e0 noite.",
+    "pronunciationNote": "esh-TOO-doo ah NOY-t",
+    "grammarFocus": "present tense routine",
+    "notes": "Useful for talking about habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Durante a semana, estudo \u00e0 noite.",
+        "english": "During the week, I study in the evening."
+      }
+    ],
+    "tags": ["routine", "study", "time"]
+  },
+  {
+    "id": "23-esl-a1a2-022",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I usually revise at the weekend.",
+    "portuguese": "Normalmente revejo ao fim de semana.",
+    "pronunciationNote": "nor-mal-MEN-t rreh-VEH-zhoo ow feeng d seh-MAH-nah",
+    "grammarFocus": "present tense habit",
+    "notes": "Useful when talking about study routine.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para n\u00e3o esquecer, normalmente revejo ao fim de semana.",
+        "english": "So I do not forget, I usually revise at the weekend."
+      }
+    ],
+    "tags": ["revision", "routine", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-023",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The lesson starts at nine.",
+    "portuguese": "A aula come\u00e7a \u00e0s nove.",
+    "pronunciationNote": "ah OW-lah koo-MEH-sah az NOH-v",
+    "grammarFocus": "talking about schedules",
+    "notes": "Useful for class times.",
+    "exampleSentences": [
+      {
+        "portuguese": "Temos de sair cedo. A aula come\u00e7a \u00e0s nove.",
+        "english": "We have to leave early. The lesson starts at nine."
+      }
+    ],
+    "tags": ["lesson", "time", "schedule"]
+  },
+  {
+    "id": "23-esl-a1a2-024",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The lesson finishes at half past ten.",
+    "portuguese": "A aula acaba \u00e0s dez e meia.",
+    "pronunciationNote": "ah OW-lah ah-KAH-bah az dezh ee MAY-ah",
+    "grammarFocus": "talking about schedules",
+    "notes": "Useful for planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois podemos tomar caf\u00e9. A aula acaba \u00e0s dez e meia.",
+        "english": "Afterwards we can have coffee. The lesson finishes at half past ten."
+      }
+    ],
+    "tags": ["lesson", "time", "schedule"]
+  },
+  {
+    "id": "23-esl-a1a2-025",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to read this text.",
+    "portuguese": "Preciso de ler este texto.",
+    "pronunciationNote": "preh-SEE-zoo d lair ESH-t TESH-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for assignments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a aula, preciso de ler este texto.",
+        "english": "For class, I need to read this text."
+      }
+    ],
+    "tags": ["reading", "text", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-026",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to write a short text.",
+    "portuguese": "Preciso de escrever um texto curto.",
+    "pronunciationNote": "preh-SEE-zoo d esh-kreh-VAIR oom TESH-too KOOR-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for assignments and practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de escrever um texto curto em portugu\u00eas.",
+        "english": "Today I need to write a short text in Portuguese."
+      }
+    ],
+    "tags": ["writing", "assignments", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-027",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This word is new to me.",
+    "portuguese": "Esta palavra \u00e9 nova para mim.",
+    "pronunciationNote": "ESH-tah pah-LAHV-rah eh NOH-vah PAH-rah meeng",
+    "grammarFocus": "describing familiarity",
+    "notes": "Useful when learning vocabulary.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda n\u00e3o a conhecia. Esta palavra \u00e9 nova para mim.",
+        "english": "I did not know it yet. This word is new to me."
+      }
+    ],
+    "tags": ["vocabulary", "learning", "words"]
+  },
+  {
+    "id": "23-esl-a1a2-028",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I know this word already.",
+    "portuguese": "J\u00e1 conhe\u00e7o esta palavra.",
+    "pronunciationNote": "zhah koo-NYEH-soo ESH-tah pah-LAHV-rah",
+    "grammarFocus": "present tense knowledge",
+    "notes": "Useful in revision.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o preciso de a procurar. J\u00e1 conhe\u00e7o esta palavra.",
+        "english": "I do not need to look it up. I already know this word."
+      }
+    ],
+    "tags": ["vocabulary", "revision", "words"]
+  },
+  {
+    "id": "23-esl-a1a2-029",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I use a dictionary?",
+    "portuguese": "Posso usar um dicion\u00e1rio?",
+    "pronunciationNote": "POH-soo oo-ZAR oom dee-see-oh-NAH-ree-oo",
+    "grammarFocus": "asking permission",
+    "notes": "Useful in class and exams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para este exerc\u00edcio, posso usar um dicion\u00e1rio?",
+        "english": "For this exercise, can I use a dictionary?"
+      }
+    ],
+    "tags": ["dictionary", "questions", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-030",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to look this word up.",
+    "portuguese": "Preciso de procurar esta palavra.",
+    "pronunciationNote": "preh-SEE-zoo d proh-koo-RAR ESH-tah pah-LAHV-rah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for independent study.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o sei o significado. Preciso de procurar esta palavra.",
+        "english": "I do not know the meaning. I need to look this word up."
+      }
+    ],
+    "tags": ["dictionary", "vocabulary", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-031",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am practising pronunciation.",
+    "portuguese": "Estou a praticar a pron\u00fancia.",
+    "pronunciationNote": "esh-TOH ah prah-tee-KAR ah proh-NOON-see-ah",
+    "grammarFocus": "present continuous with estar a",
+    "notes": "Useful for speaking practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a praticar a pron\u00fancia em voz alta.",
+        "english": "Today I am practising pronunciation out loud."
+      }
+    ],
+    "tags": ["pronunciation", "speaking", "practice"]
+  },
+  {
+    "id": "23-esl-a1a2-032",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you listen to me?",
+    "portuguese": "Pode ouvir-me?",
+    "pronunciationNote": "POH-deh oo-VEER-m",
+    "grammarFocus": "polite request with object pronoun",
+    "notes": "Useful when asking for speaking feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a treinar. Pode ouvir-me?",
+        "english": "I am practising. Can you listen to me?"
+      }
+    ],
+    "tags": ["speaking", "feedback", "help"]
+  },
+  {
+    "id": "23-esl-a1a2-033",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please say it again.",
+    "portuguese": "Diga isso outra vez, por favor.",
+    "pronunciationNote": "DEE-gah EE-soo OH-trah vez poor fah-VOR",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful for listening practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o ouvi bem. Diga isso outra vez, por favor.",
+        "english": "I did not hear properly. Please say it again."
+      }
+    ],
+    "tags": ["listening", "repetition", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-034",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I ask a question?",
+    "portuguese": "Posso fazer uma pergunta?",
+    "pronunciationNote": "POH-soo fah-ZAIR OO-mah pehr-GOON-tah",
+    "grammarFocus": "asking permission",
+    "notes": "Useful in any learning setting.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de continuar, posso fazer uma pergunta?",
+        "english": "Before continuing, can I ask a question?"
+      }
+    ],
+    "tags": ["questions", "classroom", "help"]
+  },
+  {
+    "id": "23-esl-a1a2-035",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What does this mean?",
+    "portuguese": "O que quer dizer isto?",
+    "pronunciationNote": "oo k kair deh-ZAIR EESH-too",
+    "grammarFocus": "asking about meaning",
+    "notes": "Useful for clarifying language.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o que quer dizer isto?",
+        "english": "Sorry, what does this mean?"
+      }
+    ],
+    "tags": ["meaning", "questions", "vocabulary"]
+  },
+  {
+    "id": "23-esl-a1a2-036",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have to hand this in today.",
+    "portuguese": "Tenho de entregar isto hoje.",
+    "pronunciationNote": "TEN-yoo d en-trreh-GAR EESH-too OH-zheh",
+    "grammarFocus": "obligation with ter de",
+    "notes": "Useful for assignments.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o me posso esquecer. Tenho de entregar isto hoje.",
+        "english": "I cannot forget. I have to hand this in today."
+      }
+    ],
+    "tags": ["assignments", "deadlines", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-037",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "When is the deadline?",
+    "portuguese": "Qual \u00e9 o prazo?",
+    "pronunciationNote": "kwal eh oo PRAH-zoo",
+    "grammarFocus": "asking about deadlines",
+    "notes": "Useful for coursework and forms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para organizar o trabalho, qual \u00e9 o prazo?",
+        "english": "To organise the work, when is the deadline?"
+      }
+    ],
+    "tags": ["deadline", "assignments", "planning"]
+  },
+  {
+    "id": "23-esl-a1a2-038",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to send this by email.",
+    "portuguese": "Preciso de enviar isto por email.",
+    "pronunciationNote": "preh-SEE-zoo d en-vee-AR EESH-too poor ee-MAIL",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for coursework and communication.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de acabar, preciso de enviar isto por email.",
+        "english": "After finishing, I need to send this by email."
+      }
+    ],
+    "tags": ["email", "assignments", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-039",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I missed the class yesterday.",
+    "portuguese": "Faltei \u00e0 aula ontem.",
+    "pronunciationNote": "fal-TAY ah OW-lah ON-teng",
+    "grammarFocus": "past tense with faltar",
+    "notes": "Useful for explaining absence.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ontem faltei \u00e0 aula porque estava doente.",
+        "english": "Yesterday I missed class because I was ill."
+      }
+    ],
+    "tags": ["absence", "class", "past"]
+  },
+  {
+    "id": "23-esl-a1a2-040",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have the notes?",
+    "portuguese": "Tens os apontamentos?",
+    "pronunciationNote": "TENSH ooz ah-pon-tah-MEN-toosh",
+    "grammarFocus": "informal question",
+    "notes": "Useful with classmates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como faltei, tens os apontamentos?",
+        "english": "Since I missed it, do you have the notes?"
+      }
+    ],
+    "tags": ["notes", "classmates", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-041",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you send me the notes?",
+    "portuguese": "Podes enviar-me os apontamentos?",
+    "pronunciationNote": "POH-desh en-vee-AR-m ooz ah-pon-tah-MEN-toosh",
+    "grammarFocus": "informal request with object pronoun",
+    "notes": "Useful with friends and classmates.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o te importas, podes enviar-me os apontamentos?",
+        "english": "If you do not mind, can you send me the notes?"
+      }
+    ],
+    "tags": ["notes", "classmates", "help"]
+  },
+  {
+    "id": "23-esl-a1a2-042",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to improve my listening.",
+    "portuguese": "Quero melhorar a minha compreens\u00e3o oral.",
+    "pronunciationNote": "KEH-roo meh-lyoh-RAR ah MEE-nyah kom-preh-en-SOWN oh-RAL",
+    "grammarFocus": "expressing goals",
+    "notes": "Useful for talking about study aims.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este m\u00eas quero melhorar a minha compreens\u00e3o oral.",
+        "english": "This month I want to improve my listening."
+      }
+    ],
+    "tags": ["goals", "listening", "learning"]
+  },
+  {
+    "id": "23-esl-a1a2-043",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to speak more confidently.",
+    "portuguese": "Quero falar com mais confian\u00e7a.",
+    "pronunciationNote": "KEH-roo fah-LAR kong mysh kon-fee-AN-sah",
+    "grammarFocus": "expressing goals",
+    "notes": "Useful for talking about progress.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com pr\u00e1tica, quero falar com mais confian\u00e7a.",
+        "english": "With practice, I want to speak more confidently."
+      }
+    ],
+    "tags": ["goals", "speaking", "confidence"]
+  },
+  {
+    "id": "23-esl-a1a2-044",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to practise every day.",
+    "portuguese": "Preciso de praticar todos os dias.",
+    "pronunciationNote": "preh-SEE-zoo d prah-tee-KAR TOH-dooz ooz DEE-ash",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for building habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiser melhorar, preciso de praticar todos os dias.",
+        "english": "If I want to improve, I need to practise every day."
+      }
+    ],
+    "tags": ["practice", "routine", "goals"]
+  },
+  {
+    "id": "23-esl-a1a2-045",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This exercise is easy.",
+    "portuguese": "Este exerc\u00edcio \u00e9 f\u00e1cil.",
+    "pronunciationNote": "ESH-t eh-zehr-SEE-see-oo eh FAH-seel",
+    "grammarFocus": "describing difficulty",
+    "notes": "Useful for talking about tasks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, este exerc\u00edcio \u00e9 f\u00e1cil.",
+        "english": "For me, this exercise is easy."
+      }
+    ],
+    "tags": ["difficulty", "exercise", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-046",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This exercise is difficult.",
+    "portuguese": "Este exerc\u00edcio \u00e9 dif\u00edcil.",
+    "pronunciationNote": "ESH-t eh-zehr-SEE-see-oo eh dee-FEE-seel",
+    "grammarFocus": "describing difficulty",
+    "notes": "Useful for talking about tasks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje este exerc\u00edcio \u00e9 dif\u00edcil para mim.",
+        "english": "Today this exercise is difficult for me."
+      }
+    ],
+    "tags": ["difficulty", "exercise", "study"]
+  },
+  {
+    "id": "23-esl-a1a2-047",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need an example.",
+    "portuguese": "Preciso de um exemplo.",
+    "pronunciationNote": "preh-SEE-zoo d oom eh-ZEM-ploo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful when you need clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para perceber melhor, preciso de um exemplo.",
+        "english": "To understand better, I need an example."
+      }
+    ],
+    "tags": ["examples", "help", "learning"]
+  },
+  {
+    "id": "23-esl-a1a2-048",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you give another example?",
+    "portuguese": "Pode dar outro exemplo?",
+    "pronunciationNote": "POH-deh dar OH-troo eh-ZEM-ploo",
+    "grammarFocus": "polite request",
+    "notes": "Useful with teachers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda n\u00e3o percebo bem. Pode dar outro exemplo?",
+        "english": "I still do not quite understand. Can you give another example?"
+      }
+    ],
+    "tags": ["examples", "help", "classroom"]
+  },
+  {
+    "id": "23-esl-a1a2-049",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am making progress.",
+    "portuguese": "Estou a fazer progressos.",
+    "pronunciationNote": "esh-TOH ah fah-ZAIR proh-GREH-soosh",
+    "grammarFocus": "present continuous with estar a",
+    "notes": "Useful for talking positively about learning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Devagar, mas estou a fazer progressos.",
+        "english": "Slowly, but I am making progress."
+      }
+    ],
+    "tags": ["progress", "learning", "motivation"]
+  },
+  {
+    "id": "23-esl-a1a2-050",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I still have a lot to learn.",
+    "portuguese": "Ainda tenho muito para aprender.",
+    "pronunciationNote": "een-DAH TEN-yoo MOO-too PAH-rah ah-prehn-DAYR",
+    "grammarFocus": "talking about ongoing learning",
+    "notes": "Useful for reflecting on progress.",
+    "exampleSentences": [
+      {
+        "portuguese": "J\u00e1 melhorei, mas ainda tenho muito para aprender.",
+        "english": "I have already improved, but I still have a lot to learn."
+      }
+    ],
+    "tags": ["progress", "learning", "reflection"]
+  }
+]

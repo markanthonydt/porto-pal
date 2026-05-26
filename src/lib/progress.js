@@ -5,6 +5,7 @@ function createEmptyCardStats() {
     correct: 0,
     incorrect: 0,
     reviewCount: 0,
+    assistedCount: 0,
     correctStreak: 0,
     incorrectStreak: 0,
     lastResult: null,
@@ -12,6 +13,7 @@ function createEmptyCardStats() {
     lastReviewedAt: null,
     lastCorrectAt: null,
     lastIncorrectAt: null,
+    lastAssistedAt: null,
     nextReviewAt: null,
     proficiency: 0,
   };
@@ -178,11 +180,13 @@ export function recordAnswer(progress, item, isCorrect, details = {}) {
       ? progress.streak + 1
       : 1;
   const existingStats = getCardStats(progress, item.id);
+  const wasAssisted = Boolean(details.assisted);
   const nextStats = {
     ...existingStats,
     correct: existingStats.correct + (isCorrect ? 1 : 0),
     incorrect: existingStats.incorrect + (isCorrect ? 0 : 1),
     reviewCount: existingStats.reviewCount + 1,
+    assistedCount: existingStats.assistedCount + (wasAssisted ? 1 : 0),
     correctStreak: isCorrect ? existingStats.correctStreak + 1 : 0,
     incorrectStreak: isCorrect ? 0 : existingStats.incorrectStreak + 1,
     lastResult: isCorrect ? 'correct' : 'incorrect',
@@ -190,6 +194,7 @@ export function recordAnswer(progress, item, isCorrect, details = {}) {
     lastReviewedAt: reviewedAt,
     lastCorrectAt: isCorrect ? reviewedAt : existingStats.lastCorrectAt,
     lastIncorrectAt: isCorrect ? existingStats.lastIncorrectAt : reviewedAt,
+    lastAssistedAt: wasAssisted ? reviewedAt : existingStats.lastAssistedAt,
     nextReviewAt: calculateNextReviewAt(existingStats, isCorrect, reviewedAt),
     proficiency: Math.max(-5, Math.min(10, existingStats.proficiency + (isCorrect ? 1 : -2))),
     portuguese: item.portuguese,

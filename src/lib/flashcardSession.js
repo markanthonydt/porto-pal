@@ -29,6 +29,12 @@ export const modes = [
 ];
 
 export const levelBands = ['A1-A2', 'B1-B2'];
+export const reviewSetExerciseModes = [
+  'multiple-choice-en-pt',
+  'multiple-choice-pt-en',
+  'translate-en-pt',
+  'translate-pt-en',
+];
 
 function shuffle(items) {
   return [...items].sort(() => Math.random() - 0.5);
@@ -169,6 +175,22 @@ export function buildPromptConfig(card, mode, index) {
     expected: card.english,
     expectedLanguage: 'english',
   };
+}
+
+export function buildReviewSetExerciseMap(cards) {
+  if (!Array.isArray(cards) || cards.length === 0) {
+    return {};
+  }
+
+  return cards.reduce((map, card) => {
+    const randomMode =
+      reviewSetExerciseModes[Math.floor(Math.random() * reviewSetExerciseModes.length)];
+
+    return {
+      ...map,
+      [card.id]: randomMode,
+    };
+  }, {});
 }
 
 export function buildMultipleChoiceOptions(card, selectedSet, promptConfig) {

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "23-esl-b1b2-001",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I learn best when I can use the language in real situations.",
+    "portuguese": "Aprendo melhor quando consigo usar a l\u00edngua em situa\u00e7\u00f5es reais.",
+    "pronunciationNote": "ah-PREN-doo meh-LYOR KWAN-doo kon-SEE-goo oo-ZAR ah LEEN-gwah eng see-too-ah-SOYNH rreh-AISH",
+    "grammarFocus": "present tense with quando clause",
+    "notes": "Useful for explaining your learning style.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de decorar listas, aprendo melhor quando consigo usar a l\u00edngua em situa\u00e7\u00f5es reais.",
+        "english": "Instead of memorising lists, I learn best when I can use the language in real situations."
+      }
+    ],
+    "tags": ["learning style", "study", "reflection"]
+  },
+  {
+    "id": "23-esl-b1b2-002",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to work on my listening comprehension.",
+    "portuguese": "Preciso de trabalhar a minha compreens\u00e3o oral.",
+    "pronunciationNote": "preh-SEE-zoo d trah-bah-LYAR ah MEE-nyah kom-preh-en-SOWN oh-RAL",
+    "grammarFocus": "expressing need with trabalhar",
+    "notes": "Useful for describing specific weaknesses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Consigo ler bastante bem, mas preciso de trabalhar a minha compreens\u00e3o oral.",
+        "english": "I can read quite well, but I need to work on my listening comprehension."
+      }
+    ],
+    "tags": ["listening", "weaknesses", "study"]
+  },
+  {
+    "id": "23-esl-b1b2-003",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I lose track when too many new words appear at once.",
+    "portuguese": "Perco-me quando aparecem demasiadas palavras novas ao mesmo tempo.",
+    "pronunciationNote": "PAIR-koo-m KWAN-doo ah-pah-REH-seng deh-mah-ZYAH-dash pah-LAHV-rash NOH-vash ow MAY-zmoo TEM-poo",
+    "grammarFocus": "describing difficulty with quando",
+    "notes": "Useful for describing a common learning problem.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos podcasts mais r\u00e1pidos, perco-me quando aparecem demasiadas palavras novas ao mesmo tempo.",
+        "english": "In faster podcasts, I lose track when too many new words appear at once."
+      }
+    ],
+    "tags": ["vocabulary", "listening", "difficulties"]
+  },
+  {
+    "id": "23-esl-b1b2-004",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you give us a more natural example?",
+    "portuguese": "Podia dar-nos um exemplo mais natural?",
+    "pronunciationNote": "POH-dee-ah dar-noosh oom eh-ZEM-ploo mysh nah-too-RAL",
+    "grammarFocus": "polite request with conditional",
+    "notes": "Useful when textbook examples feel unnatural.",
+    "exampleSentences": [
+      {
+        "portuguese": "Percebo a regra, mas podia dar-nos um exemplo mais natural?",
+        "english": "I understand the rule, but could you give us a more natural example?"
+      }
+    ],
+    "tags": ["examples", "classroom", "natural language"]
+  },
+  {
+    "id": "23-esl-b1b2-005",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand the rule, but I struggle to apply it in conversation.",
+    "portuguese": "Percebo a regra, mas tenho dificuldade em aplic\u00e1-la na conversa.",
+    "pronunciationNote": "pehr-SEH-boo ah RREH-grah mash TEN-yoo dee-fee-kool-DAH-d eng ah-plee-KAH-lah nah kon-VER-sah",
+    "grammarFocus": "contrast with mas and object pronoun",
+    "notes": "Useful for describing the gap between theory and practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos exerc\u00edcios corre bem, mas percebo a regra e tenho dificuldade em aplic\u00e1-la na conversa.",
+        "english": "It goes well in exercises, but although I understand the rule, I struggle to apply it in conversation."
+      }
+    ],
+    "tags": ["grammar", "conversation", "difficulties"]
+  },
+  {
+    "id": "23-esl-b1b2-006",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather practise speaking than do another worksheet.",
+    "portuguese": "Preferia praticar a express\u00e3o oral em vez de fazer outra ficha.",
+    "pronunciationNote": "preh-feh-REE-ah prah-tee-KAR ah ekspreh-SOWN oh-RAL eng vesh d fah-ZAIR OH-trah FEE-shah",
+    "grammarFocus": "conditional for preference",
+    "notes": "Useful for suggesting a different activity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preferia praticar a express\u00e3o oral em vez de fazer outra ficha.",
+        "english": "Today I would rather practise speaking than do another worksheet."
+      }
+    ],
+    "tags": ["preferences", "speaking", "classroom"]
+  },
+  {
+    "id": "23-esl-b1b2-007",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This explanation makes sense now that I have seen it in context.",
+    "portuguese": "Esta explica\u00e7\u00e3o faz sentido agora que a vi em contexto.",
+    "pronunciationNote": "ESH-tah eks-plee-kah-SOWN faz sen-TEE-doo ah-GOH-rah k ah vee eng kon-TESH-too",
+    "grammarFocus": "past reference with agora que",
+    "notes": "Useful when something finally clicks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos exemplos isolados eu n\u00e3o percebia, mas esta explica\u00e7\u00e3o faz sentido agora que a vi em contexto.",
+        "english": "I did not understand it in isolated examples, but this explanation makes sense now that I have seen it in context."
+      }
+    ],
+    "tags": ["understanding", "grammar", "context"]
+  },
+  {
+    "id": "23-esl-b1b2-008",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I keep mixing these two tenses up.",
+    "portuguese": "Continuo a confundir estes dois tempos verbais.",
+    "pronunciationNote": "kon-tee-NOO ah kong-foon-DEER ESH-tsh doish TEM-poosh vehr-BAISH",
+    "grammarFocus": "continuo a + infinitive",
+    "notes": "Useful for grammar problems that persist.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo depois de praticar, continuo a confundir estes dois tempos verbais.",
+        "english": "Even after practising, I keep mixing these two tenses up."
+      }
+    ],
+    "tags": ["grammar", "tenses", "difficulties"]
+  },
+  {
+    "id": "23-esl-b1b2-009",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to record this part of the lesson?",
+    "portuguese": "Seria poss\u00edvel gravar esta parte da aula?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel grah-VAR ESH-tah PAR-t dah OW-lah",
+    "grammarFocus": "polite conditional question",
+    "notes": "Useful when you want to review something later.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como esta parte \u00e9 importante, seria poss\u00edvel gravar esta parte da aula?",
+        "english": "Since this part is important, would it be possible to record this part of the lesson?"
+      }
+    ],
+    "tags": ["lesson", "recording", "polite requests"]
+  },
+  {
+    "id": "23-esl-b1b2-010",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can usually follow the lesson, but I miss some of the details.",
+    "portuguese": "Normalmente consigo acompanhar a aula, mas falham-me alguns pormenores.",
+    "pronunciationNote": "nor-mal-MEN-t kon-SEE-goo ah-kom-pah-NYAR ah OW-lah mash fal-yang-m ah-GOONSH por-meh-NOR-sh",
+    "grammarFocus": "contrast and object pronoun",
+    "notes": "Useful for describing partial comprehension.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se falam depressa, normalmente consigo acompanhar a aula, mas falham-me alguns pormenores.",
+        "english": "If they speak quickly, I can usually follow the lesson, but I miss some of the details."
+      }
+    ],
+    "tags": ["listening", "detail", "classroom"]
+  },
+  {
+    "id": "23-esl-b1b2-011",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need feedback that is more specific than just right or wrong.",
+    "portuguese": "Preciso de coment\u00e1rios mais espec\u00edficos do que apenas certo ou errado.",
+    "pronunciationNote": "preh-SEE-zoo d koh-men-TAH-ree-oosh mysh esh-peh-SEE-fee-koosh doo k ah-peh-NASH SAIR-too oo eh-RRAH-doo",
+    "grammarFocus": "comparative structure",
+    "notes": "Useful when you want better correction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para melhorar a escrita, preciso de coment\u00e1rios mais espec\u00edficos do que apenas certo ou errado.",
+        "english": "To improve my writing, I need feedback that is more specific than just right or wrong."
+      }
+    ],
+    "tags": ["feedback", "writing", "improvement"]
+  },
+  {
+    "id": "23-esl-b1b2-012",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I remember words better if I use them in a sentence.",
+    "portuguese": "Memorizo melhor as palavras se as usar numa frase.",
+    "pronunciationNote": "meh-moh-REE-zoo meh-LYOR az pah-LAHV-rash s ahz oo-ZAR NOO-mah FRAH-z",
+    "grammarFocus": "conditional with se",
+    "notes": "Useful for describing study techniques.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de decorar listas, memorizo melhor as palavras se as usar numa frase.",
+        "english": "Instead of memorising lists, I remember words better if I use them in a sentence."
+      }
+    ],
+    "tags": ["memory", "vocabulary", "study techniques"]
+  },
+  {
+    "id": "23-esl-b1b2-013",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This assignment is more time-consuming than I expected.",
+    "portuguese": "Este trabalho d\u00e1 mais trabalho do que eu esperava.",
+    "pronunciationNote": "ESH-t trah-BAH-lyoo dah mysh trah-BAH-lyoo doo k eh-oo esh-peh-RAH-vah",
+    "grammarFocus": "comparison with do que",
+    "notes": "A natural phrase for saying something takes effort.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como tamb\u00e9m exige pesquisa, este trabalho d\u00e1 mais trabalho do que eu esperava.",
+        "english": "Since it also requires research, this assignment is more time-consuming than I expected."
+      }
+    ],
+    "tags": ["assignments", "time", "expectations"]
+  },
+  {
+    "id": "23-esl-b1b2-014",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been putting this off because I was not sure how to start.",
+    "portuguese": "Andei a adiar isto porque n\u00e3o tinha a certeza de como come\u00e7ar.",
+    "pronunciationNote": "an-DAY ah ah-dee-AR EESH-too por-k nown TEEN-yah ah tehr-TEH-zah d KOH-moo koo-meh-SAR",
+    "grammarFocus": "andei a + infinitive",
+    "notes": "Useful for admitting procrastination.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para ser sincero, andei a adiar isto porque n\u00e3o tinha a certeza de como come\u00e7ar.",
+        "english": "To be honest, I have been putting this off because I was not sure how to start."
+      }
+    ],
+    "tags": ["assignments", "time management", "reflection"]
+  },
+  {
+    "id": "23-esl-b1b2-015",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we go over that point once more?",
+    "portuguese": "Pod\u00edamos voltar a esse ponto mais uma vez?",
+    "pronunciationNote": "poo-DEE-ah-moosh vol-TAR ah EH-s pooing-too mysh OO-mah vez",
+    "grammarFocus": "polite suggestion in the conditional",
+    "notes": "Useful in group classes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de passar \u00e0 frente, pod\u00edamos voltar a esse ponto mais uma vez?",
+        "english": "Before moving on, could we go over that point once more?"
+      }
+    ],
+    "tags": ["revision", "classroom", "clarification"]
+  },
+  {
+    "id": "23-esl-b1b2-016",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to rely less on translation.",
+    "portuguese": "Estou a tentar depender menos da tradu\u00e7\u00e3o.",
+    "pronunciationNote": "esh-TOH ah ten-TAR deh-pen-DER MEN-oosh dah trah-doo-SOWN",
+    "grammarFocus": "present continuous with gradual change",
+    "notes": "Useful for talking about learning strategies.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para pensar mais depressa, estou a tentar depender menos da tradu\u00e7\u00e3o.",
+        "english": "To think faster, I am trying to rely less on translation."
+      }
+    ],
+    "tags": ["translation", "strategies", "learning"]
+  },
+  {
+    "id": "23-esl-b1b2-017",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This wording sounds too literal to me.",
+    "portuguese": "Esta formula\u00e7\u00e3o soa-me demasiado literal.",
+    "pronunciationNote": "ESH-tah for-moo-lah-SOWN SOH-ah-m deh-mah-ZYAH-doo lee-teh-RAL",
+    "grammarFocus": "soa-me construction",
+    "notes": "Useful for discussing style and nuance.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez esteja correta, mas esta formula\u00e7\u00e3o soa-me demasiado literal.",
+        "english": "It may be correct, but this wording sounds too literal to me."
+      }
+    ],
+    "tags": ["translation", "style", "nuance"]
+  },
+  {
+    "id": "23-esl-b1b2-018",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What would sound more natural here?",
+    "portuguese": "O que soaria mais natural aqui?",
+    "pronunciationNote": "oo k soh-ah-REE-ah mysh nah-too-RAL ah-KEE",
+    "grammarFocus": "conditional for nuance",
+    "notes": "Useful for asking about natural phrasing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se eu quisesse dizer isto como um nativo, o que soaria mais natural aqui?",
+        "english": "If I wanted to say this like a native speaker, what would sound more natural here?"
+      }
+    ],
+    "tags": ["natural language", "questions", "style"]
+  },
+  {
+    "id": "23-esl-b1b2-019",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can understand much more than I can say.",
+    "portuguese": "Consigo perceber muito mais do que consigo dizer.",
+    "pronunciationNote": "kon-SEE-goo pehr-seh-BER MOO-too mysh doo k kon-SEE-goo deh-ZAIR",
+    "grammarFocus": "comparative with do que",
+    "notes": "Useful for describing receptive versus active ability.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando o tema me \u00e9 familiar, consigo perceber muito mais do que consigo dizer.",
+        "english": "When the topic is familiar to me, I can understand much more than I can say."
+      }
+    ],
+    "tags": ["speaking", "listening", "self-assessment"]
+  },
+  {
+    "id": "23-esl-b1b2-020",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need more opportunities to speak without preparing in advance.",
+    "portuguese": "Preciso de mais oportunidades para falar sem preparar tudo de antem\u00e3o.",
+    "pronunciationNote": "preh-SEE-zoo d mysh oh-por-too-nee-dah-DESH PAH-rah fah-LAR seng preh-pah-RAR TOO-doo d an-teh-MOWN",
+    "grammarFocus": "expressing need and purpose",
+    "notes": "Useful for talking about spontaneous speaking practice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nas aulas consigo responder, mas preciso de mais oportunidades para falar sem preparar tudo de antem\u00e3o.",
+        "english": "In class I can answer, but I need more opportunities to speak without preparing everything in advance."
+      }
+    ],
+    "tags": ["speaking", "practice", "spontaneity"]
+  },
+  {
+    "id": "23-esl-b1b2-021",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to build a steadier study routine.",
+    "portuguese": "Estou a tentar criar uma rotina de estudo mais consistente.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kree-AR OO-mah rroh-TEE-nah d esh-TOO-doo mysh kon-seesh-TEN-t",
+    "grammarFocus": "present continuous with goals",
+    "notes": "Useful for talking about habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de estudar s\u00f3 de vez em quando, estou a tentar criar uma rotina de estudo mais consistente.",
+        "english": "Instead of studying only now and then, I am trying to build a steadier study routine."
+      }
+    ],
+    "tags": ["routine", "habits", "study"]
+  },
+  {
+    "id": "23-esl-b1b2-022",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It helps when the corrections explain why something is wrong.",
+    "portuguese": "Ajuda quando as corre\u00e7\u00f5es explicam porque \u00e9 que algo est\u00e1 errado.",
+    "pronunciationNote": "ah-ZHOO-dah KWAN-doo az koh-rreh-SOYNH eks-plee-KANG por-k eh k AL-goo esh-TAH eh-RRAH-doo",
+    "grammarFocus": "subordinate clause with porque \u00e9 que",
+    "notes": "Useful when discussing teaching methods.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para eu n\u00e3o repetir o erro, ajuda quando as corre\u00e7\u00f5es explicam porque \u00e9 que algo est\u00e1 errado.",
+        "english": "So I do not repeat the mistake, it helps when corrections explain why something is wrong."
+      }
+    ],
+    "tags": ["feedback", "correction", "learning"]
+  },
+  {
+    "id": "23-esl-b1b2-023",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have improved, but I am still not as fluent as I would like.",
+    "portuguese": "Melhorei, mas ainda n\u00e3o sou t\u00e3o fluente como gostaria.",
+    "pronunciationNote": "meh-lyoh-RAY mash een-DAH nown soh town floo-EN-t KOH-moo goosh-tah-REE-ah",
+    "grammarFocus": "comparison with t\u00e3o ... como",
+    "notes": "Useful for balanced self-assessment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Perco menos tempo a pensar, mas melhorei e ainda n\u00e3o sou t\u00e3o fluente como gostaria.",
+        "english": "I spend less time thinking, but although I have improved, I am still not as fluent as I would like."
+      }
+    ],
+    "tags": ["fluency", "progress", "reflection"]
+  },
+  {
+    "id": "23-esl-b1b2-024",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This chapter is dense, so I need to read it twice.",
+    "portuguese": "Este cap\u00edtulo \u00e9 denso, por isso preciso de o ler duas vezes.",
+    "pronunciationNote": "ESH-t kah-PEE-too-loo eh DEN-soo poor EE-soo preh-SEE-zoo d oo lair DOO-ash VAY-zesh",
+    "grammarFocus": "cause and object pronoun placement",
+    "notes": "Useful for talking about reading difficulty.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como introduz muitos conceitos novos, este cap\u00edtulo \u00e9 denso, por isso preciso de o ler duas vezes.",
+        "english": "Since it introduces many new concepts, this chapter is dense, so I need to read it twice."
+      }
+    ],
+    "tags": ["reading", "textbooks", "study"]
+  },
+  {
+    "id": "23-esl-b1b2-025",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I learn more from short, regular sessions than from long cram sessions.",
+    "portuguese": "Aprendo mais com sess\u00f5es curtas e regulares do que com maratonas de estudo.",
+    "pronunciationNote": "ah-PREN-doo mysh kong seh-SOYNH KOOR-tash ee rreh-goo-LAH-rash doo k kong mah-rah-TOH-nash d esh-TOO-doo",
+    "grammarFocus": "comparison with do que",
+    "notes": "Useful for discussing study habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, aprendo mais com sess\u00f5es curtas e regulares do que com maratonas de estudo.",
+        "english": "For me, I learn more from short, regular sessions than from long cram sessions."
+      }
+    ],
+    "tags": ["study habits", "routine", "learning"]
+  },
+  {
+    "id": "23-esl-b1b2-026",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to focus more on vocabulary related to everyday life.",
+    "portuguese": "Gostava de me concentrar mais no vocabul\u00e1rio ligado ao quotidiano.",
+    "pronunciationNote": "goosh-TAH-vah d m kong-sen-TRAR mysh noo voh-kah-boo-LAH-ree-oo lee-GAH-doo ow koh-tee-dee-AH-noo",
+    "grammarFocus": "conditional for preference",
+    "notes": "Useful for shaping course content.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como vivo c\u00e1, gostava de me concentrar mais no vocabul\u00e1rio ligado ao quotidiano.",
+        "english": "Since I live here, I would like to focus more on vocabulary related to everyday life."
+      }
+    ],
+    "tags": ["vocabulary", "preferences", "course content"]
+  },
+  {
+    "id": "23-esl-b1b2-027",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The hardest part is turning passive knowledge into active use.",
+    "portuguese": "A parte mais dif\u00edcil \u00e9 transformar conhecimento passivo em uso ativo.",
+    "pronunciationNote": "ah PAR-t mysh dee-FEE-seel eh trans-for-MAR koo-nyeh-see-MEN-too pah-SEE-voo eng OO-zoo AH-tee-voo",
+    "grammarFocus": "describing difficulty",
+    "notes": "Useful for reflecting on language learning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sei muitas palavras, mas a parte mais dif\u00edcil \u00e9 transformar conhecimento passivo em uso ativo.",
+        "english": "I know many words, but the hardest part is turning passive knowledge into active use."
+      }
+    ],
+    "tags": ["learning", "reflection", "speaking"]
+  },
+  {
+    "id": "23-esl-b1b2-028",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend something to read at my level?",
+    "portuguese": "Podia recomendar-me algo para ler ao meu n\u00edvel?",
+    "pronunciationNote": "POH-dee-ah rreh-ko-men-DAR-m AL-goo PAH-rah lair ow may-oo NEE-vel",
+    "grammarFocus": "polite request with indirect object pronoun",
+    "notes": "Useful when asking for resources.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ler mais fora das aulas. Podia recomendar-me algo para ler ao meu n\u00edvel?",
+        "english": "I wanted to read more outside class. Could you recommend something to read at my level?"
+      }
+    ],
+    "tags": ["reading", "resources", "recommendations"]
+  },
+  {
+    "id": "23-esl-b1b2-029",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to get used to the European Portuguese accent.",
+    "portuguese": "Estou a tentar habituar-me ao sotaque do portugu\u00eas europeu.",
+    "pronunciationNote": "esh-TOH ah ten-TAR ah-bee-too-AR-m ow soh-TAK doo por-too-GUEZ eh-oo-roh-PAI-oo",
+    "grammarFocus": "reflexive verb habituar-se",
+    "notes": "Useful for this specific app's focus.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como antes ouvia mais brasileiro, estou a tentar habituar-me ao sotaque do portugu\u00eas europeu.",
+        "english": "Since I used to hear more Brazilian Portuguese, I am trying to get used to the European Portuguese accent."
+      }
+    ],
+    "tags": ["accent", "listening", "european portuguese"]
+  },
+  {
+    "id": "23-esl-b1b2-030",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It takes me a while to process longer sentences.",
+    "portuguese": "Levo algum tempo a processar frases mais longas.",
+    "pronunciationNote": "LEH-voh al-GOONG TEM-poo ah proh-seh-SAR FRAH-zesh mysh LONG-gash",
+    "grammarFocus": "levar tempo a + infinitive",
+    "notes": "Useful for explaining processing difficulty.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando falam depressa, levo algum tempo a processar frases mais longas.",
+        "english": "When people speak quickly, it takes me a while to process longer sentences."
+      }
+    ],
+    "tags": ["listening", "processing", "difficulties"]
+  },
+  {
+    "id": "23-esl-b1b2-031",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would find it useful to have more speaking pair work.",
+    "portuguese": "Acharia \u00fatil haver mais trabalho em pares para falar.",
+    "pronunciationNote": "ah-shah-REE-ah OO-teel ah-VAIR mysh trah-BAH-lyoo eng PAI-resh PAH-rah fah-LAR",
+    "grammarFocus": "conditional for suggestion",
+    "notes": "Useful for feedback about classes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para praticarmos mais, acharia \u00fatil haver mais trabalho em pares para falar.",
+        "english": "So that we can practise more, I would find it useful to have more speaking pair work."
+      }
+    ],
+    "tags": ["classes", "feedback", "speaking"]
+  },
+  {
+    "id": "23-esl-b1b2-032",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to hesitate when I have to improvise.",
+    "portuguese": "Costumo hesitar quando tenho de improvisar.",
+    "pronunciationNote": "koosh-TOO-moo eh-zee-TAR KWAN-doo TEN-yoo d eem-proh-vee-ZAR",
+    "grammarFocus": "habitual action",
+    "notes": "Useful for explaining speaking anxiety.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se n\u00e3o preparei o tema antes, costumo hesitar quando tenho de improvisar.",
+        "english": "If I have not prepared the topic beforehand, I tend to hesitate when I have to improvise."
+      }
+    ],
+    "tags": ["speaking", "confidence", "improvisation"]
+  },
+  {
+    "id": "23-esl-b1b2-033",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to stop translating word for word in my head.",
+    "portuguese": "Preciso de deixar de traduzir palavra por palavra na minha cabe\u00e7a.",
+    "pronunciationNote": "preh-SEE-zoo d day-SHAR d trah-doo-ZEER pah-LAHV-rah poor pah-LAHV-rah nah MEE-nyah kah-BEH-sah",
+    "grammarFocus": "deixar de + infinitive",
+    "notes": "Useful for describing a common learner habit.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para falar com mais naturalidade, preciso de deixar de traduzir palavra por palavra na minha cabe\u00e7a.",
+        "english": "To speak more naturally, I need to stop translating word for word in my head."
+      }
+    ],
+    "tags": ["translation", "speaking", "habits"]
+  },
+  {
+    "id": "23-esl-b1b2-034",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This course has helped me become more consistent.",
+    "portuguese": "Este curso ajudou-me a ser mais consistente.",
+    "pronunciationNote": "ESH-t KOOR-soo ah-zhoo-DOW-m ah sair mysh kon-seesh-TEN-t",
+    "grammarFocus": "past tense with object pronoun",
+    "notes": "Useful for course feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes estudava sem rotina, mas este curso ajudou-me a ser mais consistente.",
+        "english": "Before, I studied without a routine, but this course has helped me become more consistent."
+      }
+    ],
+    "tags": ["course feedback", "routine", "progress"]
+  },
+  {
+    "id": "23-esl-b1b2-035",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I still need time to formulate my ideas before I speak.",
+    "portuguese": "Ainda preciso de tempo para formular as minhas ideias antes de falar.",
+    "pronunciationNote": "een-DAH preh-SEE-zoo d TEM-poo PAH-rah for-moo-LAR az MEE-nyash ee-DAY-ash AN-tesh d fah-LAR",
+    "grammarFocus": "purpose with para",
+    "notes": "Useful for describing speaking pace.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo quando conhe\u00e7o o vocabul\u00e1rio, ainda preciso de tempo para formular as minhas ideias antes de falar.",
+        "english": "Even when I know the vocabulary, I still need time to formulate my ideas before I speak."
+      }
+    ],
+    "tags": ["speaking", "fluency", "thinking time"]
+  },
+  {
+    "id": "23-esl-b1b2-036",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What matters most to me is being able to handle everyday conversations.",
+    "portuguese": "O que mais me importa \u00e9 conseguir lidar com conversas do dia a dia.",
+    "pronunciationNote": "oo k mysh m eem-POR-tah eh kon-seh-GEER lee-DAR kong kon-VER-sash doo DEE-ah ah DEE-ah",
+    "grammarFocus": "cleft-style emphasis",
+    "notes": "Useful for explaining your practical goals.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o procuro perfei\u00e7\u00e3o. O que mais me importa \u00e9 conseguir lidar com conversas do dia a dia.",
+        "english": "I am not looking for perfection. What matters most to me is being able to handle everyday conversations."
+      }
+    ],
+    "tags": ["goals", "conversation", "practical language"]
+  },
+  {
+    "id": "23-esl-b1b2-037",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am more confident reading than speaking.",
+    "portuguese": "Sinto-me mais confiante a ler do que a falar.",
+    "pronunciationNote": "SEEN-too-m mysh kon-fee-AN-t ah lair doo k ah fah-LAR",
+    "grammarFocus": "comparative structure",
+    "notes": "Useful for comparing skills.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como tenho mais tempo para pensar, sinto-me mais confiante a ler do que a falar.",
+        "english": "Since I have more time to think, I am more confident reading than speaking."
+      }
+    ],
+    "tags": ["confidence", "reading", "speaking"]
+  },
+  {
+    "id": "23-esl-b1b2-038",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather review fewer words properly than rush through a long list.",
+    "portuguese": "Preferia rever menos palavras em condi\u00e7\u00f5es do que despachar uma lista longa \u00e0 pressa.",
+    "pronunciationNote": "preh-feh-REE-ah rreh-VAIR MEN-oosh pah-LAHV-rash eng kon-dee-SOYNH doo k desh-pah-SHAR OO-mah LEESH-tah LONG-gah ah PREH-sah",
+    "grammarFocus": "preference and comparison",
+    "notes": "Useful for discussing study quality over quantity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para fixar melhor, preferia rever menos palavras em condi\u00e7\u00f5es do que despachar uma lista longa \u00e0 pressa.",
+        "english": "To retain them better, I would rather review fewer words properly than rush through a long list."
+      }
+    ],
+    "tags": ["vocabulary", "study habits", "preferences"]
+  },
+  {
+    "id": "23-esl-b1b2-039",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I do not revise regularly, I forget things surprisingly quickly.",
+    "portuguese": "Se n\u00e3o revejo com regularidade, esque\u00e7o-me das coisas mais depressa do que esperava.",
+    "pronunciationNote": "s nown rreh-VEH-zhoo kong rreh-goo-lah-ree-DAH-d, esh-keh-SOO-m dash KOY-zash mysh deh-PREH-sah doo k esh-peh-RAH-vah",
+    "grammarFocus": "conditional with se and comparison",
+    "notes": "Useful for describing memory and revision.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo quando acho que j\u00e1 sei, se n\u00e3o revejo com regularidade, esque\u00e7o-me das coisas mais depressa do que esperava.",
+        "english": "Even when I think I know them already, if I do not revise regularly, I forget things surprisingly quickly."
+      }
+    ],
+    "tags": ["revision", "memory", "study habits"]
+  },
+  {
+    "id": "23-esl-b1b2-040",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This feedback is useful because it points to patterns in my mistakes.",
+    "portuguese": "Este feedback \u00e9 \u00fatil porque aponta para padr\u00f5es nos meus erros.",
+    "pronunciationNote": "ESH-t FEED-bak eh OO-teel por-k ah-POON-tah PAH-rah pah-DROYNH noosh may-oosh EH-rroosh",
+    "grammarFocus": "cause with porque",
+    "notes": "Useful for discussing detailed correction.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o corrige s\u00f3 um exerc\u00edcio. Este feedback \u00e9 \u00fatil porque aponta para padr\u00f5es nos meus erros.",
+        "english": "It does not just correct one exercise. This feedback is useful because it points to patterns in my mistakes."
+      }
+    ],
+    "tags": ["feedback", "mistakes", "patterns"]
+  },
+  {
+    "id": "23-esl-b1b2-041",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to sound less rehearsed and more spontaneous.",
+    "portuguese": "Estou a tentar soar menos ensaiado e mais espont\u00e2neo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR soh-AR MEN-oosh en-sah-YAH-doo ee mysh esh-pon-TAH-neh-oo",
+    "grammarFocus": "present continuous with contrast",
+    "notes": "Useful when talking about speaking style.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando preparo demasiado, noto isso. Estou a tentar soar menos ensaiado e mais espont\u00e2neo.",
+        "english": "When I prepare too much, I notice it. I am trying to sound less rehearsed and more spontaneous."
+      }
+    ],
+    "tags": ["speaking", "style", "fluency"]
+  },
+  {
+    "id": "23-esl-b1b2-042",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would benefit from more tasks that reflect real-life situations.",
+    "portuguese": "Faria-me bem ter mais tarefas que reflitam situa\u00e7\u00f5es da vida real.",
+    "pronunciationNote": "fah-REE-ah-m beng tair mysh TAR-fash k rreh-FLEE-tang see-too-ah-SOYNH dah VEE-dah rreh-AL",
+    "grammarFocus": "conditional and subjunctive nuance",
+    "notes": "Useful for course feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o meu caso, faria-me bem ter mais tarefas que reflitam situa\u00e7\u00f5es da vida real.",
+        "english": "For my situation, I would benefit from more tasks that reflect real-life situations."
+      }
+    ],
+    "tags": ["course feedback", "real-life language", "tasks"]
+  },
+  {
+    "id": "23-esl-b1b2-043",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to push myself to speak even when I am unsure.",
+    "portuguese": "Preciso de me obrigar a falar mesmo quando n\u00e3o tenho a certeza.",
+    "pronunciationNote": "preh-SEE-zoo d m oh-bree-GAR ah fah-LAR MAY-zmoo KWAN-doo nown TEN-yoo ah tehr-TEH-zah",
+    "grammarFocus": "reflexive obligation",
+    "notes": "Useful for talking about confidence and effort.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se esperar pela frase perfeita, n\u00e3o avan\u00e7o. Preciso de me obrigar a falar mesmo quando n\u00e3o tenho a certeza.",
+        "english": "If I wait for the perfect sentence, I do not move forward. I need to push myself to speak even when I am unsure."
+      }
+    ],
+    "tags": ["confidence", "speaking", "effort"]
+  },
+  {
+    "id": "23-esl-b1b2-044",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I notice the gap between what I recognise and what I can produce.",
+    "portuguese": "Noto a diferen\u00e7a entre aquilo que reconhe\u00e7o e aquilo que consigo produzir.",
+    "pronunciationNote": "NOH-too ah dee-feh-REN-sah en-tr ah-KEE-loo k rreh-koh-NYEH-soo ee ah-KEE-loo k kon-SEE-goo proh-doo-ZEER",
+    "grammarFocus": "relative clauses with aquilo que",
+    "notes": "Useful for talking about receptive and productive knowledge.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao ouvir ou ler, noto a diferen\u00e7a entre aquilo que reconhe\u00e7o e aquilo que consigo produzir.",
+        "english": "When listening or reading, I notice the gap between what I recognise and what I can produce."
+      }
+    ],
+    "tags": ["knowledge", "recognition", "production"]
+  },
+  {
+    "id": "23-esl-b1b2-045",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you point out the mistakes that sound unnatural rather than just incorrect?",
+    "portuguese": "Podia assinalar os erros que soam pouco naturais, e n\u00e3o apenas os que est\u00e3o incorretos?",
+    "pronunciationNote": "POH-dee-ah ah-see-nyah-LAR ooz EH-rroosh k SOH-ang POH-koo nah-too-RAISH, ee nown ah-peh-NASH oosh k esh-TOWN een-koh-RREH-toosh",
+    "grammarFocus": "relative clauses and polite request",
+    "notes": "Useful for advanced correction requests.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para eu soar melhor, podia assinalar os erros que soam pouco naturais, e n\u00e3o apenas os que est\u00e3o incorretos?",
+        "english": "So that I sound better, could you point out the mistakes that sound unnatural rather than just incorrect?"
+      }
+    ],
+    "tags": ["correction", "natural language", "advanced feedback"]
+  },
+  {
+    "id": "23-esl-b1b2-046",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am starting to think directly in Portuguese in some situations.",
+    "portuguese": "Estou a come\u00e7ar a pensar diretamente em portugu\u00eas em algumas situa\u00e7\u00f5es.",
+    "pronunciationNote": "esh-TOH ah koo-meh-SAR ah pen-SAR dee-reh-tah-MEN-t eng por-too-GUEZ eng al-GOO-mash see-too-ah-SOYNH",
+    "grammarFocus": "starting to do something",
+    "notes": "Useful for describing progress.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sobretudo nas rotinas do dia a dia, estou a come\u00e7ar a pensar diretamente em portugu\u00eas em algumas situa\u00e7\u00f5es.",
+        "english": "Especially in everyday routines, I am starting to think directly in Portuguese in some situations."
+      }
+    ],
+    "tags": ["progress", "thinking", "fluency"]
+  },
+  {
+    "id": "23-esl-b1b2-047",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The more I hear it, the more natural it starts to sound.",
+    "portuguese": "Quanto mais o ou\u00e7o, mais natural me come\u00e7a a soar.",
+    "pronunciationNote": "KWAN-too mysh oo OH-soo, mysh nah-too-RAL m koo-MEH-sah ah soh-AR",
+    "grammarFocus": "quanto mais ... mais",
+    "notes": "Useful for describing exposure and familiarity.",
+    "exampleSentences": [
+      {
+        "portuguese": "No in\u00edcio parecia estranho, mas quanto mais o ou\u00e7o, mais natural me come\u00e7a a soar.",
+        "english": "At first it seemed strange, but the more I hear it, the more natural it starts to sound."
+      }
+    ],
+    "tags": ["exposure", "listening", "familiarity"]
+  },
+  {
+    "id": "23-esl-b1b2-048",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to review this before I make the same mistake again.",
+    "portuguese": "Gostava de rever isto antes de voltar a cometer o mesmo erro.",
+    "pronunciationNote": "goosh-TAH-vah d rreh-VAIR EESH-too AN-tesh d vol-TAR ah koh-meh-TEER oo MAY-zmoo EH-rroo",
+    "grammarFocus": "conditional preference with antes de",
+    "notes": "Useful after correction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como j\u00e1 me enganei duas vezes, gostava de rever isto antes de voltar a cometer o mesmo erro.",
+        "english": "Since I have already got it wrong twice, I would like to review this before I make the same mistake again."
+      }
+    ],
+    "tags": ["revision", "mistakes", "learning"]
+  },
+  {
+    "id": "23-esl-b1b2-049",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am getting better at noticing patterns on my own.",
+    "portuguese": "Estou a ficar melhor a reparar em padr\u00f5es por mim pr\u00f3prio.",
+    "pronunciationNote": "esh-TOH ah fee-KAR meh-LYOR ah rreh-pah-RAR eng pah-DROYNH poor meeng PROH-pree-oo",
+    "grammarFocus": "ficar melhor a + infinitive",
+    "notes": "Useful for describing growing independence.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes precisava sempre de ajuda, mas agora estou a ficar melhor a reparar em padr\u00f5es por mim pr\u00f3prio.",
+        "english": "Before I always needed help, but now I am getting better at noticing patterns on my own."
+      }
+    ],
+    "tags": ["patterns", "independence", "progress"]
+  },
+  {
+    "id": "23-esl-b1b2-050",
+    "subject": "Education, Study & Learning",
+    "subjectId": "education-study-learning",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know progress is gradual, but I can see that I am moving forward.",
+    "portuguese": "Sei que o progresso \u00e9 gradual, mas vejo que estou a avan\u00e7ar.",
+    "pronunciationNote": "SAY k oo proh-GREH-soo eh grah-doo-AL, mash VAY-zhoo k esh-TOH ah ah-van-SAR",
+    "grammarFocus": "subordinate clauses with que",
+    "notes": "Useful for ending on a reflective, positive note.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem todos os dias correm bem, mas sei que o progresso \u00e9 gradual, e vejo que estou a avan\u00e7ar.",
+        "english": "Not every day goes well, but I know progress is gradual, and I can see that I am moving forward."
+      }
+    ],
+    "tags": ["progress", "motivation", "reflection"]
+  }
+]

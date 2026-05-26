@@ -1,0 +1,952 @@
+[
+  {
+    "id": "21-acps-a1a2-001",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a new coat.",
+    "portuguese": "Preciso de um casaco novo.",
+    "pronunciationNote": "preh-SEE-zoo d oom kah-ZAH-koo NOH-voo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for basic clothing shopping.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o inverno, preciso de um casaco novo.",
+        "english": "For winter, I need a new coat."
+      }
+    ],
+    "tags": ["clothing", "shopping", "needs"]
+  },
+  {
+    "id": "21-acps-a1a2-002",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am looking for a shirt.",
+    "portuguese": "Estou \u00e0 procura de uma camisa.",
+    "pronunciationNote": "esh-TOH ah proh-KOO-rah d OO-mah kah-MEE-zah",
+    "grammarFocus": "saying what you want",
+    "notes": "Useful in shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou \u00e0 procura de uma camisa simples.",
+        "english": "I am looking for a simple shirt."
+      }
+    ],
+    "tags": ["clothing", "shopping", "shirt"]
+  },
+  {
+    "id": "21-acps-a1a2-003",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have this in black?",
+    "portuguese": "Tem isto em preto?",
+    "pronunciationNote": "tem EESH-too eng PREH-too",
+    "grammarFocus": "asking about options",
+    "notes": "Useful for clothing colours.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto deste, mas tem isto em preto?",
+        "english": "I like this one, but do you have it in black?"
+      }
+    ],
+    "tags": ["clothing", "colours", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-004",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a bigger size?",
+    "portuguese": "Tem um tamanho maior?",
+    "pronunciationNote": "tem oom tah-MAN-yoo my-OR",
+    "grammarFocus": "asking about size",
+    "notes": "Useful in shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este \u00e9 pequeno. Tem um tamanho maior?",
+        "english": "This is small. Do you have a bigger size?"
+      }
+    ],
+    "tags": ["size", "shopping", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-005",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a smaller size?",
+    "portuguese": "Tem um tamanho mais pequeno?",
+    "pronunciationNote": "tem oom tah-MAN-yoo mysh peh-KEH-noo",
+    "grammarFocus": "asking about size",
+    "notes": "Useful in shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fica grande. Tem um tamanho mais pequeno?",
+        "english": "It is too big. Do you have a smaller size?"
+      }
+    ],
+    "tags": ["size", "shopping", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-006",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I try this on?",
+    "portuguese": "Posso experimentar isto?",
+    "pronunciationNote": "POH-soo eks-peh-ree-men-TAR EESH-too",
+    "grammarFocus": "asking permission",
+    "notes": "Useful in changing rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de decidir, posso experimentar isto?",
+        "english": "Before deciding, can I try this on?"
+      }
+    ],
+    "tags": ["changing room", "shopping", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-007",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where are the changing rooms?",
+    "portuguese": "Onde s\u00e3o os provadores?",
+    "pronunciationNote": "ON-d sown oosh proh-vah-DOHR-esh",
+    "grammarFocus": "asking about location",
+    "notes": "Useful in clothing shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde s\u00e3o os provadores?",
+        "english": "Excuse me, where are the changing rooms?"
+      }
+    ],
+    "tags": ["changing room", "shops", "location"]
+  },
+  {
+    "id": "21-acps-a1a2-008",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It fits me well.",
+    "portuguese": "Assenta-me bem.",
+    "pronunciationNote": "ah-SEN-tah-m beng",
+    "grammarFocus": "describing fit",
+    "notes": "Useful after trying clothes on.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto deste casaco. Assenta-me bem.",
+        "english": "I like this coat. It fits me well."
+      }
+    ],
+    "tags": ["fit", "clothing", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-009",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too tight.",
+    "portuguese": "Est\u00e1 muito apertado.",
+    "pronunciationNote": "esh-TAH MOOY-too ah-pair-TAH-doo",
+    "grammarFocus": "describing fit",
+    "notes": "Useful for clothes and shoes.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o consigo mexer-me bem. Est\u00e1 muito apertado.",
+        "english": "I cannot move properly. It is too tight."
+      }
+    ],
+    "tags": ["fit", "tight", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-010",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too loose.",
+    "portuguese": "Est\u00e1 muito largo.",
+    "pronunciationNote": "esh-TAH MOOY-too LAR-goo",
+    "grammarFocus": "describing fit",
+    "notes": "Useful for clothes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este vestido est\u00e1 muito largo.",
+        "english": "This dress is too loose."
+      }
+    ],
+    "tags": ["fit", "loose", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-011",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too long.",
+    "portuguese": "\u00c9 demasiado comprido.",
+    "pronunciationNote": "eh deh-mah-zee-AH-doo kom-PREE-doo",
+    "grammarFocus": "describing length",
+    "notes": "Useful for trousers, skirts, and sleeves.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, \u00e9 demasiado comprido.",
+        "english": "For me, it is too long."
+      }
+    ],
+    "tags": ["length", "clothing", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-012",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too short.",
+    "portuguese": "\u00c9 demasiado curto.",
+    "pronunciationNote": "eh deh-mah-zee-AH-doo KOOR-too",
+    "grammarFocus": "describing length",
+    "notes": "Useful for sleeves, trousers, and skirts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estas cal\u00e7as s\u00e3o demasiado curtas.",
+        "english": "These trousers are too short."
+      }
+    ],
+    "tags": ["length", "clothing", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-013",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "These shoes are comfortable.",
+    "portuguese": "Estes sapatos s\u00e3o confort\u00e1veis.",
+    "pronunciationNote": "ESH-tesh sah-PAH-toosh sown kon-for-TAH-veish",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful when shopping for shoes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para andar muito, estes sapatos s\u00e3o confort\u00e1veis.",
+        "english": "For walking a lot, these shoes are comfortable."
+      }
+    ],
+    "tags": ["shoes", "comfort", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-014",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "These shoes hurt my feet.",
+    "portuguese": "Estes sapatos magoam-me os p\u00e9s.",
+    "pronunciationNote": "ESH-tesh sah-PAH-toosh mah-GOH-ang-m oosh PEHSH",
+    "grammarFocus": "describing discomfort",
+    "notes": "Useful when talking about fit.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o posso ficar com eles. Estes sapatos magoam-me os p\u00e9s.",
+        "english": "I cannot keep them. These shoes hurt my feet."
+      }
+    ],
+    "tags": ["shoes", "discomfort", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-015",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like simple clothes.",
+    "portuguese": "Gosto de roupa simples.",
+    "pronunciationNote": "GOSH-too d ROH-pah SEEM-plehz",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful for personal style.",
+    "exampleSentences": [
+      {
+        "portuguese": "No dia a dia, gosto de roupa simples.",
+        "english": "Day to day, I like simple clothes."
+      }
+    ],
+    "tags": ["style", "preferences", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-016",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like bright colours.",
+    "portuguese": "Gosto de cores vivas.",
+    "pronunciationNote": "GOSH-too d KOH-resh VEE-vash",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in style conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "No ver\u00e3o, gosto de cores vivas.",
+        "english": "In summer, I like bright colours."
+      }
+    ],
+    "tags": ["colours", "style", "preferences"]
+  },
+  {
+    "id": "21-acps-a1a2-017",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer darker colours.",
+    "portuguese": "Prefiro cores mais escuras.",
+    "pronunciationNote": "preh-FEE-roo KOH-resh mysh esh-KOO-rash",
+    "grammarFocus": "expressing preferences",
+    "notes": "Useful in clothing conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o trabalho, prefiro cores mais escuras.",
+        "english": "For work, I prefer darker colours."
+      }
+    ],
+    "tags": ["colours", "style", "preferences"]
+  },
+  {
+    "id": "21-acps-a1a2-018",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This colour suits you.",
+    "portuguese": "Esta cor fica-te bem.",
+    "pronunciationNote": "ESH-tah kor FEE-kah-t beng",
+    "grammarFocus": "giving a compliment",
+    "notes": "Useful for style and appearance.",
+    "exampleSentences": [
+      {
+        "portuguese": "Experimenta este azul. Esta cor fica-te bem.",
+        "english": "Try this blue. This colour suits you."
+      }
+    ],
+    "tags": ["compliments", "colour", "style"]
+  },
+  {
+    "id": "21-acps-a1a2-019",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That jacket looks good on you.",
+    "portuguese": "Esse casaco fica-te bem.",
+    "pronunciationNote": "EH-s kah-ZAH-koo FEE-kah-t beng",
+    "grammarFocus": "giving a compliment",
+    "notes": "Useful when shopping with someone.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto desse estilo. Esse casaco fica-te bem.",
+        "english": "I like that style. That jacket looks good on you."
+      }
+    ],
+    "tags": ["compliments", "jacket", "style"]
+  },
+  {
+    "id": "21-acps-a1a2-020",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am wearing something comfortable.",
+    "portuguese": "Hoje levo roupa confort\u00e1vel.",
+    "pronunciationNote": "OH-zheh LEH-voh ROH-pah kon-for-TAH-vel",
+    "grammarFocus": "talking about what you are wearing",
+    "notes": "Useful in daily conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para viajar, hoje levo roupa confort\u00e1vel.",
+        "english": "For travelling, I am wearing something comfortable today."
+      }
+    ],
+    "tags": ["clothing", "comfort", "daily life"]
+  },
+  {
+    "id": "21-acps-a1a2-021",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need something more formal.",
+    "portuguese": "Preciso de algo mais formal.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo mysh for-MAL",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for events and work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o jantar, preciso de algo mais formal.",
+        "english": "For dinner, I need something more formal."
+      }
+    ],
+    "tags": ["formal", "style", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-022",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want something casual.",
+    "portuguese": "Quero algo mais casual.",
+    "pronunciationNote": "KEH-roo AL-goo mysh kah-zhoo-AL",
+    "grammarFocus": "expressing preference",
+    "notes": "Useful for style choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o fim de semana, quero algo mais casual.",
+        "english": "For the weekend, I want something more casual."
+      }
+    ],
+    "tags": ["casual", "style", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-023",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This material feels nice.",
+    "portuguese": "Este tecido \u00e9 agrad\u00e1vel ao toque.",
+    "pronunciationNote": "ESH-t teh-SEE-doo eh ah-grah-DAH-vel ow TOH-k",
+    "grammarFocus": "describing texture",
+    "notes": "Useful in shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto deste casaco. Este tecido \u00e9 agrad\u00e1vel ao toque.",
+        "english": "I like this coat. This material feels nice."
+      }
+    ],
+    "tags": ["fabric", "texture", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-024",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It feels too heavy.",
+    "portuguese": "Parece demasiado pesado.",
+    "pronunciationNote": "pah-REH-s deh-mah-zee-AH-doo peh-ZAH-doo",
+    "grammarFocus": "describing texture or weight",
+    "notes": "Useful when trying on clothes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o ver\u00e3o, parece demasiado pesado.",
+        "english": "For summer, it feels too heavy."
+      }
+    ],
+    "tags": ["fabric", "weight", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-025",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too warm for today.",
+    "portuguese": "\u00c9 quente demais para hoje.",
+    "pronunciationNote": "eh KEN-t deh-MYSH PAH-rah OH-zheh",
+    "grammarFocus": "talking about suitability",
+    "notes": "Useful when dressing for weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este sol, \u00e9 quente demais para hoje.",
+        "english": "With this sun, it is too warm for today."
+      }
+    ],
+    "tags": ["weather", "clothing", "suitability"]
+  },
+  {
+    "id": "21-acps-a1a2-026",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too light for winter.",
+    "portuguese": "\u00c9 leve demais para o inverno.",
+    "pronunciationNote": "eh LEH-v deh-MYSH PAH-rah oo een-VAIR-noo",
+    "grammarFocus": "talking about suitability",
+    "notes": "Useful when comparing seasonal clothing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto do estilo, mas \u00e9 leve demais para o inverno.",
+        "english": "I like the style, but it is too light for winter."
+      }
+    ],
+    "tags": ["winter", "clothing", "suitability"]
+  },
+  {
+    "id": "21-acps-a1a2-027",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a pair of trainers.",
+    "portuguese": "Preciso de uns t\u00e9nis.",
+    "pronunciationNote": "preh-SEE-zoo d oonsh TEH-neesh",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for casual footwear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para caminhar mais, preciso de uns t\u00e9nis.",
+        "english": "To walk more, I need a pair of trainers."
+      }
+    ],
+    "tags": ["shoes", "trainers", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-028",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need something smarter.",
+    "portuguese": "Preciso de algo mais elegante.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo mysh eh-leh-GAN-t",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for events and work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a festa, preciso de algo mais elegante.",
+        "english": "For the party, I need something smarter."
+      }
+    ],
+    "tags": ["elegant", "style", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-029",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like your style.",
+    "portuguese": "Gosto do teu estilo.",
+    "pronunciationNote": "GOSH-too doo tay-oo esh-TEE-loo",
+    "grammarFocus": "giving a compliment",
+    "notes": "Useful in casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tens sempre roupa gira. Gosto do teu estilo.",
+        "english": "You always have nice clothes. I like your style."
+      }
+    ],
+    "tags": ["compliments", "style", "conversation"]
+  },
+  {
+    "id": "21-acps-a1a2-030",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That looks great on you.",
+    "portuguese": "Isso fica-te muito bem.",
+    "pronunciationNote": "EE-soo FEE-kah-t MOOY-too beng",
+    "grammarFocus": "giving a compliment",
+    "notes": "Useful in changing rooms and casual conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Devias levar esse vestido. Isso fica-te muito bem.",
+        "english": "You should get that dress. That looks great on you."
+      }
+    ],
+    "tags": ["compliments", "shopping", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-031",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to get a haircut.",
+    "portuguese": "Preciso de cortar o cabelo.",
+    "pronunciationNote": "preh-SEE-zoo d kor-TAR oo kah-BEH-loo",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for personal care.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes do fim de semana, preciso de cortar o cabelo.",
+        "english": "Before the weekend, I need to get a haircut."
+      }
+    ],
+    "tags": ["hair", "personal care", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-032",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want it shorter on the sides.",
+    "portuguese": "Quero mais curto dos lados.",
+    "pronunciationNote": "KEH-roo mysh KOOR-too dooz LAH-doosh",
+    "grammarFocus": "describing a haircut",
+    "notes": "Useful at the barber.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em cima est\u00e1 bem, mas quero mais curto dos lados.",
+        "english": "It is fine on top, but I want it shorter on the sides."
+      }
+    ],
+    "tags": ["hair", "barber", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-033",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Just a little shorter, please.",
+    "portuguese": "S\u00f3 um bocadinho mais curto, por favor.",
+    "pronunciationNote": "soh oom boh-kah-DEEN-yoo mysh KOOR-too poor fah-VOR",
+    "grammarFocus": "making a polite request",
+    "notes": "Useful at the hairdresser or barber.",
+    "exampleSentences": [
+      {
+        "portuguese": "N\u00e3o muito. S\u00f3 um bocadinho mais curto, por favor.",
+        "english": "Not too much. Just a little shorter, please."
+      }
+    ],
+    "tags": ["hair", "requests", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-034",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to keep the length.",
+    "portuguese": "Quero manter o comprimento.",
+    "pronunciationNote": "KEH-roo man-TAIR oo kom-pree-MEN-too",
+    "grammarFocus": "describing a haircut preference",
+    "notes": "Useful at the hairdresser.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero manter o comprimento, mas arranjar as pontas.",
+        "english": "I want to keep the length, but tidy the ends."
+      }
+    ],
+    "tags": ["hair", "length", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-035",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It needs to be cleaned.",
+    "portuguese": "Isto precisa de ser lavado.",
+    "pronunciationNote": "EESH-too preh-SEE-zah d sair lah-VAH-doo",
+    "grammarFocus": "describing care needs",
+    "notes": "Useful for clothing care.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de usar outra vez, isto precisa de ser lavado.",
+        "english": "Before wearing it again, it needs to be cleaned."
+      }
+    ],
+    "tags": ["laundry", "clothing care", "daily life"]
+  },
+  {
+    "id": "21-acps-a1a2-036",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This needs to be ironed.",
+    "portuguese": "Isto precisa de ser passado a ferro.",
+    "pronunciationNote": "EESH-too preh-SEE-zah d sair pah-SAH-doo ah FEH-roo",
+    "grammarFocus": "describing care needs",
+    "notes": "Useful for clothing care.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o jantar, isto precisa de ser passado a ferro.",
+        "english": "For dinner, this needs to be ironed."
+      }
+    ],
+    "tags": ["ironing", "clothing care", "daily life"]
+  },
+  {
+    "id": "21-acps-a1a2-037",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a belt.",
+    "portuguese": "Preciso de um cinto.",
+    "pronunciationNote": "preh-SEE-zoo d oom SEEN-too",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for accessories.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estas cal\u00e7as est\u00e3o largas. Preciso de um cinto.",
+        "english": "These trousers are loose. I need a belt."
+      }
+    ],
+    "tags": ["accessories", "belt", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-038",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need something for the rain.",
+    "portuguese": "Preciso de algo para a chuva.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo PAH-rah ah SHOO-vah",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for practical clothing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanh\u00e3 vai chover. Preciso de algo para a chuva.",
+        "english": "It is going to rain tomorrow. I need something for the rain."
+      }
+    ],
+    "tags": ["rain", "outerwear", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-039",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need something lighter.",
+    "portuguese": "Preciso de algo mais leve.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo mysh LEH-v",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for seasonal shopping.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o ver\u00e3o, preciso de algo mais leve.",
+        "english": "For summer, I need something lighter."
+      }
+    ],
+    "tags": ["summer", "clothing", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-040",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need something warmer.",
+    "portuguese": "Preciso de algo mais quente.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo mysh KEN-t",
+    "grammarFocus": "expressing need",
+    "notes": "Useful for seasonal shopping.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a serra, preciso de algo mais quente.",
+        "english": "For the mountains, I need something warmer."
+      }
+    ],
+    "tags": ["winter", "clothing", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-041",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "These go well together.",
+    "portuguese": "Isto combina bem.",
+    "pronunciationNote": "EESH-too kom-BEE-nah beng",
+    "grammarFocus": "talking about style combinations",
+    "notes": "Useful in choosing outfits.",
+    "exampleSentences": [
+      {
+        "portuguese": "A camisola e o casaco? Sim, isto combina bem.",
+        "english": "The jumper and the coat? Yes, these go well together."
+      }
+    ],
+    "tags": ["outfit", "style", "clothing"]
+  },
+  {
+    "id": "21-acps-a1a2-042",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That does not really suit me.",
+    "portuguese": "Isso n\u00e3o me fica muito bem.",
+    "pronunciationNote": "EE-soo nown m FEE-kah MOOY-too beng",
+    "grammarFocus": "giving an opinion",
+    "notes": "Useful in changing rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto da cor, mas isso n\u00e3o me fica muito bem.",
+        "english": "I like the colour, but that does not really suit me."
+      }
+    ],
+    "tags": ["fit", "style", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-043",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I wear glasses.",
+    "portuguese": "Uso \u00f3culos.",
+    "pronunciationNote": "OO-zoo OH-koo-loosh",
+    "grammarFocus": "describing appearance",
+    "notes": "Useful in personal descriptions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para ler, uso \u00f3culos.",
+        "english": "For reading, I wear glasses."
+      }
+    ],
+    "tags": ["appearance", "glasses", "description"]
+  },
+  {
+    "id": "21-acps-a1a2-044",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I usually wear a watch.",
+    "portuguese": "Costumo usar rel\u00f3gio.",
+    "pronunciationNote": "koosh-TOO-m oo-ZAR rreh-LOH-zhyoo",
+    "grammarFocus": "talking about habits",
+    "notes": "Useful in style conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "No trabalho, costumo usar rel\u00f3gio.",
+        "english": "At work, I usually wear a watch."
+      }
+    ],
+    "tags": ["accessories", "watch", "habits"]
+  },
+  {
+    "id": "21-acps-a1a2-045",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need sunglasses.",
+    "portuguese": "Preciso de \u00f3culos de sol.",
+    "pronunciationNote": "preh-SEE-zoo d OH-koo-loosh d sol",
+    "grammarFocus": "expressing need",
+    "notes": "Useful in sunny weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este sol, preciso de \u00f3culos de sol.",
+        "english": "With this sun, I need sunglasses."
+      }
+    ],
+    "tags": ["accessories", "sun", "appearance"]
+  },
+  {
+    "id": "21-acps-a1a2-046",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want a more natural look.",
+    "portuguese": "Quero um aspeto mais natural.",
+    "pronunciationNote": "KEH-roo oom ahsh-PEH-too mysh nah-too-RAL",
+    "grammarFocus": "describing style preference",
+    "notes": "Useful in appearance conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para todos os dias, quero um aspeto mais natural.",
+        "english": "For every day, I want a more natural look."
+      }
+    ],
+    "tags": ["appearance", "style", "preferences"]
+  },
+  {
+    "id": "21-acps-a1a2-047",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to look a bit smarter.",
+    "portuguese": "Quero parecer um pouco mais elegante.",
+    "pronunciationNote": "KEH-roo pah-reh-SAIR oom POH-koo mysh eh-leh-GAN-t",
+    "grammarFocus": "describing an aim",
+    "notes": "Useful for events and work.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para esta reuni\u00e3o, quero parecer um pouco mais elegante.",
+        "english": "For this meeting, I want to look a bit smarter."
+      }
+    ],
+    "tags": ["appearance", "style", "events"]
+  },
+  {
+    "id": "21-acps-a1a2-048",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is more my style.",
+    "portuguese": "Isto \u00e9 mais o meu estilo.",
+    "pronunciationNote": "EESH-too eh mysh oo may-oo esh-TEE-loo",
+    "grammarFocus": "expressing preference",
+    "notes": "Useful when choosing between options.",
+    "exampleSentences": [
+      {
+        "portuguese": "Entre os dois, isto \u00e9 mais o meu estilo.",
+        "english": "Of the two, this is more my style."
+      }
+    ],
+    "tags": ["style", "preferences", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-049",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not sure about this colour.",
+    "portuguese": "N\u00e3o tenho a certeza sobre esta cor.",
+    "pronunciationNote": "nown TEN-yoo ah ser-TEH-zah SOH-br ESH-tah kor",
+    "grammarFocus": "expressing uncertainty",
+    "notes": "Useful in changing rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto do corte, mas n\u00e3o tenho a certeza sobre esta cor.",
+        "english": "I like the cut, but I am not sure about this colour."
+      }
+    ],
+    "tags": ["colour", "uncertainty", "shopping"]
+  },
+  {
+    "id": "21-acps-a1a2-050",
+    "subject": "Appearance, Clothing & Personal Style",
+    "subjectId": "appearance-clothing-personal-style",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think I will take this one.",
+    "portuguese": "Acho que vou levar este.",
+    "pronunciationNote": "AH-shoo k voh leh-VAR ESH-t",
+    "grammarFocus": "making a decision",
+    "notes": "Useful when choosing clothes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Experimentei os dois, mas acho que vou levar este.",
+        "english": "I tried both, but I think I will take this one."
+      }
+    ],
+    "tags": ["decision", "shopping", "clothing"]
+  }
+]

@@ -124,12 +124,15 @@ function MultipleChoicePanel({ card, feedback, handleChoice, multipleChoiceOptio
 
 function TypedAnswerPanel({
   answer,
+  canRevealNextLetter,
   card,
   feedback,
   handleTypedSubmit,
   insertCharacter,
   moveNext,
   promptConfig,
+  revealNextLetter,
+  revealedLetterCount,
   setAnswer,
 }) {
   return (
@@ -170,10 +173,23 @@ function TypedAnswerPanel({
           <button type="submit" disabled={Boolean(feedback)} className="flex-1 rounded-2xl bg-sun px-5 py-3 text-sm font-semibold text-slate-950 transition hover:bg-yellow-300 disabled:cursor-not-allowed disabled:opacity-60">
             Check answer
           </button>
+          <button
+            type="button"
+            onClick={revealNextLetter}
+            disabled={!canRevealNextLetter}
+            className="flex-1 rounded-2xl bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15 disabled:cursor-not-allowed disabled:opacity-50"
+          >
+            Reveal next letter
+          </button>
           <button type="button" onClick={moveNext} className="flex-1 rounded-2xl bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15">
             Skip card
           </button>
         </div>
+        {revealedLetterCount > 0 ? (
+          <p className="mt-3 text-sm text-slate-400">
+            Hint used: {revealedLetterCount} {revealedLetterCount === 1 ? 'letter' : 'letters'} revealed
+          </p>
+        ) : null}
       </form>
     </div>
   );
@@ -205,6 +221,7 @@ function FeedbackPanel({ feedback, mode, moveNext }) {
 }
 
 export default function FlashcardStudyPanel({
+  activeMode,
   answer,
   card,
   deck,
@@ -223,6 +240,8 @@ export default function FlashcardStudyPanel({
   moveNext,
   multipleChoiceOptions,
   promptConfig,
+  revealNextLetter,
+  revealedLetterCount,
   selectedSet,
   selectedSetDefinition,
   setAnswer,
@@ -265,14 +284,14 @@ export default function FlashcardStudyPanel({
             </p>
           </div>
 
-          {(mode === 'learn-new' || mode === 'review-weak') && promptConfig ? (
+          {(mode === 'learn-new' || mode === 'review-weak' || mode === 'due-review') && promptConfig ? (
             <ReviewCardPanel
               card={card}
               markCurrentCard={markCurrentCard}
               setShowAnswer={setShowAnswer}
               showAnswer={showAnswer}
             />
-          ) : mode.startsWith('multiple-choice') && promptConfig ? (
+          ) : activeMode.startsWith('multiple-choice') && promptConfig ? (
             <MultipleChoicePanel
               card={card}
               feedback={feedback}
@@ -283,12 +302,15 @@ export default function FlashcardStudyPanel({
           ) : promptConfig ? (
             <TypedAnswerPanel
               answer={answer}
+              canRevealNextLetter={!feedback && answer.length < promptConfig.expected.length}
               card={card}
               feedback={feedback}
               handleTypedSubmit={handleTypedSubmit}
               insertCharacter={insertCharacter}
               moveNext={moveNext}
               promptConfig={promptConfig}
+              revealNextLetter={revealNextLetter}
+              revealedLetterCount={revealedLetterCount}
               setAnswer={setAnswer}
             />
           ) : null}
