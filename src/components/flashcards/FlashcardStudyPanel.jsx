@@ -215,6 +215,7 @@ export default function FlashcardStudyPanel({
   index,
   insertCharacter,
   isLoadingSet,
+  loadError,
   markCurrentCard,
   markWordBankCard,
   mode,
@@ -234,6 +235,10 @@ export default function FlashcardStudyPanel({
       {!selectedSetDefinition ? (
         <div className="rounded-[1.75rem] border border-dashed border-white/15 bg-slate-950/30 p-5 text-center text-sm text-slate-300 sm:p-6">
           Select a level, subject, and mode to begin.
+        </div>
+      ) : loadError ? (
+        <div className="rounded-[1.75rem] border border-coral/30 bg-coral/10 p-5 text-center text-sm text-orange-100 sm:p-6">
+          {loadError}
         </div>
       ) : isLoadingSet && !selectedSet ? (
         <div className="rounded-[1.75rem] border border-dashed border-white/15 bg-slate-950/30 p-5 text-center text-sm text-slate-300 sm:p-6">

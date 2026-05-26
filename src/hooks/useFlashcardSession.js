@@ -2,6 +2,17 @@ import { useEffect, useMemo, useState } from 'react';
 import { useProgress } from '../context/ProgressContext';
 import { buildDeck, buildMultipleChoiceOptions, buildPromptConfig, modes } from '../lib/flashcardSession';
 
+const CHUNK_RELOAD_KEY = 'porto-pal-chunk-reload-attempted';
+
+function shouldReloadForChunkError(error) {
+  const message = String(error?.message || error || '');
+  return (
+    message.includes('Failed to fetch dynamically imported module') ||
+    message.includes('Importing a module script failed') ||
+    message.includes('Unable to preload CSS')
+  );
+}
+
 export function useFlashcardSession() {
   const { ensureSetLoaded, flashcardSets, getCardStats, getLoadedSet, getSetSummary, markFlashcard, submitPractice, subjectCatalog } = useProgress();
   const [subjectId, setSubjectId] = useState(subjectCatalog[0]?.id || '');
@@ -13,6 +24,7 @@ export function useFlashcardSession() {
   const [feedback, setFeedback] = useState(null);
   const [deck, setDeck] = useState([]);
   const [isLoadingSet, setIsLoadingSet] = useState(false);
+  const [loadError, setLoadError] = useState(null);
 
   const selectedSubject = subjectCatalog.find((subject) => subject.id === subjectId) || null;
   const selectedSetDefinition = useMemo(
@@ -35,14 +47,33 @@ export function useFlashcardSession() {
 
     async function loadSelectedSet() {
       if (!selectedSetDefinition) {
+        setLoadError(null);
         return;
       }
 
       setIsLoadingSet(true);
-      await ensureSetLoaded(selectedSetDefinition.id);
+      setLoadError(null);
 
-      if (!ignore) {
-        setIsLoadingSet(false);
+      try {
+        await ensureSetLoaded(selectedSetDefinition.id);
+      } catch (error) {
+        if (shouldReloadForChunkError(error)) {
+          const hasRetried = window.sessionStorage.getItem(CHUNK_RELOAD_KEY) === '1';
+
+          if (!hasRetried) {
+            window.sessionStorage.setItem(CHUNK_RELOAD_KEY, '1');
+            window.location.reload();
+            return;
+          }
+        }
+
+        if (!ignore) {
+          setLoadError('This topic could not be loaded. Refresh the page and try again.');
+        }
+      } finally {
+        if (!ignore) {
+          setIsLoadingSet(false);
+        }
       }
     }
 
@@ -181,6 +212,7 @@ export function useFlashcardSession() {
     index,
     isLoadingSet,
     levelBand,
+    loadError,
     mode,
     modeLabel,
     multipleChoiceOptions,
