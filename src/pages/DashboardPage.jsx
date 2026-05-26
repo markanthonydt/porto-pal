@@ -3,15 +3,17 @@ import { useProgress } from '../context/ProgressContext';
 
 export default function DashboardPage() {
   const { progress, metrics } = useProgress();
+  const totalNewCards = metrics.setMetrics.reduce((sum, set) => sum + set.newCount, 0);
 
   return (
     <div className="grid gap-6">
-      <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-5">
-        <StatCard label="Today's progress" value={`${metrics.answersToday} answers`} hint={`${metrics.todayStats.correct} correct / ${metrics.todayStats.incorrect} incorrect`} tone="sea" />
+      <section className="grid gap-4 sm:grid-cols-2">
+        <StatCard label="Today's progress" value={`${metrics.answersToday} answers`} hint={`${metrics.todayStats.correct} correct / ${metrics.todayStats.incorrect} incorrect`} />
         <StatCard label="Current streak" value={`${progress.streak} day${progress.streak === 1 ? '' : 's'}`} hint="Any practice on a new day extends the streak." tone="coral" />
         <StatCard label="Cards learned" value={metrics.cardsLearned} hint="Counted after a correct answer." />
-        <StatCard label="Due for review" value={metrics.dueToday} hint="Cards ready for another review now." tone="sea" />
-        <StatCard label="Accuracy" value={`${metrics.accuracy}%`} hint="Across all subjects you've practiced so far." tone="coral" />
+        <StatCard label="Due for review" value={metrics.dueToday} hint="Cards ready for another review now." tone="coral" />
+        <StatCard label="Accuracy" value={`${metrics.accuracy}%`} hint="Across all subjects you've practiced so far." />
+        <StatCard label="New cards left" value={totalNewCards} hint="Untouched cards across the sets you've loaded." tone="coral" />
       </section>
 
       <section className="grid gap-6 lg:grid-cols-[1.2fr,0.8fr]">

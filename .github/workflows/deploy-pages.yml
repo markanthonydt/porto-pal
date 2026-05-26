@@ -36,6 +36,7 @@ jobs:
       - name: Prepare Pages output
         run: |
           touch dist/.nojekyll
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > dist/deployed-at.txt
 
       - name: Deploy to gh-pages
         env:
