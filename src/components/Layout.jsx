@@ -14,7 +14,7 @@ export default function Layout() {
         <header className="rounded-[2rem] border border-white/10 bg-white/10 p-6 shadow-soft backdrop-blur">
           <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
             <div className="max-w-2xl">
-              <p className="text-sm uppercase tracking-[0.35em] text-sun/80">Portuguese Companion</p>
+              <p className="text-sm uppercase tracking-[0.35em] text-sun/80">Porto Pal</p>
               <h1 className="font-display text-4xl text-white sm:text-5xl">European Portuguese for everyday life.</h1>
               <p className="mt-3 max-w-xl text-sm leading-6 text-slate-300 sm:text-base">
                 Explore Portuguese across a variety of topics and keep track of the phrases you've learned along the way.

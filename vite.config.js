@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['apple-touch-icon.png'],
       manifest: {
-        name: 'Portuguese Companion',
-        short_name: 'Portuguese',
+        name: 'Porto Pal',
+        short_name: 'Porto Pal',
         description: 'Practice European Portuguese through topic-based study sets and review.',
         theme_color: '#0f172a',
         background_color: '#0f172a',

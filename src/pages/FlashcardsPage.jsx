@@ -261,8 +261,8 @@ export default function FlashcardsPage() {
   }
 
   return (
-    <div className="grid gap-6 lg:grid-cols-[0.9fr,1.1fr]">
-      <section className="rounded-[2rem] border border-white/10 bg-white/10 p-6 shadow-soft backdrop-blur">
+    <div className="grid gap-6 lg:grid-cols-[1.1fr,0.9fr]">
+      <section className="order-2 rounded-[2rem] border border-white/10 bg-white/10 p-6 shadow-soft backdrop-blur lg:order-1">
         <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Flashcard library</p>
         <h2 className="mt-2 font-display text-3xl text-white">Select level, subject, and mode</h2>
         <div className="mt-6 grid gap-3">
@@ -373,10 +373,10 @@ export default function FlashcardsPage() {
         )}
       </section>
 
-      <section className="rounded-[2rem] border border-white/10 bg-gradient-to-br from-white/15 to-white/5 p-6 shadow-soft">
+      <section className="order-1 rounded-[2rem] border border-white/10 bg-gradient-to-br from-white/15 to-white/5 p-6 shadow-soft lg:order-2">
         {!selectedSet ? (
-          <div className="rounded-[1.75rem] border border-dashed border-white/15 bg-slate-950/30 p-8 text-center text-sm text-slate-300">
-            Select a subject with loaded content to begin.
+          <div className="rounded-[1.75rem] border border-dashed border-white/15 bg-slate-950/30 p-5 text-center text-sm text-slate-300 sm:p-6">
+            Select a level, subject, and mode to begin.
           </div>
         ) : mode === 'word-bank' ? (
           <>

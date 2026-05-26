@@ -35,7 +35,7 @@ export default function InstallPrompt() {
 
   return (
     <div className="mt-4 flex flex-col gap-3 rounded-[1.5rem] border border-sea/30 bg-sea/10 p-4 text-sm text-teal-50 sm:flex-row sm:items-center sm:justify-between">
-      <p>Install Portuguese Companion on your phone for faster access and an app-like home screen shortcut.</p>
+      <p>Install Porto Pal on your phone for faster access and an app-like home screen shortcut.</p>
       <div className="flex gap-2">
         <button
           type="button"
