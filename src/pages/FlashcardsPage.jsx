@@ -6,13 +6,13 @@ const portugueseCharacters = ['á', 'à', 'â', 'ã', 'ç', 'é', 'ê', 'í', '�
 const modes = [
   { id: 'learn-new', label: 'Learn new cards', description: 'Reveal cards you have not learned yet.' },
   { id: 'review-weak', label: 'Review flash cards', description: 'Practice cards you still need to master.' },
-  { id: 'review-set', label: 'Review this set', description: 'Go back through the full set with the weakest cards first.' },
-  { id: 'word-bank', label: 'Word bank', description: 'See all cards in the set and mark forgotten ones for review.' },
+  { id: 'review-set', label: 'Review this topic', description: "Practice this subject again, starting with the cards you're struggling with the most." },
+  { id: 'word-bank', label: 'Word bank', description: 'See all cards on each topic and select any that you want to review.' },
   { id: 'multiple-choice-en-pt', label: 'Multiple choice: English to Portuguese', description: 'Choose the Portuguese phrase from options.' },
   { id: 'multiple-choice-pt-en', label: 'Multiple choice: Portuguese to English', description: 'Choose the English meaning from options.' },
   { id: 'translate-en-pt', label: 'Translate English to Portuguese', description: 'Type the Portuguese phrase.' },
   { id: 'translate-pt-en', label: 'Translate Portuguese to English', description: 'Type the English meaning.' },
-  { id: 'type-answer', label: 'Type the answer', description: 'Mixed-direction free recall.' },
+  { id: 'type-answer', label: 'Translate between both languages', description: 'Type the correct answer.' },
 ];
 
 const levelBands = ['A1-A2', 'B1-B2'];
@@ -343,7 +343,7 @@ export default function FlashcardsPage() {
             <div className="mt-4 grid grid-cols-2 gap-3 text-sm text-slate-300">
               <div className="rounded-2xl bg-white/5 p-3">
                 <p>{selectedSet.cardCount} cards</p>
-                <p className="mt-1 text-slate-400">Set size</p>
+                <p className="mt-1 text-slate-400">Topic size</p>
               </div>
               <div className="rounded-2xl bg-white/5 p-3">
                 <p>{selectedSetMetrics.learnedCount}/{selectedSet.cardCount} learned</p>
@@ -472,7 +472,7 @@ export default function FlashcardsPage() {
                   onClick={() => setMode('review-set')}
                   className="rounded-2xl bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15"
                 >
-                  Review this set
+                  Review this topic
                 </button>
               </div>
             ) : (
