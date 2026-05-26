@@ -1,0 +1,952 @@
+[
+  {
+    "id": "14-ah-b1b2-001",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I booked this a while ago, so I just want to make sure the reservation is still under my name.",
+    "portuguese": "Fiz esta reserva há algum tempo, por isso só queria confirmar se ainda está em meu nome.",
+    "pronunciationNote": "feez ESH-tah reh-ZAIR-vah ah al-GOOM TEM-poo, poor EE-soo soh keh-REE-ah kong-feer-MAR s een-DAH esh-TAH eng may-oo NOH-m",
+    "grammarFocus": "polite confirmation",
+    "notes": "Useful on arrival.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria assumir e depois ter uma surpresa.",
+        "english": "I did not want to assume and then have a surprise."
+      }
+    ],
+    "tags": ["hotel", "reservation", "check-in"]
+  },
+  {
+    "id": "14-ah-b1b2-002",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If possible, I would prefer a quieter room, ideally away from the street.",
+    "portuguese": "Se possível, preferia um quarto mais sossegado, de preferência longe da rua.",
+    "pronunciationNote": "s poo-SEE-vel, preh-feh-REE-ah oom KWAR-too mysh soh-seh-GAH-doo, d preh-feh-REN-see-ah LON-zh dah HOO-ah",
+    "grammarFocus": "polite preference",
+    "notes": "Useful at check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho o sono leve, por isso faz diferença.",
+        "english": "I am a light sleeper, so it makes a difference."
+      }
+    ],
+    "tags": ["hotel", "room", "preferences"]
+  },
+  {
+    "id": "14-ah-b1b2-003",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I realise I am a bit early, but is there any chance the room might already be ready?",
+    "portuguese": "Sei que cheguei um pouco cedo, mas há alguma hipótese de o quarto já estar pronto?",
+    "pronunciationNote": "say k sheh-GAY oom POH-koo SAY-doo, mahz ah al-GOO-mah ee-POH-teh-z d oo KWAR-too zhah esh-TAR PRON-too",
+    "grammarFocus": "softened request",
+    "notes": "Natural early check-in question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não estiver, posso deixar as malas.",
+        "english": "If it is not, I can leave the bags."
+      }
+    ],
+    "tags": ["hotel", "early-check-in", "requests"]
+  },
+  {
+    "id": "14-ah-b1b2-004",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not necessarily need to go into the room yet, but somewhere secure for my luggage would help.",
+    "portuguese": "Não preciso necessariamente de entrar já no quarto, mas um sítio seguro para a bagagem já ajudava.",
+    "pronunciationNote": "nown preh-SEE-zoo neh-seh-sah-ree-ah-MEN-t d en-TRAR zhah noo KWAR-too, mahz oom SEE-tee-oo seh-GOO-roo pah-rah ah bah-GAH-zheng zhah ah-zhoo-DAH-vah",
+    "grammarFocus": "explaining a practical need",
+    "notes": "Useful if the room is not ready.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim posso sair sem andar com tudo atrás.",
+        "english": "That way I can go out without carrying everything around."
+      }
+    ],
+    "tags": ["hotel", "luggage", "practicality"]
+  },
+  {
+    "id": "14-ah-b1b2-005",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you walk me through what is included and what is charged separately?",
+    "portuguese": "Pode explicar-me o que está incluído e o que se paga à parte?",
+    "pronunciationNote": "POH-d eks-plee-KAR-m oo k esh-TAH een-kloo-EE-doo ee oo k s pah-GAH ah PAR-t",
+    "grammarFocus": "asking for clarification",
+    "notes": "Useful at check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero evitar mal-entendidos mais tarde.",
+        "english": "I want to avoid misunderstandings later."
+      }
+    ],
+    "tags": ["hotel", "charges", "clarification"]
+  },
+  {
+    "id": "14-ah-b1b2-006",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had the impression breakfast was included, but I may have mixed it up with another booking.",
+    "portuguese": "Fiquei com a ideia de que o pequeno-almoço estava incluído, mas posso estar a confundir com outra reserva.",
+    "pronunciationNote": "fee-KAY kong ah ee-DAY-ah d k oo peh-KEH-noo al-MOH-soo esh-TAH-vah een-kloo-EE-doo, mahz POS-soo esh-TAR ah kong-foon-DEER kong OW-trah reh-ZAIR-vah",
+    "grammarFocus": "hedged correction",
+    "notes": "Useful for checking details politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso queria confirmar antes de assumir.",
+        "english": "That is why I wanted to confirm before assuming."
+      }
+    ],
+    "tags": ["hotel", "breakfast", "booking"]
+  },
+  {
+    "id": "14-ah-b1b2-007",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The room itself is fine, but there seems to be an issue with the shower temperature.",
+    "portuguese": "O quarto em si está bem, mas parece haver um problema com a temperatura do chuveiro.",
+    "pronunciationNote": "oo KWAR-too eng s esh-TAH beng, mahz pah-REH-s ah-VER oom proh-BLAY-mah kong ah tem-peh-rah-TOO-rah doo shoo-VAY-roo",
+    "grammarFocus": "soft complaint",
+    "notes": "Polite way to raise a problem.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ou fica demasiado fria ou demasiado quente.",
+        "english": "It is either too cold or too hot."
+      }
+    ],
+    "tags": ["hotel", "complaints", "bathroom"]
+  },
+  {
+    "id": "14-ah-b1b2-008",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not trying to make a fuss, but the room is much noisier than I expected.",
+    "portuguese": "Não estou a tentar fazer confusão, mas o quarto é muito mais barulhento do que eu esperava.",
+    "pronunciationNote": "nown esh-TOH ah ten-TAR fah-ZAIR kong-foo-ZOWN, mahz oo KWAR-too eh MOOY-too mysh bah-roo-LYEN-too doo k eh-oo esh-peh-RAH-vah",
+    "grammarFocus": "softening a complaint",
+    "notes": "Natural complaint language.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver alternativa, agradecia muito.",
+        "english": "If there is an alternative, I would really appreciate it."
+      }
+    ],
+    "tags": ["hotel", "noise", "complaints"]
+  },
+  {
+    "id": "14-ah-b1b2-009",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to move me to a different room if the problem cannot be fixed quickly?",
+    "portuguese": "Seria possível mudarem-me para outro quarto se o problema não puder ser resolvido depressa?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel moo-DAH-reng-m pah-rah OW-troo KWAR-too s oo proh-BLAY-mah nown poo-DER sair reh-zol-VEE-doo deh-PREH-sah",
+    "grammarFocus": "conditional request",
+    "notes": "Useful in complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só pergunto para perceber quais são as opções.",
+        "english": "I am only asking to understand what the options are."
+      }
+    ],
+    "tags": ["hotel", "room-change", "complaints"]
+  },
+  {
+    "id": "14-ah-b1b2-010",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind confirming whether late check-out is possible, and if so, what the extra charge is?",
+    "portuguese": "Importa-se de confirmar se é possível fazer late check-out e, nesse caso, qual é o custo extra?",
+    "pronunciationNote": "eem-POR-tah-s d kong-feer-MAR s eh poo-SEE-vel fah-ZAIR late check-out ee, NEH-s kah-zoo, kwal eh oo KOOSH-too ESH-trah",
+    "grammarFocus": "polite combined question",
+    "notes": "Useful for departure planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "O meu voo é mais tarde, por isso podia ser útil.",
+        "english": "My flight is later, so it could be useful."
+      }
+    ],
+    "tags": ["hotel", "late-check-out", "planning"]
+  },
+  {
+    "id": "14-ah-b1b2-011",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know these things happen, but I wanted to mention it now rather than leave it until check-out.",
+    "portuguese": "Sei que estas coisas acontecem, mas quis mencionar isto agora em vez de deixar para o check-out.",
+    "pronunciationNote": "say k ESH-tash KOY-zash ah-kon-TEH-seng, mahz keesh men-see-oh-NAR EES-too ah-GOH-rah eng vez d day-SHAR pah-rah oo check-out",
+    "grammarFocus": "framing a complaint constructively",
+    "notes": "Useful when raising issues early.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim seja mais fácil resolver.",
+        "english": "Maybe that way it will be easier to solve."
+      }
+    ],
+    "tags": ["hotel", "complaints", "timing"]
+  },
+  {
+    "id": "14-ah-b1b2-012",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is a better room available tomorrow, I would be happy to move then instead.",
+    "portuguese": "Se amanhã houver um quarto melhor disponível, terei todo o gosto em mudar nessa altura.",
+    "pronunciationNote": "s ah-mah-NYAH oo-VER oom KWAR-too meh-LYOR dees-poo-NEE-vel, teh-RAY TOH-doo oo GOSH-too eng moo-DAR NEH-sah al-TOO-rah",
+    "grammarFocus": "flexible negotiation",
+    "notes": "Useful when no immediate fix is possible.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não precisa de ser já, desde que fique resolvido.",
+        "english": "It does not need to be right away, as long as it gets resolved."
+      }
+    ],
+    "tags": ["hotel", "room-change", "flexibility"]
+  },
+  {
+    "id": "14-ah-b1b2-013",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to understand whether the parking is guaranteed or simply available if there is space.",
+    "portuguese": "Estou a tentar perceber se o estacionamento é garantido ou apenas disponível se houver lugar.",
+    "pronunciationNote": "esh-TOH ah ten-TAR pair-SEH-bair s oo esh-tah-see-oh-nah-MEN-too eh gah-ran-TEE-doo oh ah-PEH-nash dees-poo-NEE-vel s oo-VER loo-GAR",
+    "grammarFocus": "clarifying conditions",
+    "notes": "Useful for travel planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como venho de carro, isso faz diferença.",
+        "english": "Since I am coming by car, that makes a difference."
+      }
+    ],
+    "tags": ["hotel", "parking", "clarification"]
+  },
+  {
+    "id": "14-ah-b1b2-014",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say the standard room is enough, or is the larger one worth the difference in price?",
+    "portuguese": "Diria que o quarto normal chega, ou o maior vale a diferença de preço?",
+    "pronunciationNote": "dee-REE-ah k oo KWAR-too nor-MAL SHEH-gah, oh oo my-OR VAH-l ah dee-feh-REN-sah d PREH-soo",
+    "grammarFocus": "asking for advice",
+    "notes": "Useful when choosing room categories.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero exagerar, mas também não quero ficar apertado.",
+        "english": "I do not want to overdo it, but I also do not want to feel cramped."
+      }
+    ],
+    "tags": ["hotel", "room-types", "advice"]
+  },
+  {
+    "id": "14-ah-b1b2-015",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could someone take a look at it when convenient? It is not urgent, but it is not quite right either.",
+    "portuguese": "Quando for conveniente, alguém podia dar uma vista de olhos? Não é urgente, mas também não está bem.",
+    "pronunciationNote": "KWAN-doo for kong-veh-nee-EN-t, al-GAYNG POH-dee-ah dar OO-mah VEESH-tah d OLY-oosh? nown eh oor-ZHEN-t, mahz tam-BAYNG nown esh-TAH beng",
+    "grammarFocus": "soft maintenance request",
+    "notes": "Useful for minor issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só queria deixar o aviso.",
+        "english": "I just wanted to let you know."
+      }
+    ],
+    "tags": ["hotel", "maintenance", "requests"]
+  },
+  {
+    "id": "14-ah-b1b2-016",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have no problem settling the bill now, as long as I can still leave my bags for a few hours.",
+    "portuguese": "Não tenho problema em pagar já, desde que possa deixar as malas aqui durante umas horas.",
+    "pronunciationNote": "nown TEN-yoo proh-BLAY-mah eng pah-GAR zhah, DEHZ-d k POS-sah day-SHAR az MAH-lash ah-KEE doo-RAN-t OO-nash OR-ash",
+    "grammarFocus": "conditional arrangement",
+    "notes": "Useful on departure day.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso dava-me mais liberdade antes do voo.",
+        "english": "That would give me more freedom before the flight."
+      }
+    ],
+    "tags": ["hotel", "check-out", "luggage"]
+  },
+  {
+    "id": "14-ah-b1b2-017",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I may have misunderstood, but I thought the room would have a desk as well.",
+    "portuguese": "Posso ter percebido mal, mas pensei que o quarto também tivesse secretária.",
+    "pronunciationNote": "POS-soo tair pair-seh-BEE-doo mal, mahz pen-SAY k oo KWAR-too tam-BAYNG TEE-vessh seh-kreh-TAH-ree-ah",
+    "grammarFocus": "soft correction",
+    "notes": "Useful when something is missing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de trabalhar um pouco esta noite.",
+        "english": "I need to work a bit tonight."
+      }
+    ],
+    "tags": ["hotel", "room", "expectations"]
+  },
+  {
+    "id": "14-ah-b1b2-018",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain whether the city tax is already included or added separately at the end?",
+    "portuguese": "Pode explicar se a taxa turística já está incluída ou se é acrescentada no fim?",
+    "pronunciationNote": "POH-d eks-plee-KAR s ah TAH-shah too-REESH-tee-kah zhah esh-TAH een-kloo-EE-dah oh s eh ah-kreh-sen-TAH-dah noo feeng",
+    "grammarFocus": "asking about extra charges",
+    "notes": "Useful in tourist accommodation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só quero perceber exatamente o valor total.",
+        "english": "I just want to understand the exact total amount."
+      }
+    ],
+    "tags": ["hotel", "tax", "payment"]
+  },
+  {
+    "id": "14-ah-b1b2-019",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate that you are busy, but when you have a moment, could we go over the invoice together?",
+    "portuguese": "Eu percebo que estejam ocupados, mas quando tiver um momento, podemos rever a fatura juntos?",
+    "pronunciationNote": "eh-oo pair-SEH-boo k esh-TAH-yeng oo-koo-PAH-doosh, mahz KWAN-doo tee-VAIR oom moh-MEN-too, poo-DAY-moosh reh-VAIR ah fah-TOO-rah zhoon-toosh",
+    "grammarFocus": "polite request with softening",
+    "notes": "Useful at check-out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só para confirmar que está tudo certo.",
+        "english": "Just to confirm that everything is correct."
+      }
+    ],
+    "tags": ["hotel", "invoice", "check-out"]
+  },
+  {
+    "id": "14-ah-b1b2-020",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to overcomplicate things, but I was hoping for something a little closer to what was described online.",
+    "portuguese": "Não quero complicar demasiado, mas estava à espera de algo um pouco mais próximo do que foi descrito online.",
+    "pronunciationNote": "nown KEH-roo kong-plee-KAR deh-mah-zee-AH-doo, mahz esh-TAH-vah ah esh-PAY-rah d AL-goo oom POH-koo mysh PROK-see-moo doo k foy desh-KREE-too on-line",
+    "grammarFocus": "soft complaint",
+    "notes": "Useful for polite dissatisfaction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver alguma solução, estou aberto a ouvi-la.",
+        "english": "If there is any solution, I am open to hearing it."
+      }
+    ],
+    "tags": ["hotel", "complaints", "expectations"]
+  },
+  {
+    "id": "14-ah-b1b2-021",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The issue is not dramatic, but it does affect my sleep, so I thought it was worth mentioning.",
+    "portuguese": "O problema não é grave, mas afeta o meu sono, por isso achei que valia a pena mencionar.",
+    "pronunciationNote": "oo proh-BLAY-mah nown eh GRAH-v, mahz ah-FEH-tah oo may-oo SOH-noo, poor EE-soo ah-SHAY k VAH-lee-ah ah PEH-nah men-see-oh-NAR",
+    "grammarFocus": "justifying a complaint",
+    "notes": "Useful for noise or comfort issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não dissesse nada, continuava igual.",
+        "english": "If I said nothing, it would stay the same."
+      }
+    ],
+    "tags": ["hotel", "complaints", "comfort"]
+  },
+  {
+    "id": "14-ah-b1b2-022",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if I showed you the confirmation email so we can compare the details?",
+    "portuguese": "Ajudava se eu lhe mostrasse o e-mail de confirmação para compararmos os detalhes?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s eh-oo ly moo-SHRAH-s oo ee-mail d kong-feer-mah-SOWN pah-rah kong-pah-RAHR-moosh oosh deh-TAH-lysh",
+    "grammarFocus": "offering evidence politely",
+    "notes": "Useful when something does not match.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez assim seja mais simples perceber o que aconteceu.",
+        "english": "Maybe that way it will be easier to understand what happened."
+      }
+    ],
+    "tags": ["hotel", "booking", "clarification"]
+  },
+  {
+    "id": "14-ah-b1b2-023",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to decide whether it is worth extending the stay by one more night.",
+    "portuguese": "Estou a tentar decidir se vale a pena prolongar a estadia por mais uma noite.",
+    "pronunciationNote": "esh-TOH ah ten-TAR deh-see-DEER s VAH-l ah PEH-nah proh-long-GAR ah esh-tah-DEE-ah poor mysh OO-mah NOY-t",
+    "grammarFocus": "explaining a decision",
+    "notes": "Useful at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depende um pouco do preço e da disponibilidade.",
+        "english": "It depends a bit on the price and availability."
+      }
+    ],
+    "tags": ["hotel", "extended-stay", "planning"]
+  },
+  {
+    "id": "14-ah-b1b2-024",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I extend the booking, would I be able to stay in the same room?",
+    "portuguese": "Se prolongar a reserva, podia ficar no mesmo quarto?",
+    "pronunciationNote": "s proh-long-GAR ah reh-ZAIR-vah, POH-dee-ah fee-KAR noo MAY-zmoo KWAR-too",
+    "grammarFocus": "conditional question",
+    "notes": "Useful if you want to avoid moving rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preferia não ter de mudar, se possível.",
+        "english": "I would rather not have to move, if possible."
+      }
+    ],
+    "tags": ["hotel", "extended-stay", "room"]
+  },
+  {
+    "id": "14-ah-b1b2-025",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to arrange a wake-up call, just to be on the safe side?",
+    "portuguese": "Seria possível marcar uma chamada de despertar, só para jogar pelo seguro?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel mar-KAR OO-mah shah-MAH-dah d desh-pair-TAR, soh pah-rah zhoo-GAR PEH-loo seh-GOO-roo",
+    "grammarFocus": "requesting a service",
+    "notes": "Useful before early departures.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho de sair muito cedo amanhã.",
+        "english": "I have to leave very early tomorrow."
+      }
+    ],
+    "tags": ["hotel", "wake-up-call", "service"]
+  },
+  {
+    "id": "14-ah-b1b2-026",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "From your point of view, is it worth adding breakfast here, or are there better options nearby?",
+    "portuguese": "Na sua opinião, vale a pena acrescentar o pequeno-almoço aqui ou há opções melhores por perto?",
+    "pronunciationNote": "nah SOO-ah oh-pee-nee-OWN, VAH-l ah PEH-nah ah-kreh-sen-TAR oo peh-KEH-noo al-MOH-soo ah-KEE oh ah op-SOYNSH meh-LYORSH poor PER-too",
+    "grammarFocus": "asking for local advice",
+    "notes": "Useful for practical decisions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver um bom café perto, talvez prefira isso.",
+        "english": "If there is a good café nearby, I might prefer that."
+      }
+    ],
+    "tags": ["hotel", "breakfast", "advice"]
+  },
+  {
+    "id": "14-ah-b1b2-027",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I suspect this is just a misunderstanding, but the amount on the bill seems higher than expected.",
+    "portuguese": "Suspeito que isto seja só um mal-entendido, mas o valor da conta parece mais alto do que eu esperava.",
+    "pronunciationNote": "soosh-PEY-too k EES-too ZHAY-gah soh oom mal-en-ten-DEE-doo, mahz oo vah-LOR dah KON-tah pah-REH-s mysh AL-too doo k eh-oo esh-peh-RAH-vah",
+    "grammarFocus": "soft billing complaint",
+    "notes": "Useful when querying a charge.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez eu esteja a interpretar alguma linha mal.",
+        "english": "Maybe I am reading one of the lines incorrectly."
+      }
+    ],
+    "tags": ["hotel", "invoice", "complaints"]
+  },
+  {
+    "id": "14-ah-b1b2-028",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you break down the final amount for me so I can see what each part refers to?",
+    "portuguese": "Pode discriminar-me o valor final para eu ver a que corresponde cada parte?",
+    "pronunciationNote": "POH-d deesh-kree-mee-NAR-m oo vah-LOR fee-NAL PAH-rah eh-oo vair ah k kong-resh-PON-d KAH-dah PAR-t",
+    "grammarFocus": "asking for itemisation",
+    "notes": "Useful with invoices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo perceber melhor a conta.",
+        "english": "That way I can understand the bill better."
+      }
+    ],
+    "tags": ["hotel", "invoice", "clarification"]
+  },
+  {
+    "id": "14-ah-b1b2-029",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather resolve this now than leave with it still unclear.",
+    "portuguese": "Preferia resolver isto agora do que ir embora com isto ainda pouco claro.",
+    "pronunciationNote": "preh-feh-REE-ah reh-zol-VAIR EES-too ah-GOH-rah doo k eer om-BOH-rah kong EES-too een-DAH POH-koo KLAH-roo",
+    "grammarFocus": "stating preference clearly",
+    "notes": "Useful in check-out discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim ficamos ambos descansados.",
+        "english": "That way we both feel at ease."
+      }
+    ],
+    "tags": ["hotel", "check-out", "resolution"]
+  },
+  {
+    "id": "14-ah-b1b2-030",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I know you cannot change the room layout, but perhaps there is another practical solution.",
+    "portuguese": "Sei que não podem mudar a disposição do quarto, mas talvez haja outra solução prática.",
+    "pronunciationNote": "say k nown POH-deng moo-DAR ah deesh-poo-zee-SOWN doo KWAR-too, mahz tal-VEHZ AH-zhah OW-trah soh-loo-SOWN PRAH-tee-kah",
+    "grammarFocus": "constructive complaint",
+    "notes": "Useful when asking for alternatives.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou aberto a sugestões, desde que me ajudem.",
+        "english": "I am open to suggestions, as long as they help."
+      }
+    ],
+    "tags": ["hotel", "complaints", "solutions"]
+  },
+  {
+    "id": "14-ah-b1b2-031",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need housekeeping every day, but I would appreciate fresh towels tomorrow.",
+    "portuguese": "Não preciso de limpeza todos os dias, mas agradecia toalhas lavadas amanhã.",
+    "pronunciationNote": "nown preh-SEE-zoo d leem-PAY-zah TOH-dooz oosh DEE-ash, mahz ah-grah-deh-SEE-ah too-AH-lyash lah-VAH-dash ah-mah-NYAH",
+    "grammarFocus": "stating a preference politely",
+    "notes": "Useful for longer stays.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só encontrar um equilíbrio.",
+        "english": "I just wanted to find a balance."
+      }
+    ],
+    "tags": ["hotel", "housekeeping", "preferences"]
+  },
+  {
+    "id": "14-ah-b1b2-032",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The main thing for me is reliability, especially because I have early plans tomorrow.",
+    "portuguese": "O principal para mim é que tudo funcione bem, sobretudo porque amanhã tenho planos cedo.",
+    "pronunciationNote": "oo preen-see-PAL PAH-rah meeng eh k TOO-doo foon-see-ON beng, soh-breh-TOO-doo poor-k ah-mah-NYAH TEN-yoo PLAH-noosh SAY-doo",
+    "grammarFocus": "explaining priorities",
+    "notes": "Useful when requesting fixes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso estou a tentar resolver isto hoje.",
+        "english": "That is why I am trying to sort this out today."
+      }
+    ],
+    "tags": ["hotel", "priorities", "problems"]
+  },
+  {
+    "id": "14-ah-b1b2-033",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If the only option is a temporary fix for tonight, that may still be enough.",
+    "portuguese": "Se a única opção for uma solução temporária para esta noite, talvez isso ainda chegue.",
+    "pronunciationNote": "s ah OO-nee-kah op-SOWN for OO-mah soh-loo-SOWN tem-poo-RAH-ree-ah PAH-rah ESH-tah NOY-t, tal-VEHZ EE-soo een-DAH SHEH-g",
+    "grammarFocus": "pragmatic negotiation",
+    "notes": "Useful when full resolution is not possible.",
+    "exampleSentences": [
+      {
+        "portuguese": "O importante é conseguir descansar.",
+        "english": "The important thing is being able to rest."
+      }
+    ],
+    "tags": ["hotel", "solutions", "complaints"]
+  },
+  {
+    "id": "14-ah-b1b2-034",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier if I came back to reception in a little while, once you have had time to check?",
+    "portuguese": "Seria mais fácil se eu voltasse à receção daqui a pouco, depois de terem tempo para verificar?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel s eh-oo vol-TAH-vessh ah reh-sehp-SOWN dah-KEE ah POH-koo, deh-POYSH d te-RENG TEM-poo PAH-rah veh-ree-fee-KAR",
+    "grammarFocus": "collaborative request",
+    "notes": "Useful when staff need time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim não fico aqui à espera sem necessidade.",
+        "english": "That way I do not stay here waiting unnecessarily."
+      }
+    ],
+    "tags": ["hotel", "reception", "solutions"]
+  },
+  {
+    "id": "14-ah-b1b2-035",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand the hotel is full, so I am mainly trying to see what can realistically be done.",
+    "portuguese": "Percebo que o hotel esteja cheio, por isso estou sobretudo a tentar ver o que se pode fazer de forma realista.",
+    "pronunciationNote": "pair-SEH-boo k oo oh-TEL esh-TAY-gah SHAY-oo, poor EE-soo esh-TOH soh-breh-TOO-doo ah ten-TAR vair oo k s POH-d fah-ZAIR d FOR-mah heh-ah-LEESH-tah",
+    "grammarFocus": "showing reasonableness",
+    "notes": "Useful in full hotels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não estou à espera de milagres, só de uma solução sensata.",
+        "english": "I am not expecting miracles, just a sensible solution."
+      }
+    ],
+    "tags": ["hotel", "complaints", "negotiation"]
+  },
+  {
+    "id": "14-ah-b1b2-036",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you think it makes more sense, I can also send the details by email instead of sorting it out at the desk.",
+    "portuguese": "Se achar que faz mais sentido, também posso enviar os detalhes por e-mail em vez de tratar disto ao balcão.",
+    "pronunciationNote": "s ah-SHAR k faz mysh sen-TEE-doo, tam-BAYNG POS-soo en-vee-AR oosh deh-TAH-lysh poor ee-mail eng vez d trah-TAR DEESH-too ow bal-KOWN",
+    "grammarFocus": "offering an alternative process",
+    "notes": "Useful when an issue may take time.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais prático para vocês, não me importo.",
+        "english": "If it is more practical for you, I do not mind."
+      }
+    ],
+    "tags": ["hotel", "communication", "flexibility"]
+  },
+  {
+    "id": "14-ah-b1b2-037",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to weigh up comfort against cost, because I will be spending quite a bit of time here.",
+    "portuguese": "Estou a tentar equilibrar conforto e custo, porque vou passar aqui bastante tempo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR eh-kwee-lee-BRAR kong-FOR-too ee KOOSH-too, poor-k voh pah-SAR ah-KEE bahsh-TAN-t TEM-poo",
+    "grammarFocus": "explaining decision criteria",
+    "notes": "Useful when choosing room upgrades.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso quero escolher bem desde o início.",
+        "english": "That is why I want to choose well from the start."
+      }
+    ],
+    "tags": ["hotel", "room-types", "decision-making"]
+  },
+  {
+    "id": "14-ah-b1b2-038",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be fair to say that the main difference between these two rooms is the size rather than the facilities?",
+    "portuguese": "Seria justo dizer que a principal diferença entre estes dois quartos é o tamanho, mais do que as comodidades?",
+    "pronunciationNote": "seh-REE-ah ZHOOSH-too dee-ZAIR k ah preen-see-PAL dee-feh-REN-sah EN-tr ESH-tesh dooysh KWAR-toosh eh oo tah-MAN-yoo, mysh doo k ash koh-moh-dee-DAH-deesh",
+    "grammarFocus": "checking understanding",
+    "notes": "Useful when comparing room categories.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria perceber exatamente o que muda.",
+        "english": "I wanted to understand exactly what changes."
+      }
+    ],
+    "tags": ["hotel", "room-types", "comparison"]
+  },
+  {
+    "id": "14-ah-b1b2-039",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The issue is manageable for one night, but less ideal if I stay longer than that.",
+    "portuguese": "O problema é suportável durante uma noite, mas menos ideal se eu ficar mais tempo.",
+    "pronunciationNote": "oo proh-BLAY-mah eh soo-poor-TAH-vel doo-RAN-t OO-mah NOY-t, mahz MEN-oosh ee-deh-AL s eh-oo fee-KAR mysh TEM-poo",
+    "grammarFocus": "qualifying a complaint",
+    "notes": "Useful during a stay.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso queria decidir já se vale a pena mudar.",
+        "english": "That is why I wanted to decide now whether it is worth changing."
+      }
+    ],
+    "tags": ["hotel", "complaints", "stay"]
+  },
+  {
+    "id": "14-ah-b1b2-040",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate the help. I know these requests are easier to sort out earlier rather than later.",
+    "portuguese": "Agradeço a ajuda. Sei que estes pedidos são mais fáceis de resolver mais cedo do que mais tarde.",
+    "pronunciationNote": "ah-grah-DAY-soo ah ah-ZHOO-dah. say k ESH-tesh peh-DEE-doosh sown mysh FAH-seesh d reh-zol-VAIR mysh SAY-doo doo k mysh TAR-d",
+    "grammarFocus": "closing appreciatively",
+    "notes": "Useful after discussing an issue.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso achei melhor falar convosco agora.",
+        "english": "That is why I thought it was better to speak with you now."
+      }
+    ],
+    "tags": ["hotel", "politeness", "service"]
+  },
+  {
+    "id": "14-ah-b1b2-041",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind waiting a little, as long as I know roughly what to expect.",
+    "portuguese": "Não me importo de esperar um pouco, desde que saiba mais ou menos com o que contar.",
+    "pronunciationNote": "nown m eem-POR-too d esh-peh-RAR oom POH-koo, DEHZ-d k SAH-ee-bah mysh oh MEN-oosh kong oo k kong-TAR",
+    "grammarFocus": "setting conditions politely",
+    "notes": "Useful when delays occur.",
+    "exampleSentences": [
+      {
+        "portuguese": "O problema é mais a incerteza do que a espera.",
+        "english": "The problem is more the uncertainty than the wait."
+      }
+    ],
+    "tags": ["hotel", "waiting", "communication"]
+  },
+  {
+    "id": "14-ah-b1b2-042",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is a simpler way to handle this, I am completely open to it.",
+    "portuguese": "Se houver uma forma mais simples de tratar disto, estou completamente aberto a isso.",
+    "pronunciationNote": "s oo-VER OO-mah FOR-mah mysh SEEM-plesh d trah-TAR DEESH-too, esh-TOH kong-pleh-tah-MEN-t ah-BER-too ah EE-soo",
+    "grammarFocus": "showing flexibility",
+    "notes": "Useful in collaborative problem-solving.",
+    "exampleSentences": [
+      {
+        "portuguese": "O importante para mim é que fique resolvido.",
+        "english": "The important thing for me is that it gets resolved."
+      }
+    ],
+    "tags": ["hotel", "solutions", "flexibility"]
+  },
+  {
+    "id": "14-ah-b1b2-043",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to note that on the booking so I do not have to explain it again later?",
+    "portuguese": "Seria possível tomar nota disso na reserva para eu não ter de voltar a explicar mais tarde?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel toh-MAR NOH-tah DEE-soo nah reh-ZAIR-vah PAH-rah eh-oo nown tair d vol-TAR ah eks-plee-KAR mysh TAR-d",
+    "grammarFocus": "requesting follow-through",
+    "notes": "Useful when something was agreed.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evita-se confusão no futuro.",
+        "english": "That way confusion is avoided in future."
+      }
+    ],
+    "tags": ["hotel", "booking", "follow-up"]
+  },
+  {
+    "id": "14-ah-b1b2-044",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not think anyone has done anything wrong; I just want to make sure we are looking at the same information.",
+    "portuguese": "Não me parece que alguém tenha feito algo de errado; só quero garantir que estamos a ver a mesma informação.",
+    "pronunciationNote": "nown m pah-REH-s k al-GAYNG TEN-yah FAY-too AL-goo d eh-RAH-doo; soh KEH-roo gah-ran-TEER k esh-TAH-moosh ah vair ah MAY-zmah een-for-mah-SOWN",
+    "grammarFocus": "de-escalating a discussion",
+    "notes": "Useful in billing or booking issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez estejamos só a interpretar de forma diferente.",
+        "english": "Maybe we are just interpreting it differently."
+      }
+    ],
+    "tags": ["hotel", "clarification", "billing"]
+  },
+  {
+    "id": "14-ah-b1b2-045",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you personally recommend staying here again for a longer visit, or is this room better for short stays?",
+    "portuguese": "Pessoalmente, recomendaria voltar a ficar aqui numa estadia mais longa, ou este quarto é melhor para estadias curtas?",
+    "pronunciationNote": "peh-soo-al-MEN-t, reh-ko-men-dah-REE-ah vol-TAR ah fee-KAR ah-KEE NOO-mah esh-tah-DEE-ah mysh LONG-gah, oh ESH-t KWAR-too eh meh-LYOR PAH-rah esh-tah-DEE-ash KOOR-tash",
+    "grammarFocus": "asking for informed advice",
+    "notes": "Useful when considering future stays.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou a tentar perceber o que faz mais sentido para a próxima vez.",
+        "english": "I am trying to understand what makes more sense for next time."
+      }
+    ],
+    "tags": ["hotel", "advice", "future-stays"]
+  },
+  {
+    "id": "14-ah-b1b2-046",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not asking for anything extravagant, just something that matches what was promised.",
+    "portuguese": "Não estou a pedir nada de extravagante, só algo que corresponda ao que foi prometido.",
+    "pronunciationNote": "nown esh-TOH ah peh-DEER NAH-dah d eks-trah-vah-GAN-t, soh AL-goo k kong-resh-PON-dah ow k foy proh-meh-TEE-doo",
+    "grammarFocus": "framing expectations",
+    "notes": "Useful in complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso achei importante referir a diferença.",
+        "english": "That is why I thought it was important to mention the difference."
+      }
+    ],
+    "tags": ["hotel", "complaints", "expectations"]
+  },
+  {
+    "id": "14-ah-b1b2-047",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to avoid moving all my things twice if there is no real advantage in changing rooms.",
+    "portuguese": "Estou a tentar evitar mudar tudo duas vezes se não houver uma vantagem real em trocar de quarto.",
+    "pronunciationNote": "esh-TOH ah ten-TAR eh-vee-TAR moo-DAR TOO-doo DOO-ash VAY-zesh s nown oo-VER OO-mah van-TAH-zheng heh-AL eng troh-KAR d KWAR-too",
+    "grammarFocus": "explaining practical reasoning",
+    "notes": "Useful when deciding on a room change.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a diferença for pequena, talvez não compense.",
+        "english": "If the difference is small, maybe it is not worth it."
+      }
+    ],
+    "tags": ["hotel", "room-change", "practicality"]
+  },
+  {
+    "id": "14-ah-b1b2-048",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks for checking. Even just knowing the situation helps me plan around it.",
+    "portuguese": "Obrigado por verificar. Mesmo só saber a situação já me ajuda a organizar-me.",
+    "pronunciationNote": "oh-bree-GAH-doo poor veh-ree-fee-KAR. MAY-zmoo soh sah-BER ah see-too-ah-SOWN zhah m ah-ZHOO-dah ah or-gah-nee-ZAR-m",
+    "grammarFocus": "acknowledging help",
+    "notes": "Useful when staff cannot fully solve something.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pelo menos sei com o que contar.",
+        "english": "At least I know what to expect."
+      }
+    ],
+    "tags": ["hotel", "politeness", "planning"]
+  },
+  {
+    "id": "14-ah-b1b2-049",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If necessary, I am happy to come back downstairs later once you have had time to speak to someone.",
+    "portuguese": "Se for preciso, não me importo de voltar a descer mais tarde quando já tiverem tido tempo de falar com alguém.",
+    "pronunciationNote": "s for preh-SEE-zoo, nown m eem-POR-too d vol-TAR ah deh-SAIR mysh TAR-d KWAN-doo zhah tee-VEH-reng TEE-doo TEM-poo d fah-LAR kong al-GAYNG",
+    "grammarFocus": "offering flexibility",
+    "notes": "Useful when staff need to consult someone.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero interromper o vosso trabalho sem necessidade.",
+        "english": "I do not want to interrupt your work unnecessarily."
+      }
+    ],
+    "tags": ["hotel", "reception", "flexibility"]
+  },
+  {
+    "id": "14-ah-b1b2-050",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thank you. That makes the situation much clearer, and now I know how best to handle the rest of the stay.",
+    "portuguese": "Obrigado. Assim a situação fica muito mais clara e já sei melhor como gerir o resto da estadia.",
+    "pronunciationNote": "oh-bree-GAH-doo. ah-SEENG ah see-too-ah-SOWN FEE-kah MOOY-too mysh KLAH-rah ee zhah say meh-LYOR KOH-moo zhuh-REER oo HESH-too dah esh-tah-DEE-ah",
+    "grammarFocus": "closing appreciatively",
+    "notes": "Useful after detailed help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agradeço muito a disponibilidade.",
+        "english": "I really appreciate the willingness to help."
+      }
+    ],
+    "tags": ["hotel", "politeness", "service"]
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "13-tpt-b1b2-001",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Which line would be more convenient for getting to the centre at this time of day?",
+    "portuguese": "Que linha seria mais prática para chegar ao centro a esta hora do dia?",
+    "pronunciationNote": "k LEE-nyah seh-REE-ah mysh PRAH-tee-kah pah-rah sheh-GAR ow SEN-troo ah ESH-tah OR-ah doo DEE-ah",
+    "grammarFocus": "asking for a recommendation",
+    "notes": "Natural way to ask about the best route.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver trânsito, prefiro a opção mais rápida.",
+        "english": "If there is traffic, I prefer the faster option."
+      }
+    ],
+    "tags": ["transport", "routes", "advice"]
+  },
+  {
+    "id": "13-tpt-b1b2-002",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you confirm whether this train stops at all the smaller stations on the way?",
+    "portuguese": "Pode confirmar se este comboio pára em todas as estações mais pequenas pelo caminho?",
+    "pronunciationNote": "POH-d kong-feer-MAR s ESH-t kong-BOY-oo PAH-rah eng TOH-dash ahsh es-tah-SOYNSH mysh peh-KAY-nash PEH-loo kah-MEE-nyoo",
+    "grammarFocus": "polite confirmation request",
+    "notes": "Useful when comparing stopping patterns.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero evitar apanhar o serviço errado.",
+        "english": "I want to avoid taking the wrong service."
+      }
+    ],
+    "tags": ["transport", "train", "confirmation"]
+  },
+  {
+    "id": "13-tpt-b1b2-003",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind changing once, as long as the connection is reliable.",
+    "portuguese": "Não me importo de fazer uma mudança, desde que a ligação seja fiável.",
+    "pronunciationNote": "nown m eem-POR-too d fah-ZAIR OO-mah moo-DAN-sah, DEHZ-d k ah lee-gah-SOWN ZHAY-gah fee-AH-vel",
+    "grammarFocus": "setting a condition",
+    "notes": "Useful for discussing options.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro isso a ficar muito tempo à espera.",
+        "english": "I prefer that to waiting a long time."
+      }
+    ],
+    "tags": ["transport", "connections", "preferences"]
+  },
+  {
+    "id": "13-tpt-b1b2-004",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there usually much delay on this route during the morning rush?",
+    "portuguese": "Costuma haver muito atraso nesta rota durante a hora de ponta da manhã?",
+    "pronunciationNote": "koosh-TOO-mah ah-VER MOOY-too ah-TRAH-zhoo NESH-tah HOH-tah doo-RAN-t ah OR-ah d PON-tah dah mah-NYAH",
+    "grammarFocus": "asking about typical patterns",
+    "notes": "Useful for realistic planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho uma reunião e preciso de contar com alguma margem.",
+        "english": "I have a meeting and need to allow for some margin."
+      }
+    ],
+    "tags": ["transport", "delays", "planning"]
+  },
+  {
+    "id": "13-tpt-b1b2-005",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I miss this connection, is there another service shortly afterwards?",
+    "portuguese": "Se eu perder esta ligação, há outro serviço pouco depois?",
+    "pronunciationNote": "s eh-oo pair-DER ESH-tah lee-gah-SOWN, ah OW-troo sair-VEE-soo POH-koo doh-POYSH",
+    "grammarFocus": "conditional question",
+    "notes": "Useful for longer trips with transfers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria perceber o risco antes de comprar o bilhete.",
+        "english": "I wanted to understand the risk before buying the ticket."
+      }
+    ],
+    "tags": ["transport", "connections", "risk"]
+  },
+  {
+    "id": "13-tpt-b1b2-006",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you point out which stop I should get off at for the museum district?",
+    "portuguese": "Pode indicar-me em que paragem devo sair para a zona dos museus?",
+    "pronunciationNote": "POH-d een-dee-KAR-m eng k pah-RAH-zhem DEH-voo syr pah-rah ah ZOH-nah doosh moo-ZAY-oosh",
+    "grammarFocus": "polite request with detail",
+    "notes": "More natural than a very short question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria passar da paragem certa.",
+        "english": "I did not want to go past the right stop."
+      }
+    ],
+    "tags": ["transport", "stops", "help"]
+  },
+  {
+    "id": "13-tpt-b1b2-007",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I seem to have boarded the wrong line without realising it.",
+    "portuguese": "Parece que entrei na linha errada sem dar por isso.",
+    "pronunciationNote": "pah-REH-s k en-TRAY nah LEE-nyah eh-RAH-dah seng dar poor EE-soo",
+    "grammarFocus": "explaining a mistake",
+    "notes": "Useful when asking for recovery advice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Qual é a melhor maneira de corrigir isto?",
+        "english": "What is the best way to fix this?"
+      }
+    ],
+    "tags": ["transport", "mistakes", "problem-solving"]
+  },
+  {
+    "id": "13-tpt-b1b2-008",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier to buy a day pass rather than separate tickets?",
+    "portuguese": "Seria mais fácil comprar um passe diário em vez de bilhetes separados?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel kom-PRAR oom PAH-s dee-AH-ryoo eng vez d bee-LYEH-tsh seh-pah-RAH-doosh",
+    "grammarFocus": "comparing options",
+    "notes": "Useful for city transport planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou fazer várias viagens hoje.",
+        "english": "I am going to make several journeys today."
+      }
+    ],
+    "tags": ["transport", "tickets", "comparison"]
+  },
+  {
+    "id": "13-tpt-b1b2-009",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I was told this service is quicker, but I am not sure it is worth the extra cost.",
+    "portuguese": "Disseram-me que este serviço é mais rápido, mas não sei se vale o custo extra.",
+    "pronunciationNote": "dee-SAIR-am-m k ESH-t sair-VEE-soo eh mysh HAH-pee-doo, mahsh nown say s VAH-l oo KOOSH-too ESH-trah",
+    "grammarFocus": "evaluating trade-offs",
+    "notes": "Useful for discussing ticket categories.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro perceber bem a diferença antes de decidir.",
+        "english": "I prefer to understand the difference clearly before deciding."
+      }
+    ],
+    "tags": ["transport", "tickets", "decision-making"]
+  },
+  {
+    "id": "13-tpt-b1b2-010",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there any advantage to booking this in advance?",
+    "portuguese": "Há alguma vantagem em reservar isto com antecedência?",
+    "pronunciationNote": "ah al-GOO-mah van-TAH-zheng eng reh-zair-VAR EES-too kong an-teh-seh-DEN-see-ah",
+    "grammarFocus": "asking about benefit",
+    "notes": "Useful for long-distance trains or coaches.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais barato, posso tratar disso já.",
+        "english": "If it is cheaper, I can sort that out now."
+      }
+    ],
+    "tags": ["transport", "booking", "planning"]
+  },
+  {
+    "id": "13-tpt-b1b2-011",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The announcement was not very clear. Did they say the platform has changed?",
+    "portuguese": "O anúncio não foi muito claro. Disseram que a plataforma mudou?",
+    "pronunciationNote": "oo ah-NOON-see-oo nown foy MOOY-too KLAH-roo. dee-SAIR-am k ah plah-tah-FOR-mah moo-DOH",
+    "grammarFocus": "checking uncertain information",
+    "notes": "Useful in stations with poor audio.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria ir para o sítio errado.",
+        "english": "I did not want to go to the wrong place."
+      }
+    ],
+    "tags": ["transport", "announcements", "platform"]
+  },
+  {
+    "id": "13-tpt-b1b2-012",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If possible, I would rather avoid the busiest services.",
+    "portuguese": "Se possível, preferia evitar os serviços mais cheios.",
+    "pronunciationNote": "s poo-SEE-vel, preh-feh-REE-ah eh-vee-TAR oosh sair-VEE-soosh mysh SHAY-oosh",
+    "grammarFocus": "polite preference",
+    "notes": "Useful when asking for alternatives.",
+    "exampleSentences": [
+      {
+        "portuguese": "Viajo com bagagem e é mais confortável assim.",
+        "english": "I am travelling with luggage and it is more comfortable that way."
+      }
+    ],
+    "tags": ["transport", "preferences", "crowds"]
+  },
+  {
+    "id": "13-tpt-b1b2-013",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain how the zone system works in practice?",
+    "portuguese": "Pode explicar como funciona, na prática, o sistema de zonas?",
+    "pronunciationNote": "POH-d eks-plee-KAR KOH-moo foon-see-OH-nah, nah PRAH-tee-kah, oo sees-TAY-mah d ZOH-nash",
+    "grammarFocus": "asking for an explanation",
+    "notes": "Useful in transport systems with fare zones.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero comprar o título errado.",
+        "english": "I do not want to buy the wrong fare."
+      }
+    ],
+    "tags": ["transport", "fares", "zones"]
+  },
+  {
+    "id": "13-tpt-b1b2-014",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is a disruption on the line, what is usually the best alternative?",
+    "portuguese": "Se houver uma interrupção na linha, qual costuma ser a melhor alternativa?",
+    "pronunciationNote": "s oo-VER OO-mah een-teh-roop-SOWN nah LEE-nyah, kwal koosh-TOO-mah sair ah meh-LYOR al-tair-nah-TEE-vah",
+    "grammarFocus": "asking about contingency",
+    "notes": "Useful for travel resilience.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro preparar-me antes de sair.",
+        "english": "I prefer to prepare before leaving."
+      }
+    ],
+    "tags": ["transport", "disruption", "alternatives"]
+  },
+  {
+    "id": "13-tpt-b1b2-015",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I understand the route, but I am still unsure about where to change.",
+    "portuguese": "Percebo o percurso, mas ainda tenho dúvidas sobre onde mudar.",
+    "pronunciationNote": "pair-SEH-boo oo pair-KOOR-soo, mahz een-DAH TEN-yoo DOO-vee-dash SOH-br ON-d moo-DAR",
+    "grammarFocus": "partial understanding",
+    "notes": "Useful when you need one final clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "É só essa parte que me está a confundir.",
+        "english": "It is only that part that is confusing me."
+      }
+    ],
+    "tags": ["transport", "clarification", "connections"]
+  },
+  {
+    "id": "13-tpt-b1b2-016",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it make more sense to take a coach instead of the train for this journey?",
+    "portuguese": "Faria mais sentido apanhar um autocarro de longo curso em vez do comboio para esta viagem?",
+    "pronunciationNote": "fah-REE-ah mysh sen-TEE-doo ah-pah-NYAR oom ow-too-KAH-hoo d LONG-goo KOOR-soo eng vez doo kong-BOY-oo pah-rah ESH-tah vee-AH-zheng",
+    "grammarFocus": "evaluating alternatives",
+    "notes": "Useful when comparing long-distance options.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais simples, não me importo.",
+        "english": "If it is simpler, I do not mind."
+      }
+    ],
+    "tags": ["transport", "coach", "comparison"]
+  },
+  {
+    "id": "13-tpt-b1b2-017",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would prefer something with fewer changes, even if it takes slightly longer.",
+    "portuguese": "Preferia uma opção com menos mudanças, mesmo que demore um pouco mais.",
+    "pronunciationNote": "preh-feh-REE-ah OO-mah op-SOWN kong MEN-oosh moo-DAN-sash, MAY-zmoo k dee-MOR oom POH-koo mysh",
+    "grammarFocus": "stating preference with concession",
+    "notes": "Natural way to express trade-offs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Viajar com malas torna tudo mais complicado.",
+        "english": "Travelling with bags makes everything more complicated."
+      }
+    ],
+    "tags": ["transport", "preferences", "connections"]
+  },
+  {
+    "id": "13-tpt-b1b2-018",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do I need to validate this again when I change lines, or is one validation enough?",
+    "portuguese": "Tenho de validar isto outra vez quando mudar de linha, ou uma validação chega?",
+    "pronunciationNote": "TEN-yoo d vah-lee-DAR EES-too OW-trah vez KWAN-doo moo-DAR d LEE-nyah, oh OO-mah vah-lee-dah-SOWN SHEH-gah",
+    "grammarFocus": "asking about procedure",
+    "notes": "Useful with travel cards.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero arriscar uma multa por engano.",
+        "english": "I do not want to risk a fine by mistake."
+      }
+    ],
+    "tags": ["transport", "validation", "rules"]
+  },
+  {
+    "id": "13-tpt-b1b2-019",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this connection is comfortable, or is it usually a bit rushed?",
+    "portuguese": "Diria que esta ligação é confortável, ou costuma ser um pouco apertada?",
+    "pronunciationNote": "dee-REE-ah k ESH-tah lee-gah-SOWN eh kong-for-TAH-vel, oh koosh-TOO-mah sair oom POH-koo ah-pair-TAH-dah",
+    "grammarFocus": "asking for an evaluation",
+    "notes": "Useful when deciding between itineraries.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for muito justo, prefiro outra opção.",
+        "english": "If it is too tight, I prefer another option."
+      }
+    ],
+    "tags": ["transport", "connections", "timing"]
+  },
+  {
+    "id": "13-tpt-b1b2-020",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have a suitcase, so I am trying to avoid too many stairs or long walks between platforms.",
+    "portuguese": "Levo uma mala, por isso estou a tentar evitar demasiadas escadas ou caminhadas longas entre plataformas.",
+    "pronunciationNote": "LEH-voo OO-mah MAH-lah, poor EE-soo esh-TOH ah ten-TAR eh-vee-TAR deh-mah-zee-AH-dash esh-KAH-dash oh kah-mee-NYAH-dash LONG-gash EN-tr plah-tah-FOR-mash",
+    "grammarFocus": "explaining a personal constraint",
+    "notes": "Useful when asking staff for the best option.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver elevador, melhor ainda.",
+        "english": "If there is a lift, even better."
+      }
+    ],
+    "tags": ["transport", "luggage", "accessibility"]
+  },
+  {
+    "id": "13-tpt-b1b2-021",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is this the sort of delay that usually clears quickly, or should I start looking for alternatives?",
+    "portuguese": "Este tipo de atraso costuma resolver-se depressa, ou devo começar a procurar alternativas?",
+    "pronunciationNote": "ESH-t TEE-poo d ah-TRAH-zhoo koosh-TOO-mah reh-zol-VAIR-s deh-PREH-sah, oh DEH-voo koh-meh-SAR ah proh-koo-RAR al-tair-nah-TEE-vash",
+    "grammarFocus": "assessing a problem",
+    "notes": "Useful during disruption.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho alguma flexibilidade, mas não muita.",
+        "english": "I have some flexibility, but not much."
+      }
+    ],
+    "tags": ["transport", "delays", "alternatives"]
+  },
+  {
+    "id": "13-tpt-b1b2-022",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to hold anyone up, but could you go over the route one more time?",
+    "portuguese": "Não quero atrasar ninguém, mas podia explicar-me o percurso mais uma vez?",
+    "pronunciationNote": "nown KEH-roo ah-trah-ZAR neeng-GAYNG, mahsh POH-dee-ah eks-plee-KAR-m oo pair-KOOR-soo mysh OO-mah vez",
+    "grammarFocus": "polite softening",
+    "notes": "Useful when asking again without sounding abrupt.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desta vez acho que já consigo acompanhar.",
+        "english": "This time I think I can follow."
+      }
+    ],
+    "tags": ["transport", "clarification", "politeness"]
+  },
+  {
+    "id": "13-tpt-b1b2-023",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I buy the ticket now, can I take a later service if my plans change slightly?",
+    "portuguese": "Se comprar o bilhete agora, posso apanhar um serviço mais tarde se os meus planos mudarem um pouco?",
+    "pronunciationNote": "s kom-PRAR oo bee-LYEH-t ah-GOH-rah, POS-soo ah-pah-NYAR oom sair-VEE-soo mysh TAR-d s oosh may-oosh PLAH-noosh moo-DAH-reng oom POH-koo",
+    "grammarFocus": "asking about flexibility",
+    "notes": "Useful for ticket conditions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei ao certo a que horas vou acabar.",
+        "english": "I am not sure exactly what time I will finish."
+      }
+    ],
+    "tags": ["transport", "tickets", "flexibility"]
+  },
+  {
+    "id": "13-tpt-b1b2-024",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had assumed this would be straightforward, but the network map is more confusing than I expected.",
+    "portuguese": "Eu tinha assumido que isto seria simples, mas o mapa da rede é mais confuso do que eu esperava.",
+    "pronunciationNote": "eh-oo TEE-nyah ah-soo-MEE-doo k EES-too seh-REE-ah SEEM-plesh, mahsh oo MAH-pah dah HEH-d eh mysh kong-FYOO-zoo doo k eh-oo esh-peh-RAH-vah",
+    "grammarFocus": "explaining confusion",
+    "notes": "Useful when asking for help with a complex system.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez eu esteja a olhar para a parte errada.",
+        "english": "Maybe I am looking at the wrong part."
+      }
+    ],
+    "tags": ["transport", "maps", "confusion"]
+  },
+  {
+    "id": "13-tpt-b1b2-025",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In your opinion, is it better to buy this online or at the station on the day?",
+    "portuguese": "Na sua opinião, é melhor comprar isto online ou na estação no próprio dia?",
+    "pronunciationNote": "nah SOO-ah oh-pee-nee-OWN, eh meh-LYOR kom-PRAR EES-too on-LYN oh nah es-tah-SOWN noo PROH-pree-oo DEE-ah",
+    "grammarFocus": "asking for advice",
+    "notes": "Useful when you want a practical recommendation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver alguma diferença de preço, gostava de saber.",
+        "english": "If there is any price difference, I would like to know."
+      }
+    ],
+    "tags": ["transport", "tickets", "advice"]
+  },
+  {
+    "id": "13-tpt-b1b2-026",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to work out whether the faster option is actually worth it for such a short journey.",
+    "portuguese": "Estou a tentar perceber se a opção mais rápida compensa realmente numa viagem tão curta.",
+    "pronunciationNote": "esh-TOH ah ten-TAR pair-SEH-bair s ah op-SOWN mysh HAH-pee-dah kong-PEN-sah heh-al-MEN-t NOO-mah vee-AH-zheng town KOOR-tah",
+    "grammarFocus": "weighing value",
+    "notes": "Useful in ticket and route choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a diferença for pequena, talvez prefira poupar.",
+        "english": "If the difference is small, maybe I would rather save money."
+      }
+    ],
+    "tags": ["transport", "value", "choices"]
+  },
+  {
+    "id": "13-tpt-b1b2-027",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you happen to know whether there are engineering works on the line this weekend?",
+    "portuguese": "Por acaso sabe se há obras na linha este fim de semana?",
+    "pronunciationNote": "poor ah-KAH-zoo SAH-b s ah OH-brash nah LEE-nyah ESH-t feeng d seh-MAH-nah",
+    "grammarFocus": "casual polite inquiry",
+    "notes": "Useful for weekend transport planning.",
+    "exampleSentences": [
+      {
+        "portuguese": "Disseram-me que podia haver alterações.",
+        "english": "I was told there might be changes."
+      }
+    ],
+    "tags": ["transport", "works", "weekend"]
+  },
+  {
+    "id": "13-tpt-b1b2-028",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am happy to take public transport, but I need it to be reasonably predictable.",
+    "portuguese": "Não me importo de usar transportes públicos, mas preciso que sejam minimamente previsíveis.",
+    "pronunciationNote": "nown m eem-POR-too d oo-ZAR transh-POR-tesh POO-blee-koosh, mahsh preh-SEE-zoo k ZHAY-jeng mee-nee-MAH-men-t preh-vee-ZEE-veesh",
+    "grammarFocus": "stating requirements",
+    "notes": "Useful when discussing what option suits you.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver demasiada incerteza, procuro outra solução.",
+        "english": "If there is too much uncertainty, I look for another solution."
+      }
+    ],
+    "tags": ["transport", "requirements", "planning"]
+  },
+  {
+    "id": "13-tpt-b1b2-029",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me if there is a better stop for accessing the old town without so much uphill walking?",
+    "portuguese": "Pode dizer-me se há uma paragem melhor para chegar à zona histórica sem tanta subida a pé?",
+    "pronunciationNote": "POH-d dee-ZER-m s ah OO-mah pah-RAH-zhem meh-LYOR pah-rah sheh-GAR ah ZOH-nah ees-TOH-ree-kah seng TAN-tah soo-BEE-dah ah peh",
+    "grammarFocus": "asking for a more suitable option",
+    "notes": "Useful when terrain matters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou com pouca vontade de subir tantas ruas.",
+        "english": "I am not keen on climbing so many streets."
+      }
+    ],
+    "tags": ["transport", "stops", "walking"]
+  },
+  {
+    "id": "13-tpt-b1b2-030",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would this still be valid if I break the journey for an hour or two?",
+    "portuguese": "Isto continua válido se eu interromper a viagem durante uma hora ou duas?",
+    "pronunciationNote": "EES-too kon-TEE-noo-ah vah-lee-doo s eh-oo een-teh-roong-PAIR ah vee-AH-zheng doo-RAN-t OO-mah OR-ah oh DOO-ash",
+    "grammarFocus": "asking about conditions",
+    "notes": "Useful for ticket validity.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez queira parar pelo caminho para almoçar.",
+        "english": "I might want to stop along the way for lunch."
+      }
+    ],
+    "tags": ["transport", "tickets", "validity"]
+  },
+  {
+    "id": "13-tpt-b1b2-031",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The timetable makes sense now, but I am still not clear on which service category I need.",
+    "portuguese": "O horário já faz sentido, mas ainda não percebo bem de que categoria de serviço preciso.",
+    "pronunciationNote": "oo oh-RAH-ryoo zhah faz sen-TEE-doo, mahz een-DAH nown pair-SEH-boo beng d k kah-teh-goo-REE-ah d sair-VEE-soo preh-SEE-zoo",
+    "grammarFocus": "remaining uncertainty",
+    "notes": "Useful when choosing between service types.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há tantas opções que fico na dúvida.",
+        "english": "There are so many options that I am left uncertain."
+      }
+    ],
+    "tags": ["transport", "timetable", "service-types"]
+  },
+  {
+    "id": "13-tpt-b1b2-032",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I understand correctly, the delay affects only the outbound service, not the return one.",
+    "portuguese": "Se percebi bem, o atraso afeta apenas o serviço de ida, não o de volta.",
+    "pronunciationNote": "s pair-seh-BEE beng, oo ah-TRAH-zhoo ah-FEH-tah ah-PEH-nash oo sair-VEE-soo d EE-dah, nown oo d VOL-tah",
+    "grammarFocus": "checking interpretation",
+    "notes": "Useful for confirming disruption details.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria só ter a certeza antes de reorganizar tudo.",
+        "english": "I just wanted to be sure before reorganising everything."
+      }
+    ],
+    "tags": ["transport", "delays", "confirmation"]
+  },
+  {
+    "id": "13-tpt-b1b2-033",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not necessarily need the cheapest option; I need the one that is least stressful.",
+    "portuguese": "Não preciso necessariamente da opção mais barata; preciso da que for menos stressante.",
+    "pronunciationNote": "nown preh-SEE-zoo neh-seh-sah-ree-ah-MEN-t dah op-SOWN mysh bah-RAH-tah; preh-SEE-zoo dah k for MEN-oosh stres-SAN-t",
+    "grammarFocus": "prioritising criteria",
+    "notes": "Useful when explaining decision criteria.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes compensa pagar um pouco mais por simplicidade.",
+        "english": "Sometimes it is worth paying a little more for simplicity."
+      }
+    ],
+    "tags": ["transport", "preferences", "decision-making"]
+  },
+  {
+    "id": "13-tpt-b1b2-034",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend the simplest way to get there if I am not familiar with the network?",
+    "portuguese": "Pode recomendar-me a forma mais simples de lá chegar se eu não conhecer bem a rede?",
+    "pronunciationNote": "POH-d reh-ko-men-DAR-m ah FOR-mah mysh SEEM-plesh d lah sheh-GAR s eh-oo nown kon-yeh-SAIR beng ah HEH-d",
+    "grammarFocus": "asking for beginner-friendly advice",
+    "notes": "Useful when simplicity matters more than speed.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro evitar trocas desnecessárias.",
+        "english": "I prefer to avoid unnecessary changes."
+      }
+    ],
+    "tags": ["transport", "advice", "simplicity"]
+  },
+  {
+    "id": "13-tpt-b1b2-035",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had expected this to be a direct service, so I am trying to understand why there is a transfer.",
+    "portuguese": "Eu estava à espera de que isto fosse um serviço direto, por isso estou a tentar perceber porque há transbordo.",
+    "pronunciationNote": "eh-oo esh-TAH-vah ah esh-PAY-rah d k EES-too FOY-s oom sair-VEE-soo dee-REH-too, poor EE-soo esh-TOH ah ten-TAR pair-SEH-bair por-KAY ah transh-BOR-doo",
+    "grammarFocus": "explaining an assumption",
+    "notes": "Useful when something differs from what you expected.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez eu tenha lido a informação demasiado depressa.",
+        "english": "Maybe I read the information too quickly."
+      }
+    ],
+    "tags": ["transport", "connections", "clarification"]
+  },
+  {
+    "id": "13-tpt-b1b2-036",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "From your experience, is it realistic to make that connection with luggage?",
+    "portuguese": "Pela sua experiência, é realista fazer essa ligação com bagagem?",
+    "pronunciationNote": "PEH-lah SOO-ah esh-pair-YEN-see-ah, eh heh-ah-LEESH-tah fah-ZAIR EH-sah lee-gah-SOWN kong bah-GAH-zheng",
+    "grammarFocus": "asking for practical judgment",
+    "notes": "Useful when you want real-world advice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria descobrir tarde demais que é impossível.",
+        "english": "I did not want to discover too late that it is impossible."
+      }
+    ],
+    "tags": ["transport", "luggage", "connections"]
+  },
+  {
+    "id": "13-tpt-b1b2-037",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would I be better off taking a taxi from the last station rather than doing the whole route by public transport?",
+    "portuguese": "Seria melhor apanhar um táxi a partir da última estação em vez de fazer o percurso todo de transportes públicos?",
+    "pronunciationNote": "seh-REE-ah meh-LYOR ah-pah-NYAR oom TAK-see ah par-TEER dah OOL-tee-mah es-tah-SOWN eng vez d fah-ZAIR oo pair-KOOR-soo TOH-doo d transh-POR-tesh POO-blee-koosh",
+    "grammarFocus": "evaluating mixed transport options",
+    "notes": "Useful for awkward final legs.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria encontrar um equilíbrio entre preço e conveniência.",
+        "english": "I wanted to find a balance between price and convenience."
+      }
+    ],
+    "tags": ["transport", "taxi", "mixed-routes"]
+  },
+  {
+    "id": "13-tpt-b1b2-038",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do people usually queue here, or is it more informal than that?",
+    "portuguese": "As pessoas costumam fazer fila aqui, ou isto é mais informal do que isso?",
+    "pronunciationNote": "azh peh-SOH-ash koosh-TOO-mang fah-ZAIR FEE-lah ah-KEE, oh EES-too eh mysh een-for-MAL doo k EE-soo",
+    "grammarFocus": "asking about norms",
+    "notes": "Useful when unsure how things work socially.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria parecer mal por não perceber o sistema.",
+        "english": "I did not want to look bad for not understanding the system."
+      }
+    ],
+    "tags": ["transport", "etiquette", "queues"]
+  },
+  {
+    "id": "13-tpt-b1b2-039",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can see the departure time, but I am unsure whether this is the final boarding time or just the scheduled departure.",
+    "portuguese": "Consigo ver a hora de partida, mas não sei se esta é a hora limite de embarque ou apenas a partida prevista.",
+    "pronunciationNote": "kon-SEE-goo vair ah OR-ah d par-TEE-dah, mahsh nown say s ESH-tah eh ah OR-ah LEE-mee-t d eng-BAR-k oh ah-PEH-nash ah par-TEE-dah preh-VEESH-tah",
+    "grammarFocus": "clarifying timetable language",
+    "notes": "Useful with airports, ferries, or coaches.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria chegar tarde por interpretar mal a informação.",
+        "english": "I did not want to arrive late because I misread the information."
+      }
+    ],
+    "tags": ["transport", "schedules", "clarification"]
+  },
+  {
+    "id": "13-tpt-b1b2-040",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I understand the map correctly, there are two possible routes, but one seems much less direct.",
+    "portuguese": "Se estou a ler bem o mapa, há duas rotas possíveis, mas uma parece muito menos direta.",
+    "pronunciationNote": "s esh-TOH ah lair beng oo MAH-pah, ah DOO-ash HOH-tash poo-SEE-veesh, mahz OO-mah pah-REH-s MOOY-too MEN-oosh dee-REH-tah",
+    "grammarFocus": "interpreting information",
+    "notes": "Useful when comparing routes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só quero ter a certeza de que estou a perceber corretamente.",
+        "english": "I just want to make sure I am understanding correctly."
+      }
+    ],
+    "tags": ["transport", "maps", "routes"]
+  },
+  {
+    "id": "13-tpt-b1b2-041",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In that case, I might be better off leaving slightly earlier to avoid unnecessary stress.",
+    "portuguese": "Nesse caso, talvez seja melhor sair um pouco mais cedo para evitar stress desnecessário.",
+    "pronunciationNote": "NEH-s kah-zoo, tal-VEHZ ZHAY-gah meh-LYOR syr oom POH-koo mysh SAY-doo pah-rah eh-vee-TAR stres deh-seh-seh-SAH-ryoo",
+    "grammarFocus": "drawing a practical conclusion",
+    "notes": "Useful when responding to advice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro ter margem do que andar a correr.",
+        "english": "I prefer to have some margin rather than rushing around."
+      }
+    ],
+    "tags": ["transport", "planning", "response"]
+  },
+  {
+    "id": "13-tpt-b1b2-042",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I realise this is probably a basic question, but I am still getting used to how the system works here.",
+    "portuguese": "Sei que isto é provavelmente uma pergunta básica, mas ainda me estou a habituar à forma como o sistema funciona aqui.",
+    "pronunciationNote": "say k EES-too eh proh-vah-vel-MEN-t OO-mah pair-GOON-tah BAH-see-kah, mahz een-DAH m esh-TOH ah ah-bee-too-AR ah FOR-mah KOH-moo oo sees-TAY-mah foon-see-OH-nah ah-KEE",
+    "grammarFocus": "softening a question",
+    "notes": "Useful when asking staff for patience.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso prefiro confirmar do que assumir.",
+        "english": "That is why I prefer to check rather than assume."
+      }
+    ],
+    "tags": ["transport", "softening", "questions"]
+  },
+  {
+    "id": "13-tpt-b1b2-043",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less worried about the price than about missing the last connection back.",
+    "portuguese": "Preocupa-me menos o preço do que perder a última ligação de regresso.",
+    "pronunciationNote": "preh-oh-KOO-pah-m MEN-oosh oo PREH-soo doo k pair-DER ah OOL-tee-mah lee-gah-SOWN d reh-GREH-soo",
+    "grammarFocus": "comparing concerns",
+    "notes": "Useful for choosing a safer option.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se falhar essa, fico numa situação complicada.",
+        "english": "If I miss that one, I end up in a difficult situation."
+      }
+    ],
+    "tags": ["transport", "risk", "connections"]
+  },
+  {
+    "id": "13-tpt-b1b2-044",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this route is manageable for someone visiting the city for the first time?",
+    "portuguese": "Diria que este percurso é acessível para alguém que visita a cidade pela primeira vez?",
+    "pronunciationNote": "dee-REE-ah k ESH-t pair-KOOR-soo eh ah-seh-SEE-vel pah-rah al-GAYNG k vee-ZEE-tah ah see-DAHD PEH-lah pree-MAY-rah vez",
+    "grammarFocus": "asking about suitability",
+    "notes": "Useful when you want the simplest option.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for demasiado confuso, procuro outra alternativa.",
+        "english": "If it is too confusing, I will look for another option."
+      }
+    ],
+    "tags": ["transport", "suitability", "advice"]
+  },
+  {
+    "id": "13-tpt-b1b2-045",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to compare the total travel time, not just the time spent on the train itself.",
+    "portuguese": "Estou a tentar comparar o tempo total de viagem, não apenas o tempo passado no comboio.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kom-pah-RAR oo TEM-poo toh-TAL d vee-AH-zheng, nown ah-PEH-nash oo TEM-poo pah-SAH-doo noo kong-BOY-oo",
+    "grammarFocus": "explaining your reasoning",
+    "notes": "Useful when planning end-to-end trips.",
+    "exampleSentences": [
+      {
+        "portuguese": "As ligações também contam muito para mim.",
+        "english": "Connections matter a lot to me as well."
+      }
+    ],
+    "tags": ["transport", "planning", "comparison"]
+  },
+  {
+    "id": "13-tpt-b1b2-046",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "From what I can see, the timetable looks tight, so I may need a backup plan.",
+    "portuguese": "Pelo que vejo, o horário parece apertado, por isso talvez precise de um plano alternativo.",
+    "pronunciationNote": "PEH-loo k VAY-zhoo, oo oh-RAH-ryoo pah-REH-s ah-pair-TAH-doo, poor EE-soo tal-VEHZ preh-SEE-z d oom PLAH-noo al-tair-nah-TEE-voo",
+    "grammarFocus": "drawing an inference",
+    "notes": "Useful when discussing risk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não gosto de depender de uma ligação demasiado justa.",
+        "english": "I do not like depending on a connection that is too tight."
+      }
+    ],
+    "tags": ["transport", "timing", "backup"]
+  },
+  {
+    "id": "13-tpt-b1b2-047",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to explain this as if I were actually making the journey step by step?",
+    "portuguese": "Seria possível explicar isto como se eu estivesse mesmo a fazer a viagem passo a passo?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel eks-plee-KAR EES-too KOH-moo s eh-oo esh-TEE-vessh MAY-zmoo ah fah-ZAIR ah vee-AH-zheng PAH-soo ah PAH-soo",
+    "grammarFocus": "asking for a practical explanation",
+    "notes": "Useful when abstract directions are not enough.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo visualizar melhor o percurso.",
+        "english": "That way I can picture the route better."
+      }
+    ],
+    "tags": ["transport", "clarification", "step-by-step"]
+  },
+  {
+    "id": "13-tpt-b1b2-048",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If there is a simpler route that locals usually take, I would rather follow that one.",
+    "portuguese": "Se houver um percurso mais simples, daqueles que os locais costumam fazer, prefiro seguir esse.",
+    "pronunciationNote": "s oo-VER oom pair-KOOR-soo mysh SEEM-plesh, dah-KEH-loosh k oosh loh-KAISH koosh-TOO-mang fah-ZAIR, preh-FEE-roo seh-GEER EH-s",
+    "grammarFocus": "asking for the normal option",
+    "notes": "Useful for natural, practical choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre a opção teórica é a melhor na prática.",
+        "english": "The theoretical option is not always the best in practice."
+      }
+    ],
+    "tags": ["transport", "locals", "practicality"]
+  },
+  {
+    "id": "13-tpt-b1b2-049",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to avoid buying the wrong ticket and only realising it during inspection.",
+    "portuguese": "Gostava de evitar comprar o bilhete errado e só perceber isso durante a fiscalização.",
+    "pronunciationNote": "gosh-TAH-vah d eh-vee-TAR kom-PRAR oo bee-LYEH-t eh-RAH-doo ee soh pair-SEH-bair EE-soo doo-RAN-t ah fee-skah-lee-zah-SOWN",
+    "grammarFocus": "explaining a concern",
+    "notes": "Useful when double-checking fare rules.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso prefiro confirmar tudo antes.",
+        "english": "That is why I prefer to confirm everything beforehand."
+      }
+    ],
+    "tags": ["transport", "tickets", "inspection"]
+  },
+  {
+    "id": "13-tpt-b1b2-050",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that gives me a much clearer idea of how to manage the journey.",
+    "portuguese": "Obrigado, isso dá-me uma ideia muito mais clara de como gerir a viagem.",
+    "pronunciationNote": "oh-bree-GAH-doo, EE-soo dah-m OO-mah ee-DAY-ah MOOY-too mysh KLAH-rah d KOH-moo zhuh-REER ah vee-AH-zheng",
+    "grammarFocus": "closing with acknowledgement",
+    "notes": "Useful after getting detailed help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora sinto-me muito mais confiante.",
+        "english": "Now I feel much more confident."
+      }
+    ],
+    "tags": ["transport", "politeness", "understanding"]
+  }
+]

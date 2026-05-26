@@ -1,0 +1,952 @@
+[
+  {
+    "id": "13-tpt-a1a2-001",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the metro station?",
+    "portuguese": "Onde fica a estação de metro?",
+    "pronunciationNote": "ON-d fEE-kah ah es-tah-SOWN d MEH-troo",
+    "grammarFocus": "asking for location",
+    "notes": "Basic question for finding public transport.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica a estação de metro mais próxima?",
+        "english": "Excuse me, where is the nearest metro station?"
+      }
+    ],
+    "tags": ["transport", "metro", "directions"]
+  },
+  {
+    "id": "13-tpt-a1a2-002",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a ticket to the city centre.",
+    "portuguese": "Preciso de um bilhete para o centro da cidade.",
+    "pronunciationNote": "preh-SEE-zoo d oom bee-LYEH-t pah-rah oo SEN-troo dah see-DAHD",
+    "grammarFocus": "buying a ticket",
+    "notes": "Useful at ticket counters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de um bilhete para o centro da cidade, por favor.",
+        "english": "I need a ticket to the city centre, please."
+      }
+    ],
+    "tags": ["transport", "tickets", "travel"]
+  },
+  {
+    "id": "13-tpt-a1a2-003",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much is a bus ticket?",
+    "portuguese": "Quanto custa um bilhete de autocarro?",
+    "pronunciationNote": "KWAN-too KOOSH-tah oom bee-LYEH-t d ow-too-KAH-hoo",
+    "grammarFocus": "asking the price",
+    "notes": "Useful on local buses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto custa um bilhete de autocarro para uma viagem?",
+        "english": "How much is a bus ticket for one journey?"
+      }
+    ],
+    "tags": ["transport", "bus", "tickets"]
+  },
+  {
+    "id": "13-tpt-a1a2-004",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Does this bus go to the station?",
+    "portuguese": "Este autocarro vai para a estação?",
+    "pronunciationNote": "ESH-t ow-too-KAH-hoo vy pah-rah ah es-tah-SOWN",
+    "grammarFocus": "checking the route",
+    "notes": "Simple route confirmation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este autocarro vai para a estação de comboios?",
+        "english": "Does this bus go to the train station?"
+      }
+    ],
+    "tags": ["transport", "bus", "routes"]
+  },
+  {
+    "id": "13-tpt-a1a2-005",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What platform is it?",
+    "portuguese": "Em que plataforma é?",
+    "pronunciationNote": "eng k plah-tah-FOR-mah eh",
+    "grammarFocus": "asking for platform information",
+    "notes": "Useful at train or bus stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, em que plataforma é o comboio?",
+        "english": "Excuse me, what platform is the train on?"
+      }
+    ],
+    "tags": ["transport", "platform", "station"]
+  },
+  {
+    "id": "13-tpt-a1a2-006",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where can I buy a ticket?",
+    "portuguese": "Onde posso comprar um bilhete?",
+    "pronunciationNote": "ON-d POH-soo kom-PRAR oom bee-LYEH-t",
+    "grammarFocus": "asking where to do something",
+    "notes": "Basic station question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde posso comprar um bilhete para hoje?",
+        "english": "Where can I buy a ticket for today?"
+      }
+    ],
+    "tags": ["transport", "tickets", "questions"]
+  },
+  {
+    "id": "13-tpt-a1a2-007",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "One ticket, please.",
+    "portuguese": "Um bilhete, por favor.",
+    "pronunciationNote": "oom bee-LYEH-t poor fah-VOR",
+    "grammarFocus": "simple purchase request",
+    "notes": "Minimal ticket-buying phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Um bilhete para o Porto, por favor.",
+        "english": "One ticket to Porto, please."
+      }
+    ],
+    "tags": ["transport", "tickets", "basics"]
+  },
+  {
+    "id": "13-tpt-a1a2-008",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Return ticket, please.",
+    "portuguese": "Um bilhete de ida e volta, por favor.",
+    "pronunciationNote": "oom bee-LYEH-t d EE-dah ee VOL-tah poor fah-VOR",
+    "grammarFocus": "asking for ticket type",
+    "notes": "Useful for same-day travel.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria um bilhete de ida e volta, por favor.",
+        "english": "I would like a return ticket, please."
+      }
+    ],
+    "tags": ["transport", "tickets", "return"]
+  },
+  {
+    "id": "13-tpt-a1a2-009",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "One-way ticket, please.",
+    "portuguese": "Um bilhete só de ida, por favor.",
+    "pronunciationNote": "oom bee-LYEH-t soh d EE-dah poor fah-VOR",
+    "grammarFocus": "asking for ticket type",
+    "notes": "Useful when you do not need to return.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje quero um bilhete só de ida.",
+        "english": "Today I want a one-way ticket."
+      }
+    ],
+    "tags": ["transport", "tickets", "one-way"]
+  },
+  {
+    "id": "13-tpt-a1a2-010",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is the next train?",
+    "portuguese": "A que horas é o próximo comboio?",
+    "pronunciationNote": "ah k OR-ash eh oo PROK-see-moo kong-BOY-oo",
+    "grammarFocus": "asking about schedules",
+    "notes": "Basic train timing question.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas é o próximo comboio para Braga?",
+        "english": "What time is the next train to Braga?"
+      }
+    ],
+    "tags": ["transport", "train", "schedules"]
+  },
+  {
+    "id": "13-tpt-a1a2-011",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does the bus leave?",
+    "portuguese": "A que horas sai o autocarro?",
+    "pronunciationNote": "ah k OR-ash sy oo ow-too-KAH-hoo",
+    "grammarFocus": "asking about departures",
+    "notes": "Useful at bus stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas sai o autocarro para o aeroporto?",
+        "english": "What time does the bus to the airport leave?"
+      }
+    ],
+    "tags": ["transport", "bus", "departures"]
+  },
+  {
+    "id": "13-tpt-a1a2-012",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What stop do I get off at?",
+    "portuguese": "Em que paragem é que eu saio?",
+    "pronunciationNote": "eng k pah-RAH-zhem eh k eh-oo SY-oo",
+    "grammarFocus": "asking where to get off",
+    "notes": "Useful on buses or trams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o museu, em que paragem é que eu saio?",
+        "english": "For the museum, what stop do I get off at?"
+      }
+    ],
+    "tags": ["transport", "stops", "bus"]
+  },
+  {
+    "id": "13-tpt-a1a2-013",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is this seat free?",
+    "portuguese": "Este lugar está livre?",
+    "pronunciationNote": "ESH-t loo-GAR es-TAH LEE-vr",
+    "grammarFocus": "asking permission or availability",
+    "notes": "Useful on trains or buses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, este lugar está livre?",
+        "english": "Excuse me, is this seat free?"
+      }
+    ],
+    "tags": ["transport", "seats", "politeness"]
+  },
+  {
+    "id": "13-tpt-a1a2-014",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going to the airport.",
+    "portuguese": "Vou para o aeroporto.",
+    "pronunciationNote": "voh pah-rah oo ah-eh-roo-POR-too",
+    "grammarFocus": "stating destination",
+    "notes": "Simple destination statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou para o aeroporto e preciso de um táxi.",
+        "english": "I am going to the airport and I need a taxi."
+      }
+    ],
+    "tags": ["transport", "airport", "destination"]
+  },
+  {
+    "id": "13-tpt-a1a2-015",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going to the train station.",
+    "portuguese": "Vou para a estação de comboios.",
+    "pronunciationNote": "voh pah-rah ah es-tah-SOWN d kong-BOY-oosh",
+    "grammarFocus": "stating destination",
+    "notes": "Useful when asking for directions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou para a estação de comboios. É longe?",
+        "english": "I am going to the train station. Is it far?"
+      }
+    ],
+    "tags": ["transport", "station", "destination"]
+  },
+  {
+    "id": "13-tpt-a1a2-016",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POH-soo pah-GAR kong kar-TOWN",
+    "grammarFocus": "asking about payment method",
+    "notes": "Useful at ticket machines or counters.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar com cartão na máquina?",
+        "english": "Can I pay by card at the machine?"
+      }
+    ],
+    "tags": ["transport", "payment", "tickets"]
+  },
+  {
+    "id": "13-tpt-a1a2-017",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I only have cash.",
+    "portuguese": "Só tenho dinheiro.",
+    "pronunciationNote": "soh TEN-yoo dee-NYAY-roo",
+    "grammarFocus": "stating what you have",
+    "notes": "Useful when paying on the bus.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só tenho dinheiro. Aceita numerário?",
+        "english": "I only have cash. Do you accept cash?"
+      }
+    ],
+    "tags": ["transport", "payment", "cash"]
+  },
+  {
+    "id": "13-tpt-a1a2-018",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where do I validate the ticket?",
+    "portuguese": "Onde valido o bilhete?",
+    "pronunciationNote": "ON-d vah-LEE-doo oo bee-LYEH-t",
+    "grammarFocus": "asking how to use transport",
+    "notes": "Useful on systems with validation machines.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de entrar, onde valido o bilhete?",
+        "english": "Before getting on, where do I validate the ticket?"
+      }
+    ],
+    "tags": ["transport", "ticket", "validation"]
+  },
+  {
+    "id": "13-tpt-a1a2-019",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is the right platform.",
+    "portuguese": "Esta é a plataforma certa.",
+    "pronunciationNote": "ESH-tah eh ah plah-tah-FOR-mah SER-tah",
+    "grammarFocus": "confirming information",
+    "notes": "Useful for checking travel details.",
+    "exampleSentences": [
+      {
+        "portuguese": "Então esta é a plataforma certa para Lisboa?",
+        "english": "So this is the right platform for Lisbon?"
+      }
+    ],
+    "tags": ["transport", "platform", "confirmation"]
+  },
+  {
+    "id": "13-tpt-a1a2-020",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is the wrong bus.",
+    "portuguese": "Este é o autocarro errado.",
+    "pronunciationNote": "ESH-t eh oo ow-too-KAH-hoo eh-RAH-doo",
+    "grammarFocus": "identifying a problem",
+    "notes": "Useful when you realise a mistake.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que este é o autocarro errado.",
+        "english": "I think this is the wrong bus."
+      }
+    ],
+    "tags": ["transport", "problems", "bus"]
+  },
+  {
+    "id": "13-tpt-a1a2-021",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Does this line stop near the hotel?",
+    "portuguese": "Esta linha pára perto do hotel?",
+    "pronunciationNote": "ESH-tah LEE-nyah PAH-rah PER-too do oh-TEL",
+    "grammarFocus": "asking about stops",
+    "notes": "Useful for urban transport.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta linha pára perto do hotel ou não?",
+        "english": "Does this line stop near the hotel or not?"
+      }
+    ],
+    "tags": ["transport", "line", "hotel"]
+  },
+  {
+    "id": "13-tpt-a1a2-022",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How many stops are there?",
+    "portuguese": "Quantas paragens são?",
+    "pronunciationNote": "KWAN-tash pah-RAH-zhens sown",
+    "grammarFocus": "asking about quantity",
+    "notes": "Useful when planning when to get off.",
+    "exampleSentences": [
+      {
+        "portuguese": "Até ao centro, quantas paragens são?",
+        "english": "How many stops is it to the centre?"
+      }
+    ],
+    "tags": ["transport", "stops", "questions"]
+  },
+  {
+    "id": "13-tpt-a1a2-023",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to go to the centre.",
+    "portuguese": "Quero ir para o centro.",
+    "pronunciationNote": "KEH-roo eer pah-rah oo SEN-troo",
+    "grammarFocus": "stating destination",
+    "notes": "Simple transport goal statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero ir para o centro de autocarro.",
+        "english": "I want to go to the centre by bus."
+      }
+    ],
+    "tags": ["transport", "destination", "city"]
+  },
+  {
+    "id": "13-tpt-a1a2-024",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Should I change here?",
+    "portuguese": "Tenho de mudar aqui?",
+    "pronunciationNote": "TEN-yoo d moo-DAR ah-KEE",
+    "grammarFocus": "asking about transfers",
+    "notes": "Useful in metro systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a linha azul, tenho de mudar aqui?",
+        "english": "For the blue line, should I change here?"
+      }
+    ],
+    "tags": ["transport", "transfers", "metro"]
+  },
+  {
+    "id": "13-tpt-a1a2-025",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I missed the bus.",
+    "portuguese": "Perdi o autocarro.",
+    "pronunciationNote": "pair-DEE oo ow-too-KAH-hoo",
+    "grammarFocus": "past action",
+    "notes": "Useful after a travel problem.",
+    "exampleSentences": [
+      {
+        "portuguese": "Perdi o autocarro e agora vou a pé.",
+        "english": "I missed the bus and now I am going on foot."
+      }
+    ],
+    "tags": ["transport", "problems", "past"]
+  },
+  {
+    "id": "13-tpt-a1a2-026",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The train is late.",
+    "portuguese": "O comboio está atrasado.",
+    "pronunciationNote": "oo kong-BOY-oo es-TAH ah-trah-ZAH-doo",
+    "grammarFocus": "describing a situation",
+    "notes": "Basic delay statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece que o comboio está atrasado.",
+        "english": "It seems the train is late."
+      }
+    ],
+    "tags": ["transport", "delays", "train"]
+  },
+  {
+    "id": "13-tpt-a1a2-027",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The bus is full.",
+    "portuguese": "O autocarro está cheio.",
+    "pronunciationNote": "oo ow-too-KAH-hoo es-TAH SHAY-oo",
+    "grammarFocus": "describing a situation",
+    "notes": "Useful in crowded transport.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este autocarro está muito cheio.",
+        "english": "This bus is very full."
+      }
+    ],
+    "tags": ["transport", "crowds", "bus"]
+  },
+  {
+    "id": "13-tpt-a1a2-028",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to get off here.",
+    "portuguese": "Tenho de sair aqui.",
+    "pronunciationNote": "TEN-yoo d syr ah-KEE",
+    "grammarFocus": "expressing necessity",
+    "notes": "Useful near your stop.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, tenho de sair aqui.",
+        "english": "Excuse me, I need to get off here."
+      }
+    ],
+    "tags": ["transport", "stops", "necessity"]
+  },
+  {
+    "id": "13-tpt-a1a2-029",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you tell me when to get off?",
+    "portuguese": "Pode dizer-me quando devo sair?",
+    "pronunciationNote": "POH-d dee-ZER-m kwAN-doo DEH-voo syr",
+    "grammarFocus": "polite request",
+    "notes": "Useful if you are unsure of your stop.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dizer-me quando devo sair para o museu?",
+        "english": "Can you tell me when I should get off for the museum?"
+      }
+    ],
+    "tags": ["transport", "help", "stops"]
+  },
+  {
+    "id": "13-tpt-a1a2-030",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the ticket machine?",
+    "portuguese": "Onde está a máquina de bilhetes?",
+    "pronunciationNote": "ON-d es-TAH ah MAH-kee-nah d bee-LYEH-tsh",
+    "grammarFocus": "asking for location",
+    "notes": "Useful in stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde está a máquina de bilhetes?",
+        "english": "Excuse me, where is the ticket machine?"
+      }
+    ],
+    "tags": ["transport", "tickets", "station"]
+  },
+  {
+    "id": "13-tpt-a1a2-031",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not understand the timetable.",
+    "portuguese": "Não percebo o horário.",
+    "pronunciationNote": "nown pair-SEH-boo oo oh-RAH-ryoo",
+    "grammarFocus": "expressing difficulty",
+    "notes": "Useful when reading schedule boards.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não percebo o horário. Pode ajudar-me?",
+        "english": "I do not understand the timetable. Can you help me?"
+      }
+    ],
+    "tags": ["transport", "timetable", "help"]
+  },
+  {
+    "id": "13-tpt-a1a2-032",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there a direct train?",
+    "portuguese": "Há um comboio direto?",
+    "pronunciationNote": "ah oom kong-BOY-oo dee-REH-too",
+    "grammarFocus": "asking about options",
+    "notes": "Useful for simpler journeys.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há um comboio direto para Coimbra?",
+        "english": "Is there a direct train to Coimbra?"
+      }
+    ],
+    "tags": ["transport", "train", "connections"]
+  },
+  {
+    "id": "13-tpt-a1a2-033",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do I need to change trains?",
+    "portuguese": "Tenho de mudar de comboio?",
+    "pronunciationNote": "TEN-yoo d moo-DAR d kong-BOY-oo",
+    "grammarFocus": "asking about connections",
+    "notes": "Useful for longer journeys.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para Faro, tenho de mudar de comboio?",
+        "english": "For Faro, do I need to change trains?"
+      }
+    ],
+    "tags": ["transport", "train", "connections"]
+  },
+  {
+    "id": "13-tpt-a1a2-034",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Which line do I need?",
+    "portuguese": "De que linha preciso?",
+    "pronunciationNote": "d k LEE-nyah preh-SEE-zoo",
+    "grammarFocus": "asking for route choice",
+    "notes": "Useful in metros and trams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o aeroporto, de que linha preciso?",
+        "english": "For the airport, which line do I need?"
+      }
+    ],
+    "tags": ["transport", "line", "questions"]
+  },
+  {
+    "id": "13-tpt-a1a2-035",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I use the same ticket?",
+    "portuguese": "Posso usar o mesmo bilhete?",
+    "pronunciationNote": "POH-soo oo-ZAR oo MAY-zmoo bee-LYEH-t",
+    "grammarFocus": "asking about validity",
+    "notes": "Useful during transfers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso usar o mesmo bilhete no metro?",
+        "english": "Can I use the same ticket on the metro?"
+      }
+    ],
+    "tags": ["transport", "tickets", "validation"]
+  },
+  {
+    "id": "13-tpt-a1a2-036",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to recharge my travel card.",
+    "portuguese": "Preciso de carregar o meu cartão.",
+    "pronunciationNote": "preh-SEE-zoo d kar-reh-GAR oo may-oo kar-TOWN",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful in city transport systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde posso carregar o meu cartão?",
+        "english": "Where can I recharge my travel card?"
+      }
+    ],
+    "tags": ["transport", "travel-card", "payment"]
+  },
+  {
+    "id": "13-tpt-a1a2-037",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is this stop for the airport bus?",
+    "portuguese": "Esta paragem é para o autocarro do aeroporto?",
+    "pronunciationNote": "ESH-tah pah-RAH-zhem eh pah-rah oo ow-too-KAH-hoo doo ah-eh-roo-POR-too",
+    "grammarFocus": "checking stop purpose",
+    "notes": "Useful in busy stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta paragem é para o autocarro do aeroporto ou não?",
+        "english": "Is this stop for the airport bus or not?"
+      }
+    ],
+    "tags": ["transport", "bus", "airport"]
+  },
+  {
+    "id": "13-tpt-a1a2-038",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How long does it take?",
+    "portuguese": "Quanto tempo demora?",
+    "pronunciationNote": "KWAN-too TEM-poo dee-MOR-ah",
+    "grammarFocus": "asking about duration",
+    "notes": "Useful for any trip.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto tempo demora até ao centro?",
+        "english": "How long does it take to the centre?"
+      }
+    ],
+    "tags": ["transport", "time", "duration"]
+  },
+  {
+    "id": "13-tpt-a1a2-039",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is it far on foot from there?",
+    "portuguese": "É longe a pé daí?",
+    "pronunciationNote": "eh LON-zh ah peh dah-EE",
+    "grammarFocus": "asking about distance",
+    "notes": "Useful when combining walking and transit.",
+    "exampleSentences": [
+      {
+        "portuguese": "Da estação ao hotel, é longe a pé daí?",
+        "english": "From the station to the hotel, is it far on foot from there?"
+      }
+    ],
+    "tags": ["transport", "walking", "distance"]
+  },
+  {
+    "id": "13-tpt-a1a2-040",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you show me on the map?",
+    "portuguese": "Pode mostrar-me no mapa?",
+    "pronunciationNote": "POH-d moosh-TRAR-m noo MAH-pah",
+    "grammarFocus": "polite request",
+    "notes": "Useful when spoken directions are unclear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode mostrar-me no mapa onde é a estação?",
+        "english": "Can you show me on the map where the station is?"
+      }
+    ],
+    "tags": ["transport", "map", "help"]
+  },
+  {
+    "id": "13-tpt-a1a2-041",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This train goes to Porto.",
+    "portuguese": "Este comboio vai para o Porto.",
+    "pronunciationNote": "ESH-t kong-BOY-oo vy pah-rah oo POR-too",
+    "grammarFocus": "stating destination",
+    "notes": "Basic travel statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Confirma se este comboio vai para o Porto?",
+        "english": "Can you confirm whether this train goes to Porto?"
+      }
+    ],
+    "tags": ["transport", "train", "destination"]
+  },
+  {
+    "id": "13-tpt-a1a2-042",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the tram stop?",
+    "portuguese": "Onde fica a paragem do elétrico?",
+    "pronunciationNote": "ON-d fEE-kah ah pah-RAH-zhem doo eh-LEH-tree-koo",
+    "grammarFocus": "asking for location",
+    "notes": "Useful in cities with trams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde fica a paragem do elétrico para o centro?",
+        "english": "Where is the tram stop for the centre?"
+      }
+    ],
+    "tags": ["transport", "tram", "directions"]
+  },
+  {
+    "id": "13-tpt-a1a2-043",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Does this metro line go north?",
+    "portuguese": "Esta linha de metro vai para norte?",
+    "pronunciationNote": "ESH-tah LEE-nyah d MEH-troo vy pah-rah NOR-t",
+    "grammarFocus": "checking direction",
+    "notes": "Useful on metro networks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta linha de metro vai para norte ou para sul?",
+        "english": "Does this metro line go north or south?"
+      }
+    ],
+    "tags": ["transport", "metro", "direction"]
+  },
+  {
+    "id": "13-tpt-a1a2-044",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am waiting for the next bus.",
+    "portuguese": "Estou à espera do próximo autocarro.",
+    "pronunciationNote": "esh-TOH ah esh-PAY-rah doo PROK-see-moo ow-too-KAH-hoo",
+    "grammarFocus": "present continuous action",
+    "notes": "Useful when explaining what you are doing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou à espera do próximo autocarro para a praia.",
+        "english": "I am waiting for the next bus to the beach."
+      }
+    ],
+    "tags": ["transport", "waiting", "bus"]
+  },
+  {
+    "id": "13-tpt-a1a2-045",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The stop is over there.",
+    "portuguese": "A paragem é ali.",
+    "pronunciationNote": "ah pah-RAH-zhem eh ah-LEE",
+    "grammarFocus": "simple location statement",
+    "notes": "Useful for giving or understanding directions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A paragem é ali, ao lado do café.",
+        "english": "The stop is over there, next to the café."
+      }
+    ],
+    "tags": ["transport", "stops", "directions"]
+  },
+  {
+    "id": "13-tpt-a1a2-046",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The station is straight ahead.",
+    "portuguese": "A estação é em frente.",
+    "pronunciationNote": "ah es-tah-SOWN eh eng FREN-t",
+    "grammarFocus": "simple location statement",
+    "notes": "Useful for directions.",
+    "exampleSentences": [
+      {
+        "portuguese": "A estação é em frente, depois da praça.",
+        "english": "The station is straight ahead, after the square."
+      }
+    ],
+    "tags": ["transport", "station", "directions"]
+  },
+  {
+    "id": "13-tpt-a1a2-047",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there a seat reservation?",
+    "portuguese": "Há reserva de lugar?",
+    "pronunciationNote": "ah reh-ZER-vah d loo-GAR",
+    "grammarFocus": "asking about service details",
+    "notes": "Useful for long-distance trains.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste comboio, há reserva de lugar?",
+        "english": "On this train, is there seat reservation?"
+      }
+    ],
+    "tags": ["transport", "seats", "train"]
+  },
+  {
+    "id": "13-tpt-a1a2-048",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think this is my stop.",
+    "portuguese": "Acho que esta é a minha paragem.",
+    "pronunciationNote": "AH-shoo k ESH-tah eh ah MEE-nyah pah-RAH-zhem",
+    "grammarFocus": "expressing uncertainty",
+    "notes": "Useful when checking before getting off.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que esta é a minha paragem, certo?",
+        "english": "I think this is my stop, right?"
+      }
+    ],
+    "tags": ["transport", "stops", "checking"]
+  },
+  {
+    "id": "13-tpt-a1a2-049",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Could you repeat the platform number?",
+    "portuguese": "Pode repetir o número da plataforma?",
+    "pronunciationNote": "POH-d reh-peh-TEER oo NOO-meh-roo dah plah-tah-FOR-mah",
+    "grammarFocus": "polite repetition request",
+    "notes": "Useful in noisy stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode repetir o número da plataforma?",
+        "english": "Excuse me, could you repeat the platform number?"
+      }
+    ],
+    "tags": ["transport", "platform", "clarification"]
+  },
+  {
+    "id": "13-tpt-a1a2-050",
+    "subject": "Transport & Public Transit",
+    "subjectId": "transport-public-transit",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you, that helps a lot.",
+    "portuguese": "Obrigado, isso ajuda muito.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo ah-ZHOO-dah MOOY-too",
+    "grammarFocus": "closing politely",
+    "notes": "Useful after getting travel help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, isso ajuda muito. Agora percebo.",
+        "english": "Thank you, that helps a lot. Now I understand."
+      }
+    ],
+    "tags": ["transport", "politeness", "help"]
+  }
+]

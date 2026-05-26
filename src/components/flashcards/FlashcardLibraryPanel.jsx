@@ -104,22 +104,24 @@ export default function FlashcardLibraryPanel({
 
       <div className="mt-6 grid gap-3">
         <p className="text-xs uppercase tracking-[0.25em] text-slate-500">2. Choose subject</p>
-        {subjectCatalog.map((subject) => {
-          const isSelected = subject.id === subjectId;
+        <div className="grid grid-cols-2 gap-3">
+          {subjectCatalog.map((subject) => {
+            const isSelected = subject.id === subjectId;
 
-          return (
-            <button
-              key={subject.id}
-              type="button"
-              onClick={() => setSubjectId(subject.id)}
-              className={`rounded-[1.5rem] border p-4 text-left transition ${
-                isSelected ? 'border-sun/50 bg-white/15' : 'border-white/10 bg-slate-950/20 hover:bg-white/10'
-              }`}
-            >
-              <p className="text-base font-semibold text-white">{subject.subject}</p>
-            </button>
-          );
-        })}
+            return (
+              <button
+                key={subject.id}
+                type="button"
+                onClick={() => setSubjectId(subject.id)}
+                className={`rounded-[1.5rem] border p-4 text-left text-sm transition ${
+                  isSelected ? 'border-sun/50 bg-white/15' : 'border-white/10 bg-slate-950/20 hover:bg-white/10'
+                }`}
+              >
+                <p className="font-semibold leading-snug text-white">{subject.subject}</p>
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       <div className="mt-6 grid gap-3">

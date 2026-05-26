@@ -22,6 +22,10 @@ import conversationA1A2 from './11_everyday_conversation_tools_a1_a2.json';
 import conversationB1B2 from './11_everyday_conversation_tools_b1_b2.json';
 import timeA1A2 from './12_time_dates_scheduling_a1_a2.json';
 import timeB1B2 from './12_time_dates_scheduling_b1_b2.json';
+import transportTransitA1A2 from './13_transport_public_transit_a1_a2.json';
+import transportTransitB1B2 from './13_transport_public_transit_b1_b2.json';
+import accommodationA1A2 from './14_accommodation_hotels_a1_a2.json';
+import accommodationB1B2 from './14_accommodation_hotels_b1_b2.json';
 
 export const subjectCatalog = [
   { id: 'greetings-social', order: 1, subject: 'Greetings & Social Basics' },
@@ -36,6 +40,8 @@ export const subjectCatalog = [
   { id: 'culture-media-conversation', order: 10, subject: 'Culture, Media & Conversation' },
   { id: 'everyday-conversation-tools', order: 11, subject: 'Everyday Conversation Tools' },
   { id: 'time-dates-scheduling', order: 12, subject: 'Time, Dates & Scheduling' },
+  { id: 'transport-public-transit', order: 13, subject: 'Transport & Public Transit' },
+  { id: 'accommodation-hotels', order: 14, subject: 'Accommodation & Hotels' },
 ];
 
 const flashcardSetSources = [
@@ -230,6 +236,38 @@ const flashcardSetSources = [
     levelBand: 'B1-B2',
     cardCount: 50,
     cards: timeB1B2,
+  },
+  {
+    id: '13_transport_public_transit_a1_a2',
+    subjectId: 'transport-public-transit',
+    subject: 'Transport & Public Transit',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: transportTransitA1A2,
+  },
+  {
+    id: '13_transport_public_transit_b1_b2',
+    subjectId: 'transport-public-transit',
+    subject: 'Transport & Public Transit',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: transportTransitB1B2,
+  },
+  {
+    id: '14_accommodation_hotels_a1_a2',
+    subjectId: 'accommodation-hotels',
+    subject: 'Accommodation & Hotels',
+    levelBand: 'A1-A2',
+    cardCount: 50,
+    cards: accommodationA1A2,
+  },
+  {
+    id: '14_accommodation_hotels_b1_b2',
+    subjectId: 'accommodation-hotels',
+    subject: 'Accommodation & Hotels',
+    levelBand: 'B1-B2',
+    cardCount: 50,
+    cards: accommodationB1B2,
   },
 ];
 

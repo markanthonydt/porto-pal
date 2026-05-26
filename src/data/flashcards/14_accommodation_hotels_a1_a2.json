@@ -1,0 +1,952 @@
+[
+  {
+    "id": "14-ah-a1a2-001",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a reservation.",
+    "portuguese": "Tenho uma reserva.",
+    "pronunciationNote": "TEN-yoo OO-mah reh-ZAIR-vah",
+    "grammarFocus": "stating a booking",
+    "notes": "Useful at check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Boa tarde, tenho uma reserva em nome de Smith.",
+        "english": "Good afternoon, I have a reservation under the name Smith."
+      }
+    ],
+    "tags": ["hotel", "booking", "check-in"]
+  },
+  {
+    "id": "14-ah-a1a2-002",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like to check in.",
+    "portuguese": "Queria fazer o check-in.",
+    "pronunciationNote": "keh-REE-ah fah-ZAIR oo check-in",
+    "grammarFocus": "hotel request",
+    "notes": "Natural phrase at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Cheguei agora e queria fazer o check-in.",
+        "english": "I have just arrived and I would like to check in."
+      }
+    ],
+    "tags": ["hotel", "check-in", "arrival"]
+  },
+  {
+    "id": "14-ah-a1a2-003",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like to check out.",
+    "portuguese": "Queria fazer o check-out.",
+    "pronunciationNote": "keh-REE-ah fah-ZAIR oo check-out",
+    "grammarFocus": "hotel request",
+    "notes": "Useful when leaving.",
+    "exampleSentences": [
+      {
+        "portuguese": "Bom dia, queria fazer o check-out, por favor.",
+        "english": "Good morning, I would like to check out, please."
+      }
+    ],
+    "tags": ["hotel", "check-out", "departure"]
+  },
+  {
+    "id": "14-ah-a1a2-004",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is check-in?",
+    "portuguese": "A que horas é o check-in?",
+    "pronunciationNote": "ah k OR-ash eh oo check-in",
+    "grammarFocus": "asking about hotel times",
+    "notes": "Basic arrival question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se chegar cedo, a que horas é o check-in?",
+        "english": "If I arrive early, what time is check-in?"
+      }
+    ],
+    "tags": ["hotel", "check-in", "times"]
+  },
+  {
+    "id": "14-ah-a1a2-005",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is check-out?",
+    "portuguese": "A que horas é o check-out?",
+    "pronunciationNote": "ah k OR-ash eh oo check-out",
+    "grammarFocus": "asking about hotel times",
+    "notes": "Basic departure question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só para confirmar, a que horas é o check-out?",
+        "english": "Just to confirm, what time is check-out?"
+      }
+    ],
+    "tags": ["hotel", "check-out", "times"]
+  },
+  {
+    "id": "14-ah-a1a2-006",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I leave my luggage here?",
+    "portuguese": "Posso deixar a minha bagagem aqui?",
+    "pronunciationNote": "POH-soo day-SHAR ah MEE-nyah bah-GAH-zheng ah-KEE",
+    "grammarFocus": "asking permission",
+    "notes": "Useful before check-in or after check-out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso deixar a minha bagagem aqui até mais tarde?",
+        "english": "Can I leave my luggage here until later?"
+      }
+    ],
+    "tags": ["hotel", "luggage", "permission"]
+  },
+  {
+    "id": "14-ah-a1a2-007",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is breakfast included?",
+    "portuguese": "O pequeno-almoço está incluído?",
+    "pronunciationNote": "oo peh-KEH-noo al-MOH-soo es-TAH een-kloo-EE-doo",
+    "grammarFocus": "asking about what is included",
+    "notes": "Common hotel question.",
+    "exampleSentences": [
+      {
+        "portuguese": "No preço, o pequeno-almoço está incluído?",
+        "english": "In the price, is breakfast included?"
+      }
+    ],
+    "tags": ["hotel", "breakfast", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-008",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is breakfast?",
+    "portuguese": "A que horas é o pequeno-almoço?",
+    "pronunciationNote": "ah k OR-ash eh oo peh-KEH-noo al-MOH-soo",
+    "grammarFocus": "asking about times",
+    "notes": "Useful in hotels and guesthouses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã, a que horas é o pequeno-almoço?",
+        "english": "Tomorrow, what time is breakfast?"
+      }
+    ],
+    "tags": ["hotel", "breakfast", "times"]
+  },
+  {
+    "id": "14-ah-a1a2-009",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is my room?",
+    "portuguese": "Onde fica o meu quarto?",
+    "pronunciationNote": "ON-d fEE-kah oo may-oo KWAR-too",
+    "grammarFocus": "asking for location",
+    "notes": "Useful after check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica o meu quarto?",
+        "english": "Excuse me, where is my room?"
+      }
+    ],
+    "tags": ["hotel", "room", "directions"]
+  },
+  {
+    "id": "14-ah-a1a2-010",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Which floor is it on?",
+    "portuguese": "Em que andar fica?",
+    "pronunciationNote": "eng k an-DAR fEE-kah",
+    "grammarFocus": "asking for location",
+    "notes": "Useful inside buildings.",
+    "exampleSentences": [
+      {
+        "portuguese": "O quarto 204, em que andar fica?",
+        "english": "Room 204, which floor is it on?"
+      }
+    ],
+    "tags": ["hotel", "floor", "directions"]
+  },
+  {
+    "id": "14-ah-a1a2-011",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a lift?",
+    "portuguese": "Têm elevador?",
+    "pronunciationNote": "TANG eh-leh-vah-DOR",
+    "grammarFocus": "asking about facilities",
+    "notes": "Useful in smaller hotels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Têm elevador ou só escadas?",
+        "english": "Do you have a lift or only stairs?"
+      }
+    ],
+    "tags": ["hotel", "facilities", "access"]
+  },
+  {
+    "id": "14-ah-a1a2-012",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The key does not work.",
+    "portuguese": "A chave não funciona.",
+    "pronunciationNote": "ah SHAH-v nown foon-see-OH-nah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, a chave não funciona.",
+        "english": "Excuse me, the key does not work."
+      }
+    ],
+    "tags": ["hotel", "problems", "key"]
+  },
+  {
+    "id": "14-ah-a1a2-013",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The card does not open the door.",
+    "portuguese": "O cartão não abre a porta.",
+    "pronunciationNote": "oo kar-TOWN nown AH-br ah POR-tah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful with electronic key cards.",
+    "exampleSentences": [
+      {
+        "portuguese": "O cartão não abre a porta do quarto.",
+        "english": "The card does not open the room door."
+      }
+    ],
+    "tags": ["hotel", "problems", "card"]
+  },
+  {
+    "id": "14-ah-a1a2-014",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is no hot water.",
+    "portuguese": "Não há água quente.",
+    "pronunciationNote": "nown ah AH-gwah KEN-t",
+    "grammarFocus": "describing a problem",
+    "notes": "Common room complaint.",
+    "exampleSentences": [
+      {
+        "portuguese": "No quarto, não há água quente.",
+        "english": "In the room, there is no hot water."
+      }
+    ],
+    "tags": ["hotel", "problems", "bathroom"]
+  },
+  {
+    "id": "14-ah-a1a2-015",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The Wi-Fi is not working.",
+    "portuguese": "O wi-fi não está a funcionar.",
+    "pronunciationNote": "oo wi-fi nown esh-TAH ah foon-see-oh-NAR",
+    "grammarFocus": "describing a problem",
+    "notes": "Common practical issue.",
+    "exampleSentences": [
+      {
+        "portuguese": "No meu quarto, o wi-fi não está a funcionar.",
+        "english": "In my room, the Wi-Fi is not working."
+      }
+    ],
+    "tags": ["hotel", "wifi", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-016",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have another towel?",
+    "portuguese": "Pode dar-me outra toalha?",
+    "pronunciationNote": "POH-d dar-m OW-trah too-AH-lyah",
+    "grammarFocus": "polite request",
+    "notes": "Useful for extra items.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dar-me outra toalha, por favor?",
+        "english": "Can I have another towel, please?"
+      }
+    ],
+    "tags": ["hotel", "towels", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-017",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have another pillow?",
+    "portuguese": "Pode dar-me outra almofada?",
+    "pronunciationNote": "POH-d dar-m OW-trah al-moo-FAH-dah",
+    "grammarFocus": "polite request",
+    "notes": "Useful in rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se possível, pode dar-me outra almofada?",
+        "english": "If possible, can I have another pillow?"
+      }
+    ],
+    "tags": ["hotel", "room", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-018",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have more toilet paper?",
+    "portuguese": "Pode dar-me mais papel higiénico?",
+    "pronunciationNote": "POH-d dar-m mysh pah-PEL ee-zhee-EH-nee-koo",
+    "grammarFocus": "polite request",
+    "notes": "Practical room request.",
+    "exampleSentences": [
+      {
+        "portuguese": "No quarto, pode dar-me mais papel higiénico?",
+        "english": "In the room, can I have more toilet paper?"
+      }
+    ],
+    "tags": ["hotel", "bathroom", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-019",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can someone help me with my bags?",
+    "portuguese": "Alguém me pode ajudar com as malas?",
+    "pronunciationNote": "al-GAYNG m POH-d ah-zhoo-DAR kong az MAH-lash",
+    "grammarFocus": "asking for help",
+    "notes": "Useful on arrival.",
+    "exampleSentences": [
+      {
+        "portuguese": "Alguém me pode ajudar com as malas até ao quarto?",
+        "english": "Can someone help me with my bags to the room?"
+      }
+    ],
+    "tags": ["hotel", "bags", "help"]
+  },
+  {
+    "id": "14-ah-a1a2-020",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there air conditioning?",
+    "portuguese": "Há ar condicionado?",
+    "pronunciationNote": "ah ar kon-dee-see-oh-NAH-doo",
+    "grammarFocus": "asking about facilities",
+    "notes": "Useful before or during a stay.",
+    "exampleSentences": [
+      {
+        "portuguese": "No quarto, há ar condicionado?",
+        "english": "In the room, is there air conditioning?"
+      }
+    ],
+    "tags": ["hotel", "facilities", "room"]
+  },
+  {
+    "id": "14-ah-a1a2-021",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there heating?",
+    "portuguese": "Há aquecimento?",
+    "pronunciationNote": "ah ah-kay-see-MEN-too",
+    "grammarFocus": "asking about facilities",
+    "notes": "Useful in colder months.",
+    "exampleSentences": [
+      {
+        "portuguese": "No quarto, há aquecimento?",
+        "english": "In the room, is there heating?"
+      }
+    ],
+    "tags": ["hotel", "facilities", "room"]
+  },
+  {
+    "id": "14-ah-a1a2-022",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I open the window?",
+    "portuguese": "Posso abrir a janela?",
+    "pronunciationNote": "POH-soo ah-BREER ah zhah-NEH-lah",
+    "grammarFocus": "asking permission",
+    "notes": "Useful in unfamiliar rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso abrir a janela um bocadinho?",
+        "english": "Can I open the window a little?"
+      }
+    ],
+    "tags": ["hotel", "room", "permission"]
+  },
+  {
+    "id": "14-ah-a1a2-023",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The room is too cold.",
+    "portuguese": "O quarto está muito frio.",
+    "pronunciationNote": "oo KWAR-too esh-TAH MOOY-too FREE-oo",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in practical complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite, o quarto está muito frio.",
+        "english": "At night, the room is too cold."
+      }
+    ],
+    "tags": ["hotel", "temperature", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-024",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The room is too hot.",
+    "portuguese": "O quarto está muito quente.",
+    "pronunciationNote": "oo KWAR-too esh-TAH MOOY-too KEN-t",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in practical complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "De tarde, o quarto está muito quente.",
+        "english": "In the afternoon, the room is too hot."
+      }
+    ],
+    "tags": ["hotel", "temperature", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-025",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The room is noisy.",
+    "portuguese": "O quarto é barulhento.",
+    "pronunciationNote": "oo KWAR-too eh bah-roo-LYEN-too",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful for basic complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite, o quarto é barulhento.",
+        "english": "At night, the room is noisy."
+      }
+    ],
+    "tags": ["hotel", "noise", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-026",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I change rooms?",
+    "portuguese": "Posso mudar de quarto?",
+    "pronunciationNote": "POH-soo moo-DAR d KWAR-too",
+    "grammarFocus": "asking for a change",
+    "notes": "Useful after a problem.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se possível, posso mudar de quarto?",
+        "english": "If possible, can I change rooms?"
+      }
+    ],
+    "tags": ["hotel", "room-change", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-027",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a quiet room?",
+    "portuguese": "Têm um quarto sossegado?",
+    "pronunciationNote": "TANG oom KWAR-too soh-seh-GAH-doo",
+    "grammarFocus": "asking about room type",
+    "notes": "Useful at check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Têm um quarto sossegado para esta noite?",
+        "english": "Do you have a quiet room for tonight?"
+      }
+    ],
+    "tags": ["hotel", "room", "preferences"]
+  },
+  {
+    "id": "14-ah-a1a2-028",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a double room?",
+    "portuguese": "Têm um quarto duplo?",
+    "pronunciationNote": "TANG oom KWAR-too DOO-ploo",
+    "grammarFocus": "asking about room type",
+    "notes": "Useful when booking or checking in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Têm um quarto duplo disponível?",
+        "english": "Do you have a double room available?"
+      }
+    ],
+    "tags": ["hotel", "room", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-029",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a single room?",
+    "portuguese": "Têm um quarto individual?",
+    "pronunciationNote": "TANG oom KWAR-too een-dee-vee-doo-AL",
+    "grammarFocus": "asking about room type",
+    "notes": "Useful when booking or checking in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Têm um quarto individual para uma noite?",
+        "english": "Do you have a single room for one night?"
+      }
+    ],
+    "tags": ["hotel", "room", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-030",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much is it per night?",
+    "portuguese": "Quanto custa por noite?",
+    "pronunciationNote": "KWAN-too KOOSH-tah poor NOY-t",
+    "grammarFocus": "asking the price",
+    "notes": "Useful in small hotels or guesthouses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esse quarto, quanto custa por noite?",
+        "english": "That room, how much is it per night?"
+      }
+    ],
+    "tags": ["hotel", "price", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-031",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How many nights is the booking?",
+    "portuguese": "Para quantas noites é a reserva?",
+    "pronunciationNote": "PAH-rah KWAN-tash NOY-tsh eh ah reh-ZAIR-vah",
+    "grammarFocus": "asking for details",
+    "notes": "Useful at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só para confirmar, para quantas noites é a reserva?",
+        "english": "Just to confirm, how many nights is the booking for?"
+      }
+    ],
+    "tags": ["hotel", "booking", "details"]
+  },
+  {
+    "id": "14-ah-a1a2-032",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am staying for two nights.",
+    "portuguese": "Fico duas noites.",
+    "pronunciationNote": "FEE-koo DOO-ash NOY-tsh",
+    "grammarFocus": "stating duration",
+    "notes": "Simple booking detail.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fico duas noites e saio no sábado.",
+        "english": "I am staying for two nights and leaving on Saturday."
+      }
+    ],
+    "tags": ["hotel", "duration", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-033",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay now?",
+    "portuguese": "Posso pagar agora?",
+    "pronunciationNote": "POH-soo pah-GAR ah-GOH-rah",
+    "grammarFocus": "asking about payment",
+    "notes": "Useful at check-in or check-out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar agora com cartão?",
+        "english": "Can I pay now by card?"
+      }
+    ],
+    "tags": ["hotel", "payment", "reception"]
+  },
+  {
+    "id": "14-ah-a1a2-034",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POH-soo pah-GAR kong kar-TOWN",
+    "grammarFocus": "asking about payment",
+    "notes": "Useful in small guesthouses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar com cartão ou só em dinheiro?",
+        "english": "Can I pay by card or only in cash?"
+      }
+    ],
+    "tags": ["hotel", "payment", "card"]
+  },
+  {
+    "id": "14-ah-a1a2-035",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have a receipt?",
+    "portuguese": "Pode dar-me um recibo?",
+    "pronunciationNote": "POH-d dar-m oom reh-SEE-boo",
+    "grammarFocus": "polite request",
+    "notes": "Useful after paying.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de pagar, pode dar-me um recibo?",
+        "english": "After I pay, can I have a receipt?"
+      }
+    ],
+    "tags": ["hotel", "payment", "receipt"]
+  },
+  {
+    "id": "14-ah-a1a2-036",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you call a taxi for me?",
+    "portuguese": "Pode chamar um táxi para mim?",
+    "pronunciationNote": "POH-d shah-MAR oom TAK-see PAH-rah meeng",
+    "grammarFocus": "polite request",
+    "notes": "Useful at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã cedo, pode chamar um táxi para mim?",
+        "english": "Tomorrow morning, can you call a taxi for me?"
+      }
+    ],
+    "tags": ["hotel", "taxi", "reception"]
+  },
+  {
+    "id": "14-ah-a1a2-037",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you book an airport transfer?",
+    "portuguese": "Pode marcar um transfer para o aeroporto?",
+    "pronunciationNote": "POH-d مار-KAR oom transfer PAH-rah oo ah-eh-roo-POR-too",
+    "grammarFocus": "polite request",
+    "notes": "Useful in hotels with transport services.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para amanhã, pode marcar um transfer para o aeroporto?",
+        "english": "For tomorrow, can you book an airport transfer?"
+      }
+    ],
+    "tags": ["hotel", "airport", "transport"]
+  },
+  {
+    "id": "14-ah-a1a2-038",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is there someone at reception now?",
+    "portuguese": "Está alguém na receção agora?",
+    "pronunciationNote": "esh-TAH al-GAYNG nah reh-sehp-SOWN ah-GOH-rah",
+    "grammarFocus": "asking if someone is present",
+    "notes": "Useful in smaller places.",
+    "exampleSentences": [
+      {
+        "portuguese": "Está alguém na receção agora ou mais tarde?",
+        "english": "Is there someone at reception now or later?"
+      }
+    ],
+    "tags": ["hotel", "reception", "staff"]
+  },
+  {
+    "id": "14-ah-a1a2-039",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you clean the room every day?",
+    "portuguese": "Limpam o quarto todos os dias?",
+    "pronunciationNote": "LEENG-pang oo KWAR-too TOH-dooz oosh DEE-ash",
+    "grammarFocus": "asking about routine service",
+    "notes": "Useful during longer stays.",
+    "exampleSentences": [
+      {
+        "portuguese": "Limpam o quarto todos os dias ou não?",
+        "english": "Do you clean the room every day or not?"
+      }
+    ],
+    "tags": ["hotel", "cleaning", "service"]
+  },
+  {
+    "id": "14-ah-a1a2-040",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you clean the room later?",
+    "portuguese": "Podem limpar o quarto mais tarde?",
+    "pronunciationNote": "POH-deng LEEM-pyar oo KWAR-too mysh TAR-d",
+    "grammarFocus": "polite request",
+    "notes": "Useful if you are still in the room.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podem limpar o quarto mais tarde, por favor?",
+        "english": "Can you clean the room later, please?"
+      }
+    ],
+    "tags": ["hotel", "cleaning", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-041",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The shower is broken.",
+    "portuguese": "O chuveiro está avariado.",
+    "pronunciationNote": "oo shoo-VAY-roo esh-TAH ah-vee-ah-RAH-doo",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in bathroom complaints.",
+    "exampleSentences": [
+      {
+        "portuguese": "No meu quarto, o chuveiro está avariado.",
+        "english": "In my room, the shower is broken."
+      }
+    ],
+    "tags": ["hotel", "bathroom", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-042",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The light is not working.",
+    "portuguese": "A luz não funciona.",
+    "pronunciationNote": "ah looz nown foon-see-OH-nah",
+    "grammarFocus": "describing a problem",
+    "notes": "Useful in any room.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na casa de banho, a luz não funciona.",
+        "english": "In the bathroom, the light is not working."
+      }
+    ],
+    "tags": ["hotel", "room", "problems"]
+  },
+  {
+    "id": "14-ah-a1a2-043",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need another blanket.",
+    "portuguese": "Preciso de outro cobertor.",
+    "pronunciationNote": "preh-SEE-zoo d OH-troo koo-bair-TOR",
+    "grammarFocus": "expressing a need",
+    "notes": "Useful in colder rooms.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta noite, preciso de outro cobertor.",
+        "english": "Tonight, I need another blanket."
+      }
+    ],
+    "tags": ["hotel", "room", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-044",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I get the Wi-Fi password?",
+    "portuguese": "Pode dar-me a palavra-passe do wi-fi?",
+    "pronunciationNote": "POH-d dar-m ah pah-LAH-vrah PAH-s doo wi-fi",
+    "grammarFocus": "polite request",
+    "notes": "Useful at check-in.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dar-me a palavra-passe do wi-fi, por favor?",
+        "english": "Can I get the Wi-Fi password, please?"
+      }
+    ],
+    "tags": ["hotel", "wifi", "requests"]
+  },
+  {
+    "id": "14-ah-a1a2-045",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is parking included?",
+    "portuguese": "O estacionamento está incluído?",
+    "pronunciationNote": "oo esh-tah-see-oh-nah-MEN-too es-TAH een-kloo-EE-doo",
+    "grammarFocus": "asking about what is included",
+    "notes": "Useful if you have a car.",
+    "exampleSentences": [
+      {
+        "portuguese": "No preço, o estacionamento está incluído?",
+        "english": "In the price, is parking included?"
+      }
+    ],
+    "tags": ["hotel", "parking", "booking"]
+  },
+  {
+    "id": "14-ah-a1a2-046",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the entrance?",
+    "portuguese": "Onde fica a entrada?",
+    "pronunciationNote": "ON-d fEE-kah ah en-TRAH-dah",
+    "grammarFocus": "asking for location",
+    "notes": "Useful on arrival.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica a entrada do hotel?",
+        "english": "Excuse me, where is the hotel entrance?"
+      }
+    ],
+    "tags": ["hotel", "arrival", "directions"]
+  },
+  {
+    "id": "14-ah-a1a2-047",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am arriving late.",
+    "portuguese": "Vou chegar tarde.",
+    "pronunciationNote": "voh sheh-GAR TAR-d",
+    "grammarFocus": "stating a future plan",
+    "notes": "Useful before arrival.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje, vou chegar tarde ao hotel.",
+        "english": "Today, I am arriving late at the hotel."
+      }
+    ],
+    "tags": ["hotel", "arrival", "timing"]
+  },
+  {
+    "id": "14-ah-a1a2-048",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please wait a moment.",
+    "portuguese": "Espere um momento, por favor.",
+    "pronunciationNote": "esh-PEH-r oom moh-MEN-too poor fah-VOR",
+    "grammarFocus": "simple service phrase",
+    "notes": "Useful in hotel exchanges.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espere um momento, por favor. Já vejo a sua reserva.",
+        "english": "Please wait a moment. I will check your booking now."
+      }
+    ],
+    "tags": ["hotel", "service", "reception"]
+  },
+  {
+    "id": "14-ah-a1a2-049",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you, everything is fine.",
+    "portuguese": "Obrigado, está tudo bem.",
+    "pronunciationNote": "oh-bree-GAH-doo, esh-TAH TOO-doo beng",
+    "grammarFocus": "simple reassurance",
+    "notes": "Useful when no help is needed.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, está tudo bem agora.",
+        "english": "Thank you, everything is fine now."
+      }
+    ],
+    "tags": ["hotel", "politeness", "service"]
+  },
+  {
+    "id": "14-ah-a1a2-050",
+    "subject": "Accommodation & Hotels",
+    "subjectId": "accommodation-hotels",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you for your help.",
+    "portuguese": "Obrigado pela ajuda.",
+    "pronunciationNote": "oh-bree-GAH-doo PEH-lah ah-ZHOO-dah",
+    "grammarFocus": "closing politely",
+    "notes": "Useful after receiving assistance.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pela ajuda com as malas.",
+        "english": "Thank you for your help with the bags."
+      }
+    ],
+    "tags": ["hotel", "politeness", "help"]
+  }
+]
