@@ -35,6 +35,11 @@ export default defineConfig({
             type: 'image/png',
             purpose: 'any maskable',
           },
+          {
+            src: 'pwa-1024x1024.png',
+            sizes: '1024x1024',
+            type: 'image/png',
+          },
         ],
       },
       workbox: {

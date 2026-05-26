@@ -6,10 +6,11 @@ export default function DashboardPage() {
 
   return (
     <div className="grid gap-6">
-      <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+      <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-5">
         <StatCard label="Today's progress" value={`${metrics.answersToday} answers`} hint={`${metrics.todayStats.correct} correct / ${metrics.todayStats.incorrect} incorrect`} tone="sea" />
         <StatCard label="Current streak" value={`${progress.streak} day${progress.streak === 1 ? '' : 's'}`} hint="Any practice on a new day extends the streak." tone="coral" />
         <StatCard label="Cards learned" value={metrics.cardsLearned} hint="Counted after a correct answer." />
+        <StatCard label="Due for review" value={metrics.dueToday} hint="Cards ready for another review now." tone="sea" />
         <StatCard label="Accuracy" value={`${metrics.accuracy}%`} hint="Across all subjects you've practiced so far." tone="coral" />
       </section>
 

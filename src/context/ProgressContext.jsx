@@ -1,40 +1,99 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
-import { allFlashcards, flashcardSets, subjectCatalog } from '../data/flashcards';
+import { flashcardSets, loadFlashcardSet, subjectCatalog } from '../data/flashcards';
 import {
   checkPhraseAnswer,
   createEmptyProgress,
   getCardStats,
   getDashboardMetrics,
   getSetMetrics,
-  loadProgress,
+  getSetSummary,
   recordAnswer,
-  saveProgress,
 } from '../lib/progress';
+import { loadStoredProgress, saveStoredProgress } from '../lib/progressStorage';
 
 const ProgressContext = createContext(null);
 
 export function ProgressProvider({ children }) {
-  const [progress, setProgress] = useState(() => loadProgress());
+  const [progress, setProgress] = useState(() => createEmptyProgress());
+  const [loadedSetMap, setLoadedSetMap] = useState({});
+  const [isHydrated, setIsHydrated] = useState(false);
 
   useEffect(() => {
-    saveProgress(progress);
-  }, [progress]);
+    let ignore = false;
+
+    async function hydrateProgress() {
+      const storedProgress = await loadStoredProgress();
+
+      if (!ignore) {
+        setProgress(storedProgress);
+        setIsHydrated(true);
+      }
+    }
+
+    hydrateProgress();
+
+    return () => {
+      ignore = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!isHydrated) {
+      return;
+    }
+
+    saveStoredProgress(progress);
+  }, [isHydrated, progress]);
+
+  async function ensureSetLoaded(setId) {
+    if (loadedSetMap[setId]) {
+      return loadedSetMap[setId];
+    }
+
+    const loadedSet = await loadFlashcardSet(setId);
+
+    if (!loadedSet) {
+      return null;
+    }
+
+    setLoadedSetMap((current) => {
+      if (current[setId]) {
+        return current;
+      }
+
+      return {
+        ...current,
+        [setId]: loadedSet,
+      };
+    });
+
+    return loadedSet;
+  }
 
   const value = useMemo(() => {
     const metrics = getDashboardMetrics(progress, flashcardSets, subjectCatalog);
 
     return {
       progress,
+      isHydrated,
       metrics,
       subjectCatalog,
       flashcardSets,
-      allFlashcards,
+      loadedSetMap,
+      ensureSetLoaded,
+      getLoadedSet(setId) {
+        return loadedSetMap[setId] || null;
+      },
       getCardStats(cardId) {
         return getCardStats(progress, cardId);
       },
       getSetMetrics(setId) {
-        const set = flashcardSets.find((entry) => entry.id === setId);
+        const set = loadedSetMap[setId];
         return set ? getSetMetrics(progress, set) : null;
+      },
+      getSetSummary(setId) {
+        const setDefinition = flashcardSets.find((entry) => entry.id === setId);
+        return setDefinition ? getSetSummary(progress, setDefinition) : null;
       },
       markFlashcard(item, knewIt, details = {}) {
         setProgress((current) =>
@@ -67,7 +126,7 @@ export function ProgressProvider({ children }) {
         setProgress(createEmptyProgress());
       },
     };
-  }, [progress]);
+  }, [loadedSetMap, progress]);
 
   return <ProgressContext.Provider value={value}>{children}</ProgressContext.Provider>;
 }

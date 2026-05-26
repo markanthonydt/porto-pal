@@ -1,4 +1,28 @@
-const STORAGE_KEY = 'portuguese-companion-progress';
+export const LEGACY_PROGRESS_STORAGE_KEY = 'portuguese-companion-progress';
+
+function createEmptyCardStats() {
+  return {
+    correct: 0,
+    incorrect: 0,
+    reviewCount: 0,
+    correctStreak: 0,
+    incorrectStreak: 0,
+    lastResult: null,
+    firstReviewedAt: null,
+    lastReviewedAt: null,
+    lastCorrectAt: null,
+    lastIncorrectAt: null,
+    nextReviewAt: null,
+    proficiency: 0,
+  };
+}
+
+function normalizeCardStats(stats = {}) {
+  return {
+    ...createEmptyCardStats(),
+    ...stats,
+  };
+}
 
 export function createEmptyProgress() {
   return {
@@ -12,35 +36,6 @@ export function createEmptyProgress() {
     itemStats: {},
     mistakes: [],
   };
-}
-
-export function loadProgress() {
-  if (typeof window === 'undefined') {
-    return createEmptyProgress();
-  }
-
-  try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
-
-    if (!raw) {
-      return createEmptyProgress();
-    }
-
-    return {
-      ...createEmptyProgress(),
-      ...JSON.parse(raw),
-    };
-  } catch {
-    return createEmptyProgress();
-  }
-}
-
-export function saveProgress(progress) {
-  if (typeof window === 'undefined') {
-    return;
-  }
-
-  window.localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
 }
 
 function getDateKey(date = new Date()) {
@@ -71,15 +66,110 @@ export function checkPhraseAnswer(answer, expected) {
 }
 
 export function getCardStats(progress, cardId) {
-  return progress.itemStats[cardId] || { correct: 0, incorrect: 0 };
+  return normalizeCardStats(progress.itemStats[cardId]);
+}
+
+function getDaysSince(isoDate) {
+  if (!isoDate) {
+    return Number.POSITIVE_INFINITY;
+  }
+
+  const timestamp = new Date(isoDate).getTime();
+
+  if (Number.isNaN(timestamp)) {
+    return Number.POSITIVE_INFINITY;
+  }
+
+  return (Date.now() - timestamp) / (1000 * 60 * 60 * 24);
+}
+
+function addHours(isoDate, hours) {
+  const timestamp = new Date(isoDate).getTime();
+  return new Date(timestamp + hours * 60 * 60 * 1000).toISOString();
+}
+
+function addDays(isoDate, days) {
+  const timestamp = new Date(isoDate).getTime();
+  return new Date(timestamp + days * 24 * 60 * 60 * 1000).toISOString();
+}
+
+function calculateNextReviewAt(stats, isCorrect, reviewedAt) {
+  if (!isCorrect) {
+    return addHours(reviewedAt, 4);
+  }
+
+  const streak = stats.correctStreak + 1;
+  const proficiency = Math.max(-5, Math.min(10, stats.proficiency + 1));
+
+  if (streak <= 1) {
+    return addDays(reviewedAt, 1);
+  }
+
+  if (streak === 2) {
+    return addDays(reviewedAt, 3);
+  }
+
+  if (streak === 3) {
+    return addDays(reviewedAt, 7);
+  }
+
+  if (streak === 4) {
+    return addDays(reviewedAt, 14);
+  }
+
+  return addDays(reviewedAt, proficiency >= 6 ? 30 : 21);
 }
 
 export function isWeakCard(stats) {
-  return stats.incorrect > stats.correct || (stats.incorrect > 0 && stats.correct === 0);
+  const normalized = normalizeCardStats(stats);
+  const totalAnswers = normalized.correct + normalized.incorrect;
+
+  if (totalAnswers === 0) {
+    return false;
+  }
+
+  if (normalized.incorrectStreak > 0) {
+    return true;
+  }
+
+  if (normalized.incorrect > normalized.correct) {
+    return true;
+  }
+
+  const recentMiss = getDaysSince(normalized.lastIncorrectAt) <= 7;
+  const accuracy = normalized.correct / totalAnswers;
+
+  if (recentMiss && accuracy < 0.75) {
+    return true;
+  }
+
+  return normalized.proficiency < 0 && getDaysSince(normalized.lastReviewedAt) <= 21;
+}
+
+export function isDueCard(stats) {
+  const normalized = normalizeCardStats(stats);
+  const totalAnswers = normalized.correct + normalized.incorrect;
+
+  if (totalAnswers === 0) {
+    return false;
+  }
+
+  if (!normalized.nextReviewAt) {
+    return true;
+  }
+
+  const dueTimestamp = new Date(normalized.nextReviewAt).getTime();
+
+  if (Number.isNaN(dueTimestamp)) {
+    return true;
+  }
+
+  return dueTimestamp <= Date.now();
 }
 
 export function recordAnswer(progress, item, isCorrect, details = {}) {
   const today = getDateKey();
+  const reviewedAt = new Date().toISOString();
   const alreadyActiveToday = progress.lastActiveDate === today;
   const previousDate = progress.lastActiveDate ? getPreviousDateKey(today) : null;
   const streak = alreadyActiveToday
@@ -87,17 +177,28 @@ export function recordAnswer(progress, item, isCorrect, details = {}) {
     : progress.lastActiveDate === previousDate
       ? progress.streak + 1
       : 1;
-  const existingStats = progress.itemStats[item.id] || { correct: 0, incorrect: 0 };
+  const existingStats = getCardStats(progress, item.id);
   const nextStats = {
     ...existingStats,
     correct: existingStats.correct + (isCorrect ? 1 : 0),
     incorrect: existingStats.incorrect + (isCorrect ? 0 : 1),
+    reviewCount: existingStats.reviewCount + 1,
+    correctStreak: isCorrect ? existingStats.correctStreak + 1 : 0,
+    incorrectStreak: isCorrect ? 0 : existingStats.incorrectStreak + 1,
+    lastResult: isCorrect ? 'correct' : 'incorrect',
+    firstReviewedAt: existingStats.firstReviewedAt || reviewedAt,
+    lastReviewedAt: reviewedAt,
+    lastCorrectAt: isCorrect ? reviewedAt : existingStats.lastCorrectAt,
+    lastIncorrectAt: isCorrect ? existingStats.lastIncorrectAt : reviewedAt,
+    nextReviewAt: calculateNextReviewAt(existingStats, isCorrect, reviewedAt),
+    proficiency: Math.max(-5, Math.min(10, existingStats.proficiency + (isCorrect ? 1 : -2))),
+    portuguese: item.portuguese,
+    english: item.english,
     setId: item.setId,
     subject: item.subject,
     subjectId: item.subjectId,
     levelBand: item.levelBand,
     lastMode: details.mode || 'practice',
-    lastReviewedAt: new Date().toISOString(),
   };
   const todayStats = progress.dailyActivity[today] || { correct: 0, incorrect: 0 };
   const nextMistakes = isCorrect
@@ -150,6 +251,7 @@ export function getSetMetrics(progress, flashcardSet) {
   const learnedCount = cards.filter((card) => card.stats.correct > 0).length;
   const seenCount = cards.filter((card) => card.stats.correct + card.stats.incorrect > 0).length;
   const weakCards = cards.filter((card) => isWeakCard(card.stats));
+  const dueCards = cards.filter((card) => isDueCard(card.stats));
   const totalCorrect = cards.reduce((sum, card) => sum + card.stats.correct, 0);
   const totalIncorrect = cards.reduce((sum, card) => sum + card.stats.incorrect, 0);
   const totalAnswers = totalCorrect + totalIncorrect;
@@ -165,27 +267,66 @@ export function getSetMetrics(progress, flashcardSet) {
     newCount: flashcardSet.cardCount - seenCount,
     weakCount: weakCards.length,
     weakCards,
+    dueCount: dueCards.length,
+    dueCards,
     accuracy: totalAnswers ? Math.round((totalCorrect / totalAnswers) * 100) : 0,
   };
 }
 
-export function getDashboardMetrics(progress, flashcardSets, subjectCatalog) {
+export function getSetSummary(progress, setDefinition) {
+  const statsEntries = Object.values(progress.itemStats)
+    .map((item) => normalizeCardStats(item))
+    .filter((item) => item.setId === setDefinition.id);
+  const learnedCount = statsEntries.filter((item) => item.correct > 0).length;
+  const seenCount = statsEntries.filter((item) => item.correct + item.incorrect > 0).length;
+  const weakCount = statsEntries.filter((item) => isWeakCard(item)).length;
+  const dueCount = statsEntries.filter((item) => isDueCard(item)).length;
+  const totalCorrect = statsEntries.reduce((sum, item) => sum + item.correct, 0);
+  const totalIncorrect = statsEntries.reduce((sum, item) => sum + item.incorrect, 0);
+  const totalAnswers = totalCorrect + totalIncorrect;
+
+  return {
+    setId: setDefinition.id,
+    subjectId: setDefinition.subjectId,
+    subject: setDefinition.subject,
+    levelBand: setDefinition.levelBand,
+    cardCount: setDefinition.cardCount,
+    learnedCount,
+    seenCount,
+    newCount: setDefinition.cardCount - seenCount,
+    weakCount,
+    dueCount,
+    accuracy: totalAnswers ? Math.round((totalCorrect / totalAnswers) * 100) : 0,
+  };
+}
+
+export function getDashboardMetrics(progress, flashcardSetDefinitions, subjectCatalog) {
   const today = getDateKey();
   const todayStats = progress.dailyActivity[today] || { correct: 0, incorrect: 0 };
   const answersToday = todayStats.correct + todayStats.incorrect;
-  const cardsLearned = Object.values(progress.itemStats).filter((item) => item.correct > 0).length;
-  const setMetrics = flashcardSets.map((set) => getSetMetrics(progress, set));
-  const weakCards = flashcardSets
-    .flatMap((set) => set.cards)
-    .map((card) => ({
-      ...card,
-      stats: getCardStats(progress, card.id),
+  const normalizedItemStats = Object.entries(progress.itemStats).map(([id, stats]) => ({
+    id,
+    stats: normalizeCardStats(stats),
+  }));
+  const cardsLearned = normalizedItemStats.filter(({ stats }) => stats.correct > 0).length;
+  const dueToday = normalizedItemStats.filter(({ stats }) => isDueCard(stats)).length;
+  const setMetrics = flashcardSetDefinitions.map((set) => getSetSummary(progress, set));
+  const weakCards = normalizedItemStats
+    .map(({ id, stats }) => ({
+      id,
+      portuguese: stats.portuguese || 'Saved card',
+      english: stats.english || '',
+      subject: stats.subject,
+      levelBand: stats.levelBand,
+      stats,
     }))
     .filter((card) => isWeakCard(card.stats))
     .sort((left, right) => {
-      const leftGap = left.stats.incorrect - left.stats.correct;
-      const rightGap = right.stats.incorrect - right.stats.correct;
-      return rightGap - leftGap || right.stats.incorrect - left.stats.incorrect;
+      const leftSeverity = (left.stats.incorrect - left.stats.correct) + left.stats.incorrectStreak;
+      const rightSeverity = (right.stats.incorrect - right.stats.correct) + right.stats.incorrectStreak;
+      const leftRecentMiss = new Date(left.stats.lastIncorrectAt || 0).getTime();
+      const rightRecentMiss = new Date(right.stats.lastIncorrectAt || 0).getTime();
+      return rightSeverity - leftSeverity || rightRecentMiss - leftRecentMiss;
     })
     .slice(0, 5);
   const accuracyBase = progress.totals.correct + progress.totals.incorrect;
@@ -207,6 +348,7 @@ export function getDashboardMetrics(progress, flashcardSets, subjectCatalog) {
     todayStats,
     answersToday,
     cardsLearned,
+    dueToday,
     weakCards,
     accuracy,
     setMetrics,
