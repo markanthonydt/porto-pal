@@ -1,3 +1,28 @@
+import greetingsA1A2 from './01_greetings_social_a1_a2.json';
+import greetingsB1B2 from './01_greetings_social_b1_b2.json';
+import foodA1A2 from './02_food_cafes_restaurants_a1_a2.json';
+import foodB1B2 from './02_food_cafes_restaurants_b1_b2.json';
+import travelA1A2 from './03_travel_directions_a1_a2.json';
+import travelB1B2 from './03_travel_directions_b1_b2.json';
+import workA1A2 from './04_work_daily_routine_a1_a2.json';
+import workB1B2 from './04_work_daily_routine_b1_b2.json';
+import homeA1A2 from './05_home_family_relationships_a1_a2.json';
+import homeB1B2 from './05_home_family_relationships_b1_b2.json';
+import healthA1A2 from './06_health_appointments_a1_a2.json';
+import healthB1B2 from './06_health_appointments_b1_b2.json';
+import shoppingA1A2 from './07_shopping_money_a1_a2.json';
+import shoppingB1B2 from './07_shopping_money_b1_b2.json';
+import emotionsA1A2 from './08_emotions_opinions_personality_a1_a2.json';
+import emotionsB1B2 from './08_emotions_opinions_personality_b1_b2.json';
+import grammarA1A2 from './09_grammar_verbs_patterns_a1_a2.json';
+import grammarB1B2 from './09_grammar_verbs_patterns_b1_b2.json';
+import cultureA1A2 from './10_culture_media_conversation_a1_a2.json';
+import cultureB1B2 from './10_culture_media_conversation_b1_b2.json';
+import conversationA1A2 from './11_everyday_conversation_tools_a1_a2.json';
+import conversationB1B2 from './11_everyday_conversation_tools_b1_b2.json';
+import timeA1A2 from './12_time_dates_scheduling_a1_a2.json';
+import timeB1B2 from './12_time_dates_scheduling_b1_b2.json';
+
 export const subjectCatalog = [
   { id: 'greetings-social', order: 1, subject: 'Greetings & Social Basics' },
   { id: 'food-cafes-restaurants', order: 2, subject: 'Food, Cafes & Restaurants' },
@@ -13,14 +38,14 @@ export const subjectCatalog = [
   { id: 'time-dates-scheduling', order: 12, subject: 'Time, Dates & Scheduling' },
 ];
 
-export const flashcardSets = [
+const flashcardSetSources = [
   {
     id: '01_greetings_social_a1_a2',
     subjectId: 'greetings-social',
     subject: 'Greetings & Social Basics',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './01_greetings_social_a1_a2.json',
+    cards: greetingsA1A2,
   },
   {
     id: '01_greetings_social_b1_b2',
@@ -28,7 +53,7 @@ export const flashcardSets = [
     subject: 'Greetings & Social Basics',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './01_greetings_social_b1_b2.json',
+    cards: greetingsB1B2,
   },
   {
     id: '02_food_cafes_restaurants_a1_a2',
@@ -36,7 +61,7 @@ export const flashcardSets = [
     subject: 'Food, Cafes & Restaurants',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './02_food_cafes_restaurants_a1_a2.json',
+    cards: foodA1A2,
   },
   {
     id: '02_food_cafes_restaurants_b1_b2',
@@ -44,7 +69,7 @@ export const flashcardSets = [
     subject: 'Food, Cafes & Restaurants',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './02_food_cafes_restaurants_b1_b2.json',
+    cards: foodB1B2,
   },
   {
     id: '03_travel_directions_a1_a2',
@@ -52,7 +77,7 @@ export const flashcardSets = [
     subject: 'Travel & Directions',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './03_travel_directions_a1_a2.json',
+    cards: travelA1A2,
   },
   {
     id: '03_travel_directions_b1_b2',
@@ -60,7 +85,7 @@ export const flashcardSets = [
     subject: 'Travel & Directions',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './03_travel_directions_b1_b2.json',
+    cards: travelB1B2,
   },
   {
     id: '04_work_daily_routine_a1_a2',
@@ -68,7 +93,7 @@ export const flashcardSets = [
     subject: 'Work & Daily Routine',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './04_work_daily_routine_a1_a2.json',
+    cards: workA1A2,
   },
   {
     id: '04_work_daily_routine_b1_b2',
@@ -76,7 +101,7 @@ export const flashcardSets = [
     subject: 'Work & Daily Routine',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './04_work_daily_routine_b1_b2.json',
+    cards: workB1B2,
   },
   {
     id: '05_home_family_relationships_a1_a2',
@@ -84,7 +109,7 @@ export const flashcardSets = [
     subject: 'Home, Family & Relationships',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './05_home_family_relationships_a1_a2.json',
+    cards: homeA1A2,
   },
   {
     id: '05_home_family_relationships_b1_b2',
@@ -92,7 +117,7 @@ export const flashcardSets = [
     subject: 'Home, Family & Relationships',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './05_home_family_relationships_b1_b2.json',
+    cards: homeB1B2,
   },
   {
     id: '06_health_appointments_a1_a2',
@@ -100,7 +125,7 @@ export const flashcardSets = [
     subject: 'Health & Appointments',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './06_health_appointments_a1_a2.json',
+    cards: healthA1A2,
   },
   {
     id: '06_health_appointments_b1_b2',
@@ -108,7 +133,7 @@ export const flashcardSets = [
     subject: 'Health & Appointments',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './06_health_appointments_b1_b2.json',
+    cards: healthB1B2,
   },
   {
     id: '07_shopping_money_a1_a2',
@@ -116,7 +141,7 @@ export const flashcardSets = [
     subject: 'Shopping & Money',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './07_shopping_money_a1_a2.json',
+    cards: shoppingA1A2,
   },
   {
     id: '07_shopping_money_b1_b2',
@@ -124,7 +149,7 @@ export const flashcardSets = [
     subject: 'Shopping & Money',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './07_shopping_money_b1_b2.json',
+    cards: shoppingB1B2,
   },
   {
     id: '08_emotions_opinions_personality_a1_a2',
@@ -132,7 +157,7 @@ export const flashcardSets = [
     subject: 'Emotions, Opinions & Personality',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './08_emotions_opinions_personality_a1_a2.json',
+    cards: emotionsA1A2,
   },
   {
     id: '08_emotions_opinions_personality_b1_b2',
@@ -140,7 +165,7 @@ export const flashcardSets = [
     subject: 'Emotions, Opinions & Personality',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './08_emotions_opinions_personality_b1_b2.json',
+    cards: emotionsB1B2,
   },
   {
     id: '09_grammar_verbs_patterns_a1_a2',
@@ -148,7 +173,7 @@ export const flashcardSets = [
     subject: 'Grammar Patterns & Verb Forms',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './09_grammar_verbs_patterns_a1_a2.json',
+    cards: grammarA1A2,
   },
   {
     id: '09_grammar_verbs_patterns_b1_b2',
@@ -156,7 +181,7 @@ export const flashcardSets = [
     subject: 'Grammar Patterns & Verb Forms',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './09_grammar_verbs_patterns_b1_b2.json',
+    cards: grammarB1B2,
   },
   {
     id: '10_culture_media_conversation_a1_a2',
@@ -164,7 +189,7 @@ export const flashcardSets = [
     subject: 'Culture, Media & Conversation',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './10_culture_media_conversation_a1_a2.json',
+    cards: cultureA1A2,
   },
   {
     id: '10_culture_media_conversation_b1_b2',
@@ -172,7 +197,7 @@ export const flashcardSets = [
     subject: 'Culture, Media & Conversation',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './10_culture_media_conversation_b1_b2.json',
+    cards: cultureB1B2,
   },
   {
     id: '11_everyday_conversation_tools_a1_a2',
@@ -180,7 +205,7 @@ export const flashcardSets = [
     subject: 'Everyday Conversation Tools',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './11_everyday_conversation_tools_a1_a2.json',
+    cards: conversationA1A2,
   },
   {
     id: '11_everyday_conversation_tools_b1_b2',
@@ -188,7 +213,7 @@ export const flashcardSets = [
     subject: 'Everyday Conversation Tools',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './11_everyday_conversation_tools_b1_b2.json',
+    cards: conversationB1B2,
   },
   {
     id: '12_time_dates_scheduling_a1_a2',
@@ -196,7 +221,7 @@ export const flashcardSets = [
     subject: 'Time, Dates & Scheduling',
     levelBand: 'A1-A2',
     cardCount: 50,
-    file: './12_time_dates_scheduling_a1_a2.json',
+    cards: timeA1A2,
   },
   {
     id: '12_time_dates_scheduling_b1_b2',
@@ -204,11 +229,9 @@ export const flashcardSets = [
     subject: 'Time, Dates & Scheduling',
     levelBand: 'B1-B2',
     cardCount: 50,
-    file: './12_time_dates_scheduling_b1_b2.json',
+    cards: timeB1B2,
   },
 ];
-
-const flashcardModules = import.meta.glob('./*.json');
 
 function enrichCards(cards, setDefinition) {
   return cards.map((card) => ({
@@ -220,24 +243,11 @@ function enrichCards(cards, setDefinition) {
   }));
 }
 
+export const flashcardSets = flashcardSetSources.map(({ cards, ...setDefinition }) => ({
+  ...setDefinition,
+  cards: enrichCards(cards, setDefinition),
+}));
+
 export async function loadFlashcardSet(setId) {
-  const setDefinition = flashcardSets.find((entry) => entry.id === setId);
-
-  if (!setDefinition) {
-    return null;
-  }
-
-  const loader = flashcardModules[setDefinition.file];
-
-  if (!loader) {
-    throw new Error(`Missing flashcard module for ${setDefinition.file}`);
-  }
-
-  const module = await loader();
-  const cards = Array.isArray(module.default) ? module.default : [];
-
-  return {
-    ...setDefinition,
-    cards: enrichCards(cards, setDefinition),
-  };
+  return flashcardSets.find((entry) => entry.id === setId) || null;
 }

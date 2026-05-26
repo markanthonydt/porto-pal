@@ -46,11 +46,7 @@ export function ProgressProvider({ children }) {
   }, [isHydrated, progress]);
 
   async function ensureSetLoaded(setId) {
-    if (loadedSetMap[setId]) {
-      return loadedSetMap[setId];
-    }
-
-    const loadedSet = await loadFlashcardSet(setId);
+    const loadedSet = loadedSetMap[setId] || flashcardSets.find((entry) => entry.id === setId) || await loadFlashcardSet(setId);
 
     if (!loadedSet) {
       return null;
@@ -82,7 +78,7 @@ export function ProgressProvider({ children }) {
       loadedSetMap,
       ensureSetLoaded,
       getLoadedSet(setId) {
-        return loadedSetMap[setId] || null;
+        return loadedSetMap[setId] || flashcardSets.find((entry) => entry.id === setId) || null;
       },
       getCardStats(cardId) {
         return getCardStats(progress, cardId);
