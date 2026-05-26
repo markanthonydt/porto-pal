@@ -48,7 +48,7 @@ export default function DashboardPage() {
         </article>
 
         <article className="rounded-[2rem] border border-white/10 bg-white/10 p-6 shadow-soft backdrop-blur">
-          <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Weak cards</p>
+          <p className="text-sm uppercase tracking-[0.3em] text-slate-400">Cards to practice</p>
           <h2 className="mt-2 font-display text-3xl text-white">Review queue</h2>
           <div className="mt-6 grid gap-3">
             {metrics.weakCards.length ? (
@@ -64,7 +64,7 @@ export default function DashboardPage() {
               ))
             ) : (
               <div className="rounded-3xl border border-dashed border-white/15 bg-slate-950/30 p-5 text-sm text-slate-300">
-                Wrong answers will surface here after flashcard or translation mistakes.
+                Wrong answers will appear here after flashcard or translation mistakes.
               </div>
             )}
           </div>
