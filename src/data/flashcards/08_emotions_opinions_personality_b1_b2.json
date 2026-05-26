@@ -1,0 +1,952 @@
+[
+  {
+    "id": "08-eop-b1b2-001",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to get better at saying what I feel instead of only reacting to it.",
+    "portuguese": "Estou a tentar melhorar a forma como digo o que sinto, em vez de apenas reagir.",
+    "pronunciationNote": "esh-TOH ah ten-TAR meh-lyoh-RAR ah FOR-mah KOH-moo DEE-goo",
+    "grammarFocus": "ongoing self-improvement statement",
+    "notes": "Useful reflective phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não o digo claramente, acaba por sair de outra maneira.",
+        "english": "If I do not say it clearly, it ends up coming out another way."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-002",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather be honest early on than pretend everything is fine.",
+    "portuguese": "Preferia ser honesto logo de início do que fingir que está tudo bem.",
+    "pronunciationNote": "preh-feh-REE-ah sair oh-NESH-too LOH-goo d ee-NEE-see-oo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful communication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se deixo arrastar, torna-se mais difícil depois.",
+        "english": "If I let it drag on, it becomes harder afterwards."
+      }
+    ],
+    "tags": ["opinions", "honesty"]
+  },
+  {
+    "id": "08-eop-b1b2-003",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I need a bit of distance before I can look at this calmly.",
+    "portuguese": "Acho que preciso de alguma distância antes de conseguir olhar para isto com calma.",
+    "pronunciationNote": "AH-shoo k preh-SEE-zoo d al-GOO-mah deesh-TAHN-see-ah",
+    "grammarFocus": "need statement + before clause",
+    "notes": "Useful emotional boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se falo agora, estou demasiado envolvido.",
+        "english": "If I talk now, I am too involved."
+      }
+    ],
+    "tags": ["emotions", "boundaries"]
+  },
+  {
+    "id": "08-eop-b1b2-004",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My opinion has changed a bit now that I understand the situation better.",
+    "portuguese": "A minha opinião mudou um pouco agora que percebo melhor a situação.",
+    "pronunciationNote": "ah MEEN-yah oh-pee-nee-AWN moo-DOH oom POH-koo",
+    "grammarFocus": "change-of-view statement",
+    "notes": "Useful nuanced opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao início parecia-me simples, mas afinal não era.",
+        "english": "At first it seemed simple to me, but actually it was not."
+      }
+    ],
+    "tags": ["opinions", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-005",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not necessarily disagree, but I see it from a different angle.",
+    "portuguese": "Não discordo necessariamente, mas vejo isso de um ângulo diferente.",
+    "pronunciationNote": "nawng deesh-KOR-doo neh-seh-sah-ree-ah-MEN-t",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez estejamos a dar importância a coisas diferentes.",
+        "english": "Maybe we are giving importance to different things."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-b1b2-006",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to overthink things when I am already under pressure.",
+    "portuguese": "Tendo a pensar demais nas coisas quando já estou sob pressão.",
+    "pronunciationNote": "TEN-doo ah pen-SAR deh-MYSH nash KOH-zash",
+    "grammarFocus": "tendency statement",
+    "notes": "Useful self-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nessas alturas, tudo parece maior do que realmente é.",
+        "english": "At those times, everything seems bigger than it really is."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-007",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather say I am overwhelmed than act as if I am just annoyed.",
+    "portuguese": "Preferia dizer que estou sobrecarregado do que agir como se estivesse apenas irritado.",
+    "pronunciationNote": "preh-feh-REE-ah dee-ZER k esh-TOH soh-breh-kar-reh-GAH-doo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful emotional clarity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a irritação esconde outra coisa.",
+        "english": "Sometimes irritation hides something else."
+      }
+    ],
+    "tags": ["emotions", "clarity"]
+  },
+  {
+    "id": "08-eop-b1b2-008",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate people who can disagree without turning everything into a conflict.",
+    "portuguese": "Dou valor a pessoas que conseguem discordar sem transformar tudo num conflito.",
+    "pronunciationNote": "doh vah-LOR ah peh-SOH-ash k kohn-SEH-geng deesh-kor-DAR",
+    "grammarFocus": "value statement",
+    "notes": "Useful personality-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, isso mostra maturidade.",
+        "english": "For me, that shows maturity."
+      }
+    ],
+    "tags": ["personality", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-009",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying not to confuse being calm with avoiding difficult conversations.",
+    "portuguese": "Estou a tentar não confundir estar calmo com evitar conversas difíceis.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nawng kohn-foon-DEER esh-TAR KAL-moo",
+    "grammarFocus": "negative habit statement",
+    "notes": "Useful self-reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes parece serenidade, mas é só fuga.",
+        "english": "Sometimes it looks like calmness, but it is just avoidance."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-010",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In my view, being direct and being rude are not the same thing.",
+    "portuguese": "Na minha opinião, ser direto e ser rude não são a mesma coisa.",
+    "pronunciationNote": "nah MEEN-yah oh-pee-nee-AWN sair dee-REH-too",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tudo depende da forma como se diz.",
+        "english": "It all depends on how it is said."
+      }
+    ],
+    "tags": ["opinions", "communication"]
+  },
+  {
+    "id": "08-eop-b1b2-011",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not offended, but I do need a more respectful way of talking about this.",
+    "portuguese": "Não fiquei ofendido, mas preciso de uma forma mais respeitosa de falar disto.",
+    "pronunciationNote": "nawng fee-KAY oh-fen-DEE-doo mahsh preh-SEE-zoo d OO-mah FOR-mah",
+    "grammarFocus": "boundary statement",
+    "notes": "Useful interpersonal phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Senão, a conversa deixa de ser útil.",
+        "english": "Otherwise, the conversation stops being useful."
+      }
+    ],
+    "tags": ["emotions", "boundaries"]
+  },
+  {
+    "id": "08-eop-b1b2-012",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I often need a little time before I know what I really think.",
+    "portuguese": "Muitas vezes preciso de algum tempo antes de saber o que realmente penso.",
+    "pronunciationNote": "MWEEN-tash VEH-zesh preh-SEE-zoo d al-GOOM TEM-poo",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful reflective phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha primeira reação nem sempre é a mais justa.",
+        "english": "My first reaction is not always the fairest one."
+      }
+    ],
+    "tags": ["opinions", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-013",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have noticed that I am more patient when I feel heard.",
+    "portuguese": "Tenho reparado que sou mais paciente quando sinto que me ouvem.",
+    "pronunciationNote": "TEN-yoo heh-pah-RAH-doo k SOH mysh pah-see-EN-t",
+    "grammarFocus": "observation statement",
+    "notes": "Useful self-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando sinto o contrário, fecho-me mais depressa.",
+        "english": "When I feel the opposite, I shut down more quickly."
+      }
+    ],
+    "tags": ["emotions", "relationships"]
+  },
+  {
+    "id": "08-eop-b1b2-014",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind changing my mind if someone gives me a good reason.",
+    "portuguese": "Não me importo de mudar de opinião se alguém me der uma boa razão.",
+    "pronunciationNote": "nawng m em-POR-too d moo-DAR d oh-pee-nee-AWN",
+    "grammarFocus": "conditional openness statement",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, rever uma posição não é sinal de fraqueza.",
+        "english": "For me, revising a position is not a sign of weakness."
+      }
+    ],
+    "tags": ["opinions", "discussion"]
+  },
+  {
+    "id": "08-eop-b1b2-015",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather admit I am hurt than hide it behind sarcasm.",
+    "portuguese": "Preferia admitir que estou magoado do que esconder isso atrás de sarcasmo.",
+    "pronunciationNote": "preh-feh-REE-ah ahd-mee-TEER k esh-TOH mah-GWAH-doo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful emotional honesty phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre consigo, mas tento não fugir disso.",
+        "english": "I do not always manage it, but I try not to avoid it."
+      }
+    ],
+    "tags": ["emotions", "honesty"]
+  },
+  {
+    "id": "08-eop-b1b2-016",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Sometimes I need reassurance, even when I know my reaction is not fully rational.",
+    "portuguese": "Às vezes preciso de alguma tranquilidade, mesmo quando sei que a minha reação não é totalmente racional.",
+    "pronunciationNote": "ahzh VEH-zesh preh-SEE-zoo d al-GOO-mah trahn-kwee-lee-DAH-d",
+    "grammarFocus": "concession statement",
+    "notes": "Useful emotional phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Saber isso não faz a sensação desaparecer logo.",
+        "english": "Knowing that does not make the feeling disappear straight away."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-017",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I respect people who can stay soft without becoming unclear.",
+    "portuguese": "Respeito pessoas que conseguem manter-se gentis sem perder clareza.",
+    "pronunciationNote": "hesh-PEY-too peh-SOH-ash k kohn-SEH-geng mahn-TAIR-s zhen-TEESh",
+    "grammarFocus": "value statement",
+    "notes": "Useful personality-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, isso mostra força e equilíbrio.",
+        "english": "For me, that shows strength and balance."
+      }
+    ],
+    "tags": ["personality", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-018",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to separate what I feel from what I assume about other people's intentions.",
+    "portuguese": "Estou a tentar separar o que sinto daquilo que assumo sobre as intenções dos outros.",
+    "pronunciationNote": "esh-TOH ah ten-TAR seh-pah-RAR oo k SEEN-too",
+    "grammarFocus": "self-regulation statement",
+    "notes": "Useful reflective phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo o que me afeta foi feito para me atingir.",
+        "english": "Not everything that affects me was done to target me."
+      }
+    ],
+    "tags": ["emotions", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-019",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In my experience, people listen better when they do not feel attacked.",
+    "portuguese": "Na minha experiência, as pessoas ouvem melhor quando não se sentem atacadas.",
+    "pronunciationNote": "nah MEEN-yah ex-peh-ree-EN-see-ah az peh-SOH-ash OH-veng meh-LYOR",
+    "grammarFocus": "general observation",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso tento escolher bem o tom.",
+        "english": "That is why I try to choose my tone carefully."
+      }
+    ],
+    "tags": ["opinions", "communication"]
+  },
+  {
+    "id": "08-eop-b1b2-020",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to react from defensiveness if what I really need is clarity.",
+    "portuguese": "Não quero reagir a partir da defensiva se o que eu preciso mesmo é de clareza.",
+    "pronunciationNote": "nawng KEH-roo reh-ah-ZHEER ah par-TEER dah deh-fen-SEE-vah",
+    "grammarFocus": "goal statement",
+    "notes": "Useful emotional regulation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a dúvida disfarça-se de irritação.",
+        "english": "Sometimes doubt disguises itself as irritation."
+      }
+    ],
+    "tags": ["emotions", "regulation"]
+  },
+  {
+    "id": "08-eop-b1b2-021",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate feedback more when it is specific and not just emotionally loaded.",
+    "portuguese": "Dou mais valor ao feedback quando é específico e não apenas carregado de emoção.",
+    "pronunciationNote": "doh mysh vah-LOR ow FEED-back KWAN-doo eh esh-peh-SEE-fee-koo",
+    "grammarFocus": "comparison statement",
+    "notes": "Useful communication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo perceber o que fazer com aquilo.",
+        "english": "That way I can understand what to do with it."
+      }
+    ],
+    "tags": ["opinions", "feedback"]
+  },
+  {
+    "id": "08-eop-b1b2-022",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need conversations where uncertainty is allowed and not treated like weakness.",
+    "portuguese": "Preciso de conversas em que a incerteza seja permitida e não tratada como fraqueza.",
+    "pronunciationNote": "preh-SEE-zoo d kohn-VAIR-sash eng k ah een-sair-TEH-zah SAY-zhah",
+    "grammarFocus": "need statement + clause",
+    "notes": "Useful values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, dizer \"não sei\" também é honestidade.",
+        "english": "For me, saying \"I do not know\" is also honesty."
+      }
+    ],
+    "tags": ["opinions", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-023",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am learning that confidence does not have to sound loud to be real.",
+    "portuguese": "Estou a aprender que a confiança não tem de soar alta para ser real.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER k ah kohn-fee-AHN-sah nawng teng d soh-AR",
+    "grammarFocus": "learning statement",
+    "notes": "Useful personality reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a segurança aparece de forma tranquila.",
+        "english": "Sometimes confidence appears in a calm way."
+      }
+    ],
+    "tags": ["personality", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-024",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather hear an uncomfortable truth than a polite half-truth.",
+    "portuguese": "Preferia ouvir uma verdade desconfortável do que uma meia verdade educada.",
+    "pronunciationNote": "preh-feh-REE-ah oo-VEER OO-mah vair-DAH-d dehsh-kohn-for-TAH-vel",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que custe no momento, ajuda mais a longo prazo.",
+        "english": "Even if it hurts in the moment, it helps more in the long run."
+      }
+    ],
+    "tags": ["opinions", "honesty"]
+  },
+  {
+    "id": "08-eop-b1b2-025",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My view is still evolving, so I do not want to present it as final.",
+    "portuguese": "A minha perspetiva ainda está a evoluir, por isso não a quero apresentar como definitiva.",
+    "pronunciationNote": "ah MEEN-yah pair-speh-TEE-vah ah-EEN-dah esh-TAH ah eh-voh-loo-EER",
+    "grammarFocus": "tentative opinion statement",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de mais tempo para pensar nisso.",
+        "english": "I need more time to think about that."
+      }
+    ],
+    "tags": ["opinions", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-026",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to trust people who are consistent rather than just charismatic.",
+    "portuguese": "Tendo a confiar em pessoas consistentes, e não apenas carismáticas.",
+    "pronunciationNote": "TEN-doo ah kohn-fee-AR eng peh-SOH-ash kohn-seesh-TEN-tesh",
+    "grammarFocus": "preference by tendency",
+    "notes": "Useful personality-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, a fiabilidade pesa mais do que o brilho.",
+        "english": "For me, reliability matters more than charm."
+      }
+    ],
+    "tags": ["personality", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-027",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think the real issue is not what was said, but the way it was said.",
+    "portuguese": "Acho que a verdadeira questão não é o que foi dito, mas a forma como foi dito.",
+    "pronunciationNote": "AH-shoo k ah vair-dah-DAY-rah kwes-TAWN nawng eh oo k foy DEE-too",
+    "grammarFocus": "contrastive analysis",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O conteúdo talvez fosse aceitável, mas o tom não foi.",
+        "english": "The content might have been acceptable, but the tone was not."
+      }
+    ],
+    "tags": ["opinions", "communication"]
+  },
+  {
+    "id": "08-eop-b1b2-028",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to notice what actually energises me instead of what I think should energise me.",
+    "portuguese": "Estou a tentar reparar no que realmente me dá energia, e não no que acho que devia dar.",
+    "pronunciationNote": "esh-TOH ah ten-TAR heh-pah-RAR noo k heh-ahl-MEN-t m dah en-er-ZHEE-ah",
+    "grammarFocus": "self-discovery statement",
+    "notes": "Useful self-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre coincidem, e isso diz muito.",
+        "english": "They do not always match, and that says a lot."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-029",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to be talked into something if I am not emotionally ready for it.",
+    "portuguese": "Não quero que me convençam de algo se não estiver emocionalmente preparado para isso.",
+    "pronunciationNote": "nawng KEH-roo k m kohn-ven-SAWNG d AL-goo",
+    "grammarFocus": "boundary statement",
+    "notes": "Useful emotional boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de chegar lá ao meu ritmo.",
+        "english": "I need to get there at my own pace."
+      }
+    ],
+    "tags": ["emotions", "boundaries"]
+  },
+  {
+    "id": "08-eop-b1b2-030",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I respect people who can hold strong opinions without needing everyone to agree.",
+    "portuguese": "Respeito pessoas que conseguem ter opiniões fortes sem precisarem que toda a gente concorde.",
+    "pronunciationNote": "hesh-PEY-too peh-SOH-ash k kohn-SEH-geng tair oh-pee-nee-OYNSH FOR-tsh",
+    "grammarFocus": "value statement",
+    "notes": "Useful discussion-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, isso mostra segurança interior.",
+        "english": "For me, that shows inner confidence."
+      }
+    ],
+    "tags": ["opinions", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-031",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I come across as colder than I actually feel.",
+    "portuguese": "Acho que pareço mais frio do que realmente sou.",
+    "pronunciationNote": "AH-shoo k pah-REH-soo mysh FREE-oo doo k heh-ahl-MEN-t SOH",
+    "grammarFocus": "self-perception statement",
+    "notes": "Useful personality reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por dentro sinto muito, mas nem sempre mostro isso.",
+        "english": "Inside I feel a lot, but I do not always show it."
+      }
+    ],
+    "tags": ["personality", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-032",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather pause the conversation than say something I do not really mean.",
+    "portuguese": "Preferia parar a conversa do que dizer algo que não sinto realmente.",
+    "pronunciationNote": "preh-feh-REE-ah pah-RAR ah kohn-VAIR-sah doo k dee-ZER AL-goo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful conflict-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se continuo nesse estado, posso ser injusto.",
+        "english": "If I continue in that state, I may be unfair."
+      }
+    ],
+    "tags": ["emotions", "communication"]
+  },
+  {
+    "id": "08-eop-b1b2-033",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In my view, empathy matters more than winning the argument.",
+    "portuguese": "Na minha opinião, a empatia importa mais do que ganhar a discussão.",
+    "pronunciationNote": "nah MEEN-yah oh-pee-nee-AWN ah eng-pah-TEE-ah em-POR-tah mysh",
+    "grammarFocus": "value comparison",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se ninguém se sente compreendido, ninguém ganha de verdade.",
+        "english": "If no one feels understood, nobody really wins."
+      }
+    ],
+    "tags": ["opinions", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-034",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am learning that not every uncomfortable feeling is a sign that something is wrong.",
+    "portuguese": "Estou a aprender que nem toda a sensação desconfortável é sinal de que algo está errado.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER k nayng TOH-dah ah sen-sah-SAWN dehsh-kohn-for-TAH-vel",
+    "grammarFocus": "learning statement",
+    "notes": "Useful emotional maturity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes é apenas crescimento ou mudança.",
+        "english": "Sometimes it is simply growth or change."
+      }
+    ],
+    "tags": ["emotions", "growth"]
+  },
+  {
+    "id": "08-eop-b1b2-035",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need room to be uncertain without feeling pressured to decide immediately.",
+    "portuguese": "Preciso de espaço para estar na dúvida sem sentir pressão para decidir imediatamente.",
+    "pronunciationNote": "preh-SEE-zoo d esh-PAH-soo pah-rah esh-TAR nah DOO-vee-dah",
+    "grammarFocus": "need statement",
+    "notes": "Useful boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me apressam, penso pior, não melhor.",
+        "english": "If I am rushed, I think worse, not better."
+      }
+    ],
+    "tags": ["opinions", "boundaries"]
+  },
+  {
+    "id": "08-eop-b1b2-036",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find it easier to stay open-minded when I do not feel judged from the start.",
+    "portuguese": "Acho mais fácil manter a mente aberta quando não me sinto julgado desde o início.",
+    "pronunciationNote": "AH-shoo mysh FAH-seel mahn-TAIR ah MEN-t ah-BAIR-tah",
+    "grammarFocus": "conditional observation",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me fecham logo, fecho-me também.",
+        "english": "If people close me off straight away, I close off too."
+      }
+    ],
+    "tags": ["opinions", "discussion"]
+  },
+  {
+    "id": "08-eop-b1b2-037",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not need everyone to agree with me, but I do need to feel respected.",
+    "portuguese": "Não preciso que toda a gente concorde comigo, mas preciso de me sentir respeitado.",
+    "pronunciationNote": "nawng preh-SEE-zoo k TOH-dah ah ZHEN-t kohn-KOR-d koh-MEE-goo",
+    "grammarFocus": "contrastive need statement",
+    "notes": "Useful boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem isso, a conversa deixa de ser produtiva.",
+        "english": "Without that, the conversation stops being productive."
+      }
+    ],
+    "tags": ["opinions", "boundaries"]
+  },
+  {
+    "id": "08-eop-b1b2-038",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather be thought slow than pretend certainty I do not actually have.",
+    "portuguese": "Preferia que me achassem lento do que fingir uma certeza que não tenho.",
+    "pronunciationNote": "preh-feh-REE-ah k m ah-SHAY-sem LEN-too",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful intellectual honesty phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, pensar com cuidado vale mais do que responder depressa.",
+        "english": "For me, thinking carefully matters more than replying quickly."
+      }
+    ],
+    "tags": ["personality", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-039",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What unsettles me most is not disagreement itself, but feeling misunderstood.",
+    "portuguese": "O que mais me desestabiliza não é o desacordo em si, mas sentir-me incompreendido.",
+    "pronunciationNote": "oo k mysh m deh-zeh-stah-bee-LEE-zah nawng eh oo deh-zah-KOR-doo",
+    "grammarFocus": "contrastive feeling statement",
+    "notes": "Useful emotional nuance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com conflito eu lido, com distorção é mais difícil.",
+        "english": "I can deal with conflict, but distortion is harder."
+      }
+    ],
+    "tags": ["emotions", "relationships"]
+  },
+  {
+    "id": "08-eop-b1b2-040",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to become the kind of person who stays honest even when it is awkward.",
+    "portuguese": "Estou a tentar tornar-me o tipo de pessoa que se mantém honesta mesmo quando é desconfortável.",
+    "pronunciationNote": "esh-TOH ah ten-TAR tor-NAR-m oo TEE-poo d peh-SOH-ah",
+    "grammarFocus": "aspirational statement",
+    "notes": "Useful personality-growth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que isso exige prática, não só intenção.",
+        "english": "I think that requires practice, not just intention."
+      }
+    ],
+    "tags": ["personality", "growth"]
+  },
+  {
+    "id": "08-eop-b1b2-041",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think emotional maturity shows up in how people repair things, not in never getting them wrong.",
+    "portuguese": "Acho que a maturidade emocional se vê na forma como as pessoas reparam as coisas, e não em nunca falharem.",
+    "pronunciationNote": "AH-shoo k ah mah-too-ree-DAH-d eh-moh-see-oh-NAL s veh nah FOR-mah",
+    "grammarFocus": "general observation",
+    "notes": "Useful reflective phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Errar é inevitável, reparar é escolha.",
+        "english": "Making mistakes is inevitable, repair is a choice."
+      }
+    ],
+    "tags": ["personality", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-042",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need opinions around me that challenge me without trying to control me.",
+    "portuguese": "Preciso de opiniões à minha volta que me desafiem sem tentarem controlar-me.",
+    "pronunciationNote": "preh-SEE-zoo d oh-pee-nee-OYNSH ah MEEN-yah VOL-tah",
+    "grammarFocus": "need statement + clause",
+    "notes": "Useful values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, crescimento e liberdade têm de andar juntos.",
+        "english": "For me, growth and freedom need to go together."
+      }
+    ],
+    "tags": ["opinions", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-043",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather stay curious a bit longer than rush to a neat conclusion.",
+    "portuguese": "Preferia manter a curiosidade mais um pouco do que correr para uma conclusão arrumada.",
+    "pronunciationNote": "preh-feh-REE-ah mahn-TAIR ah koo-ree-oh-zee-DAH-d mysh oom POH-koo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful thinking-style phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a ambiguidade ainda está a ensinar alguma coisa.",
+        "english": "Sometimes ambiguity is still teaching something."
+      }
+    ],
+    "tags": ["opinions", "thinking"]
+  },
+  {
+    "id": "08-eop-b1b2-044",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not always know what I feel straight away, but I usually know when something is off.",
+    "portuguese": "Nem sempre sei o que sinto logo, mas normalmente sei quando alguma coisa não está bem.",
+    "pronunciationNote": "nayng SEM-pr SAY oo k SEEN-too LOH-goo",
+    "grammarFocus": "concession statement",
+    "notes": "Useful self-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes identifico primeiro o desconforto e só depois a causa.",
+        "english": "Sometimes I identify the discomfort first and only later the cause."
+      }
+    ],
+    "tags": ["emotions", "self-awareness"]
+  },
+  {
+    "id": "08-eop-b1b2-045",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "In my opinion, good conversations leave room for nuance rather than forcing certainty.",
+    "portuguese": "Na minha opinião, boas conversas deixam espaço para nuance em vez de forçar certezas.",
+    "pronunciationNote": "nah MEEN-yah oh-pee-nee-AWN BOH-ash kohn-VAIR-sash DAY-shang esh-PAH-soo",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful discussion-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando tudo tem de ser absoluto, perde-se profundidade.",
+        "english": "When everything has to be absolute, depth gets lost."
+      }
+    ],
+    "tags": ["opinions", "discussion"]
+  },
+  {
+    "id": "08-eop-b1b2-046",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am learning that being sensitive does not mean being fragile.",
+    "portuguese": "Estou a aprender que ser sensível não significa ser frágil.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER k sair sen-SEE-vel nawng seen-nee-fee-KAHR",
+    "grammarFocus": "learning statement",
+    "notes": "Useful personality reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes significa apenas reparar em mais coisas.",
+        "english": "Sometimes it simply means noticing more things."
+      }
+    ],
+    "tags": ["personality", "reflection"]
+  },
+  {
+    "id": "08-eop-b1b2-047",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather disappoint someone with the truth than comfort them with something false.",
+    "portuguese": "Preferia desiludir alguém com a verdade do que confortá-lo com algo falso.",
+    "pronunciationNote": "preh-feh-REE-ah deh-zee-loo-DEER al-GAYNG kohm ah vair-DAH-d",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful honesty phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre é fácil, mas parece-me mais limpo.",
+        "english": "It is not always easy, but it seems cleaner to me."
+      }
+    ],
+    "tags": ["opinions", "honesty"]
+  },
+  {
+    "id": "08-eop-b1b2-048",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I value most in people is emotional steadiness, not perfection.",
+    "portuguese": "O que mais valorizo nas pessoas é estabilidade emocional, não perfeição.",
+    "pronunciationNote": "oo k mysh vah-loo-REE-zoo nash peh-SOH-ash eh esh-tah-bee-lee-DAH-d",
+    "grammarFocus": "value statement",
+    "notes": "Useful personality-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, conta mais a forma como alguém se regula.",
+        "english": "For me, what counts more is how someone regulates themselves."
+      }
+    ],
+    "tags": ["personality", "values"]
+  },
+  {
+    "id": "08-eop-b1b2-049",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to become less reactive and more deliberate in how I respond.",
+    "portuguese": "Estou a tentar ser menos reativo e mais deliberado na forma como respondo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR sair MEN-oosh reh-ah-TEE-voo",
+    "grammarFocus": "self-improvement statement",
+    "notes": "Useful growth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero que as minhas respostas reflitam quem sou, não só o momento.",
+        "english": "I want my responses to reflect who I am, not just the moment."
+      }
+    ],
+    "tags": ["personality", "growth"]
+  },
+  {
+    "id": "08-eop-b1b2-050",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that gives me a clearer way to say what I actually mean.",
+    "portuguese": "Obrigado, isso dá-me uma forma mais clara de dizer o que realmente quero dizer.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo dah-m OO-mah FOR-mah mysh KLAH-rah",
+    "grammarFocus": "result expression",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora consigo explicar-me sem tanta confusão.",
+        "english": "Now I can explain myself without so much confusion."
+      }
+    ],
+    "tags": ["opinions", "gratitude"]
+  }
+]

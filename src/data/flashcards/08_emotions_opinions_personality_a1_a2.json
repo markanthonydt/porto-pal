@@ -1,0 +1,952 @@
+[
+  {
+    "id": "08-eop-a1a2-001",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am happy.",
+    "portuguese": "Estou feliz.",
+    "pronunciationNote": "esh-TOH feh-LEEZ",
+    "grammarFocus": "state statement",
+    "notes": "Basic emotion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou feliz.",
+        "english": "Today I am happy."
+      }
+    ],
+    "tags": ["emotions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-002",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am sad.",
+    "portuguese": "Estou triste.",
+    "pronunciationNote": "esh-TOH TREESH-t",
+    "grammarFocus": "state statement",
+    "notes": "Basic emotion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou um pouco triste.",
+        "english": "Today I am a bit sad."
+      }
+    ],
+    "tags": ["emotions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-003",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am tired.",
+    "portuguese": "Estou cansado.",
+    "pronunciationNote": "esh-TOH kahn-SAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do trabalho, estou cansado.",
+        "english": "After work, I am tired."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-004",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am worried.",
+    "portuguese": "Estou preocupado.",
+    "pronunciationNote": "esh-TOH preh-oh-koo-PAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou preocupado com o exame.",
+        "english": "I am worried about the exam."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-005",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am calm.",
+    "portuguese": "Estou calmo.",
+    "pronunciationNote": "esh-TOH KAL-moo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora estou mais calmo.",
+        "english": "Now I am calmer."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-006",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am nervous.",
+    "portuguese": "Estou nervoso.",
+    "pronunciationNote": "esh-TOH nair-VOH-zoo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes da entrevista, estou nervoso.",
+        "english": "Before the interview, I am nervous."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-007",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am angry.",
+    "portuguese": "Estou zangado.",
+    "pronunciationNote": "esh-TOH zahn-GAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou zangado com essa situação.",
+        "english": "Today I am angry about that situation."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-008",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am excited.",
+    "portuguese": "Estou entusiasmado.",
+    "pronunciationNote": "esh-TOH en-too-zee-ahz-MAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou entusiasmado com a viagem.",
+        "english": "I am excited about the trip."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-009",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am embarrassed.",
+    "portuguese": "Estou envergonhado.",
+    "pronunciationNote": "esh-TOH en-vair-gohn-YAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fiquei envergonhado com o erro.",
+        "english": "I felt embarrassed by the mistake."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-010",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am surprised.",
+    "portuguese": "Estou surpreendido.",
+    "pronunciationNote": "esh-TOH soor-prehn-DIH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou surpreendido com a notícia.",
+        "english": "I am surprised by the news."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-011",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel better.",
+    "portuguese": "Sinto-me melhor.",
+    "pronunciationNote": "SEEN-too-m meh-LYOR",
+    "grammarFocus": "reflexive feeling expression",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de falar, sinto-me melhor.",
+        "english": "After talking, I feel better."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-012",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel bad.",
+    "portuguese": "Sinto-me mal.",
+    "pronunciationNote": "SEEN-too-m mahl",
+    "grammarFocus": "reflexive feeling expression",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje sinto-me mal por causa disso.",
+        "english": "Today I feel bad because of that."
+      }
+    ],
+    "tags": ["emotions", "feeling"]
+  },
+  {
+    "id": "08-eop-a1a2-013",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I think so.",
+    "portuguese": "Acho que sim.",
+    "pronunciationNote": "AH-shoo k SEENG",
+    "grammarFocus": "opinion expression",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que sim, mas não tenho a certeza.",
+        "english": "I think so, but I am not sure."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-014",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not think so.",
+    "portuguese": "Acho que não.",
+    "pronunciationNote": "AH-shoo k nawng",
+    "grammarFocus": "opinion expression",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que não, ainda é cedo.",
+        "english": "I do not think so, it is still early."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-015",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "In my opinion...",
+    "portuguese": "Na minha opinião...",
+    "pronunciationNote": "nah MEEN-yah oh-pee-nee-AWN",
+    "grammarFocus": "opinion opener",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na minha opinião, é uma boa ideia.",
+        "english": "In my opinion, it is a good idea."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-016",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like it.",
+    "portuguese": "Gosto disso.",
+    "pronunciationNote": "GOH-shtoo DEE-soo",
+    "grammarFocus": "opinion statement",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto disso porque é simples.",
+        "english": "I like that because it is simple."
+      }
+    ],
+    "tags": ["opinions", "likes"]
+  },
+  {
+    "id": "08-eop-a1a2-017",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not like it.",
+    "portuguese": "Não gosto disso.",
+    "pronunciationNote": "nawng GOH-shtoo DEE-soo",
+    "grammarFocus": "negation statement",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não gosto disso, prefiro outra coisa.",
+        "english": "I do not like that, I prefer something else."
+      }
+    ],
+    "tags": ["opinions", "likes"]
+  },
+  {
+    "id": "08-eop-a1a2-018",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer this.",
+    "portuguese": "Prefiro isto.",
+    "pronunciationNote": "preh-FEE-roo EESH-too",
+    "grammarFocus": "preference statement",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Entre os dois, prefiro isto.",
+        "english": "Between the two, I prefer this."
+      }
+    ],
+    "tags": ["opinions", "preference"]
+  },
+  {
+    "id": "08-eop-a1a2-019",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is interesting.",
+    "portuguese": "É interessante.",
+    "pronunciationNote": "eh een-teh-reh-SAHN-t",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que é interessante.",
+        "english": "I think it is interesting."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-020",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is boring.",
+    "portuguese": "É aborrecido.",
+    "pronunciationNote": "eh ah-boh-reh-SEE-doo",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, é um pouco aborrecido.",
+        "english": "For me, it is a bit boring."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-021",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is good.",
+    "portuguese": "É bom.",
+    "pronunciationNote": "eh bohm",
+    "grammarFocus": "opinion statement",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É bom, mas pode ser melhor.",
+        "english": "It is good, but it can be better."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-022",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is bad.",
+    "portuguese": "É mau.",
+    "pronunciationNote": "eh mow",
+    "grammarFocus": "opinion statement",
+    "notes": "Basic opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que não é mau.",
+        "english": "I think it is not bad."
+      }
+    ],
+    "tags": ["opinions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-023",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "He is kind.",
+    "portuguese": "Ele é simpático.",
+    "pronunciationNote": "EH-leh eh seem-PAH-tee-koo",
+    "grammarFocus": "personality description",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O teu irmão é simpático.",
+        "english": "Your brother is kind."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-024",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "She is funny.",
+    "portuguese": "Ela é divertida.",
+    "pronunciationNote": "EH-lah eh dee-vair-TEE-dah",
+    "grammarFocus": "personality description",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ela é divertida e fala muito.",
+        "english": "She is funny and talks a lot."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-025",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "He is quiet.",
+    "portuguese": "Ele é calado.",
+    "pronunciationNote": "EH-leh eh kah-LAH-doo",
+    "grammarFocus": "personality description",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ele é calado, mas simpático.",
+        "english": "He is quiet, but kind."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-026",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "She is friendly.",
+    "portuguese": "Ela é simpática.",
+    "pronunciationNote": "EH-lah eh seem-PAH-tee-kah",
+    "grammarFocus": "personality description",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A tua colega é muito simpática.",
+        "english": "Your colleague is very friendly."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-027",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am shy.",
+    "portuguese": "Sou tímido.",
+    "pronunciationNote": "SOH TEE-mee-doo",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou um pouco tímido no início.",
+        "english": "I am a bit shy at first."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-028",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am patient.",
+    "portuguese": "Sou paciente.",
+    "pronunciationNote": "SOH pah-see-EN-t",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente sou paciente.",
+        "english": "I am usually patient."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-029",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am honest.",
+    "portuguese": "Sou honesto.",
+    "pronunciationNote": "SOH oh-NESH-too",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tento ser sempre honesto.",
+        "english": "I try to always be honest."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-030",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am creative.",
+    "portuguese": "Sou criativo.",
+    "pronunciationNote": "SOH kree-ah-TEE-voo",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No trabalho, sou criativo.",
+        "english": "At work, I am creative."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-031",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am serious.",
+    "portuguese": "Sou sério.",
+    "pronunciationNote": "SOH SEH-ree-oo",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No trabalho, sou mais sério.",
+        "english": "At work, I am more serious."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-032",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am friendly.",
+    "portuguese": "Sou simpático.",
+    "pronunciationNote": "SOH seem-PAH-tee-koo",
+    "grammarFocus": "personality statement",
+    "notes": "Basic personality phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tento ser simpático com toda a gente.",
+        "english": "I try to be friendly with everyone."
+      }
+    ],
+    "tags": ["personality", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-033",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I agree.",
+    "portuguese": "Concordo.",
+    "pronunciationNote": "kohn-KOR-doo",
+    "grammarFocus": "opinion response",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, concordo contigo.",
+        "english": "Yes, I agree with you."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-034",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not agree.",
+    "portuguese": "Não concordo.",
+    "pronunciationNote": "nawng kohn-KOR-doo",
+    "grammarFocus": "opinion response",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, não concordo.",
+        "english": "Sorry, I do not agree."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-035",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Maybe.",
+    "portuguese": "Talvez.",
+    "pronunciationNote": "tahl-VEZH",
+    "grammarFocus": "uncertainty expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez, ainda não sei.",
+        "english": "Maybe, I still do not know."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-036",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Of course.",
+    "portuguese": "Claro.",
+    "pronunciationNote": "KLAH-roo",
+    "grammarFocus": "response expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Claro, posso ajudar.",
+        "english": "Of course, I can help."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-037",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is true.",
+    "portuguese": "Isso é verdade.",
+    "pronunciationNote": "EE-soo eh vair-DAH-d",
+    "grammarFocus": "opinion response",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, isso é verdade.",
+        "english": "Yes, that is true."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-038",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I understand.",
+    "portuguese": "Compreendo.",
+    "pronunciationNote": "kohm-preh-EN-doo",
+    "grammarFocus": "response expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, compreendo o problema.",
+        "english": "Yes, I understand the problem."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-039",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not understand why.",
+    "portuguese": "Não percebo porquê.",
+    "pronunciationNote": "nawng pair-SEH-boo poor-KAY",
+    "grammarFocus": "negation statement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sinceramente, não percebo porquê.",
+        "english": "Honestly, I do not understand why."
+      }
+    ],
+    "tags": ["opinions", "conversation"]
+  },
+  {
+    "id": "08-eop-a1a2-040",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "For me, it is important.",
+    "portuguese": "Para mim, é importante.",
+    "pronunciationNote": "PAH-rah meeng eh eem-por-TAHN-t",
+    "grammarFocus": "value statement",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, é importante ser honesto.",
+        "english": "For me, being honest is important."
+      }
+    ],
+    "tags": ["opinions", "values"]
+  },
+  {
+    "id": "08-eop-a1a2-041",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am in a good mood.",
+    "portuguese": "Estou bem disposto.",
+    "pronunciationNote": "esh-TOH bayng deesh-POH-shtoo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou bem disposto.",
+        "english": "Today I am in a good mood."
+      }
+    ],
+    "tags": ["emotions", "mood"]
+  },
+  {
+    "id": "08-eop-a1a2-042",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am in a bad mood.",
+    "portuguese": "Estou mal disposto.",
+    "pronunciationNote": "esh-TOH mahl deesh-POH-shtoo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou mal disposto, desculpa.",
+        "english": "Today I am in a bad mood, sorry."
+      }
+    ],
+    "tags": ["emotions", "mood"]
+  },
+  {
+    "id": "08-eop-a1a2-043",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am afraid.",
+    "portuguese": "Tenho medo.",
+    "pronunciationNote": "TEN-yoo MAY-doo",
+    "grammarFocus": "emotion expression",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho medo de falhar.",
+        "english": "I am afraid of failing."
+      }
+    ],
+    "tags": ["emotions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-044",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am proud.",
+    "portuguese": "Estou orgulhoso.",
+    "pronunciationNote": "esh-TOH or-goo-LYOH-zoo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou orgulhoso do meu trabalho.",
+        "english": "I am proud of my work."
+      }
+    ],
+    "tags": ["emotions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-045",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am confused.",
+    "portuguese": "Estou confuso.",
+    "pronunciationNote": "esh-TOH kohn-FOO-zoo",
+    "grammarFocus": "state statement",
+    "notes": "Useful feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou um pouco confuso com isso.",
+        "english": "I am a bit confused about that."
+      }
+    ],
+    "tags": ["emotions", "basic"]
+  },
+  {
+    "id": "08-eop-a1a2-046",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am sure.",
+    "portuguese": "Tenho a certeza.",
+    "pronunciationNote": "TEN-yoo ah sair-TEH-zah",
+    "grammarFocus": "certainty expression",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho a certeza de que é assim.",
+        "english": "I am sure that it is like that."
+      }
+    ],
+    "tags": ["opinions", "certainty"]
+  },
+  {
+    "id": "08-eop-a1a2-047",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not sure.",
+    "portuguese": "Não tenho a certeza.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah",
+    "grammarFocus": "uncertainty expression",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho a certeza, tenho de pensar.",
+        "english": "I am not sure, I need to think."
+      }
+    ],
+    "tags": ["opinions", "certainty"]
+  },
+  {
+    "id": "08-eop-a1a2-048",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That makes me happy.",
+    "portuguese": "Isso faz-me feliz.",
+    "pronunciationNote": "EE-soo faz-m feh-LEEZ",
+    "grammarFocus": "cause and emotion",
+    "notes": "Useful reaction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ver a minha família faz-me feliz.",
+        "english": "Seeing my family makes me happy."
+      }
+    ],
+    "tags": ["emotions", "reaction"]
+  },
+  {
+    "id": "08-eop-a1a2-049",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That annoys me.",
+    "portuguese": "Isso irrita-me.",
+    "pronunciationNote": "EE-soo ee-REE-tah-m",
+    "grammarFocus": "reaction expression",
+    "notes": "Useful reaction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando isso acontece, irrita-me.",
+        "english": "When that happens, it annoys me."
+      }
+    ],
+    "tags": ["emotions", "reaction"]
+  },
+  {
+    "id": "08-eop-a1a2-050",
+    "subject": "Emotions, Opinions & Personality",
+    "subjectId": "emotions-opinions-personality",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need some time to think.",
+    "portuguese": "Preciso de algum tempo para pensar.",
+    "pronunciationNote": "preh-SEE-zoo d al-GOOM TEM-poo pah-rah pen-SAR",
+    "grammarFocus": "need statement",
+    "notes": "Useful response phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora preciso de algum tempo para pensar.",
+        "english": "Right now I need some time to think."
+      }
+    ],
+    "tags": ["opinions", "response"]
+  }
+]

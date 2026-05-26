@@ -1,0 +1,952 @@
+[
+  {
+    "id": "10-cmc-a1a2-001",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you like music?",
+    "portuguese": "Gostas de música?",
+    "pronunciationNote": "GOH-shtash d MOO-zee-kah",
+    "grammarFocus": "preference question",
+    "notes": "Basic conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostas de música portuguesa?",
+        "english": "Do you like Portuguese music?"
+      }
+    ],
+    "tags": ["conversation", "music", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-002",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What kind of music do you like?",
+    "portuguese": "Que tipo de música gostas?",
+    "pronunciationNote": "k TEE-poo d MOO-zee-kah GOH-shtash",
+    "grammarFocus": "preference question",
+    "notes": "Basic conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que tipo de música costumas ouvir?",
+        "english": "What kind of music do you usually listen to?"
+      }
+    ],
+    "tags": ["conversation", "music", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-003",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like fado.",
+    "portuguese": "Gosto de fado.",
+    "pronunciationNote": "GOH-shtoo d FAH-doo",
+    "grammarFocus": "preference statement",
+    "notes": "Useful Portugal culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de fado, mas também ouço pop.",
+        "english": "I like fado, but I also listen to pop."
+      }
+    ],
+    "tags": ["culture", "music", "portugal"]
+  },
+  {
+    "id": "10-cmc-a1a2-004",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I listen to music every day.",
+    "portuguese": "Ouço música todos os dias.",
+    "pronunciationNote": "OH-soo MOO-zee-kah TOH-doosh oosh DEE-ash",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No caminho para o trabalho, ouço música todos os dias.",
+        "english": "On the way to work, I listen to music every day."
+      }
+    ],
+    "tags": ["media", "music", "habits"]
+  },
+  {
+    "id": "10-cmc-a1a2-005",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you watch films?",
+    "portuguese": "Vês filmes?",
+    "pronunciationNote": "VESh FEEL-mesh",
+    "grammarFocus": "habit question",
+    "notes": "Basic conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vês filmes em casa ou no cinema?",
+        "english": "Do you watch films at home or at the cinema?"
+      }
+    ],
+    "tags": ["conversation", "films", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-006",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like comedies.",
+    "portuguese": "Gosto de comédias.",
+    "pronunciationNote": "GOH-shtoo d koh-MEH-dee-ash",
+    "grammarFocus": "preference statement",
+    "notes": "Useful film phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente gosto de comédias leves.",
+        "english": "I usually like light comedies."
+      }
+    ],
+    "tags": ["media", "films", "preferences"]
+  },
+  {
+    "id": "10-cmc-a1a2-007",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I prefer series.",
+    "portuguese": "Prefiro séries.",
+    "pronunciationNote": "preh-FEE-roo SEH-ree-esh",
+    "grammarFocus": "preference statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em vez de filmes, prefiro séries.",
+        "english": "Instead of films, I prefer series."
+      }
+    ],
+    "tags": ["media", "series", "preferences"]
+  },
+  {
+    "id": "10-cmc-a1a2-008",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am watching a series now.",
+    "portuguese": "Estou a ver uma série agora.",
+    "pronunciationNote": "esh-TOH ah VAIR OO-mah SEH-ree ah-GOH-rah",
+    "grammarFocus": "present continuous",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento estou a ver uma série portuguesa.",
+        "english": "At the moment I am watching a Portuguese series."
+      }
+    ],
+    "tags": ["media", "series", "ongoing"]
+  },
+  {
+    "id": "10-cmc-a1a2-009",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you read books?",
+    "portuguese": "Lês livros?",
+    "pronunciationNote": "LESH LEE-vroosh",
+    "grammarFocus": "habit question",
+    "notes": "Basic conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Lês livros em português?",
+        "english": "Do you read books in Portuguese?"
+      }
+    ],
+    "tags": ["conversation", "books", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-010",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am reading a book.",
+    "portuguese": "Estou a ler um livro.",
+    "pronunciationNote": "esh-TOH ah LER oom LEE-vroo",
+    "grammarFocus": "present continuous",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora estou a ler um livro interessante.",
+        "english": "Right now I am reading an interesting book."
+      }
+    ],
+    "tags": ["media", "books", "ongoing"]
+  },
+  {
+    "id": "10-cmc-a1a2-011",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like the news.",
+    "portuguese": "Gosto das notícias.",
+    "pronunciationNote": "GOH-shtoo dash noh-TEE-see-ash",
+    "grammarFocus": "preference statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã gosto de ouvir as notícias.",
+        "english": "In the morning I like to listen to the news."
+      }
+    ],
+    "tags": ["media", "news", "preferences"]
+  },
+  {
+    "id": "10-cmc-a1a2-012",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not watch much television.",
+    "portuguese": "Não vejo muita televisão.",
+    "pronunciationNote": "nawng VAY-zhoo MWEEN-tah teh-leh-vee-ZAWN",
+    "grammarFocus": "negation statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em casa não vejo muita televisão.",
+        "english": "At home I do not watch much television."
+      }
+    ],
+    "tags": ["media", "television", "habits"]
+  },
+  {
+    "id": "10-cmc-a1a2-013",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you use social media?",
+    "portuguese": "Usas redes sociais?",
+    "pronunciationNote": "OO-zash HEH-dz soh-see-AISH",
+    "grammarFocus": "habit question",
+    "notes": "Basic conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Usas muito as redes sociais?",
+        "english": "Do you use social media a lot?"
+      }
+    ],
+    "tags": ["media", "social-media", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-014",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I use Instagram a lot.",
+    "portuguese": "Uso muito o Instagram.",
+    "pronunciationNote": "OO-zoo MWEEN-too oo Instagram",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para fotos, uso muito o Instagram.",
+        "english": "For photos, I use Instagram a lot."
+      }
+    ],
+    "tags": ["media", "social-media", "habits"]
+  },
+  {
+    "id": "10-cmc-a1a2-015",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not use it much.",
+    "portuguese": "Não uso muito isso.",
+    "pronunciationNote": "nawng OO-zoo MWEEN-too EE-soo",
+    "grammarFocus": "negation statement",
+    "notes": "Useful media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho conta, mas não uso muito isso.",
+        "english": "I have an account, but I do not use it much."
+      }
+    ],
+    "tags": ["media", "social-media", "habits"]
+  },
+  {
+    "id": "10-cmc-a1a2-016",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like Portuguese food.",
+    "portuguese": "Gosto de comida portuguesa.",
+    "pronunciationNote": "GOH-shtoo d koh-MEE-dah poor-too-GAY-zah",
+    "grammarFocus": "preference statement",
+    "notes": "Useful culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto muito de comida portuguesa.",
+        "english": "I like Portuguese food a lot."
+      }
+    ],
+    "tags": ["culture", "food", "portugal"]
+  },
+  {
+    "id": "10-cmc-a1a2-017",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to try bacalhau.",
+    "portuguese": "Quero provar bacalhau.",
+    "pronunciationNote": "KEH-roo proh-VAR bah-kah-LYOW",
+    "grammarFocus": "desire statement",
+    "notes": "Useful culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em Portugal quero provar bacalhau.",
+        "english": "In Portugal I want to try bacalhau."
+      }
+    ],
+    "tags": ["culture", "food", "portugal"]
+  },
+  {
+    "id": "10-cmc-a1a2-018",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Have you been to Portugal?",
+    "portuguese": "Já foste a Portugal?",
+    "pronunciationNote": "zhah FOH-sht ah poor-too-GAL",
+    "grammarFocus": "perfect past question",
+    "notes": "Basic travel conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já foste a Portugal alguma vez?",
+        "english": "Have you ever been to Portugal?"
+      }
+    ],
+    "tags": ["conversation", "travel", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-019",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to visit Lisbon.",
+    "portuguese": "Quero visitar Lisboa.",
+    "pronunciationNote": "KEH-roo vee-zee-TAR leez-BOH-ah",
+    "grammarFocus": "desire statement",
+    "notes": "Useful travel conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No próximo ano quero visitar Lisboa.",
+        "english": "Next year I want to visit Lisbon."
+      }
+    ],
+    "tags": ["culture", "travel", "portugal"]
+  },
+  {
+    "id": "10-cmc-a1a2-020",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to visit Porto.",
+    "portuguese": "Quero visitar o Porto.",
+    "pronunciationNote": "KEH-roo vee-zee-TAR oo POR-too",
+    "grammarFocus": "desire statement",
+    "notes": "Useful travel conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Também quero visitar o Porto.",
+        "english": "I also want to visit Porto."
+      }
+    ],
+    "tags": ["culture", "travel", "portugal"]
+  },
+  {
+    "id": "10-cmc-a1a2-021",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you do in your free time?",
+    "portuguese": "O que fazes no teu tempo livre?",
+    "pronunciationNote": "oo k FAH-zesh noo TAY-oo TEM-poo LEE-vr",
+    "grammarFocus": "open conversation question",
+    "notes": "Useful conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana, o que fazes no teu tempo livre?",
+        "english": "At the weekend, what do you do in your free time?"
+      }
+    ],
+    "tags": ["conversation", "hobbies", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-022",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go out with friends.",
+    "portuguese": "Saio com amigos.",
+    "pronunciationNote": "SAH-yoo kohm ah-MEE-goosh",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful leisure phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao sábado saio com amigos.",
+        "english": "On Saturdays I go out with friends."
+      }
+    ],
+    "tags": ["conversation", "hobbies", "social"]
+  },
+  {
+    "id": "10-cmc-a1a2-023",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I stay at home.",
+    "portuguese": "Fico em casa.",
+    "pronunciationNote": "FEE-koo eng KAH-zah",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful leisure phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao domingo fico em casa.",
+        "english": "On Sundays I stay at home."
+      }
+    ],
+    "tags": ["conversation", "hobbies", "home"]
+  },
+  {
+    "id": "10-cmc-a1a2-024",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to concerts.",
+    "portuguese": "Vou a concertos.",
+    "pronunciationNote": "VOH ah kohn-SAIR-toosh",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful leisure phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No verão vou a concertos.",
+        "english": "In summer I go to concerts."
+      }
+    ],
+    "tags": ["culture", "music", "leisure"]
+  },
+  {
+    "id": "10-cmc-a1a2-025",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like museums.",
+    "portuguese": "Gosto de museus.",
+    "pronunciationNote": "GOH-shtoo d moo-ZAY-oosh",
+    "grammarFocus": "preference statement",
+    "notes": "Useful culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando viajo, gosto de museus.",
+        "english": "When I travel, I like museums."
+      }
+    ],
+    "tags": ["culture", "museums", "preferences"]
+  },
+  {
+    "id": "10-cmc-a1a2-026",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am interested in history.",
+    "portuguese": "Interesso-me por história.",
+    "pronunciationNote": "een-teh-REH-soo-m poor eesh-TOH-ree-ah",
+    "grammarFocus": "pronominal verb with por",
+    "notes": "Useful culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Interesso-me por história portuguesa.",
+        "english": "I am interested in Portuguese history."
+      }
+    ],
+    "tags": ["culture", "history", "interests"]
+  },
+  {
+    "id": "10-cmc-a1a2-027",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I like learning languages.",
+    "portuguese": "Gosto de aprender línguas.",
+    "pronunciationNote": "GOH-shtoo d ah-pren-DER LEENG-gwash",
+    "grammarFocus": "gostar de + infinitive",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto de aprender línguas no meu tempo livre.",
+        "english": "I like learning languages in my free time."
+      }
+    ],
+    "tags": ["conversation", "languages", "interests"]
+  },
+  {
+    "id": "10-cmc-a1a2-028",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How long have you been learning Portuguese?",
+    "portuguese": "Há quanto tempo aprendes português?",
+    "pronunciationNote": "AH KWAN-too TEM-poo ah-PREN-desh poor-too-GAYSH",
+    "grammarFocus": "duration question",
+    "notes": "Useful language conversation starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há quanto tempo aprendes português europeu?",
+        "english": "How long have you been learning European Portuguese?"
+      }
+    ],
+    "tags": ["conversation", "languages", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-029",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I started last year.",
+    "portuguese": "Comecei no ano passado.",
+    "pronunciationNote": "koh-meh-SAY noo AH-noo pah-SAH-doo",
+    "grammarFocus": "perfect past statement",
+    "notes": "Useful response phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Comecei no ano passado por causa do trabalho.",
+        "english": "I started last year because of work."
+      }
+    ],
+    "tags": ["conversation", "languages", "response"]
+  },
+  {
+    "id": "10-cmc-a1a2-030",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is difficult, but interesting.",
+    "portuguese": "É difícil, mas interessante.",
+    "pronunciationNote": "eh dee-FEE-seel mahsh een-teh-reh-SAHN-t",
+    "grammarFocus": "contrast statement",
+    "notes": "Useful opinion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Português é difícil, mas interessante.",
+        "english": "Portuguese is difficult, but interesting."
+      }
+    ],
+    "tags": ["conversation", "languages", "opinion"]
+  },
+  {
+    "id": "10-cmc-a1a2-031",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you recommend a film?",
+    "portuguese": "Podes recomendar um filme?",
+    "pronunciationNote": "POH-desh reh-koh-men-DAR oom FEEL-m",
+    "grammarFocus": "request question",
+    "notes": "Useful recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes recomendar um filme português?",
+        "english": "Can you recommend a Portuguese film?"
+      }
+    ],
+    "tags": ["media", "recommendations", "conversation"]
+  },
+  {
+    "id": "10-cmc-a1a2-032",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you recommend a book?",
+    "portuguese": "Podes recomendar um livro?",
+    "pronunciationNote": "POH-desh reh-koh-men-DAR oom LEE-vroo",
+    "grammarFocus": "request question",
+    "notes": "Useful recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes recomendar um livro fácil?",
+        "english": "Can you recommend an easy book?"
+      }
+    ],
+    "tags": ["media", "recommendations", "conversation"]
+  },
+  {
+    "id": "10-cmc-a1a2-033",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What are you watching now?",
+    "portuguese": "O que estás a ver agora?",
+    "pronunciationNote": "oo k esh-TAHSH ah VAIR ah-GOH-rah",
+    "grammarFocus": "present continuous question",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em casa, o que estás a ver agora?",
+        "english": "At home, what are you watching now?"
+      }
+    ],
+    "tags": ["media", "conversation", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-034",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What are you listening to?",
+    "portuguese": "O que estás a ouvir?",
+    "pronunciationNote": "oo k esh-TAHSH ah oh-VEER",
+    "grammarFocus": "present continuous question",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No carro, o que estás a ouvir?",
+        "english": "In the car, what are you listening to?"
+      }
+    ],
+    "tags": ["media", "conversation", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-035",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That sounds interesting.",
+    "portuguese": "Isso parece interessante.",
+    "pronunciationNote": "EE-soo pah-REH-s een-teh-reh-SAHN-t",
+    "grammarFocus": "reaction statement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não conheço, mas isso parece interessante.",
+        "english": "I do not know it, but that sounds interesting."
+      }
+    ],
+    "tags": ["conversation", "reaction", "media"]
+  },
+  {
+    "id": "10-cmc-a1a2-036",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have never seen it.",
+    "portuguese": "Nunca vi isso.",
+    "pronunciationNote": "NOON-kah VEE EE-soo",
+    "grammarFocus": "perfect past negation",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nunca vi isso, mas conheço o nome.",
+        "english": "I have never seen that, but I know the name."
+      }
+    ],
+    "tags": ["conversation", "reaction", "media"]
+  },
+  {
+    "id": "10-cmc-a1a2-037",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have heard of it.",
+    "portuguese": "Já ouvi falar disso.",
+    "pronunciationNote": "zhah oh-VEE fah-LAR DEE-soo",
+    "grammarFocus": "fixed expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já ouvi falar disso, mas não sei muito.",
+        "english": "I have heard of that, but I do not know much."
+      }
+    ],
+    "tags": ["conversation", "reaction", "media"]
+  },
+  {
+    "id": "10-cmc-a1a2-038",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Really?",
+    "portuguese": "A sério?",
+    "pronunciationNote": "ah SEH-ree-oo",
+    "grammarFocus": "reaction expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A sério? Não sabia disso.",
+        "english": "Really? I did not know that."
+      }
+    ],
+    "tags": ["conversation", "reaction", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-039",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is funny.",
+    "portuguese": "Isso tem piada.",
+    "pronunciationNote": "EE-soo teng pee-AH-dah",
+    "grammarFocus": "reaction statement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso tem piada, não sabia.",
+        "english": "That is funny, I did not know."
+      }
+    ],
+    "tags": ["conversation", "reaction", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-040",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you think?",
+    "portuguese": "O que achas?",
+    "pronunciationNote": "oo k AH-shash",
+    "grammarFocus": "opinion question",
+    "notes": "Basic conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que achas deste filme?",
+        "english": "What do you think of this film?"
+      }
+    ],
+    "tags": ["conversation", "opinions", "starter"]
+  },
+  {
+    "id": "10-cmc-a1a2-041",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I agree with you.",
+    "portuguese": "Concordo contigo.",
+    "pronunciationNote": "kohn-KOR-doo kohn-TEE-goo",
+    "grammarFocus": "agreement phrase",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, concordo contigo nisso.",
+        "english": "Yes, I agree with you on that."
+      }
+    ],
+    "tags": ["conversation", "opinions", "response"]
+  },
+  {
+    "id": "10-cmc-a1a2-042",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not sure.",
+    "portuguese": "Não tenho a certeza.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah",
+    "grammarFocus": "uncertainty expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho a certeza, tenho de pensar.",
+        "english": "I am not sure, I need to think."
+      }
+    ],
+    "tags": ["conversation", "opinions", "response"]
+  },
+  {
+    "id": "10-cmc-a1a2-043",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you repeat that?",
+    "portuguese": "Podes repetir?",
+    "pronunciationNote": "POH-desh heh-peh-TEER",
+    "grammarFocus": "request question",
+    "notes": "Useful conversation repair phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, podes repetir?",
+        "english": "Sorry, can you repeat that?"
+      }
+    ],
+    "tags": ["conversation", "repair", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-044",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you speak more slowly?",
+    "portuguese": "Podes falar mais devagar?",
+    "pronunciationNote": "POH-desh fah-LAR mysh dev-ah-GAR",
+    "grammarFocus": "request question",
+    "notes": "Useful conversation repair phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por favor, podes falar mais devagar?",
+        "english": "Please, can you speak more slowly?"
+      }
+    ],
+    "tags": ["conversation", "repair", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-045",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do you say that in Portuguese?",
+    "portuguese": "Como se diz isso em português?",
+    "pronunciationNote": "KOH-moo s deez EE-soo eng poor-too-GAYSH",
+    "grammarFocus": "language question",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como se diz isso em português europeu?",
+        "english": "How do you say that in European Portuguese?"
+      }
+    ],
+    "tags": ["conversation", "languages", "repair"]
+  },
+  {
+    "id": "10-cmc-a1a2-046",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you say it again?",
+    "portuguese": "Podes dizer outra vez?",
+    "pronunciationNote": "POH-desh dee-ZER OH-trah VEZH",
+    "grammarFocus": "request question",
+    "notes": "Useful conversation repair phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não ouvi bem, podes dizer outra vez?",
+        "english": "I did not hear well, can you say it again?"
+      }
+    ],
+    "tags": ["conversation", "repair", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-047",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That is a good question.",
+    "portuguese": "Essa é uma boa pergunta.",
+    "pronunciationNote": "EH-sah eh OO-mah BOH-ah pair-GOON-tah",
+    "grammarFocus": "reaction statement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Essa é uma boa pergunta, tenho de pensar.",
+        "english": "That is a good question, I need to think."
+      }
+    ],
+    "tags": ["conversation", "reaction", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-048",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It depends.",
+    "portuguese": "Depende.",
+    "pronunciationNote": "deh-PEN-d",
+    "grammarFocus": "response expression",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depende da situação.",
+        "english": "It depends on the situation."
+      }
+    ],
+    "tags": ["conversation", "response", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-049",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "That makes sense.",
+    "portuguese": "Isso faz sentido.",
+    "pronunciationNote": "EE-soo faz sen-TEE-doo",
+    "grammarFocus": "reaction statement",
+    "notes": "Useful conversation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, isso faz sentido para mim.",
+        "english": "Yes, that makes sense to me."
+      }
+    ],
+    "tags": ["conversation", "reaction", "basic"]
+  },
+  {
+    "id": "10-cmc-a1a2-050",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It was nice talking to you.",
+    "portuguese": "Gostei de falar contigo.",
+    "pronunciationNote": "goh-SHTAY d fah-LAR kohn-TEE-goo",
+    "grammarFocus": "past reaction statement",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostei de falar contigo, até à próxima.",
+        "english": "It was nice talking to you, see you next time."
+      }
+    ],
+    "tags": ["conversation", "closing", "basic"]
+  }
+]

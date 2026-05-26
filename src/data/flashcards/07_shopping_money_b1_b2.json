@@ -1,0 +1,952 @@
+[
+  {
+    "id": "07-sm-b1b2-001",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am looking for something practical rather than just decorative.",
+    "portuguese": "Estou à procura de algo prático, e não apenas decorativo.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d AL-goo PRAH-tee-koo",
+    "grammarFocus": "contrastive preference",
+    "notes": "Useful buying-intent phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero uma coisa que eu vá mesmo usar.",
+        "english": "I want something I will actually use."
+      }
+    ],
+    "tags": ["shopping", "preference"]
+  },
+  {
+    "id": "07-sm-b1b2-002",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you show me the difference between these two options?",
+    "portuguese": "Pode mostrar-me a diferença entre estas duas opções?",
+    "pronunciationNote": "POH-d moosh-TRAR-m ah dee-feh-REN-sah EN-tr ESH-tash DOO-ash ohp-SOYNSH",
+    "grammarFocus": "formal request",
+    "notes": "Useful comparison phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "À primeira vista parecem iguais.",
+        "english": "At first glance they look the same."
+      }
+    ],
+    "tags": ["shopping", "comparison"]
+  },
+  {
+    "id": "07-sm-b1b2-003",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather pay a bit more for something that will last.",
+    "portuguese": "Preferia pagar um pouco mais por algo que dure.",
+    "pronunciationNote": "preh-feh-REE-ah pah-GAR oom POH-koo mysh poor AL-goo k DOO-reh",
+    "grammarFocus": "preference + relative clause",
+    "notes": "Useful quality-vs-price phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais resistente, compensa.",
+        "english": "If it is more durable, it is worth it."
+      }
+    ],
+    "tags": ["shopping", "quality"]
+  },
+  {
+    "id": "07-sm-b1b2-004",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there much difference in quality, or is the price mostly about the brand?",
+    "portuguese": "Há muita diferença na qualidade, ou o preço tem mais a ver com a marca?",
+    "pronunciationNote": "AH MWEEN-tah dee-feh-REN-sah nah kwah-lee-DAH-d",
+    "grammarFocus": "alternative question",
+    "notes": "Useful comparison phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber o que estou realmente a pagar.",
+        "english": "I want to understand what I am really paying for."
+      }
+    ],
+    "tags": ["shopping", "comparison"]
+  },
+  {
+    "id": "07-sm-b1b2-005",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend something within a mid-range budget?",
+    "portuguese": "Pode recomendar-me alguma coisa dentro de um orçamento intermédio?",
+    "pronunciationNote": "POH-d reh-koh-men-DAR-m al-GOO-mah KOH-zah DEN-troo d oom or-sah-MEN-too",
+    "grammarFocus": "formal request",
+    "notes": "Useful guided-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero o mais barato, mas também não preciso do mais caro.",
+        "english": "I do not want the cheapest, but I do not need the most expensive either."
+      }
+    ],
+    "tags": ["shopping", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-006",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to stick to a budget, so I need to think this through carefully.",
+    "portuguese": "Estou a tentar cumprir um orçamento, por isso preciso de pensar nisto com cuidado.",
+    "pronunciationNote": "esh-TOH ah ten-TAR koom-PRIR oom or-sah-MEN-too",
+    "grammarFocus": "reason statement",
+    "notes": "Useful money-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se comprar isto, vou ter de cortar noutra coisa.",
+        "english": "If I buy this, I will have to cut back somewhere else."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-007",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to order it if you do not have it in stock?",
+    "portuguese": "Seria possível encomendá-lo se não o tiverem em stock?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel en-koh-men-DAH-loo s nawng oo tee-VEH-reng em stock",
+    "grammarFocus": "conditional request",
+    "notes": "Useful stock phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho urgência, desde que saiba quando chega.",
+        "english": "I am not in a rush, as long as I know when it arrives."
+      }
+    ],
+    "tags": ["shopping", "stock"]
+  },
+  {
+    "id": "07-sm-b1b2-008",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to compare a few options before I decide.",
+    "portuguese": "Gostava de comparar algumas opções antes de decidir.",
+    "pronunciationNote": "goosh-TAH-vah d kohm-pah-RAR al-GOO-mash ohp-SOYNSH",
+    "grammarFocus": "intention statement",
+    "notes": "Useful decision phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro não comprar logo à primeira.",
+        "english": "I prefer not to buy the first one straight away."
+      }
+    ],
+    "tags": ["shopping", "decision"]
+  },
+  {
+    "id": "07-sm-b1b2-009",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me if there is any flexibility on the price?",
+    "portuguese": "Pode dizer-me se há alguma margem no preço?",
+    "pronunciationNote": "POH-d dee-ZER-m s AH al-GOO-mah MAR-zheng noo PREH-soo",
+    "grammarFocus": "polite negotiation question",
+    "notes": "Useful bargaining phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se levar mais do que um, talvez haja alguma hipótese.",
+        "english": "If I take more than one, maybe there is some chance."
+      }
+    ],
+    "tags": ["shopping", "negotiation"]
+  },
+  {
+    "id": "07-sm-b1b2-010",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not necessarily need the newest version, just the most reliable one.",
+    "portuguese": "Não preciso necessariamente da versão mais recente, apenas da mais fiável.",
+    "pronunciationNote": "nawng preh-SEE-zoo neh-seh-sah-ree-ah-MEN-t dah vair-SAWN mysh heh-SEN-t",
+    "grammarFocus": "contrastive requirement",
+    "notes": "Useful practical buying phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se funcionar bem, isso é o mais importante para mim.",
+        "english": "If it works well, that is what matters most to me."
+      }
+    ],
+    "tags": ["shopping", "quality"]
+  },
+  {
+    "id": "07-sm-b1b2-011",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain the return policy in case it does not work out?",
+    "portuguese": "Pode explicar a política de devolução, caso isto não resulte?",
+    "pronunciationNote": "POH-d ex-plee-KAR ah poh-LEE-tee-kah d deh-voh-loo-SAWN",
+    "grammarFocus": "formal request",
+    "notes": "Useful returns phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero ter isso claro antes de comprar.",
+        "english": "I want that clear before I buy."
+      }
+    ],
+    "tags": ["shopping", "returns"]
+  },
+  {
+    "id": "07-sm-b1b2-012",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am looking for something suitable for everyday use, not just special occasions.",
+    "portuguese": "Estou à procura de algo adequado para o dia a dia, e não apenas para ocasiões especiais.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d AL-goo ah-deh-KWAH-doo",
+    "grammarFocus": "contrastive preference",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero tirar partido disso com frequência.",
+        "english": "I want to get regular use out of it."
+      }
+    ],
+    "tags": ["shopping", "practical"]
+  },
+  {
+    "id": "07-sm-b1b2-013",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this is worth the price, given the quality?",
+    "portuguese": "Diria que isto vale o preço, tendo em conta a qualidade?",
+    "pronunciationNote": "dee-REE-ah k EESH-too VAH-leh oo PREH-soo",
+    "grammarFocus": "opinion question",
+    "notes": "Useful comparison phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber se a diferença é mesmo justificável.",
+        "english": "I want to understand if the difference is really justified."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-014",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would prefer not to decide on the spot and regret it later.",
+    "portuguese": "Preferia não decidir logo no momento e arrepender-me depois.",
+    "pronunciationNote": "preh-feh-REE-ah nawng deh-see-DEER LOH-goo noo moh-MEN-too",
+    "grammarFocus": "preference statement",
+    "notes": "Useful decision phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se precisar, volto mais tarde.",
+        "english": "If I need to, I will come back later."
+      }
+    ],
+    "tags": ["shopping", "decision"]
+  },
+  {
+    "id": "07-sm-b1b2-015",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you keep this aside for me until the end of the day?",
+    "portuguese": "Pode guardar isto para mim até ao fim do dia?",
+    "pronunciationNote": "POH-d goo-AR-dar EESH-too pah-rah meeng ah-TEH ow FEENG doo DEE-ah",
+    "grammarFocus": "formal request",
+    "notes": "Useful reservation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria passar primeiro noutra loja antes de decidir.",
+        "english": "I wanted to stop by another shop first before deciding."
+      }
+    ],
+    "tags": ["shopping", "reservation"]
+  },
+  {
+    "id": "07-sm-b1b2-016",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more careful with impulse spending.",
+    "portuguese": "Estou a tentar ter mais cuidado com compras por impulso.",
+    "pronunciationNote": "esh-TOH ah ten-TAR tair mysh kow-EE-dah-doo kohm KOM-prash poor eem-POOL-soo",
+    "grammarFocus": "ongoing effort statement",
+    "notes": "Useful money-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não penso antes, acabo por gastar mais do que queria.",
+        "english": "If I do not think first, I end up spending more than I wanted."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-017",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Does this price already include tax, or is that added at the till?",
+    "portuguese": "Este preço já inclui o imposto, ou isso é acrescentado na caixa?",
+    "pronunciationNote": "ESH-t PREH-soo zhah een-KLOO-ee oo eem-POH-shtoo",
+    "grammarFocus": "alternative question",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero saber o valor final antes de decidir.",
+        "english": "I want to know the final amount before deciding."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-b1b2-018",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to withdraw some cash because not everywhere takes cards.",
+    "portuguese": "Preciso de levantar algum dinheiro porque nem todo o lado aceita cartões.",
+    "pronunciationNote": "preh-SEE-zoo d leh-vahn-TAR al-GOOM dee-NYAY-roo",
+    "grammarFocus": "reason statement",
+    "notes": "Useful money phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No mercado costumo usar mais dinheiro do que cartão.",
+        "english": "At the market I usually use cash more than card."
+      }
+    ],
+    "tags": ["money", "cash"]
+  },
+  {
+    "id": "07-sm-b1b2-019",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me which option gives the best value for money?",
+    "portuguese": "Pode dizer-me qual é a opção com a melhor relação qualidade-preço?",
+    "pronunciationNote": "POH-d dee-ZER-m kwahl eh ah ohp-SAWN kohm ah meh-LYOR heh-lah-SAWN",
+    "grammarFocus": "comparison question",
+    "notes": "Useful value phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não procuro a mais barata, mas sim a mais equilibrada.",
+        "english": "I am not looking for the cheapest, but for the most balanced one."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-020",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather wait for a discount than buy it at full price.",
+    "portuguese": "Preferia esperar por um desconto do que comprar ao preço inteiro.",
+    "pronunciationNote": "preh-feh-REE-ah esh-peh-RAR poor oom dehsh-KON-too",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful budgeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não tenho urgência, por isso posso esperar.",
+        "english": "I am not in a hurry, so I can wait."
+      }
+    ],
+    "tags": ["shopping", "sale"]
+  },
+  {
+    "id": "07-sm-b1b2-021",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to split the payment between card and cash?",
+    "portuguese": "Seria possível dividir o pagamento entre cartão e dinheiro?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel dee-vee-DEER oo pah-gah-MEN-too",
+    "grammarFocus": "payment request",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho parte em numerário e o resto no cartão.",
+        "english": "I have part in cash and the rest on the card."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-b1b2-022",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to buy less, but buy better.",
+    "portuguese": "Estou a tentar comprar menos, mas comprar melhor.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kohm-PRAR MEN-oosh mahsh kohm-PRAR meh-LYOR",
+    "grammarFocus": "contrastive habit statement",
+    "notes": "Useful mindful spending phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, acaba por compensar mais.",
+        "english": "In the end, it tends to be more worth it."
+      }
+    ],
+    "tags": ["money", "shopping-habits"]
+  },
+  {
+    "id": "07-sm-b1b2-023",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you help me work out whether this is the right size if I plan to wear layers underneath?",
+    "portuguese": "Pode ajudar-me a perceber se este é o tamanho certo, se eu quiser usar camadas por baixo?",
+    "pronunciationNote": "POH-d ah-zhoo-DAR-m ah pair-seh-BER s ESH-t eh oo tah-MAH-nyoo SER-too",
+    "grammarFocus": "formal request + condition",
+    "notes": "Useful clothes phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero que fique demasiado justo no inverno.",
+        "english": "I do not want it to be too tight in winter."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-b1b2-024",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to keep track of my spending more carefully this month.",
+    "portuguese": "Estou a tentar controlar melhor os meus gastos este mês.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kohn-troh-LAR meh-LYOR oosh MEH-oosh GAH-shtoosh",
+    "grammarFocus": "ongoing effort statement",
+    "notes": "Useful money-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não tomar atenção, as pequenas compras acumulam-se.",
+        "english": "If I do not pay attention, the small purchases add up."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-025",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind checking whether there is another branch that still has it?",
+    "portuguese": "Importa-se de verificar se há outra loja que ainda tenha isso?",
+    "pronunciationNote": "eem-POR-tah-s d veh-ree-fee-KAR s AH OH-trah LOH-zhah",
+    "grammarFocus": "polite request",
+    "notes": "Useful stock phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver, eu posso lá passar depois.",
+        "english": "If there is, I can stop by there later."
+      }
+    ],
+    "tags": ["shopping", "stock"]
+  },
+  {
+    "id": "07-sm-b1b2-026",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather avoid fees if there is a simpler way to make the payment.",
+    "portuguese": "Preferia evitar taxas, se houver uma forma mais simples de fazer o pagamento.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR TAHK-sash s oo-VER OO-mah FOR-mah mysh SEEM-plesh",
+    "grammarFocus": "preference with condition",
+    "notes": "Useful banking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se puder transferir sem custos, melhor.",
+        "english": "If I can transfer without fees, even better."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-b1b2-027",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am looking for something that feels like good value rather than just a bargain.",
+    "portuguese": "Estou à procura de algo que pareça valer a pena, e não apenas ser uma pechincha.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d AL-goo k pah-REH-sah vah-LAIR ah PEH-nah",
+    "grammarFocus": "value judgment statement",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for barato mas fraco, não me interessa.",
+        "english": "If it is cheap but poor quality, I am not interested."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-028",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me if this can be exchanged even without being faulty?",
+    "portuguese": "Pode dizer-me se isto pode ser trocado mesmo sem defeito?",
+    "pronunciationNote": "POH-d dee-ZER-m s EESH-too POH-d sair troh-KAH-doo",
+    "grammarFocus": "returns question",
+    "notes": "Useful returns phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero saber caso mude de ideias em casa.",
+        "english": "I want to know in case I change my mind at home."
+      }
+    ],
+    "tags": ["shopping", "returns"]
+  },
+  {
+    "id": "07-sm-b1b2-029",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to keep enough cash aside for the rest of the trip.",
+    "portuguese": "Preciso de guardar dinheiro suficiente para o resto da viagem.",
+    "pronunciationNote": "preh-SEE-zoo d goo-AR-dar dee-NYAY-roo soo-fee-see-EN-t",
+    "grammarFocus": "need statement",
+    "notes": "Useful travel-budget phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se gastar demasiado hoje, vou sentir falta depois.",
+        "english": "If I spend too much today, I will miss it later."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-030",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier if I transferred the money instead of paying in person?",
+    "portuguese": "Seria mais fácil se eu transferisse o dinheiro em vez de pagar em pessoa?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel s ew trahn-sfeh-REESH-s oo dee-NYAY-roo",
+    "grammarFocus": "conditional suggestion",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais rápido para si, posso fazer isso.",
+        "english": "If it is faster for you, I can do that."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-b1b2-031",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying not to confuse something being discounted with it being worth buying.",
+    "portuguese": "Estou a tentar não confundir uma promoção com uma boa compra.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nawng kohn-foon-DEER OO-mah proh-moh-SAWN",
+    "grammarFocus": "negative habit statement",
+    "notes": "Useful mindful-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não preciso mesmo, continua a ser gasto.",
+        "english": "If I do not really need it, it is still spending."
+      }
+    ],
+    "tags": ["money", "shopping-habits"]
+  },
+  {
+    "id": "07-sm-b1b2-032",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you point me towards the section with more affordable options?",
+    "portuguese": "Pode indicar-me a zona com opções mais acessíveis?",
+    "pronunciationNote": "POH-d een-dee-KAR-m ah ZOH-nah kohm ohp-SOYNSH mysh ah-seh-SEE-velsh",
+    "grammarFocus": "formal request",
+    "notes": "Useful shop phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a tentar gastar menos do que o costume.",
+        "english": "Today I am trying to spend less than usual."
+      }
+    ],
+    "tags": ["shopping", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-033",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather buy one good item than several things I do not really need.",
+    "portuguese": "Preferia comprar uma coisa boa do que várias de que não preciso realmente.",
+    "pronunciationNote": "preh-feh-REE-ah kohm-PRAR OO-mah KOH-zah BOH-ah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful budgeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, assim gasto melhor o dinheiro.",
+        "english": "In the end, that way I spend my money better."
+      }
+    ],
+    "tags": ["money", "shopping-habits"]
+  },
+  {
+    "id": "07-sm-b1b2-034",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you clarify whether the warranty covers normal wear or only actual faults?",
+    "portuguese": "Pode esclarecer se a garantia cobre desgaste normal ou apenas defeitos reais?",
+    "pronunciationNote": "POH-d esh-klah-reh-SHER s ah gah-rahn-TEE-ah KOH-br",
+    "grammarFocus": "clarification question",
+    "notes": "Useful purchase-protection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber bem o que está incluído.",
+        "english": "I want to understand clearly what is included."
+      }
+    ],
+    "tags": ["shopping", "warranty"]
+  },
+  {
+    "id": "07-sm-b1b2-035",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to check my balance before I commit to that.",
+    "portuguese": "Preciso de verificar o saldo antes de me comprometer com isso.",
+    "pronunciationNote": "preh-SEE-zoo d veh-ree-fee-KAR oo SAL-doo",
+    "grammarFocus": "need statement",
+    "notes": "Useful banking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro confirmar primeiro do que arriscar.",
+        "english": "I prefer to check first rather than risk it."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-b1b2-036",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there a charge for withdrawing cash from this machine?",
+    "portuguese": "Há alguma taxa para levantar dinheiro nesta máquina?",
+    "pronunciationNote": "AH al-GOO-mah TAHK-sah pah-rah leh-vahn-TAR dee-NYAY-roo NESH-tah MAH-kee-nah",
+    "grammarFocus": "fee question",
+    "notes": "Useful ATM phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver comissão, procuro outra.",
+        "english": "If there is a fee, I will look for another one."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-b1b2-037",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to plan my spending so I do not run short at the end of the month.",
+    "portuguese": "Estou a tentar planear os meus gastos para não ficar apertado no fim do mês.",
+    "pronunciationNote": "esh-TOH ah ten-TAR plah-neh-AR oosh MEH-oosh GAH-shtoosh",
+    "grammarFocus": "purpose statement",
+    "notes": "Useful money-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me descontrolo agora, depois complica.",
+        "english": "If I lose control now, it gets difficult later."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-038",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend something locally made rather than imported?",
+    "portuguese": "Pode recomendar-me alguma coisa feita localmente em vez de importada?",
+    "pronunciationNote": "POH-d reh-koh-men-DAR-m al-GOO-mah KOH-zah FAY-tah loh-kahl-MEN-t",
+    "grammarFocus": "formal request",
+    "notes": "Useful shopping preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de levar algo mais típico e com melhor contexto.",
+        "english": "I would like to take something more local and with better context."
+      }
+    ],
+    "tags": ["shopping", "local-products"]
+  },
+  {
+    "id": "07-sm-b1b2-039",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this is a sensible purchase, or am I mostly paying for convenience?",
+    "portuguese": "Diria que esta é uma compra sensata, ou estou sobretudo a pagar pela conveniência?",
+    "pronunciationNote": "dee-REE-ah k ESH-tah eh OO-mah KOM-prah sen-SAH-tah",
+    "grammarFocus": "opinion question",
+    "notes": "Useful spending-evaluation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber se faz sentido no meu caso.",
+        "english": "I want to understand whether it makes sense in my case."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-040",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to prioritise essentials first and leave the rest for later.",
+    "portuguese": "Preciso de dar prioridade ao essencial primeiro e deixar o resto para depois.",
+    "pronunciationNote": "preh-SEE-zoo d dar pree-oh-ree-DAH-d ow eh-sen-see-AL pree-MAY-roo",
+    "grammarFocus": "need statement",
+    "notes": "Useful budgeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se sobrar margem, então penso no resto.",
+        "english": "If there is any room left, then I will think about the rest."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-041",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather take a moment to compare prices online than buy the first thing I see.",
+    "portuguese": "Preferia tirar um momento para comparar preços online do que comprar a primeira coisa que vejo.",
+    "pronunciationNote": "preh-feh-REE-ah tee-RAR oom moh-MEN-too pah-rah kohm-pah-RAR PREH-soosh",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful decision phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes a diferença é maior do que parece.",
+        "english": "Sometimes the difference is bigger than it seems."
+      }
+    ],
+    "tags": ["shopping", "comparison"]
+  },
+  {
+    "id": "07-sm-b1b2-042",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you check whether the final amount matches the shelf price?",
+    "portuguese": "Pode verificar se o valor final corresponde ao preço da prateleira?",
+    "pronunciationNote": "POH-d veh-ree-fee-KAR s oo vah-LOR fee-NAL kor-rehsh-PON-d",
+    "grammarFocus": "formal request",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que há uma diferença no registo.",
+        "english": "I think there is a difference at the register."
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  },
+  {
+    "id": "07-sm-b1b2-043",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind paying a fair price, but I want to understand what I am paying for.",
+    "portuguese": "Não me importo de pagar um preço justo, mas quero perceber o que estou a pagar.",
+    "pronunciationNote": "nawng m em-POR-too d pah-GAR oom PREH-soo ZHOOSH-too",
+    "grammarFocus": "contrastive statement",
+    "notes": "Useful value phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver uma razão clara, aceito melhor o valor.",
+        "english": "If there is a clear reason, I accept the amount more easily."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-044",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to move away from buying things just because they are reduced.",
+    "portuguese": "Estou a tentar deixar de comprar coisas só porque estão com desconto.",
+    "pronunciationNote": "esh-TOH ah ten-TAR day-SHAR d kohm-PRAR KOH-zash soh poor-k esh-TAWNG kohm dehsh-KON-too",
+    "grammarFocus": "habit-change statement",
+    "notes": "Useful mindful-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não preciso delas, continuam a ser um gasto.",
+        "english": "If I do not need them, they are still an expense."
+      }
+    ],
+    "tags": ["money", "shopping-habits"]
+  },
+  {
+    "id": "07-sm-b1b2-045",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we sort out the payment in whichever way is simplest for both sides?",
+    "portuguese": "Podemos tratar do pagamento da forma que for mais simples para os dois lados?",
+    "pronunciationNote": "poo-DEH-moosh trah-TAR doo pah-gah-MEN-too dah FOR-mah k for mysh SEEM-plesh",
+    "grammarFocus": "collaborative suggestion",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O importante é que fique claro e fácil para todos.",
+        "english": "The important thing is that it stays clear and easy for everyone."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-b1b2-046",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am looking for a gift that feels thoughtful without being over the top.",
+    "portuguese": "Estou à procura de um presente que pareça atencioso sem ser exagerado.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d oom preh-ZEN-t k pah-REH-sah ah-ten-see-OH-zoo",
+    "grammarFocus": "relative clause",
+    "notes": "Useful gift-buying phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero algo simples, mas com intenção.",
+        "english": "I want something simple, but thoughtful."
+      }
+    ],
+    "tags": ["shopping", "gift"]
+  },
+  {
+    "id": "07-sm-b1b2-047",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to reserve this and come back after I have checked my budget?",
+    "portuguese": "Seria possível reservar isto e voltar depois de confirmar o meu orçamento?",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel heh-zehr-VAR EESH-too ee vohl-TAR deh-POYSH d kohn-feer-MAR",
+    "grammarFocus": "conditional request",
+    "notes": "Useful reservation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero decidir com alguma margem, não por impulso.",
+        "english": "I want to decide with some breathing room, not on impulse."
+      }
+    ],
+    "tags": ["shopping", "reservation"]
+  },
+  {
+    "id": "07-sm-b1b2-048",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to make this purchase fit into the rest of the month realistically.",
+    "portuguese": "Preciso de fazer com que esta compra caiba de forma realista no resto do mês.",
+    "pronunciationNote": "preh-SEE-zoo d fah-ZER kohm k ESH-tah KOM-prah KY-bah",
+    "grammarFocus": "need statement",
+    "notes": "Useful budgeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não, vou acabar por compensar mal noutras coisas.",
+        "english": "Otherwise, I will end up cutting badly elsewhere."
+      }
+    ],
+    "tags": ["money", "budget"]
+  },
+  {
+    "id": "07-sm-b1b2-049",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What matters most to me here is not the discount, but whether it is genuinely useful.",
+    "portuguese": "O que mais me importa aqui não é o desconto, mas saber se isto é mesmo útil.",
+    "pronunciationNote": "oo k mysh m em-POR-tah ah-KEE nawng eh oo dehsh-KON-too",
+    "grammarFocus": "contrastive value statement",
+    "notes": "Useful mindful-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for barato mas inútil, não me serve.",
+        "english": "If it is cheap but useless, it is no use to me."
+      }
+    ],
+    "tags": ["shopping", "value"]
+  },
+  {
+    "id": "07-sm-b1b2-050",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that gives me a much clearer sense of what is worth buying.",
+    "portuguese": "Obrigado, isso dá-me uma ideia muito mais clara do que vale a pena comprar.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo dah-m OO-mah ee-DAY-ah MWEEN-too mysh KLAH-rah",
+    "grammarFocus": "result expression",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora já consigo decidir com mais confiança.",
+        "english": "Now I can decide with more confidence."
+      }
+    ],
+    "tags": ["shopping", "gratitude"]
+  }
+]

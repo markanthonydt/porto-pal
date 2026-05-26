@@ -1,0 +1,952 @@
+[
+  {
+    "id": "04-wdr-a1a2-001",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I work in an office.",
+    "portuguese": "Trabalho num escritório.",
+    "pronunciationNote": "trah-BAH-lyoo noom esh-kree-TOH-ree-oo",
+    "grammarFocus": "present simple statement",
+    "notes": "Basic job description.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha irmã também trabalha num escritório.",
+        "english": "My sister also works in an office."
+      }
+    ],
+    "tags": ["work", "job", "starter"]
+  },
+  {
+    "id": "04-wdr-a1a2-002",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I start work at nine.",
+    "portuguese": "Começo a trabalhar às nove.",
+    "pronunciationNote": "koo-MEH-soo ah trah-bah-LYAR az NOH-v",
+    "grammarFocus": "routine statement",
+    "notes": "Common work schedule phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente começo a trabalhar às nove.",
+        "english": "I normally start work at nine."
+      }
+    ],
+    "tags": ["work", "schedule"]
+  },
+  {
+    "id": "04-wdr-a1a2-003",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I finish at six.",
+    "portuguese": "Saio às seis.",
+    "pronunciationNote": "SAH-yoo ash SAYSH",
+    "grammarFocus": "routine statement",
+    "notes": "Useful for talking about work hours.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje saio às seis e meia.",
+        "english": "Today I finish at half past six."
+      }
+    ],
+    "tags": ["work", "time"]
+  },
+  {
+    "id": "04-wdr-a1a2-004",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I wake up early.",
+    "portuguese": "Acordo cedo.",
+    "pronunciationNote": "ah-KOR-doo SEH-doo",
+    "grammarFocus": "daily routine statement",
+    "notes": "Basic morning routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Durante a semana acordo cedo.",
+        "english": "During the week I wake up early."
+      }
+    ],
+    "tags": ["routine", "morning"]
+  },
+  {
+    "id": "04-wdr-a1a2-005",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I get up at seven.",
+    "portuguese": "Levanto-me às sete.",
+    "pronunciationNote": "leh-VAHN-too-m az SEH-t",
+    "grammarFocus": "reflexive routine verb",
+    "notes": "Useful everyday phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Levanto-me às sete todos os dias.",
+        "english": "I get up at seven every day."
+      }
+    ],
+    "tags": ["routine", "morning"]
+  },
+  {
+    "id": "04-wdr-a1a2-006",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have breakfast at home.",
+    "portuguese": "Tomo o pequeno-almoço em casa.",
+    "pronunciationNote": "TOH-moo oo peh-KEH-noo al-MOH-soo eng KAH-zah",
+    "grammarFocus": "routine statement",
+    "notes": "Basic morning routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente tomo o pequeno-almoço em casa.",
+        "english": "I usually have breakfast at home."
+      }
+    ],
+    "tags": ["routine", "breakfast"]
+  },
+  {
+    "id": "04-wdr-a1a2-007",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to work by bus.",
+    "portuguese": "Vou para o trabalho de autocarro.",
+    "pronunciationNote": "VOH pah-rah oo trah-BAH-lyoo d ow-too-KAH-roo",
+    "grammarFocus": "transport routine",
+    "notes": "Useful commute phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje vou para o trabalho de autocarro.",
+        "english": "Today I am going to work by bus."
+      }
+    ],
+    "tags": ["work", "commute"]
+  },
+  {
+    "id": "04-wdr-a1a2-008",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go on foot.",
+    "portuguese": "Vou a pé.",
+    "pronunciationNote": "VOH ah PEH",
+    "grammarFocus": "transport phrase",
+    "notes": "Short common routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando está bom tempo, vou a pé.",
+        "english": "When the weather is good, I go on foot."
+      }
+    ],
+    "tags": ["routine", "transport"]
+  },
+  {
+    "id": "04-wdr-a1a2-009",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am at work.",
+    "portuguese": "Estou no trabalho.",
+    "pronunciationNote": "esh-TOH noo trah-BAH-lyoo",
+    "grammarFocus": "location statement",
+    "notes": "Useful short update phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora estou no trabalho.",
+        "english": "I am at work now."
+      }
+    ],
+    "tags": ["work", "location"]
+  },
+  {
+    "id": "04-wdr-a1a2-010",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am busy right now.",
+    "portuguese": "Estou ocupado agora.",
+    "pronunciationNote": "esh-TOH oh-koo-PAH-doo ah-GOH-rah",
+    "grammarFocus": "state statement",
+    "notes": "Useful at work and home.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não posso falar, estou ocupado agora.",
+        "english": "I cannot talk, I am busy right now."
+      }
+    ],
+    "tags": ["work", "state"]
+  },
+  {
+    "id": "04-wdr-a1a2-011",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a meeting at ten.",
+    "portuguese": "Tenho uma reunião às dez.",
+    "pronunciationNote": "TEN-yoo OO-mah reh-oo-nee-AWN az DEZH",
+    "grammarFocus": "scheduled event statement",
+    "notes": "Common office phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Amanhã tenho uma reunião às dez.",
+        "english": "Tomorrow I have a meeting at ten."
+      }
+    ],
+    "tags": ["work", "meeting"]
+  },
+  {
+    "id": "04-wdr-a1a2-012",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am in a meeting.",
+    "portuguese": "Estou numa reunião.",
+    "pronunciationNote": "esh-TOH NOO-mah reh-oo-nee-AWN",
+    "grammarFocus": "current activity statement",
+    "notes": "Useful quick status phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento estou numa reunião.",
+        "english": "At the moment I am in a meeting."
+      }
+    ],
+    "tags": ["work", "meeting"]
+  },
+  {
+    "id": "04-wdr-a1a2-013",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to answer emails.",
+    "portuguese": "Preciso de responder aos emails.",
+    "pronunciationNote": "preh-SEE-zoo d hesh-pon-DER awz ee-MAILSH",
+    "grammarFocus": "need + infinitive",
+    "notes": "Common work task phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Primeiro preciso de responder aos emails.",
+        "english": "First I need to answer emails."
+      }
+    ],
+    "tags": ["work", "task"]
+  },
+  {
+    "id": "04-wdr-a1a2-014",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a lot to do today.",
+    "portuguese": "Tenho muito para fazer hoje.",
+    "pronunciationNote": "TEN-yoo MWEEN-too pah-rah fah-ZER OY-zhe",
+    "grammarFocus": "quantity statement",
+    "notes": "Useful busy-day phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho muito para fazer hoje no trabalho.",
+        "english": "I have a lot to do at work today."
+      }
+    ],
+    "tags": ["work", "busy"]
+  },
+  {
+    "id": "04-wdr-a1a2-015",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am tired today.",
+    "portuguese": "Estou cansado hoje.",
+    "pronunciationNote": "esh-TOH kahn-SAH-doo OY-zhe",
+    "grammarFocus": "state statement",
+    "notes": "Useful personal routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou cansado hoje porque dormi pouco.",
+        "english": "I am tired today because I slept little."
+      }
+    ],
+    "tags": ["routine", "feeling"]
+  },
+  {
+    "id": "04-wdr-a1a2-016",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go home at the end of the day.",
+    "portuguese": "Vou para casa ao fim do dia.",
+    "pronunciationNote": "VOH pah-rah KAH-zah ow FEENG doo DEE-ah",
+    "grammarFocus": "routine statement",
+    "notes": "Common end-of-day phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente vou para casa ao fim do dia.",
+        "english": "I normally go home at the end of the day."
+      }
+    ],
+    "tags": ["routine", "evening"]
+  },
+  {
+    "id": "04-wdr-a1a2-017",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I make dinner in the evening.",
+    "portuguese": "Faço o jantar à noite.",
+    "pronunciationNote": "FAH-soo oo zhan-TAR ah NOY-t",
+    "grammarFocus": "daily routine statement",
+    "notes": "Useful home routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje faço o jantar mais tarde.",
+        "english": "Today I am making dinner later."
+      }
+    ],
+    "tags": ["routine", "home"]
+  },
+  {
+    "id": "04-wdr-a1a2-018",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I get home late.",
+    "portuguese": "Chego a casa tarde.",
+    "pronunciationNote": "SHEH-goo ah KAH-zah TAR-d",
+    "grammarFocus": "routine statement",
+    "notes": "Useful for schedules.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às sextas-feiras chego a casa tarde.",
+        "english": "On Fridays I get home late."
+      }
+    ],
+    "tags": ["routine", "evening"]
+  },
+  {
+    "id": "04-wdr-a1a2-019",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have lunch at one.",
+    "portuguese": "Almoço à uma.",
+    "pronunciationNote": "ahl-MOH-soo ah OO-mah",
+    "grammarFocus": "routine time statement",
+    "notes": "Useful workday phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente almoço à uma com os colegas.",
+        "english": "I usually have lunch at one with colleagues."
+      }
+    ],
+    "tags": ["work", "meal"]
+  },
+  {
+    "id": "04-wdr-a1a2-020",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I take a break at midday.",
+    "portuguese": "Faço uma pausa ao meio-dia.",
+    "pronunciationNote": "FAH-soo OO-mah POW-zah ow MAY-oo DEE-ah",
+    "grammarFocus": "routine statement",
+    "notes": "Useful for daily schedule talk.",
+    "exampleSentences": [
+      {
+        "portuguese": "Faço uma pausa curta ao meio-dia.",
+        "english": "I take a short break at midday."
+      }
+    ],
+    "tags": ["work", "break"]
+  },
+  {
+    "id": "04-wdr-a1a2-021",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I work from home today.",
+    "portuguese": "Trabalho a partir de casa hoje.",
+    "pronunciationNote": "trah-BAH-lyoo ah par-TEER d KAH-zah OY-zhe",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful hybrid work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às quartas-feiras trabalho a partir de casa.",
+        "english": "On Wednesdays I work from home."
+      }
+    ],
+    "tags": ["work", "remote"]
+  },
+  {
+    "id": "04-wdr-a1a2-022",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am working from home.",
+    "portuguese": "Estou a trabalhar de casa.",
+    "pronunciationNote": "esh-TOH ah trah-bah-LYAR d KAH-zah",
+    "grammarFocus": "progressive aspect",
+    "notes": "Useful current status phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a trabalhar de casa.",
+        "english": "Today I am working from home."
+      }
+    ],
+    "tags": ["work", "remote"]
+  },
+  {
+    "id": "04-wdr-a1a2-023",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am on my way.",
+    "portuguese": "Já vou a caminho.",
+    "pronunciationNote": "ZHAH voh ah kah-MEE-nyoo",
+    "grammarFocus": "current movement phrase",
+    "notes": "Useful quick update.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não te preocupes, já vou a caminho.",
+        "english": "Do not worry, I am already on my way."
+      }
+    ],
+    "tags": ["routine", "message"]
+  },
+  {
+    "id": "04-wdr-a1a2-024",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am late.",
+    "portuguese": "Estou atrasado.",
+    "pronunciationNote": "esh-TOH ah-trah-ZAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful everyday phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, estou atrasado.",
+        "english": "Sorry, I am late."
+      }
+    ],
+    "tags": ["routine", "time"]
+  },
+  {
+    "id": "04-wdr-a1a2-025",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need five minutes.",
+    "portuguese": "Preciso de cinco minutos.",
+    "pronunciationNote": "preh-SEE-zoo d SEENG-koo mee-NOO-toosh",
+    "grammarFocus": "need statement",
+    "notes": "Useful at work and home.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de cinco minutos para acabar isto.",
+        "english": "I need five minutes to finish this."
+      }
+    ],
+    "tags": ["time", "work"]
+  },
+  {
+    "id": "04-wdr-a1a2-026",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we talk later?",
+    "portuguese": "Podemos falar mais tarde?",
+    "pronunciationNote": "poo-DEH-moosh fah-LAR mysh TAR-d",
+    "grammarFocus": "suggestion question",
+    "notes": "Useful polite delay phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora estou ocupado. Podemos falar mais tarde?",
+        "english": "I am busy now. Can we talk later?"
+      }
+    ],
+    "tags": ["work", "communication"]
+  },
+  {
+    "id": "04-wdr-a1a2-027",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to leave now.",
+    "portuguese": "Tenho de sair agora.",
+    "pronunciationNote": "TEN-yoo d sah-EER ah-GOH-rah",
+    "grammarFocus": "obligation phrase",
+    "notes": "Useful schedule phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho de sair agora para apanhar o comboio.",
+        "english": "I need to leave now to catch the train."
+      }
+    ],
+    "tags": ["routine", "time"]
+  },
+  {
+    "id": "04-wdr-a1a2-028",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to buy groceries after work.",
+    "portuguese": "Preciso de comprar mercearias depois do trabalho.",
+    "pronunciationNote": "preh-SEE-zoo d kohm-PRAR mer-seh-ah-REE-ash deh-POYSH doo trah-BAH-lyoo",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful errand phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do trabalho preciso de comprar mercearias.",
+        "english": "After work I need to buy groceries."
+      }
+    ],
+    "tags": ["routine", "shopping"]
+  },
+  {
+    "id": "04-wdr-a1a2-029",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I clean the kitchen in the evening.",
+    "portuguese": "Limpo a cozinha à noite.",
+    "pronunciationNote": "LEENG-poo ah koo-ZEE-nyah ah NOY-t",
+    "grammarFocus": "household routine statement",
+    "notes": "Useful home routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do jantar, limpo a cozinha à noite.",
+        "english": "After dinner, I clean the kitchen in the evening."
+      }
+    ],
+    "tags": ["home", "routine"]
+  },
+  {
+    "id": "04-wdr-a1a2-030",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do the laundry at the weekend.",
+    "portuguese": "Lavo a roupa ao fim de semana.",
+    "pronunciationNote": "LAH-voo ah HOH-pah ow FEENG d suh-MAH-nah",
+    "grammarFocus": "habitual routine statement",
+    "notes": "Useful household routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente lavo a roupa ao fim de semana.",
+        "english": "I usually do the laundry at the weekend."
+      }
+    ],
+    "tags": ["home", "weekend"]
+  },
+  {
+    "id": "04-wdr-a1a2-031",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to the gym after work.",
+    "portuguese": "Vou ao ginásio depois do trabalho.",
+    "pronunciationNote": "VOH ow zhee-NAH-zee-oo deh-POYSH doo trah-BAH-lyoo",
+    "grammarFocus": "routine statement",
+    "notes": "Useful activity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às terças-feiras vou ao ginásio depois do trabalho.",
+        "english": "On Tuesdays I go to the gym after work."
+      }
+    ],
+    "tags": ["routine", "exercise"]
+  },
+  {
+    "id": "04-wdr-a1a2-032",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I cook at home.",
+    "portuguese": "Cozinho em casa.",
+    "pronunciationNote": "koo-ZEE-nyoo eng KAH-zah",
+    "grammarFocus": "habit statement",
+    "notes": "Useful daily life phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quase todos os dias cozinho em casa.",
+        "english": "Almost every day I cook at home."
+      }
+    ],
+    "tags": ["home", "cooking"]
+  },
+  {
+    "id": "04-wdr-a1a2-033",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I leave the house at eight.",
+    "portuguese": "Saio de casa às oito.",
+    "pronunciationNote": "SAH-yoo d KAH-zah az OY-too",
+    "grammarFocus": "routine time statement",
+    "notes": "Useful commute phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nos dias de trabalho saio de casa às oito.",
+        "english": "On workdays I leave the house at eight."
+      }
+    ],
+    "tags": ["routine", "commute"]
+  },
+  {
+    "id": "04-wdr-a1a2-034",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I take the children to school.",
+    "portuguese": "Levo as crianças à escola.",
+    "pronunciationNote": "LEH-voo az kree-AHN-sash ah esh-KOH-lah",
+    "grammarFocus": "routine statement",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã levo as crianças à escola.",
+        "english": "In the morning I take the children to school."
+      }
+    ],
+    "tags": ["family", "routine"]
+  },
+  {
+    "id": "04-wdr-a1a2-035",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I pick them up in the afternoon.",
+    "portuguese": "Vou buscá-las à tarde.",
+    "pronunciationNote": "VOH boosh-KAH-lash ah TAR-d",
+    "grammarFocus": "object pronoun phrase",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às cinco vou buscá-las à tarde.",
+        "english": "At five I pick them up in the afternoon."
+      }
+    ],
+    "tags": ["family", "routine"]
+  },
+  {
+    "id": "04-wdr-a1a2-036",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I check my calendar every morning.",
+    "portuguese": "Vejo o meu calendário todas as manhãs.",
+    "pronunciationNote": "VEH-zhoo oo MEH-oo kah-len-DAH-ree-oo TOH-dash az mah-NYAHSH",
+    "grammarFocus": "habitual routine statement",
+    "notes": "Useful office routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vejo o meu calendário todas as manhãs antes de começar.",
+        "english": "I check my calendar every morning before starting."
+      }
+    ],
+    "tags": ["work", "planning"]
+  },
+  {
+    "id": "04-wdr-a1a2-037",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I make a list of tasks.",
+    "portuguese": "Faço uma lista de tarefas.",
+    "pronunciationNote": "FAH-soo OO-mah LEESH-tah d tah-REH-fash",
+    "grammarFocus": "task routine statement",
+    "notes": "Useful productivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Todas as manhãs faço uma lista de tarefas.",
+        "english": "Every morning I make a list of tasks."
+      }
+    ],
+    "tags": ["work", "planning"]
+  },
+  {
+    "id": "04-wdr-a1a2-038",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to make a phone call.",
+    "portuguese": "Preciso de fazer uma chamada.",
+    "pronunciationNote": "preh-SEE-zoo d fah-ZER OO-mah shah-MAH-dah",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de fazer uma chamada importante.",
+        "english": "I need to make an important phone call."
+      }
+    ],
+    "tags": ["work", "communication"]
+  },
+  {
+    "id": "04-wdr-a1a2-039",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am free after lunch.",
+    "portuguese": "Estou livre depois do almoço.",
+    "pronunciationNote": "esh-TOH LEE-vr deh-POYSH doo ahl-MOH-soo",
+    "grammarFocus": "availability statement",
+    "notes": "Useful scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiseres, estou livre depois do almoço.",
+        "english": "If you want, I am free after lunch."
+      }
+    ],
+    "tags": ["work", "availability"]
+  },
+  {
+    "id": "04-wdr-a1a2-040",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can we meet tomorrow?",
+    "portuguese": "Podemos encontrar-nos amanhã?",
+    "pronunciationNote": "poo-DEH-moosh en-kohn-TRAR-noosh ah-mah-NYAH",
+    "grammarFocus": "planning question",
+    "notes": "Useful work scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podemos encontrar-nos amanhã de manhã?",
+        "english": "Can we meet tomorrow morning?"
+      }
+    ],
+    "tags": ["work", "meeting"]
+  },
+  {
+    "id": "04-wdr-a1a2-041",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I work on Saturdays.",
+    "portuguese": "Trabalho aos sábados.",
+    "pronunciationNote": "trah-BAH-lyoo awsh SAH-bah-doosh",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful schedule phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste mês trabalho aos sábados.",
+        "english": "This month I work on Saturdays."
+      }
+    ],
+    "tags": ["work", "weekend"]
+  },
+  {
+    "id": "04-wdr-a1a2-042",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I rest on Sundays.",
+    "portuguese": "Descanso aos domingos.",
+    "pronunciationNote": "desh-KAHN-soo awsh doo-MEENG-goosh",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful weekend routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao domingo descanso em casa.",
+        "english": "On Sundays I rest at home."
+      }
+    ],
+    "tags": ["routine", "weekend"]
+  },
+  {
+    "id": "04-wdr-a1a2-043",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need more coffee.",
+    "portuguese": "Preciso de mais café.",
+    "pronunciationNote": "preh-SEE-zoo d mysh kah-FEH",
+    "grammarFocus": "need statement",
+    "notes": "Useful informal work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de mais café do que o normal.",
+        "english": "Today I need more coffee than usual."
+      }
+    ],
+    "tags": ["work", "coffee"]
+  },
+  {
+    "id": "04-wdr-a1a2-044",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am almost finished.",
+    "portuguese": "Estou quase a acabar.",
+    "pronunciationNote": "esh-TOH KWAH-z ah-kah-BAR",
+    "grammarFocus": "progressive aspect",
+    "notes": "Useful work update phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dá-me dois minutos, estou quase a acabar.",
+        "english": "Give me two minutes, I am almost finished."
+      }
+    ],
+    "tags": ["work", "progress"]
+  },
+  {
+    "id": "04-wdr-a1a2-045",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to go to bed early.",
+    "portuguese": "Preciso de me deitar cedo.",
+    "pronunciationNote": "preh-SEE-zoo d m dih-ay-TAR SEH-doo",
+    "grammarFocus": "reflexive infinitive",
+    "notes": "Useful evening routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de me deitar cedo.",
+        "english": "Today I need to go to bed early."
+      }
+    ],
+    "tags": ["routine", "sleep"]
+  },
+  {
+    "id": "04-wdr-a1a2-046",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I go to bed at eleven.",
+    "portuguese": "Deito-me às onze.",
+    "pronunciationNote": "DAY-too-m az OHN-zh",
+    "grammarFocus": "reflexive routine verb",
+    "notes": "Useful night routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente deito-me às onze.",
+        "english": "I normally go to bed at eleven."
+      }
+    ],
+    "tags": ["routine", "sleep"]
+  },
+  {
+    "id": "04-wdr-a1a2-047",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I sleep well.",
+    "portuguese": "Durmo bem.",
+    "pronunciationNote": "DOOR-moo bayng",
+    "grammarFocus": "habit statement",
+    "notes": "Simple routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando estou cansado, durmo bem.",
+        "english": "When I am tired, I sleep well."
+      }
+    ],
+    "tags": ["routine", "sleep"]
+  },
+  {
+    "id": "04-wdr-a1a2-048",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not have time right now.",
+    "portuguese": "Não tenho tempo agora.",
+    "pronunciationNote": "nawng TEN-yoo TEM-poo ah-GOH-rah",
+    "grammarFocus": "negation statement",
+    "notes": "Useful schedule phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, não tenho tempo agora.",
+        "english": "Sorry, I do not have time right now."
+      }
+    ],
+    "tags": ["time", "work"]
+  },
+  {
+    "id": "04-wdr-a1a2-049",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I can do it tomorrow.",
+    "portuguese": "Posso fazer isso amanhã.",
+    "pronunciationNote": "POH-soo fah-ZER EE-soo ah-mah-NYAH",
+    "grammarFocus": "ability statement",
+    "notes": "Useful planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje não consigo, mas posso fazer isso amanhã.",
+        "english": "I cannot do it today, but I can do it tomorrow."
+      }
+    ],
+    "tags": ["work", "planning"]
+  },
+  {
+    "id": "04-wdr-a1a2-050",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Tomorrow is another busy day.",
+    "portuguese": "Amanhã é outro dia cheio.",
+    "pronunciationNote": "ah-mah-NYAH eh OH-troo DEE-ah SHAY-oo",
+    "grammarFocus": "future-oriented statement",
+    "notes": "Natural phrase about routine pressure.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vou descansar cedo porque amanhã é outro dia cheio.",
+        "english": "I am going to rest early because tomorrow is another busy day."
+      }
+    ],
+    "tags": ["routine", "planning"]
+  }
+]

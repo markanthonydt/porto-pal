@@ -1,0 +1,952 @@
+[
+  {
+    "id": "09-gvp-a1a2-001",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am speaking now.",
+    "portuguese": "Estou a falar agora.",
+    "pronunciationNote": "esh-TOH ah fah-LAR ah-GOH-rah",
+    "grammarFocus": "present continuous with estar a + infinitive",
+    "notes": "Basic ongoing action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não posso sair, estou a falar agora.",
+        "english": "I cannot go out, I am speaking now."
+      }
+    ],
+    "tags": ["grammar", "present-continuous", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-002",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am working today.",
+    "portuguese": "Estou a trabalhar hoje.",
+    "pronunciationNote": "esh-TOH ah trah-bah-LYAR OY-zhe",
+    "grammarFocus": "present continuous with estar a + infinitive",
+    "notes": "Basic ongoing action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a trabalhar de casa.",
+        "english": "Today I am working from home."
+      }
+    ],
+    "tags": ["grammar", "present-continuous", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-003",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I usually drink coffee.",
+    "portuguese": "Costumo beber café.",
+    "pronunciationNote": "koosh-TOO-moo beh-BER kah-FEH",
+    "grammarFocus": "habit with costumar + infinitive",
+    "notes": "Common routine pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã costumo beber café.",
+        "english": "In the morning I usually drink coffee."
+      }
+    ],
+    "tags": ["grammar", "habits", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-004",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I usually go on foot.",
+    "portuguese": "Costumo ir a pé.",
+    "pronunciationNote": "koosh-TOO-moo eer ah PEH",
+    "grammarFocus": "habit with costumar + infinitive",
+    "notes": "Common routine pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando está bom tempo, costumo ir a pé.",
+        "english": "When the weather is good, I usually go on foot."
+      }
+    ],
+    "tags": ["grammar", "habits", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-005",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I need to leave.",
+    "portuguese": "Preciso de sair.",
+    "pronunciationNote": "preh-SEE-zoo d sah-EER",
+    "grammarFocus": "precisar de + infinitive",
+    "notes": "Basic necessity pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de sair cedo hoje.",
+        "english": "I need to leave early today."
+      }
+    ],
+    "tags": ["grammar", "necessity", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-006",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I need to study.",
+    "portuguese": "Preciso de estudar.",
+    "pronunciationNote": "preh-SEE-zoo d esh-too-DAR",
+    "grammarFocus": "precisar de + infinitive",
+    "notes": "Basic necessity pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de estudar mais.",
+        "english": "Today I need to study more."
+      }
+    ],
+    "tags": ["grammar", "necessity", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-007",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I can help.",
+    "portuguese": "Posso ajudar.",
+    "pronunciationNote": "POH-soo ah-zhoo-DAR",
+    "grammarFocus": "modal use of poder",
+    "notes": "Basic ability pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiseres, posso ajudar.",
+        "english": "If you want, I can help."
+      }
+    ],
+    "tags": ["grammar", "modal", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-008",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "Can I sit here?",
+    "portuguese": "Posso sentar-me aqui?",
+    "pronunciationNote": "POH-soo sen-TAR-m ah-KEE",
+    "grammarFocus": "modal use of poder",
+    "notes": "Basic permission pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, posso sentar-me aqui?",
+        "english": "Excuse me, can I sit here?"
+      }
+    ],
+    "tags": ["grammar", "modal", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-009",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I want to eat.",
+    "portuguese": "Quero comer.",
+    "pronunciationNote": "KEH-roo koh-MER",
+    "grammarFocus": "querer + infinitive",
+    "notes": "Basic desire pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora quero comer qualquer coisa.",
+        "english": "Now I want to eat something."
+      }
+    ],
+    "tags": ["grammar", "desire", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-010",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I want to go home.",
+    "portuguese": "Quero ir para casa.",
+    "pronunciationNote": "KEH-roo eer pah-rah KAH-zah",
+    "grammarFocus": "querer + infinitive",
+    "notes": "Basic desire pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do trabalho, quero ir para casa.",
+        "english": "After work, I want to go home."
+      }
+    ],
+    "tags": ["grammar", "desire", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-011",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I have to work tomorrow.",
+    "portuguese": "Tenho de trabalhar amanhã.",
+    "pronunciationNote": "TEN-yoo d trah-bah-LYAR ah-mah-NYAH",
+    "grammarFocus": "ter de + infinitive",
+    "notes": "Basic obligation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não posso sair tarde, tenho de trabalhar amanhã.",
+        "english": "I cannot stay out late, I have to work tomorrow."
+      }
+    ],
+    "tags": ["grammar", "obligation", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-012",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I have to study now.",
+    "portuguese": "Tenho de estudar agora.",
+    "pronunciationNote": "TEN-yoo d esh-too-DAR ah-GOH-rah",
+    "grammarFocus": "ter de + infinitive",
+    "notes": "Basic obligation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho de estudar agora para o teste.",
+        "english": "I have to study now for the test."
+      }
+    ],
+    "tags": ["grammar", "obligation", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-013",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I like to read.",
+    "portuguese": "Gosto de ler.",
+    "pronunciationNote": "GOH-shtoo d LER",
+    "grammarFocus": "gostar de + infinitive",
+    "notes": "Basic preference pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "À noite gosto de ler.",
+        "english": "At night I like to read."
+      }
+    ],
+    "tags": ["grammar", "preference", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-014",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I like to cook.",
+    "portuguese": "Gosto de cozinhar.",
+    "pronunciationNote": "GOH-shtoo d koo-zee-NYAR",
+    "grammarFocus": "gostar de + infinitive",
+    "notes": "Basic preference pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana gosto de cozinhar.",
+        "english": "At the weekend I like to cook."
+      }
+    ],
+    "tags": ["grammar", "preference", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-015",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am going to call her.",
+    "portuguese": "Vou ligar-lhe.",
+    "pronunciationNote": "VOH lee-GAR-ly",
+    "grammarFocus": "near future with ir + infinitive",
+    "notes": "Basic future pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais tarde vou ligar-lhe.",
+        "english": "Later I am going to call her."
+      }
+    ],
+    "tags": ["grammar", "future", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-016",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am going to buy bread.",
+    "portuguese": "Vou comprar pão.",
+    "pronunciationNote": "VOH kohm-PRAR PAWNG",
+    "grammarFocus": "near future with ir + infinitive",
+    "notes": "Basic future pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois vou comprar pão.",
+        "english": "Afterwards I am going to buy bread."
+      }
+    ],
+    "tags": ["grammar", "future", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-017",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I got up early.",
+    "portuguese": "Levantei-me cedo.",
+    "pronunciationNote": "leh-vahn-TAY-m SEH-doo",
+    "grammarFocus": "perfect past with reflexive verb",
+    "notes": "Basic past statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje levantei-me cedo para estudar.",
+        "english": "Today I got up early to study."
+      }
+    ],
+    "tags": ["grammar", "past", "reflexive"]
+  },
+  {
+    "id": "09-gvp-a1a2-018",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I arrived late.",
+    "portuguese": "Cheguei tarde.",
+    "pronunciationNote": "sheh-GAY TAR-d",
+    "grammarFocus": "perfect past",
+    "notes": "Basic past statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ontem cheguei tarde a casa.",
+        "english": "Yesterday I arrived home late."
+      }
+    ],
+    "tags": ["grammar", "past", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-019",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I did not understand.",
+    "portuguese": "Não percebi.",
+    "pronunciationNote": "nawng pair-seh-BEE",
+    "grammarFocus": "perfect past negation",
+    "notes": "Basic past statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, não percebi bem.",
+        "english": "Sorry, I did not understand well."
+      }
+    ],
+    "tags": ["grammar", "past", "negation"]
+  },
+  {
+    "id": "09-gvp-a1a2-020",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I saw it.",
+    "portuguese": "Vi isso.",
+    "pronunciationNote": "VEE EE-soo",
+    "grammarFocus": "perfect past of ver",
+    "notes": "Basic irregular past.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, vi isso ontem.",
+        "english": "Yes, I saw that yesterday."
+      }
+    ],
+    "tags": ["grammar", "past", "irregular"]
+  },
+  {
+    "id": "09-gvp-a1a2-021",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I know how to do it.",
+    "portuguese": "Sei fazer isso.",
+    "pronunciationNote": "SAY fah-ZER EE-soo",
+    "grammarFocus": "saber + infinitive",
+    "notes": "Basic ability pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não te preocupes, sei fazer isso.",
+        "english": "Do not worry, I know how to do that."
+      }
+    ],
+    "tags": ["grammar", "ability", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-022",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I know him.",
+    "portuguese": "Conheço-o.",
+    "pronunciationNote": "koh-NYEH-soo-oo",
+    "grammarFocus": "conhecer with direct object pronoun",
+    "notes": "Basic pronoun pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, conheço-o bem.",
+        "english": "Yes, I know him well."
+      }
+    ],
+    "tags": ["grammar", "pronouns", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-023",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I can see you.",
+    "portuguese": "Posso ver-te.",
+    "pronunciationNote": "POH-soo vair-t",
+    "grammarFocus": "verb + object pronoun",
+    "notes": "Basic pronoun pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Daqui posso ver-te bem.",
+        "english": "From here I can see you well."
+      }
+    ],
+    "tags": ["grammar", "pronouns", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-024",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "He gave me the book.",
+    "portuguese": "Ele deu-me o livro.",
+    "pronunciationNote": "EH-leh DEH-oo-m oo LEE-vroo",
+    "grammarFocus": "indirect object pronoun",
+    "notes": "Basic pronoun pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ontem ele deu-me o livro.",
+        "english": "Yesterday he gave me the book."
+      }
+    ],
+    "tags": ["grammar", "pronouns", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-025",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I told her the truth.",
+    "portuguese": "Disse-lhe a verdade.",
+    "pronunciationNote": "DEE-se-ly ah vair-DAH-d",
+    "grammarFocus": "indirect object pronoun",
+    "notes": "Basic pronoun pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, disse-lhe a verdade.",
+        "english": "In the end, I told her the truth."
+      }
+    ],
+    "tags": ["grammar", "pronouns", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-026",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "If I have time, I will go.",
+    "portuguese": "Se tiver tempo, vou.",
+    "pronunciationNote": "s tee-VER TEM-poo voh",
+    "grammarFocus": "future meaning with se + future subjunctive",
+    "notes": "Basic conditional pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tiver tempo, vou contigo.",
+        "english": "If I have time, I will go with you."
+      }
+    ],
+    "tags": ["grammar", "condition", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-a1a2-027",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "If it rains, we will stay home.",
+    "portuguese": "Se chover, ficamos em casa.",
+    "pronunciationNote": "s shoh-VAIR fee-KAH-moosh eng KAH-zah",
+    "grammarFocus": "future meaning with se + future subjunctive",
+    "notes": "Basic conditional pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se chover amanhã, ficamos em casa.",
+        "english": "If it rains tomorrow, we will stay home."
+      }
+    ],
+    "tags": ["grammar", "condition", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-a1a2-028",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "When I arrive, I will call you.",
+    "portuguese": "Quando chegar, ligo-te.",
+    "pronunciationNote": "KWAN-doo sheh-GAR LEE-goo-t",
+    "grammarFocus": "future subjunctive with quando",
+    "notes": "Basic time pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando chegar a casa, ligo-te.",
+        "english": "When I arrive home, I will call you."
+      }
+    ],
+    "tags": ["grammar", "time", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-a1a2-029",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "Before leaving, close the window.",
+    "portuguese": "Antes de sair, fecha a janela.",
+    "pronunciationNote": "AHN-tesh d sah-EER FEH-zhah ah zhah-NEL-ah",
+    "grammarFocus": "antes de + infinitive",
+    "notes": "Basic sequencing pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de sair, fecha a janela da cozinha.",
+        "english": "Before leaving, close the kitchen window."
+      }
+    ],
+    "tags": ["grammar", "sequence", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-030",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "After eating, I am going out.",
+    "portuguese": "Depois de comer, vou sair.",
+    "pronunciationNote": "deh-POYSH d koh-MER voh sah-EER",
+    "grammarFocus": "depois de + infinitive",
+    "notes": "Basic sequencing pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de comer, vou sair com amigos.",
+        "english": "After eating, I am going out with friends."
+      }
+    ],
+    "tags": ["grammar", "sequence", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-031",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I started to learn Portuguese.",
+    "portuguese": "Comecei a aprender português.",
+    "pronunciationNote": "koh-meh-SAY ah ah-pren-DER poor-too-GAYSH",
+    "grammarFocus": "começar a + infinitive",
+    "notes": "Basic inceptive pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "No ano passado comecei a aprender português.",
+        "english": "Last year I started learning Portuguese."
+      }
+    ],
+    "tags": ["grammar", "start", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-032",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I finished cleaning.",
+    "portuguese": "Acabei de limpar.",
+    "pronunciationNote": "ah-kah-BAY d leem-PAR",
+    "grammarFocus": "acabar de + infinitive",
+    "notes": "Recent completion pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acabei de limpar a cozinha.",
+        "english": "I just finished cleaning the kitchen."
+      }
+    ],
+    "tags": ["grammar", "completion", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-033",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I know where it is.",
+    "portuguese": "Sei onde está.",
+    "pronunciationNote": "SAY ON-d esh-TAH",
+    "grammarFocus": "embedded question",
+    "notes": "Basic clause pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora sei onde está o livro.",
+        "english": "Now I know where the book is."
+      }
+    ],
+    "tags": ["grammar", "clauses", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-034",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I do not know what to say.",
+    "portuguese": "Não sei o que dizer.",
+    "pronunciationNote": "nawng SAY oo k dee-ZER",
+    "grammarFocus": "embedded question",
+    "notes": "Basic clause pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora não sei o que dizer.",
+        "english": "Now I do not know what to say."
+      }
+    ],
+    "tags": ["grammar", "clauses", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-035",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I have been here since Monday.",
+    "portuguese": "Estou aqui desde segunda-feira.",
+    "pronunciationNote": "esh-TOH ah-KEE DEZH-d seh-GOON-dah FAY-rah",
+    "grammarFocus": "desde with present state",
+    "notes": "Basic time pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou aqui desde segunda-feira de manhã.",
+        "english": "I have been here since Monday morning."
+      }
+    ],
+    "tags": ["grammar", "time", "state"]
+  },
+  {
+    "id": "09-gvp-a1a2-036",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I have lived here for two years.",
+    "portuguese": "Vivo aqui há dois anos.",
+    "pronunciationNote": "VEE-voo ah-KEE AH doyz AH-noosh",
+    "grammarFocus": "duration with há",
+    "notes": "Basic time pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vivo aqui há dois anos com a minha família.",
+        "english": "I have lived here for two years with my family."
+      }
+    ],
+    "tags": ["grammar", "time", "duration"]
+  },
+  {
+    "id": "09-gvp-a1a2-037",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I wash myself quickly.",
+    "portuguese": "Lavo-me depressa.",
+    "pronunciationNote": "LAH-voo-m deh-PREH-sah",
+    "grammarFocus": "reflexive verb",
+    "notes": "Basic reflexive pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã lavo-me depressa.",
+        "english": "In the morning I wash quickly."
+      }
+    ],
+    "tags": ["grammar", "reflexive", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-038",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I remember it.",
+    "portuguese": "Lembro-me disso.",
+    "pronunciationNote": "LEM-broo-m DEE-soo",
+    "grammarFocus": "pronominal verb",
+    "notes": "Basic pronominal pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, lembro-me disso bem.",
+        "english": "Yes, I remember that well."
+      }
+    ],
+    "tags": ["grammar", "pronominal", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-039",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I forgot.",
+    "portuguese": "Esqueci-me.",
+    "pronunciationNote": "esh-keh-SAY-m",
+    "grammarFocus": "pronominal verb",
+    "notes": "Basic pronominal pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, esqueci-me.",
+        "english": "Sorry, I forgot."
+      }
+    ],
+    "tags": ["grammar", "pronominal", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-040",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "You should rest.",
+    "portuguese": "Deves descansar.",
+    "pronunciationNote": "DEH-vesh dehsh-kahn-SAR",
+    "grammarFocus": "advice with dever",
+    "notes": "Basic advice pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estás cansado, deves descansar.",
+        "english": "If you are tired, you should rest."
+      }
+    ],
+    "tags": ["grammar", "advice", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-041",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "You should speak with him.",
+    "portuguese": "Deves falar com ele.",
+    "pronunciationNote": "DEH-vesh fah-LAR kohm EH-leh",
+    "grammarFocus": "advice with dever",
+    "notes": "Basic advice pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que deves falar com ele hoje.",
+        "english": "I think you should speak with him today."
+      }
+    ],
+    "tags": ["grammar", "advice", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-042",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I have to get used to it.",
+    "portuguese": "Tenho de me habituar a isso.",
+    "pronunciationNote": "TEN-yoo d m ah-bee-too-AR ah EE-soo",
+    "grammarFocus": "pronominal verb + infinitive",
+    "notes": "Useful adaptation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "No início foi estranho, mas tenho de me habituar a isso.",
+        "english": "At first it was strange, but I have to get used to it."
+      }
+    ],
+    "tags": ["grammar", "adaptation", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-043",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I started to like it.",
+    "portuguese": "Comecei a gostar disso.",
+    "pronunciationNote": "koh-meh-SAY ah goh-SHTAR DEE-soo",
+    "grammarFocus": "começar a + infinitive",
+    "notes": "Useful change-in-opinion pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "No início não gostava, mas comecei a gostar disso.",
+        "english": "At first I did not like it, but I started to like it."
+      }
+    ],
+    "tags": ["grammar", "change", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-044",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I stopped smoking.",
+    "portuguese": "Deixei de fumar.",
+    "pronunciationNote": "day-SHAY d foo-MAR",
+    "grammarFocus": "deixar de + infinitive",
+    "notes": "Useful stopping pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há muito tempo que deixei de fumar.",
+        "english": "I stopped smoking a long time ago."
+      }
+    ],
+    "tags": ["grammar", "change", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-045",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I keep trying.",
+    "portuguese": "Continuo a tentar.",
+    "pronunciationNote": "kohn-tee-NOO-oh ah ten-TAR",
+    "grammarFocus": "continuar a + infinitive",
+    "notes": "Useful persistence pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "É difícil, mas continuo a tentar.",
+        "english": "It is difficult, but I keep trying."
+      }
+    ],
+    "tags": ["grammar", "continuation", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-046",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am learning to drive.",
+    "portuguese": "Estou a aprender a conduzir.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER ah kohn-doo-ZEER",
+    "grammarFocus": "aprender a + infinitive",
+    "notes": "Useful learning pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este ano estou a aprender a conduzir.",
+        "english": "This year I am learning to drive."
+      }
+    ],
+    "tags": ["grammar", "learning", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-047",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I help him with Portuguese.",
+    "portuguese": "Ajudo-o com português.",
+    "pronunciationNote": "ah-ZHOO-doo-oo kohm poor-too-GAYSH",
+    "grammarFocus": "direct object pronoun",
+    "notes": "Basic pronoun pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes ajudo-o com português.",
+        "english": "Sometimes I help him with Portuguese."
+      }
+    ],
+    "tags": ["grammar", "pronouns", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-048",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am waiting for you.",
+    "portuguese": "Estou à tua espera.",
+    "pronunciationNote": "esh-TOH ah TOO-ah esh-PEH-rah",
+    "grammarFocus": "fixed expression with espera",
+    "notes": "Useful waiting pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já estou à tua espera aqui fora.",
+        "english": "I am already waiting for you outside."
+      }
+    ],
+    "tags": ["grammar", "expressions", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-049",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I am trying to remember.",
+    "portuguese": "Estou a tentar lembrar-me.",
+    "pronunciationNote": "esh-TOH ah ten-TAR lemb-RAR-m",
+    "grammarFocus": "tentar + pronominal infinitive",
+    "notes": "Useful mental-action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espera, estou a tentar lembrar-me.",
+        "english": "Wait, I am trying to remember."
+      }
+    ],
+    "tags": ["grammar", "mental-actions", "verbs"]
+  },
+  {
+    "id": "09-gvp-a1a2-050",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "A1-A2",
+    "cardType": "pattern",
+    "english": "I forgot to call.",
+    "portuguese": "Esqueci-me de ligar.",
+    "pronunciationNote": "esh-keh-SAY-m d lee-GAR",
+    "grammarFocus": "pronominal verb + de + infinitive",
+    "notes": "Useful mental-action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpa, esqueci-me de ligar.",
+        "english": "Sorry, I forgot to call."
+      }
+    ],
+    "tags": ["grammar", "mental-actions", "verbs"]
+  }
+]

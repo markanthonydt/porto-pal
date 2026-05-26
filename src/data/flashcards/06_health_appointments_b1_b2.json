@@ -1,0 +1,952 @@
+[
+  {
+    "id": "06-ha-b1b2-001",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been feeling run-down for a while, and I think it is time to get it checked properly.",
+    "portuguese": "Ando a sentir-me em baixo há algum tempo, e acho que está na altura de ver isto em condições.",
+    "pronunciationNote": "AHN-doo ah sen-TEER-m eng BY-shoo ah al-GOOM TEM-poo",
+    "grammarFocus": "ongoing condition statement",
+    "notes": "Natural higher-level health phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não parece grave, mas não está a passar sozinho.",
+        "english": "It does not seem serious, but it is not going away on its own."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-b1b2-002",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could I book the earliest appointment you have, ideally with someone who speaks slowly?",
+    "portuguese": "Podia marcar a consulta mais cedo que tiver, de preferência com alguém que fale devagar?",
+    "pronunciationNote": "POH-dee-ah mar-KAR ah kohn-SOOL-tah mysh SEH-doo k tee-VER",
+    "grammarFocus": "polite booking request",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero conseguir explicar tudo com calma.",
+        "english": "I want to be able to explain everything calmly."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-003",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The pain comes and goes, but it has definitely been getting worse over the last few days.",
+    "portuguese": "A dor vai e vem, mas sem dúvida que tem piorado nos últimos dias.",
+    "pronunciationNote": "ah dor vy ee veng mahsh sayng DOO-vee-dah k teng pee-oh-RAH-doo",
+    "grammarFocus": "change over time statement",
+    "notes": "Useful symptom description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao início pensei que passasse sozinho, mas afinal não.",
+        "english": "At first I thought it would go away on its own, but apparently not."
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-b1b2-004",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather understand what is causing this than just treat the symptom.",
+    "portuguese": "Preferia perceber o que está a causar isto, em vez de tratar apenas o sintoma.",
+    "pronunciationNote": "preh-feh-REE-ah pair-seh-BER oo k esh-TAH ah kow-ZAR EESH-too",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se souber a origem, talvez consiga evitar que volte.",
+        "english": "If I know the cause, maybe I can stop it from returning."
+      }
+    ],
+    "tags": ["health", "consultation"]
+  },
+  {
+    "id": "06-ha-b1b2-005",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not sure whether this is serious, but it is unusual enough that I wanted to ask.",
+    "portuguese": "Não tenho a certeza de que seja grave, mas é estranho o suficiente para eu querer perguntar.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah d k SAY-zhah GRAH-v",
+    "grammarFocus": "uncertainty + consequence",
+    "notes": "Useful cautious medical phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro confirmar agora do que preocupar-me sem necessidade.",
+        "english": "I would rather check now than worry unnecessarily."
+      }
+    ],
+    "tags": ["health", "consultation"]
+  },
+  {
+    "id": "06-ha-b1b2-006",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain the treatment plan step by step so I know exactly what to do?",
+    "portuguese": "Pode explicar o plano de tratamento passo a passo para eu saber exatamente o que fazer?",
+    "pronunciationNote": "POH-d ex-plee-KAR oo PLAH-noo d trah-tah-MEN-too PAH-soo ah PAH-soo",
+    "grammarFocus": "formal request + purpose clause",
+    "notes": "Useful treatment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero ter a certeza de que não me engano nas doses.",
+        "english": "I want to make sure I do not make a mistake with the doses."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-007",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have already tried resting and taking painkillers, but it has not made much difference.",
+    "portuguese": "Já tentei descansar e tomar analgésicos, mas isso não fez grande diferença.",
+    "pronunciationNote": "ZHAH ten-TAY dehsh-kahn-SAR ee toh-MAR ah-nahl-GEH-zee-koosh",
+    "grammarFocus": "past attempts statement",
+    "notes": "Useful symptom escalation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso achei melhor marcar consulta.",
+        "english": "That is why I thought it was better to make an appointment."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-008",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to move the appointment slightly later? I am trying to avoid missing work entirely.",
+    "portuguese": "Seria possível passar a consulta um pouco mais tarde? Estou a tentar evitar faltar ao trabalho por completo.",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel pah-SAR ah kohn-SOOL-tah oom POH-koo mysh TAR-d",
+    "grammarFocus": "polite rescheduling request",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver uma vaga ao fim da manhã, era ideal.",
+        "english": "If there is a slot at the end of the morning, that would be ideal."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-009",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would appreciate it if you could write that down, because I do not want to misremember anything.",
+    "portuguese": "Agradecia que escrevesse isso, porque não quero lembrar-me mal de nada.",
+    "pronunciationNote": "ah-grah-deh-SEE-ah k esh-kreh-VESH-s EE-soo",
+    "grammarFocus": "polite request",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando há muita informação, perco-me facilmente.",
+        "english": "When there is a lot of information, I get lost easily."
+      }
+    ],
+    "tags": ["health", "communication"]
+  },
+  {
+    "id": "06-ha-b1b2-010",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to work out whether this is stress-related or something more physical.",
+    "portuguese": "Estou a tentar perceber se isto está relacionado com stress ou se é algo mais físico.",
+    "pronunciationNote": "esh-TOH ah ten-TAR pair-seh-BER s EESH-too esh-TAH heh-lah-see-oh-NAH-doo",
+    "grammarFocus": "uncertainty reasoning phrase",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Os sintomas pioram quando estou mais cansado.",
+        "english": "The symptoms get worse when I am more tired."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-b1b2-011",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether this medication is likely to make me sleepy?",
+    "portuguese": "Pode dizer-me se é provável que este medicamento me dê sono?",
+    "pronunciationNote": "POH-d dee-ZER-m s eh proh-VAH-vel k ESH-t meh-dee-kah-MEN-too m deh SOH-noo",
+    "grammarFocus": "side-effect question",
+    "notes": "Useful medication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de saber isso porque tenho de conduzir.",
+        "english": "I need to know that because I have to drive."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-012",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have not slept well for several nights, and it is starting to affect my concentration.",
+    "portuguese": "Não tenho dormido bem há várias noites, e isso está a começar a afetar a minha concentração.",
+    "pronunciationNote": "nawng TEN-yoo dor-MEE-doo bayng ah VAH-ree-ash NOY-tesh",
+    "grammarFocus": "ongoing problem statement",
+    "notes": "Useful symptom impact phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Durante o dia sinto-me mais irritável e cansado.",
+        "english": "During the day I feel more irritable and tired."
+      }
+    ],
+    "tags": ["health", "sleep"]
+  },
+  {
+    "id": "06-ha-b1b2-013",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to know whether I should rest completely or try to stay gently active.",
+    "portuguese": "Preciso de saber se devo descansar por completo ou tentar manter alguma atividade leve.",
+    "pronunciationNote": "preh-SEE-zoo d sah-BER s DEH-voo dehsh-kahn-SAR poor kohn-PLEH-too",
+    "grammarFocus": "guidance question",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero piorar por fazer demasiado.",
+        "english": "I do not want to make it worse by doing too much."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-b1b2-014",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it make sense to run tests, or do you think it is too early for that?",
+    "portuguese": "Faz sentido fazer exames, ou acha que ainda é cedo para isso?",
+    "pronunciationNote": "faz sen-TEE-doo fah-ZER ex-AH-mesh ow AH-shah k ah-EEN-dah eh SEH-doo",
+    "grammarFocus": "opinion question",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for preciso esperar, também compreendo.",
+        "english": "If it is necessary to wait, I understand that too."
+      }
+    ],
+    "tags": ["health", "tests"]
+  },
+  {
+    "id": "06-ha-b1b2-015",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am a bit worried because this is not normal for me.",
+    "portuguese": "Estou um pouco preocupado porque isto não é normal para mim.",
+    "pronunciationNote": "esh-TOH oom POH-koo preh-oh-koo-PAH-doo poor-k EESH-too nawng eh nor-MAL",
+    "grammarFocus": "emotion + explanation",
+    "notes": "Useful concern phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não costumo ter este tipo de sintomas.",
+        "english": "I do not usually have this kind of symptoms."
+      }
+    ],
+    "tags": ["health", "concern"]
+  },
+  {
+    "id": "06-ha-b1b2-016",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you confirm whether I need to fast before the blood test?",
+    "portuguese": "Pode confirmar se preciso de estar em jejum antes da análise ao sangue?",
+    "pronunciationNote": "POH-d kohn-feer-MAR s preh-SEE-zoo d esh-TAR eng zheh-ZHOONG",
+    "grammarFocus": "preparation question",
+    "notes": "Useful test-prep phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria estragar o exame por não saber isso.",
+        "english": "I would not want to ruin the test by not knowing that."
+      }
+    ],
+    "tags": ["health", "tests"]
+  },
+  {
+    "id": "06-ha-b1b2-017",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather avoid antibiotics unless they are really necessary.",
+    "portuguese": "Preferia evitar antibióticos, a menos que sejam mesmo necessários.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR ahn-tee-bee-OH-tee-koosh",
+    "grammarFocus": "preference with condition",
+    "notes": "Useful treatment preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver outra solução, gostava de a considerar primeiro.",
+        "english": "If there is another solution, I would like to consider it first."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-018",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The appointment slipped my mind, and I am sorry for the inconvenience.",
+    "portuguese": "A consulta passou-me completamente, e peço desculpa pelo incómodo.",
+    "pronunciationNote": "ah kohn-SOOL-tah pah-SOH-m kohn-pleh-tah-MEN-t",
+    "grammarFocus": "apology statement",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria remarcar assim que for possível.",
+        "english": "I would like to reschedule as soon as possible."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-019",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need something that will not interfere too much with my workday.",
+    "portuguese": "Preciso de algo que não interfira demasiado com o meu dia de trabalho.",
+    "pronunciationNote": "preh-SEE-zoo d AL-goo k nawng een-ter-FEE-rah deh-mah-ZYAH-doo",
+    "grammarFocus": "need statement + relative clause",
+    "notes": "Useful treatment preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me deixar muito sonolento, vai ser complicado.",
+        "english": "If it makes me very sleepy, it will be difficult."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-020",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you go over the dosage again so I can be sure I understood correctly?",
+    "portuguese": "Pode repetir a posologia para eu ter a certeza de que percebi bem?",
+    "pronunciationNote": "POH-d heh-peh-TEER ah poh-zoh-loh-ZHEE-ah",
+    "grammarFocus": "formal request + certainty clause",
+    "notes": "Useful medication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero correr o risco de tomar demasiado ou demasiado pouco.",
+        "english": "I do not want to risk taking too much or too little."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-021",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been putting this off, but it is clearly not resolving itself.",
+    "portuguese": "Andei a adiar isto, mas é claro que não se está a resolver sozinho.",
+    "pronunciationNote": "ahn-DAY ah ah-dee-AR EESH-too mahz eh KLAH-roo",
+    "grammarFocus": "admission statement",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora prefiro tratar disto de uma vez.",
+        "english": "Now I would rather deal with this once and for all."
+      }
+    ],
+    "tags": ["health", "consultation"]
+  },
+  {
+    "id": "06-ha-b1b2-022",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be better to monitor it for a few more days before deciding on treatment?",
+    "portuguese": "Seria melhor vigiar isto durante mais alguns dias antes de decidir o tratamento?",
+    "pronunciationNote": "seh-REE-ah meh-LYOR vee-zhee-AR EESH-too doo-RAN-t mysh al-GOONSH DEE-ash",
+    "grammarFocus": "suggestion question",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver sinais de melhoria, talvez não seja preciso mais nada.",
+        "english": "If there are signs of improvement, maybe nothing else will be needed."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-023",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to understand whether this is something temporary or something I should manage long-term.",
+    "portuguese": "Preciso de perceber se isto é temporário ou algo que devo gerir a longo prazo.",
+    "pronunciationNote": "preh-SEE-zoo d pair-seh-BER s EESH-too eh tem-poh-RAH-ree-oo",
+    "grammarFocus": "alternative question",
+    "notes": "Useful diagnosis phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dependendo disso, terei de mudar alguns hábitos.",
+        "english": "Depending on that, I may need to change some habits."
+      }
+    ],
+    "tags": ["health", "management"]
+  },
+  {
+    "id": "06-ha-b1b2-024",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know if there is a cancellation? I could come in at short notice.",
+    "portuguese": "Pode avisar-me se houver alguma desistência? Eu podia vir com pouco aviso.",
+    "pronunciationNote": "POH-d ah-vee-ZAR-m s oo-VER al-GOO-mah deh-zeesh-TEN-see-ah",
+    "grammarFocus": "conditional availability request",
+    "notes": "Useful appointment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se aparecer uma vaga, adapto-me.",
+        "english": "If a slot opens up, I can adapt."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-025",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to overreact, but I also do not want to ignore something important.",
+    "portuguese": "Não quero exagerar, mas também não quero ignorar algo importante.",
+    "pronunciationNote": "nawng KEH-roo eh-zhah-zheh-RAR mahsh tam-BAYNG nawng KEH-roo",
+    "grammarFocus": "balanced concern statement",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso achei melhor vir confirmar.",
+        "english": "That is why I thought it was better to come and check."
+      }
+    ],
+    "tags": ["health", "concern"]
+  },
+  {
+    "id": "06-ha-b1b2-026",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been following the instructions, but the improvement has been slower than I expected.",
+    "portuguese": "Tenho seguido as instruções, mas a melhoria tem sido mais lenta do que eu esperava.",
+    "pronunciationNote": "TEN-yoo seh-GHEE-doo az eens-troo-SOYNSH mahsh ah meh-lyoh-REE-ah",
+    "grammarFocus": "ongoing treatment update",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei se isso é normal ou se devo preocupar-me.",
+        "english": "I do not know if that is normal or if I should worry."
+      }
+    ],
+    "tags": ["health", "follow-up"]
+  },
+  {
+    "id": "06-ha-b1b2-027",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you recommend coming back if it has not improved by the end of the week?",
+    "portuguese": "Recomenda voltar se isto não tiver melhorado até ao fim da semana?",
+    "pronunciationNote": "reh-koh-MEN-dah vohl-TAR s EESH-too nawng tee-VER meh-lyoh-RAH-doo",
+    "grammarFocus": "future condition question",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero saber qual deve ser o próximo passo.",
+        "english": "I want to know what the next step should be."
+      }
+    ],
+    "tags": ["health", "follow-up"]
+  },
+  {
+    "id": "06-ha-b1b2-028",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to describe it accurately, but it is one of those symptoms that is hard to pin down.",
+    "portuguese": "Estou a tentar descrevê-lo com precisão, mas é daqueles sintomas difíceis de definir.",
+    "pronunciationNote": "esh-TOH ah ten-TAR dehsh-kreh-VEH-loo kohm preh-zee-ZAWN",
+    "grammarFocus": "difficulty explanation",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre dói no mesmo sítio, nem da mesma forma.",
+        "english": "It does not always hurt in the same place, or in the same way."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-b1b2-029",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether there are any warning signs that would mean I should seek help sooner?",
+    "portuguese": "Pode dizer-me se há sinais de alerta que signifiquem que devo procurar ajuda mais cedo?",
+    "pronunciationNote": "POH-d dee-ZER-m s AH SY-naysh d ah-LAIR-tah",
+    "grammarFocus": "warning-sign question",
+    "notes": "Useful safety phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se isso acontecer, quero agir rapidamente.",
+        "english": "If that happens, I want to act quickly."
+      }
+    ],
+    "tags": ["health", "safety"]
+  },
+  {
+    "id": "06-ha-b1b2-030",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need a time that gives me enough margin to get here without rushing.",
+    "portuguese": "Preciso de uma hora que me dê margem suficiente para chegar aqui sem pressa.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah OH-rah k m deh MAR-zheng soo-fee-see-EN-t",
+    "grammarFocus": "need statement + relative clause",
+    "notes": "Useful booking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for muito apertado, acabo por chegar stressado.",
+        "english": "If it is too tight, I end up arriving stressed."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-031",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather avoid taking several different things at once unless it is really necessary.",
+    "portuguese": "Preferia evitar tomar várias coisas ao mesmo tempo, a não ser que seja mesmo necessário.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR toh-MAR VAH-ree-ash KOH-zash",
+    "grammarFocus": "preference with exception",
+    "notes": "Useful medication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto mais simples for, mais fácil me é seguir o plano.",
+        "english": "The simpler it is, the easier it is for me to follow the plan."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-032",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The symptom itself is manageable, but what worries me is that it keeps coming back.",
+    "portuguese": "O sintoma em si é suportável, mas o que me preocupa é continuar a voltar.",
+    "pronunciationNote": "oo seen-TOH-mah eng s eh soo-por-TAH-vel",
+    "grammarFocus": "contrastive concern statement",
+    "notes": "Useful recurrence phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fosse só uma vez, não ligava tanto.",
+        "english": "If it were only once, I would not pay as much attention."
+      }
+    ],
+    "tags": ["health", "recurring"]
+  },
+  {
+    "id": "06-ha-b1b2-033",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we focus on what is most urgent today and leave the less important issues for a follow-up?",
+    "portuguese": "Podíamos focar-nos no que é mais urgente hoje e deixar as questões menos importantes para uma consulta de seguimento?",
+    "pronunciationNote": "poo-DEE-ah-moosh foh-KAR-noosh noo k eh mysh oor-ZHEN-t OY-zhe",
+    "grammarFocus": "prioritisation suggestion",
+    "notes": "Useful consultation-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero aproveitar o tempo da melhor forma.",
+        "english": "I want to use the time in the best way."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-034",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been under a lot of pressure lately, so I am wondering how much that may be contributing.",
+    "portuguese": "Tenho andado sob bastante pressão ultimamente, por isso pergunto-me até que ponto isso pode estar a contribuir.",
+    "pronunciationNote": "TEN-yoo ahn-DAH-doo sob bash-TAHN-t preh-SAWN ool-tee-mah-MEN-t",
+    "grammarFocus": "self-reflection statement",
+    "notes": "Useful stress-health phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não sei se a origem é física, emocional ou um pouco das duas.",
+        "english": "I do not know whether the cause is physical, emotional, or a bit of both."
+      }
+    ],
+    "tags": ["health", "stress"]
+  },
+  {
+    "id": "06-ha-b1b2-035",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would appreciate a written note for work if that is possible.",
+    "portuguese": "Agradecia uma justificação por escrito para o trabalho, se for possível.",
+    "pronunciationNote": "ah-grah-deh-SEE-ah OO-mah zhoosh-tee-fee-kah-SAWN poor esh-KREE-too",
+    "grammarFocus": "polite request",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo explicar a ausência sem problemas.",
+        "english": "That way I can explain the absence without problems."
+      }
+    ],
+    "tags": ["health", "documents"]
+  },
+  {
+    "id": "06-ha-b1b2-036",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to know whether I can continue exercising or if I should stop for now.",
+    "portuguese": "Preciso de saber se posso continuar a fazer exercício ou se devo parar por agora.",
+    "pronunciationNote": "preh-SEE-zoo d sah-BER s POH-soo kohn-tee-NOO-ar ah fah-ZER ex-er-SEE-see-oo",
+    "grammarFocus": "activity guidance question",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero perder o hábito, mas também não quero piorar.",
+        "english": "I do not want to lose the habit, but I also do not want to make it worse."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-b1b2-037",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The main issue is not constant pain, but a recurring discomfort that is hard to ignore.",
+    "portuguese": "O problema principal não é dor constante, mas um desconforto recorrente difícil de ignorar.",
+    "pronunciationNote": "oo proh-BLEH-mah preen-see-PAL nawng eh dor kohns-TAHN-t",
+    "grammarFocus": "contrastive symptom description",
+    "notes": "Useful symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não me impede de fazer tudo, mas está sempre presente.",
+        "english": "It does not stop me from doing everything, but it is always there."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-b1b2-038",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if I kept a record of when the symptoms appear and what seems to trigger them?",
+    "portuguese": "Ajudava se eu registasse quando os sintomas aparecem e o que parece desencadeá-los?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s ew heh-zheesh-TAH-s KWAN-doo oosh SEEN-toh-mash",
+    "grammarFocus": "suggestion question",
+    "notes": "Useful monitoring phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se isso ajudar no diagnóstico, posso começar já.",
+        "english": "If that helps with the diagnosis, I can start right away."
+      }
+    ],
+    "tags": ["health", "monitoring"]
+  },
+  {
+    "id": "06-ha-b1b2-039",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am hoping to find a solution that is realistic for daily life, not just ideal in theory.",
+    "portuguese": "Espero encontrar uma solução que seja realista para o dia a dia, e não apenas ideal na teoria.",
+    "pronunciationNote": "esh-PEH-roo en-kohn-TRAR OO-mah soh-loo-SAWN k SAY-zhah heh-ah-LEESH-tah",
+    "grammarFocus": "goal statement",
+    "notes": "Useful treatment preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for demasiado complicado, é difícil manter.",
+        "english": "If it is too complicated, it is hard to keep up."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-040",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me how long it usually takes to see noticeable improvement?",
+    "portuguese": "Pode dizer-me quanto tempo costuma demorar até haver uma melhoria visível?",
+    "pronunciationNote": "POH-d dee-ZER-m KWAN-too TEM-poo koosh-TOO-mah deh-moh-RAR",
+    "grammarFocus": "expectation question",
+    "notes": "Useful treatment timeline phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero saber o que posso esperar realisticamente.",
+        "english": "I want to know what I can realistically expect."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-b1b2-041",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather come in sooner if waiting is likely to make things worse.",
+    "portuguese": "Preferia vir mais cedo se esperar for provável deitar isto a perder.",
+    "pronunciationNote": "preh-feh-REE-ah veer mysh SEH-doo s esh-peh-RAR for proh-VAH-vel",
+    "grammarFocus": "conditional preference",
+    "notes": "Useful urgent booking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver esse risco, prefiro não adiar.",
+        "english": "If there is that risk, I would rather not delay it."
+      }
+    ],
+    "tags": ["health", "urgent"]
+  },
+  {
+    "id": "06-ha-b1b2-042",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I feel better than I did, but not well enough to say the problem has gone away.",
+    "portuguese": "Sinto-me melhor do que estava, mas não o suficiente para dizer que o problema desapareceu.",
+    "pronunciationNote": "SEEN-too-m meh-LYOR doo k esh-TAH-vah",
+    "grammarFocus": "partial improvement statement",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Houve progresso, mas ainda não estou bem.",
+        "english": "There has been progress, but I am still not well."
+      }
+    ],
+    "tags": ["health", "follow-up"]
+  },
+  {
+    "id": "06-ha-b1b2-043",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we go over the options in order of what is most effective and what is least disruptive?",
+    "portuguese": "Podíamos rever as opções pela ordem do que é mais eficaz e do que é menos perturbador?",
+    "pronunciationNote": "poo-DEE-ah-moosh heh-VER az ohp-SOYNSH PEH-lah OR-dem",
+    "grammarFocus": "option-comparison request",
+    "notes": "Useful treatment discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber melhor os prós e os contras.",
+        "english": "I want to understand the pros and cons better."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-044",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need to plan around this appointment, so it would help to know how long it is likely to take.",
+    "portuguese": "Preciso de planear este dia em função da consulta, por isso ajudava saber quanto tempo é provável demorar.",
+    "pronunciationNote": "preh-SEE-zoo d plah-neh-AR ESH-t DEE-ah eng foon-SAWN dah kohn-SOOL-tah",
+    "grammarFocus": "planning explanation",
+    "notes": "Useful appointment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se souber isso, organizo melhor o resto.",
+        "english": "If I know that, I can organise the rest better."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-b1b2-045",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have the impression that this gets worse when I am tired, but I cannot tell if that is the cause or just a trigger.",
+    "portuguese": "Tenho a impressão de que isto piora quando estou cansado, mas não sei se isso é a causa ou apenas um gatilho.",
+    "pronunciationNote": "TEN-yoo ah eem-press-SAWN d k EESH-too pee-OH-rah",
+    "grammarFocus": "uncertainty reasoning statement",
+    "notes": "Useful symptom analysis phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há um padrão, mas ainda não o percebo bem.",
+        "english": "There is a pattern, but I do not understand it properly yet."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-b1b2-046",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would appreciate advice that fits real life, not only the ideal case.",
+    "portuguese": "Agradecia conselhos que se adaptem à vida real, e não apenas ao caso ideal.",
+    "pronunciationNote": "ah-grah-deh-SEE-ah kohn-SAY-lyoosh k s ah-DAH-pteng ah VEE-dah heh-AL",
+    "grammarFocus": "preference statement",
+    "notes": "Useful practical treatment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a solução não for sustentável, é difícil segui-la.",
+        "english": "If the solution is not sustainable, it is hard to follow it."
+      }
+    ],
+    "tags": ["health", "treatment"]
+  },
+  {
+    "id": "06-ha-b1b2-047",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If this is something I need to manage long-term, I would rather start building the right habits now.",
+    "portuguese": "Se isto é algo que tenho de gerir a longo prazo, prefiro começar já a criar os hábitos certos.",
+    "pronunciationNote": "s EESH-too eh AL-goo k TEN-yoo d zheh-REER ah LON-goo PRAH-zoo",
+    "grammarFocus": "future-oriented condition",
+    "notes": "Useful long-term management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto mais cedo perceber isso, melhor me adapto.",
+        "english": "The sooner I understand that, the better I adapt."
+      }
+    ],
+    "tags": ["health", "management"]
+  },
+  {
+    "id": "06-ha-b1b2-048",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you clarify what would count as normal side effects and what would be a reason to stop?",
+    "portuguese": "Pode esclarecer o que conta como efeitos secundários normais e o que seria motivo para parar?",
+    "pronunciationNote": "POH-d esh-klah-reh-SHER oo k KON-tah KOH-moo eh-FAY-toosh seh-goon-DAH-ree-oosh",
+    "grammarFocus": "clarification question",
+    "notes": "Useful medication safety phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero saber distinguir uma reação esperada de um problema.",
+        "english": "I want to know how to distinguish an expected reaction from a problem."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-b1b2-049",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been trying to manage this on my own, but I think I need more structured help.",
+    "portuguese": "Tenho tentado gerir isto sozinho, mas acho que preciso de ajuda mais estruturada.",
+    "pronunciationNote": "TEN-yoo ten-TAH-doo zheh-REER EESH-too soo-ZEE-nyoo",
+    "grammarFocus": "admission statement",
+    "notes": "Useful support-seeking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Cheguei a um ponto em que já não me parece suficiente.",
+        "english": "I have reached a point where it no longer seems enough."
+      }
+    ],
+    "tags": ["health", "support"]
+  },
+  {
+    "id": "06-ha-b1b2-050",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thank you, that explanation makes the next steps much clearer.",
+    "portuguese": "Obrigado, essa explicação torna os próximos passos muito mais claros.",
+    "pronunciationNote": "oh-bree-GAH-doo EH-sah ex-plee-kah-SAWN TOR-nah oosh PROK-see-moosh PAH-soosh",
+    "grammarFocus": "result expression",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora já sei melhor como avançar.",
+        "english": "Now I know better how to move forward."
+      }
+    ],
+    "tags": ["health", "gratitude"]
+  }
+]

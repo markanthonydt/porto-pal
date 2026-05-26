@@ -1,0 +1,952 @@
+[
+  {
+    "id": "04-wdr-b1b2-001",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My mornings tend to be hectic, so I try to plan everything the night before.",
+    "portuguese": "As minhas manhãs costumam ser agitadas, por isso tento planear tudo na noite anterior.",
+    "pronunciationNote": "azh MEEN-yash mah-NYAHSH koosh-TOO-mahng sair ah-zhee-TAH-dash",
+    "grammarFocus": "habitual statement + purpose",
+    "notes": "Natural way to describe a demanding morning routine.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se deixar tudo pronto, o dia corre melhor.",
+        "english": "If I leave everything ready, the day goes better."
+      }
+    ],
+    "tags": ["routine", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-002",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I usually check what is urgent before I start replying to messages.",
+    "portuguese": "Costumo ver o que é urgente antes de começar a responder a mensagens.",
+    "pronunciationNote": "koosh-TOO-moo vair oo k eh oor-ZHEN-t",
+    "grammarFocus": "habitual statement + infinitive clause",
+    "notes": "Useful work organisation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim não perco tempo com coisas menos importantes.",
+        "english": "That way I do not waste time on less important things."
+      }
+    ],
+    "tags": ["work", "priority"]
+  },
+  {
+    "id": "04-wdr-b1b2-003",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been trying to keep my mornings free for focused work.",
+    "portuguese": "Tenho tentado deixar as manhãs livres para trabalho concentrado.",
+    "pronunciationNote": "TEN-yoo ten-TAH-doo day-SHAR az mah-NYAHSH LEE-vresh",
+    "grammarFocus": "ongoing effort expression",
+    "notes": "Useful productivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se me interrompem logo cedo, rendo menos.",
+        "english": "If people interrupt me early, I get less done."
+      }
+    ],
+    "tags": ["work", "focus"]
+  },
+  {
+    "id": "04-wdr-b1b2-004",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My schedule changed quite a bit once I started working remotely part of the week.",
+    "portuguese": "A minha rotina mudou bastante quando comecei a trabalhar remotamente parte da semana.",
+    "pronunciationNote": "ah MEEN-yah hoo-TEE-nah moo-DOH bash-TAHN-t",
+    "grammarFocus": "past change statement",
+    "notes": "Useful for hybrid work conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora organizo o tempo de outra forma.",
+        "english": "Now I organise my time differently."
+      }
+    ],
+    "tags": ["work", "remote"]
+  },
+  {
+    "id": "04-wdr-b1b2-005",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we move this meeting to later in the day so I can finish what I am doing first?",
+    "portuguese": "Podíamos passar esta reunião para mais tarde, para eu acabar primeiro o que estou a fazer?",
+    "pronunciationNote": "poo-DEE-ah-moosh pah-SAR ESH-tah reh-oo-nee-AWN",
+    "grammarFocus": "polite suggestion + purpose clause",
+    "notes": "Natural rescheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã estou completamente ocupado.",
+        "english": "In the morning I am completely busy."
+      }
+    ],
+    "tags": ["work", "meeting"]
+  },
+  {
+    "id": "04-wdr-b1b2-006",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I tend to be more productive when I deal with the hardest task first.",
+    "portuguese": "Tendo a ser mais produtivo quando trato primeiro da tarefa mais difícil.",
+    "pronunciationNote": "TEN-doo ah sair mysh proh-doo-TEE-voo",
+    "grammarFocus": "tendency statement",
+    "notes": "Useful for discussing work habits.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a deixar para o fim, já não tenho energia.",
+        "english": "If I leave it until the end, I no longer have energy."
+      }
+    ],
+    "tags": ["work", "habits"]
+  },
+  {
+    "id": "04-wdr-b1b2-007",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need a bit of quiet first thing in the morning before I can focus properly.",
+    "portuguese": "Preciso de algum silêncio logo de manhã antes de conseguir concentrar-me bem.",
+    "pronunciationNote": "preh-SEE-zoo d al-GOOM see-LEN-see-oo",
+    "grammarFocus": "need statement + ability clause",
+    "notes": "Natural routine preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver muito barulho, distraio-me facilmente.",
+        "english": "If there is too much noise, I get distracted easily."
+      }
+    ],
+    "tags": ["routine", "focus"]
+  },
+  {
+    "id": "04-wdr-b1b2-008",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Lately I have been trying to leave work on time instead of taking everything home with me.",
+    "portuguese": "Ultimamente tenho tentado sair do trabalho a horas, em vez de levar tudo comigo para casa.",
+    "pronunciationNote": "ool-tee-mah-MEN-t TEN-yoo ten-TAH-doo sah-EER doo trah-BAH-lyoo",
+    "grammarFocus": "recent habit change",
+    "notes": "Useful work-life balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de separar melhor as duas coisas.",
+        "english": "I need to separate the two things better."
+      }
+    ],
+    "tags": ["work", "balance"]
+  },
+  {
+    "id": "04-wdr-b1b2-009",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if I sent you a summary before the meeting?",
+    "portuguese": "Ajudava se eu lhe enviasse um resumo antes da reunião?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s ew ly en-vee-AH-s oo meh-ZOO-moo",
+    "grammarFocus": "conditional politeness",
+    "notes": "Useful collaborative work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim podíamos ir diretos ao assunto.",
+        "english": "That way we could go straight to the point."
+      }
+    ],
+    "tags": ["work", "communication"]
+  },
+  {
+    "id": "04-wdr-b1b2-010",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to build a routine that feels sustainable, not just efficient.",
+    "portuguese": "Estou a tentar criar uma rotina que seja sustentável, e não apenas eficiente.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kree-AR OO-mah hoo-TEE-nah",
+    "grammarFocus": "purposeful ongoing effort",
+    "notes": "Natural higher-level routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for demasiado intensa, não dura muito tempo.",
+        "english": "If it is too intense, it does not last very long."
+      }
+    ],
+    "tags": ["routine", "balance"]
+  },
+  {
+    "id": "04-wdr-b1b2-011",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "On the days I commute, I try to use the journey to catch up on reading.",
+    "portuguese": "Nos dias em que me desloco, tento aproveitar a viagem para pôr a leitura em dia.",
+    "pronunciationNote": "nooz DEE-ash eng k m dihzh-LOH-koo",
+    "grammarFocus": "relative clause + purpose",
+    "notes": "Useful commute habit phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, nunca arranjo tempo.",
+        "english": "Otherwise, I never find the time."
+      }
+    ],
+    "tags": ["commute", "reading"]
+  },
+  {
+    "id": "04-wdr-b1b2-012",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather start earlier and finish earlier than lose the whole evening.",
+    "portuguese": "Preferia começar mais cedo e acabar mais cedo do que perder a noite toda.",
+    "pronunciationNote": "preh-feh-REE-ah koh-meh-SAR mysh SEH-doo",
+    "grammarFocus": "comparative preference",
+    "notes": "Useful schedule preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim do dia já não rendo da mesma forma.",
+        "english": "At the end of the day I am no longer as productive."
+      }
+    ],
+    "tags": ["work", "schedule"]
+  },
+  {
+    "id": "04-wdr-b1b2-013",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we keep this short? I am between two tasks at the moment.",
+    "portuguese": "Podemos manter isto curto? Neste momento estou entre duas tarefas.",
+    "pronunciationNote": "poo-DEH-moosh mahn-TAIR EESH-too KOOR-too",
+    "grammarFocus": "polite limit-setting",
+    "notes": "Useful concise work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for rápido, consigo tratar disso agora.",
+        "english": "If it is quick, I can deal with it now."
+      }
+    ],
+    "tags": ["work", "time"]
+  },
+  {
+    "id": "04-wdr-b1b2-014",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been meaning to organise my afternoons better, because that is when my energy drops.",
+    "portuguese": "Ando a tentar organizar melhor as tardes, porque é nessa altura que a minha energia baixa.",
+    "pronunciationNote": "AHN-doo ah ten-TAR or-gah-nee-ZAR meh-LYOR az TAR-dz",
+    "grammarFocus": "ongoing intention statement",
+    "notes": "Natural routine reflection.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não planear bem, perco o ritmo.",
+        "english": "If I do not plan well, I lose momentum."
+      }
+    ],
+    "tags": ["routine", "energy"]
+  },
+  {
+    "id": "04-wdr-b1b2-015",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I normally batch similar tasks together so I do not keep switching all the time.",
+    "portuguese": "Normalmente junto tarefas parecidas para não estar sempre a mudar de contexto.",
+    "pronunciationNote": "nor-mahl-MEN-t ZHOON-too tah-REH-fash pah-reh-SEE-dash",
+    "grammarFocus": "habitual statement + purpose",
+    "notes": "Useful productivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo concentrar-me muito melhor.",
+        "english": "That way I can concentrate much better."
+      }
+    ],
+    "tags": ["work", "productivity"]
+  },
+  {
+    "id": "04-wdr-b1b2-016",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My day usually starts well, but it tends to get derailed once messages start coming in.",
+    "portuguese": "O meu dia costuma começar bem, mas tende a descarrilar quando começam a chegar mensagens.",
+    "pronunciationNote": "oo MEH-oo DEE-ah koosh-TOO-mah koh-meh-SAR bayng",
+    "grammarFocus": "habitual contrast",
+    "notes": "Useful to describe interruptions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois disso, é difícil recuperar o foco.",
+        "english": "After that, it is hard to get the focus back."
+      }
+    ],
+    "tags": ["work", "interruptions"]
+  },
+  {
+    "id": "04-wdr-b1b2-017",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I do not block time for admin, it ends up taking over the whole day.",
+    "portuguese": "Se não reservar tempo para tarefas administrativas, isso acaba por ocupar o dia todo.",
+    "pronunciationNote": "s nawng heh-zair-VAR TEM-poo pah-rah tah-REH-fash ahd-mee-neesh-trah-TEE-vash",
+    "grammarFocus": "conditional consequence",
+    "notes": "Useful work management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois já não consigo avançar no resto.",
+        "english": "After that I cannot move forward with the rest."
+      }
+    ],
+    "tags": ["work", "admin"]
+  },
+  {
+    "id": "04-wdr-b1b2-018",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try not to schedule anything important right after lunch, because I am slower then.",
+    "portuguese": "Tento não marcar nada importante logo depois de almoço, porque nessa altura sou mais lento.",
+    "pronunciationNote": "TEN-too nawng mar-KAR NAH-dah eem-por-TAHN-t",
+    "grammarFocus": "negative planning habit",
+    "notes": "Useful routine self-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro guardar esse tempo para tarefas mais simples.",
+        "english": "I prefer to keep that time for simpler tasks."
+      }
+    ],
+    "tags": ["routine", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-019",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have to be quite disciplined, otherwise the day disappears before I notice.",
+    "portuguese": "Tenho de ser bastante disciplinado, senão o dia desaparece antes de eu dar por isso.",
+    "pronunciationNote": "TEN-yoo d sair bash-TAHN-t deesh-see-plee-NAH-doo",
+    "grammarFocus": "necessity + consequence",
+    "notes": "Natural routine reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando reparo, já é fim da tarde.",
+        "english": "When I notice, it is already late afternoon."
+      }
+    ],
+    "tags": ["routine", "discipline"]
+  },
+  {
+    "id": "04-wdr-b1b2-020",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it make more sense to split this into two shorter sessions?",
+    "portuguese": "Faria mais sentido dividir isto em duas sessões mais curtas?",
+    "pronunciationNote": "fah-REE-ah mysh sen-TEE-doo dee-vee-DEER EESH-too",
+    "grammarFocus": "conditional suggestion",
+    "notes": "Useful planning phrase for work or study.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim talvez fosse mais fácil manter a atenção.",
+        "english": "That way it might be easier to keep attention."
+      }
+    ],
+    "tags": ["work", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-021",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more realistic about how much fits into one day.",
+    "portuguese": "Estou a tentar ser mais realista em relação ao que cabe num dia.",
+    "pronunciationNote": "esh-TOH ah ten-TAR sair mysh heh-ah-LEESH-tah",
+    "grammarFocus": "self-reflection statement",
+    "notes": "Useful planning and workload phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se ponho coisas a mais, depois fico frustrado.",
+        "english": "If I put too much in, I end up frustrated."
+      }
+    ],
+    "tags": ["routine", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-022",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need a routine that leaves me enough energy for the evening as well.",
+    "portuguese": "Preciso de uma rotina que também me deixe energia suficiente para a noite.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah hoo-TEE-nah",
+    "grammarFocus": "need statement + relative clause",
+    "notes": "Natural work-life balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se chego exausto a casa, não faço mais nada.",
+        "english": "If I get home exhausted, I do not do anything else."
+      }
+    ],
+    "tags": ["routine", "energy"]
+  },
+  {
+    "id": "04-wdr-b1b2-023",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you remind me later? I am trying not to interrupt what I am in the middle of.",
+    "portuguese": "Pode lembrar-me mais tarde? Estou a tentar não interromper o que tenho a meio.",
+    "pronunciationNote": "POH-d lemb-RAR-m mysh TAR-d",
+    "grammarFocus": "polite request + progressive",
+    "notes": "Useful focus-protection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se mudar agora, demoro a recuperar o ritmo.",
+        "english": "If I switch now, it takes me time to get my rhythm back."
+      }
+    ],
+    "tags": ["work", "focus"]
+  },
+  {
+    "id": "04-wdr-b1b2-024",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My evenings are much calmer if I prepare meals in advance.",
+    "portuguese": "As minhas noites são muito mais calmas se eu preparar refeições com antecedência.",
+    "pronunciationNote": "azh MEEN-yash NOY-tz sawn MWEEN-too mysh KAL-mash",
+    "grammarFocus": "conditional routine benefit",
+    "notes": "Useful household routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, acabo sempre por improvisar.",
+        "english": "Otherwise, I always end up improvising."
+      }
+    ],
+    "tags": ["home", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-025",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have started leaving small gaps between meetings so the day feels less rushed.",
+    "portuguese": "Comecei a deixar pequenos intervalos entre reuniões para o dia não parecer tão apressado.",
+    "pronunciationNote": "koh-meh-SAY ah day-SHAR peh-KEH-noosh een-ter-VAH-loosh",
+    "grammarFocus": "past change + purpose",
+    "notes": "Useful meeting-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes passava de uma coisa para a outra sem parar.",
+        "english": "Before, I went from one thing to the next without stopping."
+      }
+    ],
+    "tags": ["work", "meetings"]
+  },
+  {
+    "id": "04-wdr-b1b2-026",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I work better when I know exactly what I am expected to finish that day.",
+    "portuguese": "Trabalho melhor quando sei exatamente o que se espera que eu termine nesse dia.",
+    "pronunciationNote": "trah-BAH-lyoo meh-LYOR KWAN-doo SAY ee-zah-tah-MEN-t",
+    "grammarFocus": "relative clause with expectation",
+    "notes": "Useful clarity-at-work phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se o objetivo não estiver claro, disperso-me.",
+        "english": "If the goal is not clear, I lose focus."
+      }
+    ],
+    "tags": ["work", "clarity"]
+  },
+  {
+    "id": "04-wdr-b1b2-027",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather protect one solid hour for deep work than answer messages all morning.",
+    "portuguese": "Preferia guardar uma hora seguida para trabalho de fundo do que passar a manhã toda a responder a mensagens.",
+    "pronunciationNote": "preh-feh-REE-ah goo-AR-dar OO-mah OH-rah seh-GHEE-dah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful work preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se começo logo a responder, nunca entro no ritmo.",
+        "english": "If I start replying straight away, I never get into the flow."
+      }
+    ],
+    "tags": ["work", "focus"]
+  },
+  {
+    "id": "04-wdr-b1b2-028",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "By the end of the week I usually need a slower evening to recover.",
+    "portuguese": "No fim da semana, normalmente preciso de uma noite mais calma para recuperar.",
+    "pronunciationNote": "noo FEENG dah suh-MAH-nah nor-mahl-MEN-t preh-SEE-zoo",
+    "grammarFocus": "habitual need statement",
+    "notes": "Useful routine balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não parar um pouco, chego ao sábado sem energia.",
+        "english": "If I do not slow down a bit, I get to Saturday with no energy."
+      }
+    ],
+    "tags": ["routine", "rest"]
+  },
+  {
+    "id": "04-wdr-b1b2-029",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have realised that I sleep better if I stop looking at screens before bed.",
+    "portuguese": "Percebi que durmo melhor se deixar de olhar para ecrãs antes de me deitar.",
+    "pronunciationNote": "pair-seh-BEE k DOOR-moo meh-LYOR s day-SHAR",
+    "grammarFocus": "realisation + condition",
+    "notes": "Useful evening routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, demoro mais a adormecer.",
+        "english": "Otherwise, it takes me longer to fall asleep."
+      }
+    ],
+    "tags": ["sleep", "routine"]
+  },
+  {
+    "id": "04-wdr-b1b2-030",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to leave some unscheduled time in the afternoon in case something comes up.",
+    "portuguese": "Estou a tentar deixar algum tempo livre à tarde, caso apareça alguma coisa.",
+    "pronunciationNote": "esh-TOH ah ten-TAR day-SHAR al-GOOM TEM-poo LEE-vr ah TAR-d",
+    "grammarFocus": "purposeful flexibility",
+    "notes": "Useful scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se encho tudo, depois não tenho margem nenhuma.",
+        "english": "If I fill everything up, I have no room left."
+      }
+    ],
+    "tags": ["work", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-031",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you send that before lunch if possible? It will help me plan the afternoon.",
+    "portuguese": "Pode enviar isso antes de almoço, se possível? Isso ajuda-me a planear a tarde.",
+    "pronunciationNote": "POH-d en-vee-AR EE-soo AHN-tz d ahl-MOH-soo",
+    "grammarFocus": "polite request + purpose",
+    "notes": "Useful coordination phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se chegar depois, já me atrasa o resto.",
+        "english": "If it arrives later, it delays the rest for me."
+      }
+    ],
+    "tags": ["work", "coordination"]
+  },
+  {
+    "id": "04-wdr-b1b2-032",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What drains me most is not the workload itself, but the constant switching between tasks.",
+    "portuguese": "O que mais me desgasta não é o volume de trabalho em si, mas a mudança constante entre tarefas.",
+    "pronunciationNote": "oo k mysh m dihzh-GASH-tah nawng eh oo voh-LOO-m",
+    "grammarFocus": "contrastive explanation",
+    "notes": "Natural higher-level work reflection.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando consigo manter o foco, canso-me menos.",
+        "english": "When I can keep focus, I get less tired."
+      }
+    ],
+    "tags": ["work", "energy"]
+  },
+  {
+    "id": "04-wdr-b1b2-033",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try to keep the first hour of the day free from meetings whenever I can.",
+    "portuguese": "Tento manter a primeira hora do dia livre de reuniões sempre que posso.",
+    "pronunciationNote": "TEN-too mahn-TAIR ah pree-MAY-rah OH-rah doo DEE-ah",
+    "grammarFocus": "habitual effort statement",
+    "notes": "Useful productivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É a altura em que penso melhor.",
+        "english": "It is the time when I think best."
+      }
+    ],
+    "tags": ["work", "meetings"]
+  },
+  {
+    "id": "04-wdr-b1b2-034",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I am going to have a long day, I prefer to simplify dinner in advance.",
+    "portuguese": "Se vou ter um dia longo, prefiro simplificar o jantar com antecedência.",
+    "pronunciationNote": "s voh tair oom DEE-ah LON-goo preh-FEE-roo",
+    "grammarFocus": "conditional planning preference",
+    "notes": "Useful home routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim não chego a casa sem saber o que fazer.",
+        "english": "That way I do not get home without knowing what to do."
+      }
+    ],
+    "tags": ["home", "planning"]
+  },
+  {
+    "id": "04-wdr-b1b2-035",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not always manage it, but I try to finish the day with a clear desk and a clear plan.",
+    "portuguese": "Nem sempre consigo, mas tento acabar o dia com a secretária arrumada e um plano claro.",
+    "pronunciationNote": "nayng SEM-pr koo-SEE-goo mahsh TEN-too ah-kah-BAR",
+    "grammarFocus": "concession + habit",
+    "notes": "Useful work closing routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso ajuda-me a começar melhor no dia seguinte.",
+        "english": "That helps me start better the next day."
+      }
+    ],
+    "tags": ["work", "organisation"]
+  },
+  {
+    "id": "04-wdr-b1b2-036",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we agree on a rough deadline, so I can fit this into the rest of the week?",
+    "portuguese": "Podemos combinar um prazo aproximado, para eu encaixar isto no resto da semana?",
+    "pronunciationNote": "poo-DEH-moosh kohm-bee-NAR oom PRAH-zoh ah-prok-see-MAH-doo",
+    "grammarFocus": "planning request + purpose",
+    "notes": "Useful scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se souber até quando é, organizo-me melhor.",
+        "english": "If I know when it is for, I organise myself better."
+      }
+    ],
+    "tags": ["work", "deadline"]
+  },
+  {
+    "id": "04-wdr-b1b2-037",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "These days I have been trying to build in short walks so I do not spend the whole day sitting down.",
+    "portuguese": "Ultimamente tenho tentado incluir pequenas caminhadas para não passar o dia todo sentado.",
+    "pronunciationNote": "ool-tee-mah-MEN-t TEN-yoo ten-TAH-doo een-kloo-EER",
+    "grammarFocus": "recent habit change",
+    "notes": "Useful health-oriented routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não me mexer, fico sem energia.",
+        "english": "If I do not move, I end up with no energy."
+      }
+    ],
+    "tags": ["routine", "health"]
+  },
+  {
+    "id": "04-wdr-b1b2-038",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "By the time I get home, I usually need half an hour to switch off properly.",
+    "portuguese": "Quando chego a casa, normalmente preciso de meia hora para desligar a sério.",
+    "pronunciationNote": "KWAN-doo SHEH-goo ah KAH-zah nor-mahl-MEN-t preh-SEE-zoo",
+    "grammarFocus": "habitual need statement",
+    "notes": "Useful evening routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não fizer essa transição, continuo com a cabeça no trabalho.",
+        "english": "If I do not make that transition, I keep my mind on work."
+      }
+    ],
+    "tags": ["routine", "evening"]
+  },
+  {
+    "id": "04-wdr-b1b2-039",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying not to let small interruptions dictate the whole structure of the day.",
+    "portuguese": "Estou a tentar não deixar que pequenas interrupções ditem a estrutura do dia todo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nawng day-SHAR k peh-KEH-nash een-ter-roop-SOYNSH",
+    "grammarFocus": "negative control statement",
+    "notes": "Useful work boundaries phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se digo sempre que sim, perco o rumo.",
+        "english": "If I always say yes, I lose direction."
+      }
+    ],
+    "tags": ["work", "boundaries"]
+  },
+  {
+    "id": "04-wdr-b1b2-040",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If possible, I would like to reserve Friday afternoon for wrapping things up.",
+    "portuguese": "Se possível, gostava de reservar a sexta-feira à tarde para fechar assuntos.",
+    "pronunciationNote": "s poo-SEE-vel goosh-TAH-vah d heh-zair-VAR ah SAYSH-tah-FAY-rah",
+    "grammarFocus": "polite preference",
+    "notes": "Useful end-of-week planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ajuda-me a entrar na semana seguinte com menos pendentes.",
+        "english": "It helps me go into the next week with fewer loose ends."
+      }
+    ],
+    "tags": ["work", "week"]
+  },
+  {
+    "id": "04-wdr-b1b2-041",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have noticed that my day goes more smoothly if I decide my top priorities in advance.",
+    "portuguese": "Tenho reparado que o meu dia corre melhor se decidir as prioridades principais com antecedência.",
+    "pronunciationNote": "TEN-yoo heh-pah-RAH-doo k oo MEH-oo DEE-ah KOH-rr meh-LYOR",
+    "grammarFocus": "observation + condition",
+    "notes": "Useful planning reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Caso contrário, reajo em vez de decidir.",
+        "english": "Otherwise, I react instead of deciding."
+      }
+    ],
+    "tags": ["work", "priorities"]
+  },
+  {
+    "id": "04-wdr-b1b2-042",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather not book anything first thing on Monday while I am still getting organised.",
+    "portuguese": "Preferia não marcar nada para a primeira hora de segunda-feira, enquanto me organizo.",
+    "pronunciationNote": "preh-feh-REE-ah nawng mar-KAR NAH-dah pah-rah ah pree-MAY-rah OH-rah",
+    "grammarFocus": "negative preference + while clause",
+    "notes": "Useful weekly planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso desse tempo para ganhar ritmo.",
+        "english": "I need that time to get into the flow."
+      }
+    ],
+    "tags": ["work", "week"]
+  },
+  {
+    "id": "04-wdr-b1b2-043",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Once I have done the shopping and the cooking, the rest of the evening feels much lighter.",
+    "portuguese": "Depois de tratar das compras e do jantar, o resto da noite parece muito mais leve.",
+    "pronunciationNote": "deh-POYSH d trah-TAR dash KOHM-prash ee doo zhan-TAR",
+    "grammarFocus": "after-clause result",
+    "notes": "Useful home routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim consigo descansar sem estar a pensar no que falta.",
+        "english": "That way I can rest without thinking about what is left."
+      }
+    ],
+    "tags": ["home", "evening"]
+  },
+  {
+    "id": "04-wdr-b1b2-044",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know sooner next time? It affects how I structure the rest of the day.",
+    "portuguese": "Pode avisar-me mais cedo da próxima vez? Isso afeta a forma como organizo o resto do dia.",
+    "pronunciationNote": "POH-d ah-vee-ZAR-m mysh SEH-doo dah PROK-see-mah VEZH",
+    "grammarFocus": "polite feedback request",
+    "notes": "Useful coordination phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se souber com antecedência, adapto-me melhor.",
+        "english": "If I know in advance, I adapt better."
+      }
+    ],
+    "tags": ["work", "communication"]
+  },
+  {
+    "id": "04-wdr-b1b2-045",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to make my routine more consistent, even when the workload changes.",
+    "portuguese": "Estou a tentar tornar a minha rotina mais consistente, mesmo quando a carga de trabalho muda.",
+    "pronunciationNote": "esh-TOH ah ten-TAR tor-NAR ah MEEN-yah hoo-TEE-nah",
+    "grammarFocus": "ongoing improvement statement",
+    "notes": "Useful routine-development phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo muda todos os dias, sinto-me mais disperso.",
+        "english": "If everything changes every day, I feel more scattered."
+      }
+    ],
+    "tags": ["routine", "consistency"]
+  },
+  {
+    "id": "04-wdr-b1b2-046",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I only realised how much time the commute was taking once I started tracking it properly.",
+    "portuguese": "Só percebi quanto tempo a deslocação me tirava quando comecei a medir isso a sério.",
+    "pronunciationNote": "SOH pair-seh-BEE KWAN-too TEM-poo ah dihzh-loh-kah-SAWN",
+    "grammarFocus": "realisation in the past",
+    "notes": "Useful routine reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora tento aproveitar melhor esse tempo.",
+        "english": "Now I try to use that time better."
+      }
+    ],
+    "tags": ["commute", "time"]
+  },
+  {
+    "id": "04-wdr-b1b2-047",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier if we fixed a regular time instead of arranging it each week?",
+    "portuguese": "Seria mais fácil se definíssemos um horário fixo em vez de combinar isso todas as semanas?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel s deh-fee-NEE-seh-moosh",
+    "grammarFocus": "conditional suggestion",
+    "notes": "Useful recurring meeting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim poupávamos tempo e evitávamos trocas de mensagens.",
+        "english": "That way we would save time and avoid message exchanges."
+      }
+    ],
+    "tags": ["work", "schedule"]
+  },
+  {
+    "id": "04-wdr-b1b2-048",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try not to end the day with anything too mentally heavy, or I find it hard to sleep.",
+    "portuguese": "Tento não acabar o dia com nada demasiado exigente mentalmente, senão custa-me dormir.",
+    "pronunciationNote": "TEN-too nawng ah-kah-BAR oo DEE-ah kohm NAH-dah deh-mah-ZYAH-doo",
+    "grammarFocus": "negative habit + consequence",
+    "notes": "Useful evening balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro deixar esse tipo de trabalho para mais cedo.",
+        "english": "I prefer to leave that kind of work for earlier."
+      }
+    ],
+    "tags": ["routine", "sleep"]
+  },
+  {
+    "id": "04-wdr-b1b2-049",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "At this stage, I am less interested in doing more and more interested in doing things with less friction.",
+    "portuguese": "Nesta fase, interessa-me menos fazer mais e mais fazer as coisas com menos fricção.",
+    "pronunciationNote": "NESH-tah FAH-z in-teh-REH-sah-m MEN-oosh fah-ZER mysh",
+    "grammarFocus": "comparative preference statement",
+    "notes": "Natural higher-level productivity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero uma rotina que funcione sem tanto esforço.",
+        "english": "I want a routine that works without so much effort."
+      }
+    ],
+    "tags": ["routine", "productivity"]
+  },
+  {
+    "id": "04-wdr-b1b2-050",
+    "subject": "Work & Daily Routine",
+    "subjectId": "work-daily-routine",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "When the routine is working well, the whole week feels lighter and more manageable.",
+    "portuguese": "Quando a rotina está a funcionar bem, a semana inteira parece mais leve e mais fácil de gerir.",
+    "pronunciationNote": "KWAN-doo ah hoo-TEE-nah esh-TAH ah foon-see-oh-NAR bayng",
+    "grammarFocus": "result statement",
+    "notes": "Natural summary phrase about routine success.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fundo, é isso que eu tento construir.",
+        "english": "In the end, that is what I am trying to build."
+      }
+    ],
+    "tags": ["routine", "balance"]
+  }
+]

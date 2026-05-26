@@ -1,0 +1,952 @@
+[
+  {
+    "id": "03-td-b1b2-001",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me the quickest way to the airport at this time of day?",
+    "portuguese": "Podia dizer-me qual é o caminho mais rápido para o aeroporto a esta hora?",
+    "pronunciationNote": "POH-dee-ah dee-ZAIR-m kwahl eh oo kah-MEE-nyoo mysh HAH-pee-doo",
+    "grammarFocus": "superlative route question",
+    "notes": "Natural travel planning question.",
+    "exampleSentences": [
+      {
+        "portuguese": "A esta hora, é melhor ir de metro ou de táxi?",
+        "english": "At this time, is it better to go by metro or by taxi?"
+      }
+    ],
+    "tags": ["airport", "route", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-002",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there a route that avoids the heaviest traffic?",
+    "portuguese": "Há algum caminho que evite o trânsito mais intenso?",
+    "pronunciationNote": "AH al-GOOM kah-MEE-nyoo k eh-VEE-t oo TRAN-zit mysh een-TEN-soo",
+    "grammarFocus": "subjunctive-like relative clause",
+    "notes": "Useful in taxis or driving conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria evitar a zona com mais trânsito.",
+        "english": "I wanted to avoid the area with the most traffic."
+      }
+    ],
+    "tags": ["traffic", "route"]
+  },
+  {
+    "id": "03-td-b1b2-003",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier to explain it using landmarks?",
+    "portuguese": "Seria mais fácil explicar isso com pontos de referência?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel ex-plee-KAR EE-soo kohng PON-toosh d reh-feh-REN-see-ah",
+    "grammarFocus": "conditional politeness",
+    "notes": "Useful when directions are complex.",
+    "exampleSentences": [
+      {
+        "portuguese": "Perco-me mais facilmente com nomes de ruas.",
+        "english": "I get lost more easily with street names."
+      }
+    ],
+    "tags": ["directions", "clarification"]
+  },
+  {
+    "id": "03-td-b1b2-004",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think I may have taken the wrong turn.",
+    "portuguese": "Acho que devo ter virado no sítio errado.",
+    "pronunciationNote": "AH-shoo k DEH-voo tair vee-RAH-doo noo SEE-tee-oo eh-RAH-doo",
+    "grammarFocus": "probability in the past",
+    "notes": "Natural self-correction while navigating.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se calhar apanhei a saída errada.",
+        "english": "Maybe I took the wrong exit."
+      }
+    ],
+    "tags": ["mistake", "navigation"]
+  },
+  {
+    "id": "03-td-b1b2-005",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you point it out on the map rather than explain it verbally?",
+    "portuguese": "Podia mostrar-me no mapa em vez de explicar só por palavras?",
+    "pronunciationNote": "POH-dee-ah moosh-TRAR-m noo MAH-pah eng VEZH d ex-plee-KAR soh poor pah-LAH-vrash",
+    "grammarFocus": "preference alternative",
+    "notes": "Useful when spoken directions are too fast.",
+    "exampleSentences": [
+      {
+        "portuguese": "Visualmente percebo melhor.",
+        "english": "I understand better visually."
+      }
+    ],
+    "tags": ["map", "clarification"]
+  },
+  {
+    "id": "03-td-b1b2-006",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Does this train stop at all stations or only the main ones?",
+    "portuguese": "Este comboio pára em todas as estações ou só nas principais?",
+    "pronunciationNote": "ESH-t kohm-BOY-oo PAH-rah eng TOH-dash az esh-tah-SOYN-sh",
+    "grammarFocus": "alternative question",
+    "notes": "Useful when travelling outside major cities.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria saber se é um serviço direto.",
+        "english": "I wanted to know if it is a direct service."
+      }
+    ],
+    "tags": ["train", "question"]
+  },
+  {
+    "id": "03-td-b1b2-007",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do I need to validate the ticket before boarding?",
+    "portuguese": "É preciso validar o bilhete antes de entrar?",
+    "pronunciationNote": "EH preh-SEE-zoo vah-lee-DAR oo bee-LYEH-t AHN-tish d en-TRAR",
+    "grammarFocus": "necessity question",
+    "notes": "Useful for metro, trams, and buses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero apanhar uma multa por engano.",
+        "english": "I do not want to get a fine by mistake."
+      }
+    ],
+    "tags": ["ticket", "rules"]
+  },
+  {
+    "id": "03-td-b1b2-008",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know when we are getting close to the stop?",
+    "portuguese": "Pode avisar-me quando estivermos perto da paragem?",
+    "pronunciationNote": "POH-d ah-vee-ZAR-m KWAN-doo esh-tee-VER-moosh PER-too dah pah-RAH-zhem",
+    "grammarFocus": "future subjunctive-like clause",
+    "notes": "Useful on unfamiliar buses or trams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho medo de passar da minha paragem.",
+        "english": "I am afraid of missing my stop."
+      }
+    ],
+    "tags": ["bus", "help"]
+  },
+  {
+    "id": "03-td-b1b2-009",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather avoid changing lines if possible.",
+    "portuguese": "Preferia evitar mudar de linha, se possível.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR moo-DAR d LEEN-yah si poh-SEE-vel",
+    "grammarFocus": "avoidance preference",
+    "notes": "Useful if carrying bags or travelling tired.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver um percurso mais simples, melhor.",
+        "english": "If there is a simpler route, even better."
+      }
+    ],
+    "tags": ["metro", "preference"]
+  },
+  {
+    "id": "03-td-b1b2-010",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you recommend walking or taking public transport?",
+    "portuguese": "Recomenda ir a pé ou de transportes públicos?",
+    "pronunciationNote": "reh-koh-MEN-dah eer ah PEH ow d trahn-SPOR-tesh POO-blee-koosh",
+    "grammarFocus": "recommendation question",
+    "notes": "Useful in historic city centres.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for perto, prefiro ir a pé.",
+        "english": "If it is near, I prefer to walk."
+      }
+    ],
+    "tags": ["walking", "transport"]
+  },
+  {
+    "id": "03-td-b1b2-011",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there a way to get there without going through the centre?",
+    "portuguese": "Há maneira de lá chegar sem passar pelo centro?",
+    "pronunciationNote": "AH mah-NAY-rah d lah sheh-GAR sayng pah-SAR PEH-loo SEN-troo",
+    "grammarFocus": "route alternative question",
+    "notes": "Useful when avoiding crowds or traffic.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria evitar a zona mais movimentada.",
+        "english": "I wanted to avoid the busiest area."
+      }
+    ],
+    "tags": ["route", "city"]
+  },
+  {
+    "id": "03-td-b1b2-012",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you write the address down so I do not get it wrong?",
+    "portuguese": "Podia escrever a morada para eu não me enganar?",
+    "pronunciationNote": "POH-dee-ah esh-kreh-VER ah moo-RAH-dah pah-r ew nawng m en-gah-NYAR",
+    "grammarFocus": "purpose clause",
+    "notes": "Very useful for taxis and hotels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim posso mostrar ao motorista.",
+        "english": "That way I can show it to the driver."
+      }
+    ],
+    "tags": ["address", "request"]
+  },
+  {
+    "id": "03-td-b1b2-013",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We seem to be heading in the wrong direction.",
+    "portuguese": "Parece que estamos a ir na direção errada.",
+    "pronunciationNote": "pah-REH-s k esh-TAH-moosh ah eer nah dee-reh-SAWN eh-RAH-dah",
+    "grammarFocus": "progressive movement statement",
+    "notes": "Useful in taxis, rideshares, or on foot.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, acho que estamos a afastar-nos.",
+        "english": "Sorry, I think we are moving away from it."
+      }
+    ],
+    "tags": ["problem", "route"]
+  },
+  {
+    "id": "03-td-b1b2-014",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you drop me off somewhere with less traffic?",
+    "portuguese": "Podia deixar-me num sítio com menos trânsito?",
+    "pronunciationNote": "POH-dee-ah day-SHAR-m noo SEE-tee-oo kohng MEN-oosh TRAN-zit",
+    "grammarFocus": "drop-off request",
+    "notes": "Useful near stations or event areas.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso andar o resto a pé.",
+        "english": "I can walk the rest of the way."
+      }
+    ],
+    "tags": ["taxi", "traffic"]
+  },
+  {
+    "id": "03-td-b1b2-015",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "How reliable is this bus route at rush hour?",
+    "portuguese": "Até que ponto esta linha de autocarro é fiável na hora de ponta?",
+    "pronunciationNote": "ah-TEH k PON-too ESH-tah LEEN-yah d ow-too-KAH-roo eh fee-AH-vel",
+    "grammarFocus": "evaluation question",
+    "notes": "Useful when planning commutes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se costuma atrasar-se, talvez vá de metro.",
+        "english": "If it is usually delayed, maybe I will go by metro."
+      }
+    ],
+    "tags": ["bus", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-016",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not sure whether this is the right platform.",
+    "portuguese": "Não tenho a certeza de que esta seja a plataforma certa.",
+    "pronunciationNote": "nawng TEN-yoo ah sair-TEH-zah d k ESH-tah ZHAY-zhah ah plah-tah-FOR-mah SER-tah",
+    "grammarFocus": "certainty expression + subjunctive",
+    "notes": "Useful in stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode confirmar se este é o cais certo?",
+        "english": "Can you confirm if this is the right platform?"
+      }
+    ],
+    "tags": ["station", "uncertainty"]
+  },
+  {
+    "id": "03-td-b1b2-017",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Has the departure time changed?",
+    "portuguese": "A hora de partida mudou?",
+    "pronunciationNote": "ah OR-ah d par-TEE-dah moo-DOH",
+    "grammarFocus": "past event question",
+    "notes": "Useful if a board looks inconsistent.",
+    "exampleSentences": [
+      {
+        "portuguese": "No painel aparece uma hora diferente.",
+        "english": "A different time appears on the board."
+      }
+    ],
+    "tags": ["departure", "station"]
+  },
+  {
+    "id": "03-td-b1b2-018",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there usually enough time to make the connection?",
+    "portuguese": "Costuma haver tempo suficiente para fazer a ligação?",
+    "pronunciationNote": "koosh-TOO-mah ah-VAIR TEM-poo soo-fee-see-EN-t pah-r fah-ZAIR ah lee-gah-SAWN",
+    "grammarFocus": "habitual question",
+    "notes": "Useful on longer journeys.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria perder o segundo comboio.",
+        "english": "I did not want to miss the second train."
+      }
+    ],
+    "tags": ["connection", "train"]
+  },
+  {
+    "id": "03-td-b1b2-019",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it make sense to buy the ticket online instead?",
+    "portuguese": "Faz sentido comprar o bilhete online em vez disso?",
+    "pronunciationNote": "faz sen-TEE-doo kohm-PRAR oo bee-LYEH-t on-LINE eng VEZH dee-soo",
+    "grammarFocus": "opinion question",
+    "notes": "Useful for trains and long-distance buses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for mais barato, prefiro fazer isso.",
+        "english": "If it is cheaper, I would rather do that."
+      }
+    ],
+    "tags": ["ticket", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-020",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do I need to print it out or is the phone enough?",
+    "portuguese": "Preciso de imprimir ou basta mostrar no telemóvel?",
+    "pronunciationNote": "preh-SEE-zoo d eem-pree-MEER ow BASH-tah moosh-TRAR noo teh-leh-MOH-vel",
+    "grammarFocus": "alternative question",
+    "notes": "Useful for digital tickets.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho o código no telemóvel.",
+        "english": "I have the code on my phone."
+      }
+    ],
+    "tags": ["ticket", "digital"]
+  },
+  {
+    "id": "03-td-b1b2-021",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me whether this road is safe to walk at night?",
+    "portuguese": "Podia dizer-me se esta rua é segura para andar à noite?",
+    "pronunciationNote": "POH-dee-ah dee-ZAIR-m si ESH-tah ROO-ah eh seh-GOO-rah pah-r ahn-DAR ah NOY-t",
+    "grammarFocus": "safety question",
+    "notes": "Useful in unfamiliar places.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não for, prefiro chamar um táxi.",
+        "english": "If not, I would rather call a taxi."
+      }
+    ],
+    "tags": ["safety", "walking"]
+  },
+  {
+    "id": "03-td-b1b2-022",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather stay somewhere well connected by public transport.",
+    "portuguese": "Preferia ficar num sítio bem servido de transportes públicos.",
+    "pronunciationNote": "preh-feh-REE-ah fee-KAR noom SEE-tee-oo bayng sair-VEE-doo d trahn-SPOR-tesh POO-blee-koosh",
+    "grammarFocus": "preference statement",
+    "notes": "Useful when choosing accommodation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim é mais fácil deslocar-me pela cidade.",
+        "english": "That way it is easier to get around the city."
+      }
+    ],
+    "tags": ["hotel", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-023",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me which neighbourhood would be most convenient?",
+    "portuguese": "Pode dizer-me que bairro seria mais prático?",
+    "pronunciationNote": "POH-d dee-ZAIR-m k BAI-roo seh-REE-ah mysh PRAH-tee-koo",
+    "grammarFocus": "comparative convenience question",
+    "notes": "Useful before booking a stay.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ficar perto dos transportes e do centro.",
+        "english": "I wanted to stay near transport and the centre."
+      }
+    ],
+    "tags": ["neighbourhood", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-024",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to store the luggage until the evening?",
+    "portuguese": "Seria possível guardar a bagagem até ao fim da tarde?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel goo-AR-dar ah bah-GAH-zhem ah-TEH ow FEENG dah TAR-d",
+    "grammarFocus": "conditional hotel request",
+    "notes": "Useful after checkout.",
+    "exampleSentences": [
+      {
+        "portuguese": "O meu voo só sai à noite.",
+        "english": "My flight only leaves at night."
+      }
+    ],
+    "tags": ["hotel", "luggage"]
+  },
+  {
+    "id": "03-td-b1b2-025",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to work out whether I can do this as a day trip.",
+    "portuguese": "Estou a tentar perceber se dá para fazer isto num bate-volta.",
+    "pronunciationNote": "esh-TOH ah ten-TAR pair-seh-BER si DAH pah-r fah-ZAIR EESH-too noom BAH-t vol-tah",
+    "grammarFocus": "progressive reasoning phrase",
+    "notes": "Useful when planning outings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ir e voltar no mesmo dia.",
+        "english": "I wanted to go and come back the same day."
+      }
+    ],
+    "tags": ["planning", "day-trip"]
+  },
+  {
+    "id": "03-td-b1b2-026",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "How early would you recommend getting to the airport?",
+    "portuguese": "Com quanta antecedência recomenda chegar ao aeroporto?",
+    "pronunciationNote": "kohm KWAN-tah ahn-teh-seh-DEN-see-ah reh-koh-MEN-dah sheh-GAR ow ah-eh-roo-POR-too",
+    "grammarFocus": "time planning question",
+    "notes": "Useful before flights.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero arriscar perder o voo.",
+        "english": "I do not want to risk missing the flight."
+      }
+    ],
+    "tags": ["airport", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-027",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there much difference in price between a taxi and a transfer?",
+    "portuguese": "Há muita diferença de preço entre um táxi e um transfer?",
+    "pronunciationNote": "AH MWEEN-tah dee-feh-REN-sah d PREH-soo EN-tr oom TAHK-see ee oom TRAN-sfer",
+    "grammarFocus": "comparison question",
+    "notes": "Useful when travelling to airports or resorts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se a diferença for pequena, prefiro o mais simples.",
+        "english": "If the difference is small, I prefer the simpler option."
+      }
+    ],
+    "tags": ["taxi", "price"]
+  },
+  {
+    "id": "03-td-b1b2-028",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be better to get off one stop earlier?",
+    "portuguese": "Seria melhor sair uma paragem antes?",
+    "pronunciationNote": "seh-REE-ah meh-LYOR sah-EER OO-mah pah-RAH-zhem AHN-tish",
+    "grammarFocus": "comparative suggestion",
+    "notes": "Useful if the route is unclear.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evitava dar a volta.",
+        "english": "That way I would avoid going around."
+      }
+    ],
+    "tags": ["bus", "route"]
+  },
+  {
+    "id": "03-td-b1b2-029",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not mind walking, as long as it is not too steep.",
+    "portuguese": "Não me importo de ir a pé, desde que não seja demasiado inclinado.",
+    "pronunciationNote": "nawng m em-POR-too d eer ah PEH dezh-d k nawng SAY-zhah deh-mah-ZYAH-doo een-klee-NAH-doo",
+    "grammarFocus": "condition clause",
+    "notes": "Useful in hilly cities like Lisbon.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for muito a subir, prefiro apanhar o elétrico.",
+        "english": "If it is too uphill, I would rather take the tram."
+      }
+    ],
+    "tags": ["walking", "preference"]
+  },
+  {
+    "id": "03-td-b1b2-030",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had not realised the last bus was this early.",
+    "portuguese": "Não tinha percebido que o último autocarro era tão cedo.",
+    "pronunciationNote": "nawng TEEN-yah pair-seh-BEE-doo k oo OOL-tee-m ow-too-KAH-roo EH-rah tawng SEH-doo",
+    "grammarFocus": "past perfect-style statement",
+    "notes": "Useful when plans go wrong.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora tenho de arranjar outra maneira de voltar.",
+        "english": "Now I need to find another way back."
+      }
+    ],
+    "tags": ["problem", "transport"]
+  },
+  {
+    "id": "03-td-b1b2-031",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do delays happen often on this route?",
+    "portuguese": "Há atrasos frequentes neste percurso?",
+    "pronunciationNote": "AH ah-TRAH-zoosh freh-KWEN-tesh NESH-t pair-KOOR-soo",
+    "grammarFocus": "frequency question",
+    "notes": "Useful for work trips or airport travel.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de chegar a horas.",
+        "english": "I need to arrive on time."
+      }
+    ],
+    "tags": ["delay", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-032",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know if this street is closed to traffic today?",
+    "portuguese": "Pode dizer-me se esta rua está fechada ao trânsito hoje?",
+    "pronunciationNote": "POH-d dee-ZAIR-m si ESH-tah ROO-ah esh-TAH feh-SHAH-dah ow TRAN-zit OY-zhe",
+    "grammarFocus": "current condition question",
+    "notes": "Useful during events or road works.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiver fechada, tenho de mudar o percurso.",
+        "english": "If it is closed, I need to change the route."
+      }
+    ],
+    "tags": ["traffic", "city"]
+  },
+  {
+    "id": "03-td-b1b2-033",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to avoid carrying the suitcase up too many stairs.",
+    "portuguese": "Estou a tentar evitar subir demasiadas escadas com a mala.",
+    "pronunciationNote": "esh-TOH ah ten-TAR eh-vee-TAR soo-BEER deh-mah-ZYAH-dash esh-KAH-dash kohm ah MAH-lah",
+    "grammarFocus": "avoidance statement",
+    "notes": "Useful in stations and accommodation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver elevador, melhor.",
+        "english": "If there is a lift, even better."
+      }
+    ],
+    "tags": ["luggage", "station"]
+  },
+  {
+    "id": "03-td-b1b2-034",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this area is central enough for sightseeing?",
+    "portuguese": "Diria que esta zona é suficientemente central para visitar a cidade?",
+    "pronunciationNote": "dee-REE-ah k ESH-tah ZOH-nah eh soo-fee-see-EN-teh-MEN-t sen-TRAL",
+    "grammarFocus": "opinion question",
+    "notes": "Useful when choosing where to stay.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria evitar perder muito tempo em deslocações.",
+        "english": "I wanted to avoid losing too much time in transit."
+      }
+    ],
+    "tags": ["hotel", "city"]
+  },
+  {
+    "id": "03-td-b1b2-035",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you suggest a scenic route rather than the fastest one?",
+    "portuguese": "Pode sugerir um caminho mais bonito em vez do mais rápido?",
+    "pronunciationNote": "POH-d soo-zheh-REER oom kah-MEE-nyoo mysh boh-NEE-too eng VEZH doo mysh HAH-pee-doo",
+    "grammarFocus": "contrastive preference",
+    "notes": "Useful for sightseeing walks or drives.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje não tenho pressa, queria aproveitar a vista.",
+        "english": "Today I am not in a hurry, I wanted to enjoy the view."
+      }
+    ],
+    "tags": ["sightseeing", "route"]
+  },
+  {
+    "id": "03-td-b1b2-036",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you happen to know whether there is a shuttle from here?",
+    "portuguese": "Por acaso sabe se há um shuttle daqui?",
+    "pronunciationNote": "poor ah-KAH-zoo SAH-b si AH oom SHUT-tel dah-KEE",
+    "grammarFocus": "softened information question",
+    "notes": "Useful at hotels, airports, and large venues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver, talvez seja mais prático.",
+        "english": "If there is, that might be more convenient."
+      }
+    ],
+    "tags": ["shuttle", "question"]
+  },
+  {
+    "id": "03-td-b1b2-037",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather wait somewhere sheltered if the bus is delayed.",
+    "portuguese": "Preferia esperar num sítio abrigado se o autocarro se atrasar.",
+    "pronunciationNote": "preh-feh-REE-ah esh-peh-RAR noom SEE-tee-oo ah-bree-GAH-doo si oo ow-too-KAH-roo s ah-trah-ZAR",
+    "grammarFocus": "conditional preference",
+    "notes": "Useful in bad weather.",
+    "exampleSentences": [
+      {
+        "portuguese": "Está a chover e não há cobertura aqui.",
+        "english": "It is raining and there is no cover here."
+      }
+    ],
+    "tags": ["weather", "bus"]
+  },
+  {
+    "id": "03-td-b1b2-038",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain how the travel card works?",
+    "portuguese": "Pode explicar-me como funciona o passe?",
+    "pronunciationNote": "POH-d ex-plee-KAR-m KOH-moo foon-see-OH-nah oo PAH-s",
+    "grammarFocus": "how-it-works question",
+    "notes": "Useful in cities with transport cards.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria saber como se carrega e valida.",
+        "english": "I wanted to know how to top it up and validate it."
+      }
+    ],
+    "tags": ["transport-card", "question"]
+  },
+  {
+    "id": "03-td-b1b2-039",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is this pass valid for buses, trams, and the metro as well?",
+    "portuguese": "Este passe também é válido para autocarros, elétricos e metro?",
+    "pronunciationNote": "ESH-t PAH-s tam-BAYNG eh VAH-lee-doo pah-r ow-too-KAH-roosh eh-LEH-tree-koosh ee MEH-troo",
+    "grammarFocus": "validity question",
+    "notes": "Useful in Lisbon and Porto.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria comprar bilhetes separados sem necessidade.",
+        "english": "I did not want to buy separate tickets unnecessarily."
+      }
+    ],
+    "tags": ["transport-card", "ticket"]
+  },
+  {
+    "id": "03-td-b1b2-040",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind slowing down a bit? I am trying to follow the route.",
+    "portuguese": "Importa-se de ir um pouco mais devagar? Estou a tentar seguir o caminho.",
+    "pronunciationNote": "eem-POR-tah-sih d eer oom POH-koo mysh dev-ah-GAR esh-TOH ah ten-TAR seh-GEER oo kah-MEE-nyoo",
+    "grammarFocus": "polite request + progressive",
+    "notes": "Useful in a car or guided context.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria perceber melhor por onde estamos a passar.",
+        "english": "I wanted to understand better where we are going through."
+      }
+    ],
+    "tags": ["car", "request"]
+  },
+  {
+    "id": "03-td-b1b2-041",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am afraid I have gone too far.",
+    "portuguese": "Receio ter ido longe de mais.",
+    "pronunciationNote": "reh-SAY-oo tair EE-doo LON-zh d mysh",
+    "grammarFocus": "perfect infinitive after emotion",
+    "notes": "Useful when you suspect you have missed your stop.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez tenhamos de voltar para trás.",
+        "english": "Maybe we need to go back."
+      }
+    ],
+    "tags": ["mistake", "route"]
+  },
+  {
+    "id": "03-td-b1b2-042",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be easier to start from the other side of the river?",
+    "portuguese": "Seria mais fácil começar do outro lado do rio?",
+    "pronunciationNote": "seh-REE-ah mysh FAH-seel koh-meh-SAR doo OH-troo LAH-doo doo HEE-oo",
+    "grammarFocus": "comparative route planning",
+    "notes": "Useful in Lisbon or Porto.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for assim, apanhamos primeiro o barco.",
+        "english": "If so, we will take the boat first."
+      }
+    ],
+    "tags": ["river", "planning"]
+  },
+  {
+    "id": "03-td-b1b2-043",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you know if the viewpoint is within walking distance?",
+    "portuguese": "Sabe se o miradouro fica a uma distância que se faça a pé?",
+    "pronunciationNote": "SAH-b si oo mee-rah-DOU-roo FEE-k ah OO-mah deesh-TAN-see-ah k s fah-sah ah PEH",
+    "grammarFocus": "distance and feasibility question",
+    "notes": "Useful in hill cities.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for muito longe, apanho um transporte.",
+        "english": "If it is too far, I will take transport."
+      }
+    ],
+    "tags": ["sightseeing", "walking"]
+  },
+  {
+    "id": "03-td-b1b2-044",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to plan the route so that we do not double back.",
+    "portuguese": "Estou a tentar organizar o percurso para não andarmos para trás.",
+    "pronunciationNote": "esh-TOH ah ten-TAR or-gah-nee-ZAR oo pair-KOOR-soo pah-r nawng ahn-DAHR-moosh pah-r TRAHSH",
+    "grammarFocus": "purpose clause",
+    "notes": "Useful for sightseeing days.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria fazer tudo pela ordem mais prática.",
+        "english": "I wanted to do everything in the most practical order."
+      }
+    ],
+    "tags": ["planning", "sightseeing"]
+  },
+  {
+    "id": "03-td-b1b2-045",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there a better time of day to visit this area?",
+    "portuguese": "Há uma altura melhor do dia para visitar esta zona?",
+    "pronunciationNote": "AH OO-mah al-TOO-rah meh-LYOR doo DEE-ah pah-r vee-zee-TAR ESH-tah ZOH-nah",
+    "grammarFocus": "time optimization question",
+    "notes": "Useful for avoiding crowds.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se de manhã for mais calmo, prefiro ir cedo.",
+        "english": "If it is calmer in the morning, I prefer to go early."
+      }
+    ],
+    "tags": ["timing", "sightseeing"]
+  },
+  {
+    "id": "03-td-b1b2-046",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you confirm whether this is the right exit for the museum?",
+    "portuguese": "Pode confirmar se esta é a saída certa para o museu?",
+    "pronunciationNote": "POH-d kohn-feer-MAR si ESH-tah eh ah sah-EE-dah SER-tah pah-r oo moo-ZEU",
+    "grammarFocus": "confirmation question",
+    "notes": "Useful in metro stations and large buildings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há muitas saídas e não quero escolher a errada.",
+        "english": "There are many exits and I do not want to choose the wrong one."
+      }
+    ],
+    "tags": ["museum", "metro"]
+  },
+  {
+    "id": "03-td-b1b2-047",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we stop briefly so I can take a photo?",
+    "portuguese": "Podíamos parar um instante para eu tirar uma fotografia?",
+    "pronunciationNote": "poo-DEE-ah-moosh pah-RAR oom eens-TAN-t pah-r ew tee-RAR OO-mah foo-too-grah-FEE-ah",
+    "grammarFocus": "purpose clause with pronoun",
+    "notes": "Useful on drives or tours.",
+    "exampleSentences": [
+      {
+        "portuguese": "A vista aqui é incrível.",
+        "english": "The view here is incredible."
+      }
+    ],
+    "tags": ["tour", "photo"]
+  },
+  {
+    "id": "03-td-b1b2-048",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you know if the path is well signposted the whole way?",
+    "portuguese": "Sabe se o caminho está bem sinalizado até ao fim?",
+    "pronunciationNote": "SAH-b si oo kah-MEE-nyoo esh-TAH bayng see-nah-lee-ZAH-doo ah-TEH ow FEENG",
+    "grammarFocus": "quality question",
+    "notes": "Useful for hikes or beach walks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não estiver, prefiro usar o mapa offline.",
+        "english": "If it is not, I prefer to use the offline map."
+      }
+    ],
+    "tags": ["hiking", "signs"]
+  },
+  {
+    "id": "03-td-b1b2-049",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am hoping to avoid the most crowded trains.",
+    "portuguese": "Estou a tentar evitar os comboios mais cheios.",
+    "pronunciationNote": "esh-TOH ah ten-TAR eh-vee-TAR oosh kohm-BOY-oosh mysh SHAY-oosh",
+    "grammarFocus": "progressive avoidance",
+    "notes": "Useful in commuter periods.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver outro horário, talvez seja melhor.",
+        "english": "If there is another time, that may be better."
+      }
+    ],
+    "tags": ["train", "crowds"]
+  },
+  {
+    "id": "03-td-b1b2-050",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that makes the route much clearer.",
+    "portuguese": "Obrigado, assim o percurso fica muito mais claro.",
+    "pronunciationNote": "oh-bree-GAH-doo ah-SEENG oo pair-KOOR-soo FEE-k MWEEN-too mysh KLAH-roo",
+    "grammarFocus": "result expression",
+    "notes": "Natural way to close a directions exchange.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora já sei por onde devo ir.",
+        "english": "Now I know which way I should go."
+      }
+    ],
+    "tags": ["gratitude", "clarity"]
+  }
+]

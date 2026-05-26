@@ -1,0 +1,952 @@
+[
+  {
+    "id": "06-ha-a1a2-001",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have an appointment.",
+    "portuguese": "Tenho uma consulta.",
+    "pronunciationNote": "TEN-yoo OO-mah kohn-SOOL-tah",
+    "grammarFocus": "present simple statement",
+    "notes": "Basic appointment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje tenho uma consulta de manhã.",
+        "english": "Today I have an appointment in the morning."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-002",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a doctor.",
+    "portuguese": "Preciso de um médico.",
+    "pronunciationNote": "preh-SEE-zoo d oom MEH-dee-koo",
+    "grammarFocus": "need statement",
+    "notes": "Basic medical phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não me sinto bem. Preciso de um médico.",
+        "english": "I do not feel well. I need a doctor."
+      }
+    ],
+    "tags": ["health", "doctor"]
+  },
+  {
+    "id": "06-ha-a1a2-003",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a dentist.",
+    "portuguese": "Preciso de um dentista.",
+    "pronunciationNote": "preh-SEE-zoo d oom den-TEESH-tah",
+    "grammarFocus": "need statement",
+    "notes": "Basic dental phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que preciso de um dentista.",
+        "english": "I think I need a dentist."
+      }
+    ],
+    "tags": ["health", "dentist"]
+  },
+  {
+    "id": "06-ha-a1a2-004",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am not feeling well.",
+    "portuguese": "Não me estou a sentir bem.",
+    "pronunciationNote": "nawng m esh-TOH ah sen-TEER bayng",
+    "grammarFocus": "progressive feeling expression",
+    "notes": "Common illness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje não me estou a sentir bem.",
+        "english": "Today I am not feeling well."
+      }
+    ],
+    "tags": ["health", "feeling"]
+  },
+  {
+    "id": "06-ha-a1a2-005",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a headache.",
+    "portuguese": "Tenho dor de cabeça.",
+    "pronunciationNote": "TEN-yoo dor d kah-BEH-sah",
+    "grammarFocus": "pain expression",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desde manhã que tenho dor de cabeça.",
+        "english": "I have had a headache since morning."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-006",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a sore throat.",
+    "portuguese": "Tenho dor de garganta.",
+    "pronunciationNote": "TEN-yoo dor d gar-GAHN-tah",
+    "grammarFocus": "pain expression",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho dor de garganta e tosse.",
+        "english": "I have a sore throat and a cough."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-007",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a cough.",
+    "portuguese": "Tenho tosse.",
+    "pronunciationNote": "TEN-yoo TOH-s",
+    "grammarFocus": "symptom statement",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho tosse há dois dias.",
+        "english": "I have had a cough for two days."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-008",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a fever.",
+    "portuguese": "Tenho febre.",
+    "pronunciationNote": "TEN-yoo FEH-br",
+    "grammarFocus": "symptom statement",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que tenho febre.",
+        "english": "I think I have a fever."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-009",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My stomach hurts.",
+    "portuguese": "Dói-me o estômago.",
+    "pronunciationNote": "DOY-m oo esh-TOH-mah-goo",
+    "grammarFocus": "indirect object pain expression",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desde o almoço que me dói o estômago.",
+        "english": "My stomach has hurt since lunch."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-010",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My back hurts.",
+    "portuguese": "Doem-me as costas.",
+    "pronunciationNote": "DOH-em-m ash KOHSH-tash",
+    "grammarFocus": "indirect object pain expression",
+    "notes": "Basic pain phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de trabalhar, doem-me as costas.",
+        "english": "After working, my back hurts."
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-a1a2-011",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel dizzy.",
+    "portuguese": "Sinto-me tonto.",
+    "pronunciationNote": "SEEN-too-m TON-too",
+    "grammarFocus": "reflexive feeling expression",
+    "notes": "Basic symptom phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando me levanto, sinto-me tonto.",
+        "english": "When I stand up, I feel dizzy."
+      }
+    ],
+    "tags": ["health", "symptom"]
+  },
+  {
+    "id": "06-ha-a1a2-012",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am tired.",
+    "portuguese": "Estou cansado.",
+    "pronunciationNote": "esh-TOH kahn-SAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Basic feeling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou muito cansado.",
+        "english": "Today I am very tired."
+      }
+    ],
+    "tags": ["health", "feeling"]
+  },
+  {
+    "id": "06-ha-a1a2-013",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need medicine.",
+    "portuguese": "Preciso de medicamentos.",
+    "pronunciationNote": "preh-SEE-zoo d meh-dee-kah-MEN-toosh",
+    "grammarFocus": "need statement",
+    "notes": "Useful pharmacy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de medicamentos para a dor.",
+        "english": "I need medicine for the pain."
+      }
+    ],
+    "tags": ["health", "pharmacy"]
+  },
+  {
+    "id": "06-ha-a1a2-014",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the pharmacy?",
+    "portuguese": "Onde fica a farmácia?",
+    "pronunciationNote": "ON-d fih-k ah far-MAH-see-ah",
+    "grammarFocus": "location question",
+    "notes": "Useful pharmacy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica a farmácia mais próxima?",
+        "english": "Excuse me, where is the nearest pharmacy?"
+      }
+    ],
+    "tags": ["health", "pharmacy"]
+  },
+  {
+    "id": "06-ha-a1a2-015",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like something for pain.",
+    "portuguese": "Queria alguma coisa para a dor.",
+    "pronunciationNote": "keh-REE-ah al-GOO-mah KOH-zah pah-rah ah dor",
+    "grammarFocus": "polite request",
+    "notes": "Useful pharmacy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria alguma coisa para a dor de cabeça.",
+        "english": "I would like something for a headache."
+      }
+    ],
+    "tags": ["health", "pharmacy"]
+  },
+  {
+    "id": "06-ha-a1a2-016",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have allergies.",
+    "portuguese": "Tenho alergias.",
+    "pronunciationNote": "TEN-yoo ah-lair-ZHEE-ash",
+    "grammarFocus": "health background statement",
+    "notes": "Useful medical information phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho alergias a alguns medicamentos.",
+        "english": "I have allergies to some medicines."
+      }
+    ],
+    "tags": ["health", "medical-info"]
+  },
+  {
+    "id": "06-ha-a1a2-017",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am allergic to penicillin.",
+    "portuguese": "Sou alérgico à penicilina.",
+    "pronunciationNote": "SOH ah-LAIR-zhee-koo ah peh-nee-see-LEE-nah",
+    "grammarFocus": "medical information statement",
+    "notes": "Useful safety phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou alérgico à penicilina, por isso preciso de outra coisa.",
+        "english": "I am allergic to penicillin, so I need something else."
+      }
+    ],
+    "tags": ["health", "allergy"]
+  },
+  {
+    "id": "06-ha-a1a2-018",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I make an appointment?",
+    "portuguese": "Posso marcar uma consulta?",
+    "pronunciationNote": "POH-soo mar-KAR OO-mah kohn-SOOL-tah",
+    "grammarFocus": "appointment question",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso marcar uma consulta para amanhã?",
+        "english": "Can I make an appointment for tomorrow?"
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-019",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to change my appointment.",
+    "portuguese": "Preciso de mudar a minha consulta.",
+    "pronunciationNote": "preh-SEE-zoo d moo-DAR ah MEEN-yah kohn-SOOL-tah",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful appointment admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de mudar a minha consulta para outro dia.",
+        "english": "I need to change my appointment to another day."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-020",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to cancel my appointment.",
+    "portuguese": "Preciso de cancelar a minha consulta.",
+    "pronunciationNote": "preh-SEE-zoo d kahn-seh-LAR ah MEEN-yah kohn-SOOL-tah",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful appointment admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de cancelar a minha consulta de hoje.",
+        "english": "I need to cancel my appointment today."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-021",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is my appointment?",
+    "portuguese": "A que horas é a minha consulta?",
+    "pronunciationNote": "ah k OR-ash eh ah MEEN-yah kohn-SOOL-tah",
+    "grammarFocus": "time question",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dizer-me a que horas é a minha consulta?",
+        "english": "Can you tell me what time my appointment is?"
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-022",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am here for my appointment.",
+    "portuguese": "Estou aqui para a minha consulta.",
+    "pronunciationNote": "esh-TOH ah-KEE pah-rah ah MEEN-yah kohn-SOOL-tah",
+    "grammarFocus": "purpose statement",
+    "notes": "Useful reception phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Bom dia, estou aqui para a minha consulta.",
+        "english": "Good morning, I am here for my appointment."
+      }
+    ],
+    "tags": ["health", "reception"]
+  },
+  {
+    "id": "06-ha-a1a2-023",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have my health card with me.",
+    "portuguese": "Tenho o meu cartão de saúde comigo.",
+    "pronunciationNote": "TEN-yoo oo MEH-oo kar-TAWN d sah-OO-d koh-MEE-goo",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho o meu cartão de saúde comigo e posso mostrá-lo.",
+        "english": "I have my health card with me and I can show it."
+      }
+    ],
+    "tags": ["health", "documents"]
+  },
+  {
+    "id": "06-ha-a1a2-024",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do I need to wait?",
+    "portuguese": "Tenho de esperar?",
+    "pronunciationNote": "TEN-yoo d esh-peh-RAR",
+    "grammarFocus": "obligation question",
+    "notes": "Useful waiting-room phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho de esperar aqui?",
+        "english": "Do I need to wait here?"
+      }
+    ],
+    "tags": ["health", "reception"]
+  },
+  {
+    "id": "06-ha-a1a2-025",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please sit down.",
+    "portuguese": "Sente-se, por favor.",
+    "pronunciationNote": "SEN-t-s poor fah-VOR",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful clinic phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sente-se, por favor, o médico já vem.",
+        "english": "Please sit down, the doctor will be right with you."
+      }
+    ],
+    "tags": ["health", "clinic"]
+  },
+  {
+    "id": "06-ha-a1a2-026",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Open your mouth, please.",
+    "portuguese": "Abra a boca, por favor.",
+    "pronunciationNote": "AH-brah ah BOH-kah poor fah-VOR",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful doctor or dentist phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Abra a boca, por favor, para eu ver melhor.",
+        "english": "Open your mouth, please, so I can see better."
+      }
+    ],
+    "tags": ["health", "doctor"]
+  },
+  {
+    "id": "06-ha-a1a2-027",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Take a deep breath.",
+    "portuguese": "Respire fundo.",
+    "pronunciationNote": "hesh-PEE-r FUN-doo",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful doctor phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Respire fundo e relaxe.",
+        "english": "Take a deep breath and relax."
+      }
+    ],
+    "tags": ["health", "doctor"]
+  },
+  {
+    "id": "06-ha-a1a2-028",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Does it hurt here?",
+    "portuguese": "Dói aqui?",
+    "pronunciationNote": "DOY ah-KEE",
+    "grammarFocus": "pain question",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando toco aqui, dói?",
+        "english": "When I touch here, does it hurt?"
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-a1a2-029",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Yes, it hurts a lot.",
+    "portuguese": "Sim, dói muito.",
+    "pronunciationNote": "SEENG DOY MWEEN-too",
+    "grammarFocus": "pain response",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, dói muito quando me mexo.",
+        "english": "Yes, it hurts a lot when I move."
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-a1a2-030",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It hurts a little.",
+    "portuguese": "Dói um pouco.",
+    "pronunciationNote": "DOY oom POH-koo",
+    "grammarFocus": "pain response",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora já só dói um pouco.",
+        "english": "Now it only hurts a little."
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-a1a2-031",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I feel better today.",
+    "portuguese": "Sinto-me melhor hoje.",
+    "pronunciationNote": "SEEN-too-m meh-LYOR OY-zhe",
+    "grammarFocus": "reflexive feeling expression",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de descansar, sinto-me melhor hoje.",
+        "english": "After resting, I feel better today."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-a1a2-032",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need rest.",
+    "portuguese": "Preciso de descanso.",
+    "pronunciationNote": "preh-SEE-zoo d dehsh-KAHN-soo",
+    "grammarFocus": "need statement",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O médico disse que preciso de descanso.",
+        "english": "The doctor said I need rest."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-a1a2-033",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need water.",
+    "portuguese": "Preciso de água.",
+    "pronunciationNote": "preh-SEE-zoo d AH-gwah",
+    "grammarFocus": "need statement",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do exercício, preciso de água.",
+        "english": "After exercise, I need water."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-a1a2-034",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Take this medicine twice a day.",
+    "portuguese": "Tome este medicamento duas vezes por dia.",
+    "pronunciationNote": "TOH-m ESH-t meh-dee-kah-MEN-too DOO-ash VEH-zesh poor DEE-ah",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful medical instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tome este medicamento duas vezes por dia depois das refeições.",
+        "english": "Take this medicine twice a day after meals."
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-a1a2-035",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Before or after food?",
+    "portuguese": "Antes ou depois de comer?",
+    "pronunciationNote": "AHN-tesh ow deh-POYSH d koh-MER",
+    "grammarFocus": "instruction question",
+    "notes": "Useful medication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Devo tomar isto antes ou depois de comer?",
+        "english": "Should I take this before or after food?"
+      }
+    ],
+    "tags": ["health", "medicine"]
+  },
+  {
+    "id": "06-ha-a1a2-036",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POH-soo pah-GAR kohm kar-TAWN",
+    "grammarFocus": "payment question",
+    "notes": "Useful appointment admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No fim, posso pagar com cartão?",
+        "english": "At the end, can I pay by card?"
+      }
+    ],
+    "tags": ["health", "payment"]
+  },
+  {
+    "id": "06-ha-a1a2-037",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a receipt.",
+    "portuguese": "Preciso de recibo.",
+    "pronunciationNote": "preh-SEE-zoo d heh-SEE-boo",
+    "grammarFocus": "need statement",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o seguro, preciso de recibo.",
+        "english": "For insurance, I need a receipt."
+      }
+    ],
+    "tags": ["health", "payment"]
+  },
+  {
+    "id": "06-ha-a1a2-038",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "When is the next available appointment?",
+    "portuguese": "Qual é a próxima consulta disponível?",
+    "pronunciationNote": "kwahl eh ah PROK-see-mah kohn-SOOL-tah dees-poh-nee-VEL",
+    "grammarFocus": "availability question",
+    "notes": "Useful booking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de saber qual é a próxima consulta disponível.",
+        "english": "I would like to know when the next available appointment is."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-039",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Morning is better for me.",
+    "portuguese": "De manhã é melhor para mim.",
+    "pronunciationNote": "d mah-NYAH eh meh-LYOR pah-rah meeng",
+    "grammarFocus": "preference statement",
+    "notes": "Useful booking preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se for possível, de manhã é melhor para mim.",
+        "english": "If possible, morning is better for me."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-040",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Afternoon is better for me.",
+    "portuguese": "À tarde é melhor para mim.",
+    "pronunciationNote": "ah TAR-d eh meh-LYOR pah-rah meeng",
+    "grammarFocus": "preference statement",
+    "notes": "Useful booking preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta semana, à tarde é melhor para mim.",
+        "english": "This week, afternoon is better for me."
+      }
+    ],
+    "tags": ["health", "appointment"]
+  },
+  {
+    "id": "06-ha-a1a2-041",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need an urgent appointment.",
+    "portuguese": "Preciso de uma consulta urgente.",
+    "pronunciationNote": "preh-SEE-zoo d OO-mah kohn-SOOL-tah oor-ZHEN-t",
+    "grammarFocus": "need statement",
+    "notes": "Useful booking phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É importante. Preciso de uma consulta urgente.",
+        "english": "It is important. I need an urgent appointment."
+      }
+    ],
+    "tags": ["health", "urgent"]
+  },
+  {
+    "id": "06-ha-a1a2-042",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you write it down for me?",
+    "portuguese": "Pode escrever isso para mim?",
+    "pronunciationNote": "POH-d esh-kreh-VER EE-soo pah-rah meeng",
+    "grammarFocus": "formal request",
+    "notes": "Useful admin phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode escrever isso para mim, por favor?",
+        "english": "Can you write that down for me, please?"
+      }
+    ],
+    "tags": ["health", "communication"]
+  },
+  {
+    "id": "06-ha-a1a2-043",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not understand.",
+    "portuguese": "Não percebo.",
+    "pronunciationNote": "nawng pair-SEH-boo",
+    "grammarFocus": "negation statement",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, não percebo.",
+        "english": "Sorry, I do not understand."
+      }
+    ],
+    "tags": ["health", "communication"]
+  },
+  {
+    "id": "06-ha-a1a2-044",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you say that more slowly?",
+    "portuguese": "Pode dizer isso mais devagar?",
+    "pronunciationNote": "POH-d dee-ZER EE-soo mysh dev-ah-GAR",
+    "grammarFocus": "formal request",
+    "notes": "Useful consultation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode dizer isso mais devagar?",
+        "english": "Sorry, can you say that more slowly?"
+      }
+    ],
+    "tags": ["health", "communication"]
+  },
+  {
+    "id": "06-ha-a1a2-045",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do I need a prescription?",
+    "portuguese": "Preciso de receita?",
+    "pronunciationNote": "preh-SEE-zoo d heh-SAY-tah",
+    "grammarFocus": "need question",
+    "notes": "Useful pharmacy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para isto, preciso de receita?",
+        "english": "For this, do I need a prescription?"
+      }
+    ],
+    "tags": ["health", "pharmacy"]
+  },
+  {
+    "id": "06-ha-a1a2-046",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a prescription.",
+    "portuguese": "Tenho receita.",
+    "pronunciationNote": "TEN-yoo heh-SAY-tah",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful pharmacy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho receita do médico.",
+        "english": "I have a prescription from the doctor."
+      }
+    ],
+    "tags": ["health", "pharmacy"]
+  },
+  {
+    "id": "06-ha-a1a2-047",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to come back next week.",
+    "portuguese": "Preciso de voltar na próxima semana.",
+    "pronunciationNote": "preh-SEE-zoo d vohl-TAR nah PROK-see-mah suh-MAH-nah",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O médico disse que preciso de voltar na próxima semana.",
+        "english": "The doctor said I need to come back next week."
+      }
+    ],
+    "tags": ["health", "follow-up"]
+  },
+  {
+    "id": "06-ha-a1a2-048",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am getting better.",
+    "portuguese": "Estou a melhorar.",
+    "pronunciationNote": "esh-TOH ah meh-lyoh-RAR",
+    "grammarFocus": "progressive aspect",
+    "notes": "Useful recovery phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Devagar, estou a melhorar.",
+        "english": "Slowly, I am getting better."
+      }
+    ],
+    "tags": ["health", "recovery"]
+  },
+  {
+    "id": "06-ha-a1a2-049",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am still in pain.",
+    "portuguese": "Ainda tenho dores.",
+    "pronunciationNote": "ah-EEN-dah TEN-yoo DOH-rsh",
+    "grammarFocus": "ongoing symptom statement",
+    "notes": "Useful follow-up phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo com o medicamento, ainda tenho dores.",
+        "english": "Even with the medicine, I am still in pain."
+      }
+    ],
+    "tags": ["health", "pain"]
+  },
+  {
+    "id": "06-ha-a1a2-050",
+    "subject": "Health & Appointments",
+    "subjectId": "health-appointments",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you for your help.",
+    "portuguese": "Obrigado pela ajuda.",
+    "pronunciationNote": "oh-bree-GAH-doo PEH-lyah ah-ZHOO-dah",
+    "grammarFocus": "gratitude phrase",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pela ajuda e até à próxima.",
+        "english": "Thank you for your help and see you next time."
+      }
+    ],
+    "tags": ["health", "gratitude"]
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "05-hfr-b1b2-001",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been trying to make the flat feel more like home rather than just a place to sleep.",
+    "portuguese": "Tenho tentado fazer com que o apartamento pareça mais casa do que apenas um sítio para dormir.",
+    "pronunciationNote": "TEN-yoo ten-TAH-doo fah-ZER kohm k oo ah-par-tah-MEN-too",
+    "grammarFocus": "ongoing effort expression",
+    "notes": "Natural higher-level home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se passo tanto tempo aqui, preciso de me sentir bem no espaço.",
+        "english": "If I spend so much time here, I need to feel good in the space."
+      }
+    ],
+    "tags": ["home", "comfort"]
+  },
+  {
+    "id": "05-hfr-b1b2-002",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are still working out how to divide the housework fairly.",
+    "portuguese": "Ainda estamos a tentar perceber como dividir as tarefas de casa de forma justa.",
+    "pronunciationNote": "ah-EEN-dah esh-TAH-moosh ah ten-TAR pair-seh-BER",
+    "grammarFocus": "ongoing negotiation statement",
+    "notes": "Useful shared-home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não falarmos disso, acaba sempre por cair mais para um lado.",
+        "english": "If we do not talk about it, it always ends up falling more on one side."
+      }
+    ],
+    "tags": ["home", "shared-living"]
+  },
+  {
+    "id": "05-hfr-b1b2-003",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I get on well with my family, even though we do not always see things the same way.",
+    "portuguese": "Dou-me bem com a minha família, embora nem sempre vejamos as coisas da mesma forma.",
+    "pronunciationNote": "DOH-m bayng kohm ah MEEN-yah fah-MEE-lee-ah",
+    "grammarFocus": "concession with relationship statement",
+    "notes": "Useful nuanced family phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há diferenças, mas existe respeito.",
+        "english": "There are differences, but there is respect."
+      }
+    ],
+    "tags": ["family", "relationships"]
+  },
+  {
+    "id": "05-hfr-b1b2-004",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather talk things through calmly than let the tension build up.",
+    "portuguese": "Preferia falar das coisas com calma em vez de deixar a tensão acumular-se.",
+    "pronunciationNote": "preh-feh-REE-ah fah-LAR dash KOH-zash kohm KAL-mah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful relationship communication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se deixamos andar, depois torna-se mais difícil.",
+        "english": "If we let it go on, it becomes harder afterwards."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-005",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My relationship with my parents changed once I moved out.",
+    "portuguese": "A minha relação com os meus pais mudou quando saí de casa.",
+    "pronunciationNote": "ah MEEN-yah heh-lah-SAWN kohm oosh MEH-oosh pysh moo-DOH",
+    "grammarFocus": "past change statement",
+    "notes": "Useful family development phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Passámos a dar mais valor ao tempo juntos.",
+        "english": "We started valuing our time together more."
+      }
+    ],
+    "tags": ["family", "change"]
+  },
+  {
+    "id": "05-hfr-b1b2-006",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we agree on some basic rules for the house so daily life runs more smoothly?",
+    "portuguese": "Podíamos combinar algumas regras básicas para a casa, para o dia a dia correr melhor?",
+    "pronunciationNote": "poo-DEE-ah-moosh kohm-bee-NAR al-GOO-mash HEH-grash BAH-zee-kash",
+    "grammarFocus": "polite suggestion + purpose",
+    "notes": "Useful shared-home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evitamos pequenos conflitos desnecessários.",
+        "english": "That way we avoid unnecessary small conflicts."
+      }
+    ],
+    "tags": ["home", "shared-living"]
+  },
+  {
+    "id": "05-hfr-b1b2-007",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need a bit of space to think before we continue this conversation.",
+    "portuguese": "Preciso de algum espaço para pensar antes de continuarmos esta conversa.",
+    "pronunciationNote": "preh-SEE-zoo d al-GOOM esh-PAH-soo pah-rah pen-SAR",
+    "grammarFocus": "need statement + before clause",
+    "notes": "Useful boundary-setting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se falarmos agora, talvez eu não me explique bem.",
+        "english": "If we talk now, maybe I will not explain myself well."
+      }
+    ],
+    "tags": ["relationship", "boundaries"]
+  },
+  {
+    "id": "05-hfr-b1b2-008",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I want the house to feel welcoming without turning into a place where I can never switch off.",
+    "portuguese": "Quero que a casa seja acolhedora sem se tornar num sítio onde eu nunca consiga desligar.",
+    "pronunciationNote": "KEH-roo k ah KAH-zah SAY-zhah ah-kohl-yeh-DOH-rah",
+    "grammarFocus": "desire clause + contrast",
+    "notes": "Useful home-life balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Também preciso de momentos de silêncio e descanso.",
+        "english": "I also need moments of silence and rest."
+      }
+    ],
+    "tags": ["home", "balance"]
+  },
+  {
+    "id": "05-hfr-b1b2-009",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are close, but we show affection in quite different ways.",
+    "portuguese": "Somos próximos, mas mostramos afeto de formas bastante diferentes.",
+    "pronunciationNote": "SOH-moosh PROK-see-moosh mahsh moosh-TRAH-moosh ah-FEH-too",
+    "grammarFocus": "contrastive description",
+    "notes": "Useful family dynamics phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem toda a gente expressa carinho da mesma maneira.",
+        "english": "Not everyone shows affection in the same way."
+      }
+    ],
+    "tags": ["family", "emotions"]
+  },
+  {
+    "id": "05-hfr-b1b2-010",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have been meaning to spend more quality time with my grandparents.",
+    "portuguese": "Ando a querer passar mais tempo de qualidade com os meus avós.",
+    "pronunciationNote": "AHN-doo ah keh-RER pah-SAR mysh TEM-poo d kwah-lee-DAH-d",
+    "grammarFocus": "ongoing intention statement",
+    "notes": "Useful family priority phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não marco isso, os meses passam sem dar conta.",
+        "english": "If I do not schedule it, the months go by before I realise."
+      }
+    ],
+    "tags": ["family", "time"]
+  },
+  {
+    "id": "05-hfr-b1b2-011",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Living together has made us better at talking about practical things before they become problems.",
+    "portuguese": "Viver juntos tornou-nos melhores a falar de coisas práticas antes de se tornarem problemas.",
+    "pronunciationNote": "vee-VER ZHOON-toosh tor-NOH-noosh meh-LYOR-sh",
+    "grammarFocus": "result of experience statement",
+    "notes": "Useful cohabitation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aprendemos a resolver as coisas mais cedo.",
+        "english": "We learned to solve things earlier."
+      }
+    ],
+    "tags": ["relationship", "shared-living"]
+  },
+  {
+    "id": "05-hfr-b1b2-012",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it help if we set aside one evening a week just to catch up properly?",
+    "portuguese": "Ajudava se reservássemos uma noite por semana só para conversar com calma?",
+    "pronunciationNote": "ah-zhoo-DAH-vah s heh-zair-VAH-seh-moosh OO-mah NOY-t",
+    "grammarFocus": "conditional suggestion",
+    "notes": "Useful relationship maintenance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com a correria, às vezes falamos só do essencial.",
+        "english": "With the rush, sometimes we only talk about the essentials."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-013",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find it easier to relax when the house is reasonably tidy.",
+    "portuguese": "Acho mais fácil relaxar quando a casa está minimamente arrumada.",
+    "pronunciationNote": "AH-shoo mysh FAH-seel heh-lah-SHAR",
+    "grammarFocus": "opinion statement + when clause",
+    "notes": "Useful home-comfort phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estiver tudo caótico, isso mexe comigo.",
+        "english": "If everything is chaotic, that affects me."
+      }
+    ],
+    "tags": ["home", "comfort"]
+  },
+  {
+    "id": "05-hfr-b1b2-014",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My relationship with my sibling has become easier now that we both have more independence.",
+    "portuguese": "A minha relação com o meu irmão ficou mais fácil agora que ambos temos mais independência.",
+    "pronunciationNote": "ah MEEN-yah heh-lah-SAWN kohm oo MEH-oo eer-MAHWNG",
+    "grammarFocus": "change over time statement",
+    "notes": "Useful family growth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há menos comparação e mais compreensão.",
+        "english": "There is less comparison and more understanding."
+      }
+    ],
+    "tags": ["family", "siblings"]
+  },
+  {
+    "id": "05-hfr-b1b2-015",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you let me know before inviting people over? I like having time to prepare mentally.",
+    "portuguese": "Podes avisar-me antes de convidares pessoas? Gosto de ter tempo para me preparar mentalmente.",
+    "pronunciationNote": "POH-desh ah-vee-ZAR-m AHN-tz d kohn-vee-DAH-resh peh-SOH-ash",
+    "grammarFocus": "request + preference explanation",
+    "notes": "Useful housemate boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não é por não querer visitas, só prefiro saber com antecedência.",
+        "english": "It is not that I do not want visitors, I just prefer to know in advance."
+      }
+    ],
+    "tags": ["home", "boundaries"]
+  },
+  {
+    "id": "05-hfr-b1b2-016",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try not to bring work stress into the way I speak to the people at home.",
+    "portuguese": "Tento não trazer o stress do trabalho para a forma como falo com as pessoas em casa.",
+    "pronunciationNote": "TEN-too nawng trah-ZER oo stress doo trah-BAH-lyoo",
+    "grammarFocus": "negative habit control statement",
+    "notes": "Useful home-life balance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre consigo, mas esforço-me por isso.",
+        "english": "I do not always manage it, but I make an effort."
+      }
+    ],
+    "tags": ["home", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-017",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It matters to me that home feels calm, even if it is not perfect.",
+    "portuguese": "É importante para mim que a casa pareça calma, mesmo que não esteja perfeita.",
+    "pronunciationNote": "eh eem-por-TAHN-t pah-rah meeng k ah KAH-zah pah-REH-sah KAL-mah",
+    "grammarFocus": "importance clause + concession",
+    "notes": "Useful home values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro um ambiente sereno a uma casa impecável.",
+        "english": "I prefer a calm atmosphere to a spotless house."
+      }
+    ],
+    "tags": ["home", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-018",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I miss the everyday side of family life more than the big occasions.",
+    "portuguese": "Tenho mais saudades do lado quotidiano da vida em família do que das grandes ocasiões.",
+    "pronunciationNote": "TEN-yoo mysh sow-DAH-dz doo LAH-doo koh-tee-dee-AH-noo",
+    "grammarFocus": "comparative feeling statement",
+    "notes": "Useful nuanced family phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "São os pequenos momentos que fazem falta.",
+        "english": "It is the small moments that are missing."
+      }
+    ],
+    "tags": ["family", "emotions"]
+  },
+  {
+    "id": "05-hfr-b1b2-019",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We have had to learn how to give each other space without taking it personally.",
+    "portuguese": "Tivemos de aprender a dar espaço um ao outro sem levar isso para o lado pessoal.",
+    "pronunciationNote": "tee-VEH-moosh d ah-pren-DER ah dar esh-PAH-soo oom ow OH-troo",
+    "grammarFocus": "past necessity statement",
+    "notes": "Useful relationship maturity phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre querer estar sozinho significa haver um problema.",
+        "english": "Wanting to be alone does not always mean there is a problem."
+      }
+    ],
+    "tags": ["relationship", "boundaries"]
+  },
+  {
+    "id": "05-hfr-b1b2-020",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we talk about the budget for the house before expenses start piling up?",
+    "portuguese": "Podíamos falar do orçamento da casa antes que as despesas se comecem a acumular?",
+    "pronunciationNote": "poo-DEE-ah-moosh fah-LAR doo or-sah-MEN-too dah KAH-zah",
+    "grammarFocus": "preventive discussion question",
+    "notes": "Useful shared-home planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro esclarecer isso cedo para evitar stress depois.",
+        "english": "I prefer to clarify that early to avoid stress later."
+      }
+    ],
+    "tags": ["home", "money"]
+  },
+  {
+    "id": "05-hfr-b1b2-021",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more present when I am with my family instead of half-listening.",
+    "portuguese": "Estou a tentar estar mais presente quando estou com a minha família, em vez de ouvir pela metade.",
+    "pronunciationNote": "esh-TOH ah ten-TAR esh-TAR mysh preh-ZEN-t",
+    "grammarFocus": "ongoing self-improvement statement",
+    "notes": "Useful family attention phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se estou distraído, sinto que perco momentos importantes.",
+        "english": "If I am distracted, I feel I miss important moments."
+      }
+    ],
+    "tags": ["family", "attention"]
+  },
+  {
+    "id": "05-hfr-b1b2-022",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think our home works best when expectations are clear rather than assumed.",
+    "portuguese": "Acho que a nossa casa funciona melhor quando as expectativas são claras em vez de ficarem subentendidas.",
+    "pronunciationNote": "AH-shoo k ah NOH-sah KAH-zah foon-see-OH-nah meh-LYOR",
+    "grammarFocus": "opinion statement + contrast",
+    "notes": "Useful cohabitation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muitas discussões começam por mal-entendidos pequenos.",
+        "english": "Many arguments start from small misunderstandings."
+      }
+    ],
+    "tags": ["home", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-023",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had not realised how much emotional support I got from seeing my family regularly.",
+    "portuguese": "Não tinha percebido até que ponto ver a minha família regularmente me dava apoio emocional.",
+    "pronunciationNote": "nawng TEEN-yah pair-seh-BEE-doo ah-TEH k PON-too",
+    "grammarFocus": "past realisation statement",
+    "notes": "Useful reflective family phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Só notei isso quando deixei de os ver tantas vezes.",
+        "english": "I only noticed that when I stopped seeing them so often."
+      }
+    ],
+    "tags": ["family", "support"]
+  },
+  {
+    "id": "05-hfr-b1b2-024",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to have a quiet evening at home this time? I am a bit drained.",
+    "portuguese": "Seria possível ficar em casa e ter uma noite tranquila desta vez? Estou um pouco esgotado.",
+    "pronunciationNote": "seh-REE-ah poo-SEE-vel fee-KAR eng KAH-zah",
+    "grammarFocus": "polite preference request",
+    "notes": "Useful relationship planning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não é falta de vontade, preciso mesmo de descansar.",
+        "english": "It is not lack of desire, I really do need to rest."
+      }
+    ],
+    "tags": ["relationship", "energy"]
+  },
+  {
+    "id": "05-hfr-b1b2-025",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are close friends because we can talk honestly without judging each other too quickly.",
+    "portuguese": "Somos amigos próximos porque conseguimos falar com honestidade sem nos julgarmos depressa demais.",
+    "pronunciationNote": "SOH-moosh ah-MEE-goosh PROK-see-moosh poor-k koh-seh-GHEE-moosh",
+    "grammarFocus": "cause statement",
+    "notes": "Useful friendship depth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Há confiança, e isso faz toda a diferença.",
+        "english": "There is trust, and that makes all the difference."
+      }
+    ],
+    "tags": ["friends", "trust"]
+  },
+  {
+    "id": "05-hfr-b1b2-026",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try to keep family traditions alive, even if we adapt them a bit each year.",
+    "portuguese": "Tento manter as tradições familiares vivas, mesmo que as adaptemos um pouco todos os anos.",
+    "pronunciationNote": "TEN-too mahn-TAIR az trah-dee-SOYNSH fah-mee-lee-AH-resh VEE-vash",
+    "grammarFocus": "habit + concession",
+    "notes": "Useful family culture phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O importante é continuarmos a criar esses momentos.",
+        "english": "The important thing is that we keep creating those moments."
+      }
+    ],
+    "tags": ["family", "traditions"]
+  },
+  {
+    "id": "05-hfr-b1b2-027",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather resolve this now than carry resentment into the next few days.",
+    "portuguese": "Preferia resolver isto agora do que arrastar ressentimento pelos próximos dias.",
+    "pronunciationNote": "preh-feh-REE-ah heh-zohl-VER EESH-too ah-GOH-rah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful conflict-resolution phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se fica por dizer, acaba por pesar mais.",
+        "english": "If it remains unsaid, it ends up weighing more."
+      }
+    ],
+    "tags": ["relationship", "conflict"]
+  },
+  {
+    "id": "05-hfr-b1b2-028",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My home life got easier once I accepted that not everyone relaxes in the same way.",
+    "portuguese": "A minha vida em casa ficou mais fácil quando aceitei que nem toda a gente relaxa da mesma forma.",
+    "pronunciationNote": "ah MEEN-yah VEE-dah eng KAH-zah fee-KOH mysh FAH-seel",
+    "grammarFocus": "past learning statement",
+    "notes": "Useful coexistence phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aquilo que para mim é silêncio, para outra pessoa pode ser distância.",
+        "english": "What is silence for me may feel like distance to someone else."
+      }
+    ],
+    "tags": ["home", "relationships"]
+  },
+  {
+    "id": "05-hfr-b1b2-029",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we spread the chores out across the week instead of leaving everything for Sunday?",
+    "portuguese": "Podíamos distribuir as tarefas ao longo da semana em vez de deixar tudo para domingo?",
+    "pronunciationNote": "poo-DEE-ah-moosh deesh-tree-boo-EER az tah-REH-fash",
+    "grammarFocus": "suggestion question",
+    "notes": "Useful practical home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim o fim de semana não fica logo ocupado.",
+        "english": "That way the weekend does not become busy straight away."
+      }
+    ],
+    "tags": ["home", "routine"]
+  },
+  {
+    "id": "05-hfr-b1b2-030",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more patient with the people I care about instead of reacting straight away.",
+    "portuguese": "Estou a tentar ser mais paciente com as pessoas de quem gosto, em vez de reagir logo.",
+    "pronunciationNote": "esh-TOH ah ten-TAR sair mysh pah-see-EN-t",
+    "grammarFocus": "self-improvement statement",
+    "notes": "Useful relationship growth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre é fácil, mas faz diferença.",
+        "english": "It is not always easy, but it makes a difference."
+      }
+    ],
+    "tags": ["relationship", "growth"]
+  },
+  {
+    "id": "05-hfr-b1b2-031",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I value most at home is not the space itself, but the feeling of ease.",
+    "portuguese": "O que mais valorizo em casa não é o espaço em si, mas a sensação de tranquilidade.",
+    "pronunciationNote": "oo k mysh vah-loo-REE-zoo eng KAH-zah nawng eh oo esh-PAH-soo",
+    "grammarFocus": "contrastive values statement",
+    "notes": "Useful reflective home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando sinto isso, descanso de verdade.",
+        "english": "When I feel that, I truly rest."
+      }
+    ],
+    "tags": ["home", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-032",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need relationships where we can be direct without being unkind.",
+    "portuguese": "Preciso de relações em que possamos ser diretos sem sermos desagradáveis.",
+    "pronunciationNote": "preh-SEE-zoo d heh-lah-SOYNSH eng k poh-SAH-moosh sair dee-REH-toosh",
+    "grammarFocus": "need statement + relative clause",
+    "notes": "Useful values-in-relationships phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, honestidade e respeito têm de andar juntos.",
+        "english": "For me, honesty and respect have to go together."
+      }
+    ],
+    "tags": ["relationship", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-033",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I had to learn that asking for help at home does not mean I am failing.",
+    "portuguese": "Tive de aprender que pedir ajuda em casa não significa que eu esteja a falhar.",
+    "pronunciationNote": "TEE-v d ah-pren-DER k peh-DEER ah-ZHOO-dah eng KAH-zah",
+    "grammarFocus": "past necessity statement",
+    "notes": "Useful home responsibility phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes é simplesmente a forma mais sensata de lidar com tudo.",
+        "english": "Sometimes it is simply the most sensible way to deal with everything."
+      }
+    ],
+    "tags": ["home", "support"]
+  },
+  {
+    "id": "05-hfr-b1b2-034",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If we are both tired, it is better to pause the conversation than keep pushing it.",
+    "portuguese": "Se estivermos os dois cansados, é melhor parar a conversa do que forçá-la.",
+    "pronunciationNote": "s esh-tee-VER-moosh oosh doyz kahn-SAH-doosh",
+    "grammarFocus": "conditional advice statement",
+    "notes": "Useful conflict-management phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Retomamos depois com outra clareza.",
+        "english": "We pick it up later with more clarity."
+      }
+    ],
+    "tags": ["relationship", "conflict"]
+  },
+  {
+    "id": "05-hfr-b1b2-035",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I enjoy having people over, as long as I know in advance and can prepare properly.",
+    "portuguese": "Gosto de receber pessoas em casa, desde que saiba com antecedência e possa preparar tudo com calma.",
+    "pronunciationNote": "GOH-shtoo d heh-seh-BER peh-SOH-ash eng KAH-zah",
+    "grammarFocus": "condition clause",
+    "notes": "Useful hosting preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando é em cima da hora, fico mais stressado do que contente.",
+        "english": "When it is last-minute, I get more stressed than pleased."
+      }
+    ],
+    "tags": ["home", "hosting"]
+  },
+  {
+    "id": "05-hfr-b1b2-036",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am learning that closeness does not have to mean constant contact.",
+    "portuguese": "Estou a aprender que proximidade não tem de significar contacto constante.",
+    "pronunciationNote": "esh-TOH ah ah-pren-DER k prok-see-mee-DAH-d nawng teng d seen-nee-fee-KAR",
+    "grammarFocus": "learning statement",
+    "notes": "Useful mature relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes há distância, mas não há menos carinho.",
+        "english": "Sometimes there is distance, but there is not less affection."
+      }
+    ],
+    "tags": ["relationship", "perspective"]
+  },
+  {
+    "id": "05-hfr-b1b2-037",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we make a plan for visiting family that works for both of us?",
+    "portuguese": "Podíamos fazer um plano para visitar a família que funcione para os dois?",
+    "pronunciationNote": "poo-DEE-ah-moosh fah-ZER oom PLAH-noo pah-rah vee-zee-TAR ah fah-MEE-lee-ah",
+    "grammarFocus": "planning suggestion",
+    "notes": "Useful relationship/family coordination phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim evitamos decidir tudo à última hora.",
+        "english": "That way we avoid deciding everything at the last minute."
+      }
+    ],
+    "tags": ["family", "planning"]
+  },
+  {
+    "id": "05-hfr-b1b2-038",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find family gatherings easier when everyone feels free to be themselves.",
+    "portuguese": "Acho os encontros de família mais fáceis quando toda a gente se sente à vontade para ser quem é.",
+    "pronunciationNote": "AH-shoo ooz en-KON-troosh d fah-MEE-lee-ah mysh FAH-seysh",
+    "grammarFocus": "opinion + when clause",
+    "notes": "Useful family dynamics phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando há menos pressão, as conversas correm melhor.",
+        "english": "When there is less pressure, conversations go better."
+      }
+    ],
+    "tags": ["family", "social"]
+  },
+  {
+    "id": "05-hfr-b1b2-039",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I try to notice the small ways people show care, not just the obvious ones.",
+    "portuguese": "Tento reparar nas pequenas formas de cuidado, e não apenas nas mais óbvias.",
+    "pronunciationNote": "TEN-too heh-pah-RAR nash peh-KEH-nash FOR-mash d koo-ee-DAH-doo",
+    "grammarFocus": "habitual observation statement",
+    "notes": "Useful emotional intelligence phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem toda a atenção vem em palavras grandes.",
+        "english": "Not all care comes in big words."
+      }
+    ],
+    "tags": ["relationship", "care"]
+  },
+  {
+    "id": "05-hfr-b1b2-040",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would prefer to talk about this privately rather than in front of everyone.",
+    "portuguese": "Preferia falar disto em privado em vez de o fazer à frente de toda a gente.",
+    "pronunciationNote": "preh-feh-REE-ah fah-LAR DEESH-too eng pree-VAH-doo",
+    "grammarFocus": "preference statement",
+    "notes": "Useful boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acho que assim seria mais respeitador.",
+        "english": "I think that way it would be more respectful."
+      }
+    ],
+    "tags": ["relationship", "boundaries"]
+  },
+  {
+    "id": "05-hfr-b1b2-041",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "My sense of home depends more on the atmosphere than on the size of the place.",
+    "portuguese": "A minha sensação de lar depende mais do ambiente do que do tamanho do espaço.",
+    "pronunciationNote": "ah MEEN-yah sen-sah-SAWN d lar deh-PEN-d mysh",
+    "grammarFocus": "comparative statement",
+    "notes": "Useful reflective home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se houver paz e conforto, já me sinto em casa.",
+        "english": "If there is peace and comfort, I already feel at home."
+      }
+    ],
+    "tags": ["home", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-042",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to be more intentional about keeping in touch with the people who matter to me.",
+    "portuguese": "Estou a tentar ser mais intencional na forma como mantenho contacto com as pessoas que são importantes para mim.",
+    "pronunciationNote": "esh-TOH ah ten-TAR sair mysh een-ten-see-oh-NAL",
+    "grammarFocus": "ongoing intention statement",
+    "notes": "Useful relationship maintenance phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se espero pelo momento perfeito, ele nunca chega.",
+        "english": "If I wait for the perfect moment, it never arrives."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-043",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We had to renegotiate a lot of small habits once our routine changed.",
+    "portuguese": "Tivemos de renegociar muitos pequenos hábitos quando a nossa rotina mudou.",
+    "pronunciationNote": "tee-VEH-moosh d heh-neh-goh-see-AR MWEEN-toosh peh-KEH-noosh AH-bee-toosh",
+    "grammarFocus": "past necessity statement",
+    "notes": "Useful cohabitation adjustment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "As coisas que funcionavam antes deixaram de funcionar.",
+        "english": "The things that used to work before stopped working."
+      }
+    ],
+    "tags": ["home", "change"]
+  },
+  {
+    "id": "05-hfr-b1b2-044",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate people who can be gentle and honest at the same time.",
+    "portuguese": "Dou valor a quem consegue ser gentil e honesto ao mesmo tempo.",
+    "pronunciationNote": "doh vah-LOR ah kayng kohn-SEH-g sair zhen-TEEL ee oh-NESH-too",
+    "grammarFocus": "value statement",
+    "notes": "Useful relationship values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, essa combinação é rara e importante.",
+        "english": "For me, that combination is rare and important."
+      }
+    ],
+    "tags": ["relationship", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-045",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I need home to be a place where I can recover, not just keep functioning.",
+    "portuguese": "Preciso que a casa seja um lugar onde eu possa recuperar, e não apenas continuar a funcionar.",
+    "pronunciationNote": "preh-SEE-zoo k ah KAH-zah SAY-zhah oom loo-GAR",
+    "grammarFocus": "need clause + contrast",
+    "notes": "Useful deeper home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não descanso em casa, tudo o resto fica mais pesado.",
+        "english": "If I do not rest at home, everything else becomes heavier."
+      }
+    ],
+    "tags": ["home", "wellbeing"]
+  },
+  {
+    "id": "05-hfr-b1b2-046",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have learned that strong relationships depend as much on timing as on honesty.",
+    "portuguese": "Aprendi que relações fortes dependem tanto do momento como da honestidade.",
+    "pronunciationNote": "ah-PREN-dee k heh-lah-SOYNSH FOR-tsh deh-PEN-dem TAHN-too",
+    "grammarFocus": "learned principle statement",
+    "notes": "Useful reflective relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dizer a coisa certa na hora errada nem sempre ajuda.",
+        "english": "Saying the right thing at the wrong time does not always help."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-b1b2-047",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we make visiting plans that leave room for rest as well as family time?",
+    "portuguese": "Podíamos fazer planos de visita que deixem espaço para descanso e também para a família?",
+    "pronunciationNote": "poo-DEE-ah-moosh fah-ZER PLAH-noosh d vee-ZEE-tah",
+    "grammarFocus": "balanced planning suggestion",
+    "notes": "Useful family trip phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se enchemos tudo, acabamos por não aproveitar nada.",
+        "english": "If we fill everything up, we end up not enjoying anything."
+      }
+    ],
+    "tags": ["family", "planning"]
+  },
+  {
+    "id": "05-hfr-b1b2-048",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Sometimes the kindest thing is to give someone space without making them ask for it.",
+    "portuguese": "Às vezes, a coisa mais gentil é dar espaço a alguém sem o obrigar a pedi-lo.",
+    "pronunciationNote": "ahzh VEH-zesh ah KOH-zah mysh zhen-TEEL eh dar esh-PAH-soo",
+    "grammarFocus": "general principle statement",
+    "notes": "Useful emotional intelligence phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem toda a ajuda passa por insistir.",
+        "english": "Not all help comes from insisting."
+      }
+    ],
+    "tags": ["relationship", "care"]
+  },
+  {
+    "id": "05-hfr-b1b2-049",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to build a home life that feels supportive rather than just efficient.",
+    "portuguese": "Estou a tentar construir uma vida em casa que pareça acolhedora, e não apenas eficiente.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kohnsh-troo-EER OO-mah VEE-dah eng KAH-zah",
+    "grammarFocus": "ongoing aim statement",
+    "notes": "Useful values-based home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero que o dia a dia funcione, mas também que saiba bem viver nele.",
+        "english": "I want daily life to work, but also to feel good to live in it."
+      }
+    ],
+    "tags": ["home", "values"]
+  },
+  {
+    "id": "05-hfr-b1b2-050",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The strongest relationships I know are the ones where people keep choosing understanding over ego.",
+    "portuguese": "As relações mais fortes que conheço são aquelas em que as pessoas continuam a escolher a compreensão em vez do ego.",
+    "pronunciationNote": "azh heh-lah-SOYNSH mysh FOR-tsh k koh-nyeh-SOHNG",
+    "grammarFocus": "relative clause + value statement",
+    "notes": "Useful advanced relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, é isso que cria segurança verdadeira.",
+        "english": "For me, that is what creates real security."
+      }
+    ],
+    "tags": ["relationship", "values"]
+  }
+]

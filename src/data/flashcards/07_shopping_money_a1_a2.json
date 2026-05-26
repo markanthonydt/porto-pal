@@ -1,0 +1,952 @@
+[
+  {
+    "id": "07-sm-a1a2-001",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much is this?",
+    "portuguese": "Quanto custa isto?",
+    "pronunciationNote": "KWAN-too KOOSH-tah EESH-too",
+    "grammarFocus": "price question",
+    "notes": "Basic shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, quanto custa isto?",
+        "english": "Excuse me, how much is this?"
+      }
+    ],
+    "tags": ["shopping", "price"]
+  },
+  {
+    "id": "07-sm-a1a2-002",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much does it cost?",
+    "portuguese": "Quanto custa?",
+    "pronunciationNote": "KWAN-too KOOSH-tah",
+    "grammarFocus": "price question",
+    "notes": "Useful general phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto custa a camisola?",
+        "english": "How much does the jumper cost?"
+      }
+    ],
+    "tags": ["shopping", "price"]
+  },
+  {
+    "id": "07-sm-a1a2-003",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too expensive.",
+    "portuguese": "É demasiado caro.",
+    "pronunciationNote": "eh deh-mah-ZYAH-doo KAH-roo",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful reaction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, é demasiado caro.",
+        "english": "For me, it is too expensive."
+      }
+    ],
+    "tags": ["shopping", "opinion"]
+  },
+  {
+    "id": "07-sm-a1a2-004",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is cheap.",
+    "portuguese": "É barato.",
+    "pronunciationNote": "eh bah-RAH-too",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful reaction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje está barato.",
+        "english": "Today it is cheap."
+      }
+    ],
+    "tags": ["shopping", "opinion"]
+  },
+  {
+    "id": "07-sm-a1a2-005",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like to buy this.",
+    "portuguese": "Queria comprar isto.",
+    "pronunciationNote": "keh-REE-ah kohm-PRAR EESH-too",
+    "grammarFocus": "polite purchase statement",
+    "notes": "Basic buying phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria comprar isto, por favor.",
+        "english": "I would like to buy this, please."
+      }
+    ],
+    "tags": ["shopping", "buying"]
+  },
+  {
+    "id": "07-sm-a1a2-006",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am just looking.",
+    "portuguese": "Estou só a ver.",
+    "pronunciationNote": "esh-TOH soh ah VAIR",
+    "grammarFocus": "progressive aspect",
+    "notes": "Useful in shops.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, estou só a ver.",
+        "english": "Thanks, I am just looking."
+      }
+    ],
+    "tags": ["shopping", "browsing"]
+  },
+  {
+    "id": "07-sm-a1a2-007",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have this in another size?",
+    "portuguese": "Tem isto noutro tamanho?",
+    "pronunciationNote": "TENG EESH-too NOW-troo tah-MAH-nyoo",
+    "grammarFocus": "availability question",
+    "notes": "Useful clothes-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem esta camisa noutro tamanho?",
+        "english": "Do you have this shirt in another size?"
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-008",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have this in blue?",
+    "portuguese": "Tem isto em azul?",
+    "pronunciationNote": "TENG EESH-too eng ah-ZOOL",
+    "grammarFocus": "availability question",
+    "notes": "Useful clothes-shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem este casaco em azul?",
+        "english": "Do you have this coat in blue?"
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-009",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I try it on?",
+    "portuguese": "Posso experimentar?",
+    "pronunciationNote": "POH-soo ex-peh-ree-men-TAR",
+    "grammarFocus": "permission question",
+    "notes": "Useful fitting-room phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso experimentar esta camisola?",
+        "english": "Can I try on this jumper?"
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-010",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where are the changing rooms?",
+    "portuguese": "Onde ficam os provadores?",
+    "pronunciationNote": "ON-d FEE-kang oosh proh-vah-DOH-rsh",
+    "grammarFocus": "location question",
+    "notes": "Useful fitting-room phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde ficam os provadores?",
+        "english": "Excuse me, where are the changing rooms?"
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-011",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too big.",
+    "portuguese": "É demasiado grande.",
+    "pronunciationNote": "eh deh-mah-ZYAH-doo GRAHN-d",
+    "grammarFocus": "description statement",
+    "notes": "Useful fitting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este tamanho é demasiado grande.",
+        "english": "This size is too big."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-012",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is too small.",
+    "portuguese": "É demasiado pequeno.",
+    "pronunciationNote": "eh deh-mah-ZYAH-doo peh-KEH-noo",
+    "grammarFocus": "description statement",
+    "notes": "Useful fitting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este número é demasiado pequeno.",
+        "english": "This size is too small."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-013",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It fits well.",
+    "portuguese": "Fica bem.",
+    "pronunciationNote": "FEE-kah bayng",
+    "grammarFocus": "description statement",
+    "notes": "Useful fitting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este casaco fica bem.",
+        "english": "This coat fits well."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-014",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I will take it.",
+    "portuguese": "Levo isto.",
+    "pronunciationNote": "LEH-voo EESH-too",
+    "grammarFocus": "purchase decision",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sim, levo isto.",
+        "english": "Yes, I will take this."
+      }
+    ],
+    "tags": ["shopping", "buying"]
+  },
+  {
+    "id": "07-sm-a1a2-015",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not want it anymore.",
+    "portuguese": "Já não quero isto.",
+    "pronunciationNote": "zhah nawng KEH-roo EESH-too",
+    "grammarFocus": "negation statement",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, mas já não quero isto.",
+        "english": "Thanks, but I do not want this anymore."
+      }
+    ],
+    "tags": ["shopping", "buying"]
+  },
+  {
+    "id": "07-sm-a1a2-016",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POH-soo pah-GAR kohm kar-TAWN",
+    "grammarFocus": "payment question",
+    "notes": "Basic payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui posso pagar com cartão?",
+        "english": "Can I pay by card here?"
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-a1a2-017",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay in cash?",
+    "portuguese": "Posso pagar em dinheiro?",
+    "pronunciationNote": "POH-soo pah-GAR eng dee-NYAY-roo",
+    "grammarFocus": "payment question",
+    "notes": "Basic payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro pagar em dinheiro.",
+        "english": "I prefer to pay in cash."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-a1a2-018",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need change.",
+    "portuguese": "Preciso de troco.",
+    "pronunciationNote": "preh-SEE-zoo d TROH-koo",
+    "grammarFocus": "need statement",
+    "notes": "Useful cash phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, preciso de troco.",
+        "english": "Sorry, I need change."
+      }
+    ],
+    "tags": ["money", "cash"]
+  },
+  {
+    "id": "07-sm-a1a2-019",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have change for twenty euros?",
+    "portuguese": "Tem troco para vinte euros?",
+    "pronunciationNote": "TENG TROH-koo pah-rah VEEN-t oo-roosh",
+    "grammarFocus": "availability question",
+    "notes": "Useful cash phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem troco para vinte euros, por favor?",
+        "english": "Do you have change for twenty euros, please?"
+      }
+    ],
+    "tags": ["money", "cash"]
+  },
+  {
+    "id": "07-sm-a1a2-020",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have anything cheaper?",
+    "portuguese": "Tem alguma coisa mais barata?",
+    "pronunciationNote": "TENG al-GOO-mah KOH-zah mysh bah-RAH-tah",
+    "grammarFocus": "comparison question",
+    "notes": "Useful price phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem alguma coisa mais barata para oferta?",
+        "english": "Do you have anything cheaper for a gift?"
+      }
+    ],
+    "tags": ["shopping", "price"]
+  },
+  {
+    "id": "07-sm-a1a2-021",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am looking for a gift.",
+    "portuguese": "Estou à procura de um presente.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d oom preh-ZEN-t",
+    "grammarFocus": "search statement",
+    "notes": "Useful shop phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou à procura de um presente para a minha mãe.",
+        "english": "I am looking for a gift for my mother."
+      }
+    ],
+    "tags": ["shopping", "gift"]
+  },
+  {
+    "id": "07-sm-a1a2-022",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you help me?",
+    "portuguese": "Pode ajudar-me?",
+    "pronunciationNote": "POH-d ah-zhoo-DAR-m",
+    "grammarFocus": "formal request",
+    "notes": "Useful shop phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, pode ajudar-me?",
+        "english": "Excuse me, can you help me?"
+      }
+    ],
+    "tags": ["shopping", "help"]
+  },
+  {
+    "id": "07-sm-a1a2-023",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am looking for shoes.",
+    "portuguese": "Estou à procura de sapatos.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d sah-PAH-toosh",
+    "grammarFocus": "search statement",
+    "notes": "Useful clothing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou à procura de sapatos pretos.",
+        "english": "I am looking for black shoes."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-024",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am looking for a jacket.",
+    "portuguese": "Estou à procura de um casaco.",
+    "pronunciationNote": "esh-TOH ah PROH-koo-rah d oom kah-ZAH-koo",
+    "grammarFocus": "search statement",
+    "notes": "Useful clothing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou à procura de um casaco leve.",
+        "english": "I am looking for a light jacket."
+      }
+    ],
+    "tags": ["shopping", "clothes"]
+  },
+  {
+    "id": "07-sm-a1a2-025",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you sell stamps?",
+    "portuguese": "Vendem selos?",
+    "pronunciationNote": "VEN-deng SEH-loosh",
+    "grammarFocus": "availability question",
+    "notes": "Useful small-shop phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aqui vendem selos?",
+        "english": "Do you sell stamps here?"
+      }
+    ],
+    "tags": ["shopping", "small-shops"]
+  },
+  {
+    "id": "07-sm-a1a2-026",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a bag.",
+    "portuguese": "Preciso de um saco.",
+    "pronunciationNote": "preh-SEE-zoo d oom SAH-koo",
+    "grammarFocus": "need statement",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de um saco, por favor.",
+        "english": "I need a bag, please."
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  },
+  {
+    "id": "07-sm-a1a2-027",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not need a bag.",
+    "portuguese": "Não preciso de saco.",
+    "pronunciationNote": "nawng preh-SEE-zoo d SAH-koo",
+    "grammarFocus": "negation statement",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, não preciso de saco.",
+        "english": "Thank you, I do not need a bag."
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  },
+  {
+    "id": "07-sm-a1a2-028",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have the receipt?",
+    "portuguese": "Posso ficar com o recibo?",
+    "pronunciationNote": "POH-soo fee-KAR kohm oo heh-SEE-boo",
+    "grammarFocus": "request question",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso ficar com o recibo, por favor?",
+        "english": "Can I have the receipt, please?"
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  },
+  {
+    "id": "07-sm-a1a2-029",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I return this?",
+    "portuguese": "Posso devolver isto?",
+    "pronunciationNote": "POH-soo deh-vohl-VER EESH-too",
+    "grammarFocus": "permission question",
+    "notes": "Useful returns phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso devolver isto amanhã?",
+        "english": "Can I return this tomorrow?"
+      }
+    ],
+    "tags": ["shopping", "returns"]
+  },
+  {
+    "id": "07-sm-a1a2-030",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is damaged.",
+    "portuguese": "Está estragado.",
+    "pronunciationNote": "esh-TAH esh-trah-GAH-doo",
+    "grammarFocus": "state statement",
+    "notes": "Useful returns phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não posso usar isto, está estragado.",
+        "english": "I cannot use this, it is damaged."
+      }
+    ],
+    "tags": ["shopping", "returns"]
+  },
+  {
+    "id": "07-sm-a1a2-031",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I exchange it?",
+    "portuguese": "Posso trocar?",
+    "pronunciationNote": "POH-soo troh-KAR",
+    "grammarFocus": "permission question",
+    "notes": "Useful returns phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não servir, posso trocar?",
+        "english": "If it does not fit, can I exchange it?"
+      }
+    ],
+    "tags": ["shopping", "returns"]
+  },
+  {
+    "id": "07-sm-a1a2-032",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to go to the bank.",
+    "portuguese": "Preciso de ir ao banco.",
+    "pronunciationNote": "preh-SEE-zoo d eer ow BAHNG-koo",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful money phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes das compras, preciso de ir ao banco.",
+        "english": "Before shopping, I need to go to the bank."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-a1a2-033",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the cash machine?",
+    "portuguese": "Onde fica o multibanco?",
+    "pronunciationNote": "ON-d fih-k oo mool-tee-BAHNG-koo",
+    "grammarFocus": "location question",
+    "notes": "Useful money phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica o multibanco?",
+        "english": "Excuse me, where is the cash machine?"
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-a1a2-034",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to withdraw money.",
+    "portuguese": "Quero levantar dinheiro.",
+    "pronunciationNote": "KEH-roo leh-vahn-TAR dee-NYAY-roo",
+    "grammarFocus": "want statement",
+    "notes": "Useful bank phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero levantar dinheiro antes de entrar na loja.",
+        "english": "I want to withdraw money before going into the shop."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-a1a2-035",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to pay a bill.",
+    "portuguese": "Quero pagar uma conta.",
+    "pronunciationNote": "KEH-roo pah-GAR OO-mah KON-tah",
+    "grammarFocus": "want statement",
+    "notes": "Useful money phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje quero pagar uma conta no banco.",
+        "english": "Today I want to pay a bill at the bank."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-a1a2-036",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need my card.",
+    "portuguese": "Preciso do meu cartão.",
+    "pronunciationNote": "preh-SEE-zoo doo MEH-oo kar-TAWN",
+    "grammarFocus": "need statement",
+    "notes": "Useful money phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para levantar dinheiro, preciso do meu cartão.",
+        "english": "To withdraw money, I need my card."
+      }
+    ],
+    "tags": ["money", "bank"]
+  },
+  {
+    "id": "07-sm-a1a2-037",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My card is not working.",
+    "portuguese": "O meu cartão não funciona.",
+    "pronunciationNote": "oo MEH-oo kar-TAWN nawng foon-see-OH-nah",
+    "grammarFocus": "negation statement",
+    "notes": "Useful payment problem phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, o meu cartão não funciona aqui.",
+        "english": "Sorry, my card is not working here."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-a1a2-038",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you check the price?",
+    "portuguese": "Pode verificar o preço?",
+    "pronunciationNote": "POH-d veh-ree-fee-KAR oo PREH-soo",
+    "grammarFocus": "formal request",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode verificar o preço deste artigo?",
+        "english": "Can you check the price of this item?"
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  },
+  {
+    "id": "07-sm-a1a2-039",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a smaller note?",
+    "portuguese": "Tem uma nota mais pequena?",
+    "pronunciationNote": "TENG OO-mah NOH-tah mysh peh-KEH-nah",
+    "grammarFocus": "availability question",
+    "notes": "Useful cash phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para pagar isto, tem uma nota mais pequena?",
+        "english": "To pay for this, do you have a smaller note?"
+      }
+    ],
+    "tags": ["money", "cash"]
+  },
+  {
+    "id": "07-sm-a1a2-040",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need coins.",
+    "portuguese": "Preciso de moedas.",
+    "pronunciationNote": "preh-SEE-zoo d moo-AY-dash",
+    "grammarFocus": "need statement",
+    "notes": "Useful cash phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para a máquina, preciso de moedas.",
+        "english": "For the machine, I need coins."
+      }
+    ],
+    "tags": ["money", "cash"]
+  },
+  {
+    "id": "07-sm-a1a2-041",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "There is a discount.",
+    "portuguese": "Há desconto.",
+    "pronunciationNote": "AH dehsh-KON-too",
+    "grammarFocus": "existence statement",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje há desconto nesta marca.",
+        "english": "Today there is a discount on this brand."
+      }
+    ],
+    "tags": ["shopping", "sale"]
+  },
+  {
+    "id": "07-sm-a1a2-042",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is it on sale?",
+    "portuguese": "Está em promoção?",
+    "pronunciationNote": "esh-TAH eng proh-moh-SAWN",
+    "grammarFocus": "state question",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este produto está em promoção?",
+        "english": "Is this product on sale?"
+      }
+    ],
+    "tags": ["shopping", "sale"]
+  },
+  {
+    "id": "07-sm-a1a2-043",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a supermarket.",
+    "portuguese": "Preciso de um supermercado.",
+    "pronunciationNote": "preh-SEE-zoo d oom soo-per-mer-kah-DOO",
+    "grammarFocus": "need statement",
+    "notes": "Useful shopping phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para comprar comida, preciso de um supermercado.",
+        "english": "To buy food, I need a supermarket."
+      }
+    ],
+    "tags": ["shopping", "groceries"]
+  },
+  {
+    "id": "07-sm-a1a2-044",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need milk and bread.",
+    "portuguese": "Preciso de leite e pão.",
+    "pronunciationNote": "preh-SEE-zoo d LAY-t ee PAWNG",
+    "grammarFocus": "need statement",
+    "notes": "Useful groceries phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de leite e pão.",
+        "english": "Today I need milk and bread."
+      }
+    ],
+    "tags": ["shopping", "groceries"]
+  },
+  {
+    "id": "07-sm-a1a2-045",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need fruit.",
+    "portuguese": "Preciso de fruta.",
+    "pronunciationNote": "preh-SEE-zoo d FROO-tah",
+    "grammarFocus": "need statement",
+    "notes": "Useful groceries phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "No mercado, preciso de fruta fresca.",
+        "english": "At the market, I need fresh fruit."
+      }
+    ],
+    "tags": ["shopping", "groceries"]
+  },
+  {
+    "id": "07-sm-a1a2-046",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need vegetables.",
+    "portuguese": "Preciso de legumes.",
+    "pronunciationNote": "preh-SEE-zoo d leh-GOO-mesh",
+    "grammarFocus": "need statement",
+    "notes": "Useful groceries phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para o jantar, preciso de legumes.",
+        "english": "For dinner, I need vegetables."
+      }
+    ],
+    "tags": ["shopping", "groceries"]
+  },
+  {
+    "id": "07-sm-a1a2-047",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going to the market.",
+    "portuguese": "Vou ao mercado.",
+    "pronunciationNote": "VOH ow mer-KAH-doo",
+    "grammarFocus": "movement statement",
+    "notes": "Useful shopping routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao sábado de manhã vou ao mercado.",
+        "english": "On Saturday mornings I go to the market."
+      }
+    ],
+    "tags": ["shopping", "market"]
+  },
+  {
+    "id": "07-sm-a1a2-048",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I only have cash.",
+    "portuguese": "Só tenho dinheiro.",
+    "pronunciationNote": "SOH TEN-yoo dee-NYAY-roo",
+    "grammarFocus": "limitation statement",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje só tenho dinheiro comigo.",
+        "english": "Today I only have cash with me."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-a1a2-049",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I only have my card.",
+    "portuguese": "Só tenho o cartão.",
+    "pronunciationNote": "SOH TEN-yoo oo kar-TAWN",
+    "grammarFocus": "limitation statement",
+    "notes": "Useful payment phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, só tenho o cartão.",
+        "english": "Sorry, I only have my card."
+      }
+    ],
+    "tags": ["money", "payment"]
+  },
+  {
+    "id": "07-sm-a1a2-050",
+    "subject": "Shopping & Money",
+    "subjectId": "shopping-money",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you, that is all.",
+    "portuguese": "Obrigado, é tudo.",
+    "pronunciationNote": "oh-bree-GAH-doo eh TOO-doo",
+    "grammarFocus": "closing phrase",
+    "notes": "Useful checkout phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado, é tudo por hoje.",
+        "english": "Thank you, that is all for today."
+      }
+    ],
+    "tags": ["shopping", "checkout"]
+  }
+]

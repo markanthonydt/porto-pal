@@ -1,0 +1,952 @@
+[
+  {
+    "id": "09-gvp-b1b2-001",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "If I had known, I would have done it differently.",
+    "portuguese": "Se soubesse, teria feito isso de outra maneira.",
+    "pronunciationNote": "s soo-BEH-s teria FAY-too EE-soo d OH-trah mah-NAY-rah",
+    "grammarFocus": "imperfect subjunctive + conditional perfect",
+    "notes": "Counterfactual past pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Na altura não sabia, mas se soubesse teria agido de outra forma.",
+        "english": "At the time I did not know, but if I had known I would have acted differently."
+      }
+    ],
+    "tags": ["grammar", "counterfactual", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-002",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I wish I had more time.",
+    "portuguese": "Gostava de ter mais tempo.",
+    "pronunciationNote": "goosh-TAH-vah d tair mysh TEM-poo",
+    "grammarFocus": "polite desire with gostava de + infinitive",
+    "notes": "Softened desire pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de ter mais tempo para ler e descansar.",
+        "english": "I wish I had more time to read and rest."
+      }
+    ],
+    "tags": ["grammar", "desire", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-003",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I should have asked earlier.",
+    "portuguese": "Devia ter perguntado mais cedo.",
+    "pronunciationNote": "DEH-vee-ah tair pair-goon-TAH-doo mysh SEH-doo",
+    "grammarFocus": "dever + perfect infinitive",
+    "notes": "Regret/advice-about-the-past pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora vejo que devia ter perguntado mais cedo.",
+        "english": "Now I see that I should have asked earlier."
+      }
+    ],
+    "tags": ["grammar", "past-evaluation", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-004",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "You might have misunderstood.",
+    "portuguese": "Podes ter percebido mal.",
+    "pronunciationNote": "POH-desh tair pair-seh-BEE-doo mahl",
+    "grammarFocus": "poder + perfect infinitive for possibility",
+    "notes": "Past possibility pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez possas ter percebido mal o que eu quis dizer.",
+        "english": "Maybe you might have misunderstood what I meant."
+      }
+    ],
+    "tags": ["grammar", "possibility", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-005",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I have been trying to explain it more clearly.",
+    "portuguese": "Tenho tentado explicá-lo com mais clareza.",
+    "pronunciationNote": "TEN-yoo ten-TAH-doo ex-plee-KAH-loo kohm mysh klah-REH-zah",
+    "grammarFocus": "recent repeated effort with tenho + participle",
+    "notes": "Ongoing effort pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ultimamente tenho tentado explicá-lo com mais clareza.",
+        "english": "Lately I have been trying to explain it more clearly."
+      }
+    ],
+    "tags": ["grammar", "ongoing-effort", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-006",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I have ended up changing my mind.",
+    "portuguese": "Acabei por mudar de opinião.",
+    "pronunciationNote": "ah-kah-BAY poor moo-DAR d oh-pee-nee-AWN",
+    "grammarFocus": "acabar por + infinitive",
+    "notes": "Unexpected/resulting action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois de pensar melhor, acabei por mudar de opinião.",
+        "english": "After thinking it through, I ended up changing my mind."
+      }
+    ],
+    "tags": ["grammar", "result", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-007",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I keep forgetting to reply.",
+    "portuguese": "Continuo a esquecer-me de responder.",
+    "pronunciationNote": "kohn-tee-NOO-oh ah esh-keh-SHER-m d hesh-pon-DER",
+    "grammarFocus": "continuar a + pronominal infinitive",
+    "notes": "Repeated ongoing action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com tanta coisa, continuo a esquecer-me de responder.",
+        "english": "With so much going on, I keep forgetting to reply."
+      }
+    ],
+    "tags": ["grammar", "continuation", "pronominal"]
+  },
+  {
+    "id": "09-gvp-b1b2-008",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "As soon as I finish, I will let you know.",
+    "portuguese": "Assim que acabar, aviso-te.",
+    "pronunciationNote": "ah-SEENG k ah-kah-BAR ah-VEE-zoo-t",
+    "grammarFocus": "future subjunctive with assim que",
+    "notes": "Time clause pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim que acabar a reunião, aviso-te.",
+        "english": "As soon as I finish the meeting, I will let you know."
+      }
+    ],
+    "tags": ["grammar", "time", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-009",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Whenever I try to rush, I make more mistakes.",
+    "portuguese": "Sempre que tento apressar-me, cometo mais erros.",
+    "pronunciationNote": "SEM-pr k TEN-too ah-presh-SAR-m koh-MEH-too mysh AIR-roosh",
+    "grammarFocus": "habitual clause with sempre que",
+    "notes": "Repeated-condition pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sempre que tento apressar-me, esqueço-me de alguma coisa.",
+        "english": "Whenever I try to hurry, I forget something."
+      }
+    ],
+    "tags": ["grammar", "habits", "clauses"]
+  },
+  {
+    "id": "09-gvp-b1b2-010",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Even if I disagree, I can still understand the point.",
+    "portuguese": "Mesmo que discorde, consigo perceber o ponto.",
+    "pronunciationNote": "MEZH-moo k deesh-KOR-d kohN-SEE-goo pair-seh-BER oo PON-too",
+    "grammarFocus": "concession with mesmo que + subjunctive",
+    "notes": "Concession pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que discorde, tento ouvir até ao fim.",
+        "english": "Even if I disagree, I try to listen to the end."
+      }
+    ],
+    "tags": ["grammar", "concession", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-011",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Unless something changes, I am going to keep this plan.",
+    "portuguese": "A não ser que algo mude, vou manter este plano.",
+    "pronunciationNote": "ah nawng sair k AL-goo MOO-d voh mahn-TAIR ESH-t PLAH-noo",
+    "grammarFocus": "exception with a não ser que + subjunctive",
+    "notes": "Exception pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "A não ser que algo mude, vou manter este plano até sexta.",
+        "english": "Unless something changes, I am going to keep this plan until Friday."
+      }
+    ],
+    "tags": ["grammar", "exception", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-012",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "It is better that we talk now.",
+    "portuguese": "É melhor que falemos agora.",
+    "pronunciationNote": "eh meh-LYOR k fahl-LEH-moosh ah-GOH-rah",
+    "grammarFocus": "opinion + present subjunctive",
+    "notes": "Evaluation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se calhar é melhor que falemos agora com calma.",
+        "english": "Maybe it is better that we talk now calmly."
+      }
+    ],
+    "tags": ["grammar", "subjunctive", "evaluation"]
+  },
+  {
+    "id": "09-gvp-b1b2-013",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "It is possible that he is right.",
+    "portuguese": "É possível que ele tenha razão.",
+    "pronunciationNote": "eh poo-SEE-vel k EH-leh TEN-yah hah-ZAWN",
+    "grammarFocus": "possibility + present subjunctive",
+    "notes": "Possibility pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que custe admitir, é possível que ele tenha razão.",
+        "english": "Even if it is hard to admit, it is possible that he is right."
+      }
+    ],
+    "tags": ["grammar", "subjunctive", "possibility"]
+  },
+  {
+    "id": "09-gvp-b1b2-014",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I doubt that this is enough.",
+    "portuguese": "Duvido que isto seja suficiente.",
+    "pronunciationNote": "doo-VEE-doo k EESH-too SAY-zhah soo-fee-see-EN-t",
+    "grammarFocus": "doubt + present subjunctive",
+    "notes": "Doubt pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sinceramente, duvido que isto seja suficiente para resolver o problema.",
+        "english": "Honestly, I doubt that this is enough to solve the problem."
+      }
+    ],
+    "tags": ["grammar", "subjunctive", "doubt"]
+  },
+  {
+    "id": "09-gvp-b1b2-015",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am glad that you came.",
+    "portuguese": "Fico contente por teres vindo.",
+    "pronunciationNote": "FEE-koo kohn-TEN-t poor TAY-rsh VEEN-doo",
+    "grammarFocus": "emotion + por + perfect infinitive",
+    "notes": "Reaction-to-past-action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fico contente por teres vindo falar comigo.",
+        "english": "I am glad that you came to speak with me."
+      }
+    ],
+    "tags": ["grammar", "emotion", "infinitive"]
+  },
+  {
+    "id": "09-gvp-b1b2-016",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I regret not having said anything.",
+    "portuguese": "Arrependo-me de não ter dito nada.",
+    "pronunciationNote": "ah-heh-PEN-doo-m d nawng tair DEE-too NAH-dah",
+    "grammarFocus": "regret + de + perfect infinitive",
+    "notes": "Regret pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje arrependo-me de não ter dito nada no momento.",
+        "english": "Today I regret not saying anything at the time."
+      }
+    ],
+    "tags": ["grammar", "regret", "pronominal"]
+  },
+  {
+    "id": "09-gvp-b1b2-017",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I ended up having to explain everything again.",
+    "portuguese": "Acabei por ter de explicar tudo outra vez.",
+    "pronunciationNote": "ah-kah-BAY poor tair d ex-plee-KAR TOO-doo OH-trah VEZH",
+    "grammarFocus": "acabar por + ter de + infinitive",
+    "notes": "Multi-verb result pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como houve confusão, acabei por ter de explicar tudo outra vez.",
+        "english": "Because there was confusion, I ended up having to explain everything again."
+      }
+    ],
+    "tags": ["grammar", "multi-verb", "result"]
+  },
+  {
+    "id": "09-gvp-b1b2-018",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I was about to call you.",
+    "portuguese": "Estava prestes a ligar-te.",
+    "pronunciationNote": "esh-TAH-vah PREHSH-tesh ah lee-GAR-t",
+    "grammarFocus": "estar prestes a + infinitive",
+    "notes": "Imminent action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando mandaste mensagem, eu estava prestes a ligar-te.",
+        "english": "When you sent the message, I was about to call you."
+      }
+    ],
+    "tags": ["grammar", "imminence", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-019",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I have come to realise that I was wrong.",
+    "portuguese": "Tenho vindo a perceber que estava enganado.",
+    "pronunciationNote": "TEN-yoo VEEN-doo ah pair-seh-BER k esh-TAH-vah en-gah-NAH-doo",
+    "grammarFocus": "tenho vindo a + infinitive",
+    "notes": "Gradual realization pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com o tempo, tenho vindo a perceber que estava enganado.",
+        "english": "With time, I have come to realise that I was wrong."
+      }
+    ],
+    "tags": ["grammar", "gradual-change", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-020",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I mean to say that...",
+    "portuguese": "O que quero dizer é que...",
+    "pronunciationNote": "oo k KEH-roo dee-ZER eh k",
+    "grammarFocus": "cleft structure for clarification",
+    "notes": "Clarifying explanation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que quero dizer é que não era essa a minha intenção.",
+        "english": "What I mean is that that was not my intention."
+      }
+    ],
+    "tags": ["grammar", "clarification", "structures"]
+  },
+  {
+    "id": "09-gvp-b1b2-021",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "The more I think about it, the less certain I am.",
+    "portuguese": "Quanto mais penso nisso, menos certezas tenho.",
+    "pronunciationNote": "KWAN-too mysh PEN-soo NEE-soo MEN-oosh sair-TEH-zash TEN-yoo",
+    "grammarFocus": "correlative comparative structure",
+    "notes": "Reasoning pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto mais penso nisso, menos certezas tenho sobre a decisão.",
+        "english": "The more I think about it, the less certain I am about the decision."
+      }
+    ],
+    "tags": ["grammar", "comparatives", "structures"]
+  },
+  {
+    "id": "09-gvp-b1b2-022",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am used to doing it this way.",
+    "portuguese": "Estou habituado a fazê-lo assim.",
+    "pronunciationNote": "esh-TOH ah-bee-too-AH-doo ah fah-ZEH-loo ah-SEENG",
+    "grammarFocus": "estar habituado a + infinitive",
+    "notes": "Habitual comfort pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estou habituado a fazê-lo assim, por isso estranhei a mudança.",
+        "english": "I am used to doing it this way, so the change felt strange."
+      }
+    ],
+    "tags": ["grammar", "habit", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-023",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am getting used to doing it differently.",
+    "portuguese": "Estou a habituar-me a fazê-lo de outra forma.",
+    "pronunciationNote": "esh-TOH ah ah-bee-too-AR-m ah fah-ZEH-loo d OH-trah FOR-mah",
+    "grammarFocus": "habituar-se a + infinitive",
+    "notes": "Adaptation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estou a habituar-me a fazê-lo de outra forma.",
+        "english": "I am still getting used to doing it differently."
+      }
+    ],
+    "tags": ["grammar", "adaptation", "pronominal"]
+  },
+  {
+    "id": "09-gvp-b1b2-024",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Whatever happens, I want to stay honest.",
+    "portuguese": "Aconteça o que acontecer, quero manter-me honesto.",
+    "pronunciationNote": "ah-kohn-TEH-sah oo k ah-kohn-teh-SAIR KEH-roo mahn-TAIR-m oh-NESH-too",
+    "grammarFocus": "free-choice expression + subjunctive",
+    "notes": "Determination pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aconteça o que acontecer, quero manter-me honesto comigo mesmo.",
+        "english": "Whatever happens, I want to stay honest with myself."
+      }
+    ],
+    "tags": ["grammar", "fixed-structures", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-025",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I do not remember having said that.",
+    "portuguese": "Não me lembro de ter dito isso.",
+    "pronunciationNote": "nawng m LEM-broo d tair DEE-too EE-soo",
+    "grammarFocus": "pronominal verb + de + perfect infinitive",
+    "notes": "Memory-about-past pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sinceramente, não me lembro de ter dito isso assim.",
+        "english": "Honestly, I do not remember having said that like that."
+      }
+    ],
+    "tags": ["grammar", "memory", "pronominal"]
+  },
+  {
+    "id": "09-gvp-b1b2-026",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I do not want to keep repeating myself.",
+    "portuguese": "Não quero continuar a repetir-me.",
+    "pronunciationNote": "nawng KEH-roo kohn-tee-NOO-ar ah heh-peh-TEER-m",
+    "grammarFocus": "continuar a + pronominal infinitive",
+    "notes": "Repetition pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não ficou claro, explico outra vez, mas não quero continuar a repetir-me.",
+        "english": "If it was not clear, I will explain again, but I do not want to keep repeating myself."
+      }
+    ],
+    "tags": ["grammar", "continuation", "pronominal"]
+  },
+  {
+    "id": "09-gvp-b1b2-027",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I ended up not going because I was too tired.",
+    "portuguese": "Acabei por não ir porque estava demasiado cansado.",
+    "pronunciationNote": "ah-kah-BAY poor nawng eer poor-k esh-TAH-vah deh-mah-ZYAH-doo kahn-SAH-doo",
+    "grammarFocus": "acabar por + negated infinitive",
+    "notes": "Resulting non-action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ir, mas acabei por não ir porque estava demasiado cansado.",
+        "english": "I wanted to go, but I ended up not going because I was too tired."
+      }
+    ],
+    "tags": ["grammar", "result", "negation"]
+  },
+  {
+    "id": "09-gvp-b1b2-028",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I might be overreacting.",
+    "portuguese": "Posso estar a exagerar.",
+    "pronunciationNote": "POH-soo esh-TAR ah eh-zhah-zheh-RAR",
+    "grammarFocus": "modal possibility + progressive infinitive",
+    "notes": "Present possibility pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Talvez eu possa estar a exagerar, mas isto parece-me estranho.",
+        "english": "Maybe I might be overreacting, but this seems strange to me."
+      }
+    ],
+    "tags": ["grammar", "possibility", "progressive"]
+  },
+  {
+    "id": "09-gvp-b1b2-029",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "It is not that I do not care; I just need more time.",
+    "portuguese": "Não é que eu não me importe; só preciso de mais tempo.",
+    "pronunciationNote": "nawng eh k ew nawng m em-POR-t soh preh-SEE-zoo d mysh TEM-poo",
+    "grammarFocus": "não é que + subjunctive",
+    "notes": "Correction/clarification structure.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não é que eu não me importe; só preciso de pensar melhor.",
+        "english": "It is not that I do not care; I just need to think it through."
+      }
+    ],
+    "tags": ["grammar", "clarification", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-030",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "The fact that he said it does not mean he believes it.",
+    "portuguese": "O facto de ele o ter dito não quer dizer que acredite nisso.",
+    "pronunciationNote": "oo FAK-too d EH-leh oo tair DEE-too nawng KEHR dee-ZER k ah-kreh-DEE-t NEE-soo",
+    "grammarFocus": "o facto de + infinitive / clause + subjunctive",
+    "notes": "Interpretation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes dizemos coisas sem realmente as sentir.",
+        "english": "Sometimes we say things without really meaning them."
+      }
+    ],
+    "tags": ["grammar", "interpretation", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-031",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I wish you would tell me sooner next time.",
+    "portuguese": "Gostava que me dissesses mais cedo da próxima vez.",
+    "pronunciationNote": "goosh-TAH-vah k m dee-SEH-sesh mysh SEH-doo dah PROK-see-mah VEZH",
+    "grammarFocus": "gostava que + imperfect subjunctive",
+    "notes": "Softened request pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim eu podia organizar-me melhor.",
+        "english": "That way I could organise myself better."
+      }
+    ],
+    "tags": ["grammar", "requests", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-032",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I would have preferred to know that earlier.",
+    "portuguese": "Teria preferido saber isso mais cedo.",
+    "pronunciationNote": "teh-REE-ah preh-feh-REE-doo sah-BER EE-soo mysh SEH-doo",
+    "grammarFocus": "conditional perfect",
+    "notes": "Retrospective preference pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se soubesse, teria preferido saber isso mais cedo.",
+        "english": "If I had known, I would have preferred to know that earlier."
+      }
+    ],
+    "tags": ["grammar", "conditional", "past-evaluation"]
+  },
+  {
+    "id": "09-gvp-b1b2-033",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am far from having finished.",
+    "portuguese": "Estou longe de ter acabado.",
+    "pronunciationNote": "esh-TOH LON-zh d tair ah-kah-BAH-doo",
+    "grammarFocus": "longe de + infinitive",
+    "notes": "Distance-from-completion pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com este ritmo, ainda estou longe de ter acabado.",
+        "english": "At this pace, I am still far from having finished."
+      }
+    ],
+    "tags": ["grammar", "progress", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-034",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am not used to being asked that directly.",
+    "portuguese": "Não estou habituado a que me perguntem isso tão diretamente.",
+    "pronunciationNote": "nawng esh-TOH ah-bee-too-AH-doo ah k m pair-GOON-tem EE-soo",
+    "grammarFocus": "habituado a que + subjunctive",
+    "notes": "Reaction pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por isso preciso de um momento para responder.",
+        "english": "That is why I need a moment to answer."
+      }
+    ],
+    "tags": ["grammar", "subjunctive", "reaction"]
+  },
+  {
+    "id": "09-gvp-b1b2-035",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am trying to keep from taking it personally.",
+    "portuguese": "Estou a tentar não levar isso para o lado pessoal.",
+    "pronunciationNote": "esh-TOH ah ten-TAR nawng leh-VAR EE-soo pah-rah oo LAH-doo peh-soh-AL",
+    "grammarFocus": "negative infinitive purpose/control pattern",
+    "notes": "Emotional regulation structure.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre é fácil, mas estou a tentar não levar isso para o lado pessoal.",
+        "english": "It is not always easy, but I am trying not to take it personally."
+      }
+    ],
+    "tags": ["grammar", "regulation", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-036",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I cannot help thinking that this could have gone better.",
+    "portuguese": "Não consigo deixar de pensar que isto podia ter corrido melhor.",
+    "pronunciationNote": "nawng kohn-SEE-goo day-SHAR d pen-SAR k EESH-too POO-dee-ah tair koh-HREE-doo meh-LYOR",
+    "grammarFocus": "deixar de + infinitive / conditional evaluation",
+    "notes": "Reflective pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora não consigo deixar de pensar que isto podia ter corrido melhor.",
+        "english": "Now I cannot help thinking that this could have gone better."
+      }
+    ],
+    "tags": ["grammar", "reflection", "conditional"]
+  },
+  {
+    "id": "09-gvp-b1b2-037",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Even though I understand the reason, it still bothers me.",
+    "portuguese": "Embora perceba a razão, isso continua a incomodar-me.",
+    "pronunciationNote": "ohN-BOR-ah pair-SEH-bah ah hah-ZAWN EE-soo kohn-tee-NOO-ah ah een-koh-moh-DAR-m",
+    "grammarFocus": "embora + subjunctive",
+    "notes": "Concession pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Embora perceba a razão, isso continua a incomodar-me um pouco.",
+        "english": "Even though I understand the reason, it still bothers me a bit."
+      }
+    ],
+    "tags": ["grammar", "concession", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-038",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "No matter how I say it, it sounds wrong.",
+    "portuguese": "Por mais que o diga, soa mal.",
+    "pronunciationNote": "poor mysh k oo DEE-gah SOH-ah mahl",
+    "grammarFocus": "por mais que + subjunctive",
+    "notes": "Limitative concession pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Por mais que o diga com cuidado, soa mal.",
+        "english": "No matter how carefully I say it, it sounds wrong."
+      }
+    ],
+    "tags": ["grammar", "concession", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-039",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I was hoping you could explain it another way.",
+    "portuguese": "Esperava que me pudesse explicar isso de outra forma.",
+    "pronunciationNote": "esh-peh-RAH-vah k m poo-DESH-s ex-plee-KAR EE-soo d OH-trah FOR-mah",
+    "grammarFocus": "imperfect + que + imperfect subjunctive",
+    "notes": "Softened request pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não percebi bem, por isso esperava que me pudesse explicar isso de outra forma.",
+        "english": "I still did not understand it well, so I was hoping you could explain it another way."
+      }
+    ],
+    "tags": ["grammar", "requests", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-040",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I keep meaning to do it, but I never get around to it.",
+    "portuguese": "Ando para o fazer, mas nunca chego a fazê-lo.",
+    "pronunciationNote": "AHN-doo pah-rah oo fah-ZER mahsh NOON-kah SHEH-goo ah fah-ZEH-loo",
+    "grammarFocus": "andar para + infinitive / chegar a + infinitive",
+    "notes": "Delayed action pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ando para o fazer há dias, mas nunca chego a fazê-lo.",
+        "english": "I have been meaning to do it for days, but I never get around to it."
+      }
+    ],
+    "tags": ["grammar", "ongoing-intention", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-041",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I was left wondering whether I had misunderstood everything.",
+    "portuguese": "Fiquei a pensar se tinha percebido tudo mal.",
+    "pronunciationNote": "fee-KAY ah pen-SAR s TEEN-yah pair-seh-BEE-doo TOO-doo mahl",
+    "grammarFocus": "ficar a + infinitive / pluperfect meaning",
+    "notes": "After-effect reflection pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois da conversa, fiquei a pensar se tinha percebido tudo mal.",
+        "english": "After the conversation, I was left wondering whether I had misunderstood everything."
+      }
+    ],
+    "tags": ["grammar", "reflection", "past"]
+  },
+  {
+    "id": "09-gvp-b1b2-042",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I would not say that exactly, but I can see why you think that.",
+    "portuguese": "Não diria exatamente isso, mas percebo porque é que pensas assim.",
+    "pronunciationNote": "nawng dee-REE-ah eh-zah-tah-MEN-t EE-soo mahsh pair-SEH-boo poor-KAY eh k PEN-sash ah-SEENG",
+    "grammarFocus": "softened disagreement with conditional",
+    "notes": "Discussion pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não diria exatamente isso, mas percebo porque é que pensas assim.",
+        "english": "I would not say that exactly, but I can see why you think that."
+      }
+    ],
+    "tags": ["grammar", "discussion", "conditional"]
+  },
+  {
+    "id": "09-gvp-b1b2-043",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I would have liked you to tell me directly.",
+    "portuguese": "Gostava que me tivesses dito isso diretamente.",
+    "pronunciationNote": "goosh-TAH-vah k m tee-VEH-sesh DEE-too EE-soo dee-reh-tah-MEN-t",
+    "grammarFocus": "gostava que + pluperfect subjunctive value",
+    "notes": "Past unmet preference pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mesmo que custasse, gostava que me tivesses dito isso diretamente.",
+        "english": "Even if it was hard, I would have liked you to tell me that directly."
+      }
+    ],
+    "tags": ["grammar", "past-preference", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-044",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I am not saying that to criticise you, but to explain where I am coming from.",
+    "portuguese": "Não digo isso para te criticar, mas para explicar de onde venho.",
+    "pronunciationNote": "nawng DEE-goo EE-soo pah-rah t kree-tee-KAR mahsh pah-rah ex-plee-KAR d ON-d VEN-yoo",
+    "grammarFocus": "purpose with para + infinitive",
+    "notes": "Clarification of intention pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não digo isso para te criticar, mas para explicar de onde venho.",
+        "english": "I am not saying that to criticise you, but to explain where I am coming from."
+      }
+    ],
+    "tags": ["grammar", "purpose", "structures"]
+  },
+  {
+    "id": "09-gvp-b1b2-045",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I need to be able to explain it without sounding defensive.",
+    "portuguese": "Preciso de conseguir explicá-lo sem soar defensivo.",
+    "pronunciationNote": "preh-SEE-zoo d kohn-seh-GHEER ex-plee-KAH-loo sayng soh-AR deh-fen-SEE-voo",
+    "grammarFocus": "conseguir + infinitive",
+    "notes": "Ability/goal pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se não, a conversa perde-se logo.",
+        "english": "Otherwise, the conversation gets lost straight away."
+      }
+    ],
+    "tags": ["grammar", "ability", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-046",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I have come to understand that not everything needs an immediate answer.",
+    "portuguese": "Tenho vindo a perceber que nem tudo precisa de resposta imediata.",
+    "pronunciationNote": "TEN-yoo VEEN-doo ah pair-seh-BER k nayng TOO-doo preh-SEE-zah d hesh-POH-shtah ee-meh-dee-AH-tah",
+    "grammarFocus": "gradual realization pattern",
+    "notes": "Reflection pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com o tempo, tenho vindo a perceber que nem tudo precisa de resposta imediata.",
+        "english": "Over time, I have come to understand that not everything needs an immediate answer."
+      }
+    ],
+    "tags": ["grammar", "reflection", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-047",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Had I been calmer, I might have said it better.",
+    "portuguese": "Se tivesse estado mais calmo, podia tê-lo dito melhor.",
+    "pronunciationNote": "s tee-VEH-sesh esh-TAH-doo mysh KAL-moo POO-dee-ah TAY-loo DEE-too meh-LYOR",
+    "grammarFocus": "counterfactual with pluperfect subjunctive + conditional",
+    "notes": "Past alternative pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tivesse estado mais calmo, podia tê-lo dito melhor e com mais cuidado.",
+        "english": "Had I been calmer, I might have said it better and more carefully."
+      }
+    ],
+    "tags": ["grammar", "counterfactual", "subjunctive"]
+  },
+  {
+    "id": "09-gvp-b1b2-048",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "I did not expect to end up feeling this way.",
+    "portuguese": "Não esperava acabar por me sentir assim.",
+    "pronunciationNote": "nawng esh-peh-RAH-vah ah-kah-BAR poor m sen-TEER ah-SEENG",
+    "grammarFocus": "expectation + acabar por + pronominal infinitive",
+    "notes": "Unexpected outcome pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Entrei sem expectativas e não esperava acabar por me sentir assim.",
+        "english": "I went in with no expectations and did not expect to end up feeling this way."
+      }
+    ],
+    "tags": ["grammar", "unexpected-outcome", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-049",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "It is not worth arguing if neither of us is really listening.",
+    "portuguese": "Não vale a pena discutir se nenhum de nós está realmente a ouvir.",
+    "pronunciationNote": "nawng VAH-leh ah PEH-nah deesh-koo-TEER s neh-NYOONG d NOHSH esh-TAH heh-ahl-MEN-t ah oh-VEER",
+    "grammarFocus": "vale a pena + infinitive",
+    "notes": "Evaluation pattern.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não vale a pena discutir se nenhum de nós está realmente a ouvir.",
+        "english": "It is not worth arguing if neither of us is really listening."
+      }
+    ],
+    "tags": ["grammar", "evaluation", "verbs"]
+  },
+  {
+    "id": "09-gvp-b1b2-050",
+    "subject": "Grammar Patterns & Verb Forms",
+    "subjectId": "grammar-verbs-patterns",
+    "levelBand": "B1-B2",
+    "cardType": "pattern",
+    "english": "Thanks, that helps me see how these structures actually work in real conversation.",
+    "portuguese": "Obrigado, isso ajuda-me a ver como estas estruturas funcionam realmente numa conversa real.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo ah-ZHOO-dah-m ah VAIR KOH-moo ESH-tash esh-troo-TOO-rash",
+    "grammarFocus": "meta-language explanation",
+    "notes": "Closing pattern about grammar use.",
+    "exampleSentences": [
+      {
+        "portuguese": "Assim fica mais fácil passar da regra para o uso.",
+        "english": "That way it becomes easier to move from the rule to actual use."
+      }
+    ],
+    "tags": ["grammar", "meta", "structures"]
+  }
+]

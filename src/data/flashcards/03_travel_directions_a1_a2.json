@@ -1,0 +1,952 @@
+[
+  {
+    "id": "03-td-a1a2-001",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the station?",
+    "portuguese": "Onde fica a estação?",
+    "pronunciationNote": "ON-d fih-kah ah esh-tah-SAWN",
+    "grammarFocus": "location question",
+    "notes": "Basic transport question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, onde fica a estação?",
+        "english": "Excuse me, where is the station?"
+      }
+    ],
+    "tags": ["transport", "question", "starter"]
+  },
+  {
+    "id": "03-td-a1a2-002",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the bus stop?",
+    "portuguese": "Onde fica a paragem de autocarro?",
+    "pronunciationNote": "ON-d fih-kah ah pah-RAH-zhem d ow-too-KAH-roo",
+    "grammarFocus": "location question",
+    "notes": "Useful in towns and cities.",
+    "exampleSentences": [
+      {
+        "portuguese": "A paragem de autocarro fica longe?",
+        "english": "Is the bus stop far?"
+      }
+    ],
+    "tags": ["transport", "bus", "question"]
+  },
+  {
+    "id": "03-td-a1a2-003",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How do I get to the centre?",
+    "portuguese": "Como chego ao centro?",
+    "pronunciationNote": "KOH-moo SHEH-goo ow SEN-troo",
+    "grammarFocus": "movement question",
+    "notes": "Common city question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como chego ao centro a pé?",
+        "english": "How do I get to the centre on foot?"
+      }
+    ],
+    "tags": ["directions", "city", "question"]
+  },
+  {
+    "id": "03-td-a1a2-004",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is it far from here?",
+    "portuguese": "É longe daqui?",
+    "pronunciationNote": "EH LON-zh duh-KEE",
+    "grammarFocus": "distance question",
+    "notes": "Quick way to check distance.",
+    "exampleSentences": [
+      {
+        "portuguese": "O hotel é longe daqui?",
+        "english": "Is the hotel far from here?"
+      }
+    ],
+    "tags": ["distance", "question"]
+  },
+  {
+    "id": "03-td-a1a2-005",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is near here.",
+    "portuguese": "É perto daqui.",
+    "pronunciationNote": "EH PER-too duh-KEE",
+    "grammarFocus": "distance answer",
+    "notes": "Short reassuring answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não se preocupe, é perto daqui.",
+        "english": "Do not worry, it is near here."
+      }
+    ],
+    "tags": ["distance", "answer"]
+  },
+  {
+    "id": "03-td-a1a2-006",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Go straight ahead.",
+    "portuguese": "Siga em frente.",
+    "pronunciationNote": "SEE-gah eng FREN-t",
+    "grammarFocus": "formal imperative",
+    "notes": "Basic direction instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Siga em frente até ao cruzamento.",
+        "english": "Go straight ahead until the crossroads."
+      }
+    ],
+    "tags": ["direction", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-007",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Turn right.",
+    "portuguese": "Vire à direita.",
+    "pronunciationNote": "VEE-r ah dee-RAY-tah",
+    "grammarFocus": "formal imperative",
+    "notes": "Basic direction instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vire à direita no semáforo.",
+        "english": "Turn right at the traffic light."
+      }
+    ],
+    "tags": ["direction", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-008",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Turn left.",
+    "portuguese": "Vire à esquerda.",
+    "pronunciationNote": "VEE-r ah esh-KER-dah",
+    "grammarFocus": "formal imperative",
+    "notes": "Basic direction instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vire à esquerda depois da ponte.",
+        "english": "Turn left after the bridge."
+      }
+    ],
+    "tags": ["direction", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-009",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Cross the street.",
+    "portuguese": "Atravesse a rua.",
+    "pronunciationNote": "ah-trah-VEH-s ah ROO-ah",
+    "grammarFocus": "formal imperative",
+    "notes": "Common pedestrian instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Atravesse a rua e continue em frente.",
+        "english": "Cross the street and continue straight ahead."
+      }
+    ],
+    "tags": ["walking", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-010",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "At the traffic light.",
+    "portuguese": "No semáforo.",
+    "pronunciationNote": "noo seh-MAH-foo-roo",
+    "grammarFocus": "location phrase",
+    "notes": "Useful inside longer directions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vire à direita no semáforo.",
+        "english": "Turn right at the traffic light."
+      }
+    ],
+    "tags": ["direction", "landmark"]
+  },
+  {
+    "id": "03-td-a1a2-011",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is next to the bank.",
+    "portuguese": "Fica ao lado do banco.",
+    "pronunciationNote": "FEE-k ow LAH-doo doo BANG-koo",
+    "grammarFocus": "relative location",
+    "notes": "Common landmark phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O café fica ao lado do banco.",
+        "english": "The café is next to the bank."
+      }
+    ],
+    "tags": ["landmark", "location"]
+  },
+  {
+    "id": "03-td-a1a2-012",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is opposite the market.",
+    "portuguese": "Fica em frente ao mercado.",
+    "pronunciationNote": "FEE-k eng FREN-t ow mer-KAH-doo",
+    "grammarFocus": "relative location",
+    "notes": "Useful with city landmarks.",
+    "exampleSentences": [
+      {
+        "portuguese": "A farmácia fica em frente ao mercado.",
+        "english": "The pharmacy is opposite the market."
+      }
+    ],
+    "tags": ["landmark", "location"]
+  },
+  {
+    "id": "03-td-a1a2-013",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It is between the café and the pharmacy.",
+    "portuguese": "Fica entre o café e a farmácia.",
+    "pronunciationNote": "FEE-k EN-tr oo kah-FEH ee ah far-MAH-see-ah",
+    "grammarFocus": "relative location",
+    "notes": "Useful for exact placement.",
+    "exampleSentences": [
+      {
+        "portuguese": "A loja fica entre o café e a farmácia.",
+        "english": "The shop is between the café and the pharmacy."
+      }
+    ],
+    "tags": ["landmark", "location"]
+  },
+  {
+    "id": "03-td-a1a2-014",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Go up this street.",
+    "portuguese": "Suba esta rua.",
+    "pronunciationNote": "SOO-b esh-tah ROO-ah",
+    "grammarFocus": "formal imperative",
+    "notes": "Useful on hills and side streets.",
+    "exampleSentences": [
+      {
+        "portuguese": "Suba esta rua e vire à esquerda.",
+        "english": "Go up this street and turn left."
+      }
+    ],
+    "tags": ["direction", "walking"]
+  },
+  {
+    "id": "03-td-a1a2-015",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Go down to the square.",
+    "portuguese": "Desça até à praça.",
+    "pronunciationNote": "DEH-sh ah-TEH ah PRAH-sah",
+    "grammarFocus": "formal imperative",
+    "notes": "Common central landmark phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desça até à praça e depois siga em frente.",
+        "english": "Go down to the square and then continue straight ahead."
+      }
+    ],
+    "tags": ["direction", "walking"]
+  },
+  {
+    "id": "03-td-a1a2-016",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The first on the left.",
+    "portuguese": "A primeira à esquerda.",
+    "pronunciationNote": "ah pree-MAY-r ah esh-KER-dah",
+    "grammarFocus": "ordinal directions",
+    "notes": "Short turning instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "É a primeira à esquerda depois da igreja.",
+        "english": "It is the first on the left after the church."
+      }
+    ],
+    "tags": ["direction", "ordinal"]
+  },
+  {
+    "id": "03-td-a1a2-017",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The second on the right.",
+    "portuguese": "A segunda à direita.",
+    "pronunciationNote": "ah seh-GOON-dah ah dee-RAY-tah",
+    "grammarFocus": "ordinal directions",
+    "notes": "Short turning instruction.",
+    "exampleSentences": [
+      {
+        "portuguese": "É a segunda à direita, junto ao supermercado.",
+        "english": "It is the second on the right, next to the supermarket."
+      }
+    ],
+    "tags": ["direction", "ordinal"]
+  },
+  {
+    "id": "03-td-a1a2-018",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Continue until the end.",
+    "portuguese": "Continue até ao fim.",
+    "pronunciationNote": "kohn-tee-NOO ah-TEH ow FEENG",
+    "grammarFocus": "imperative instruction",
+    "notes": "Useful for simple routes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Continue até ao fim da rua.",
+        "english": "Continue until the end of the street."
+      }
+    ],
+    "tags": ["direction", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-019",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am lost.",
+    "portuguese": "Estou perdido.",
+    "pronunciationNote": "esh-TOH pair-DEE-doo",
+    "grammarFocus": "state statement",
+    "notes": "Basic emergency travel phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, estou perdido.",
+        "english": "Excuse me, I am lost."
+      }
+    ],
+    "tags": ["problem", "travel"]
+  },
+  {
+    "id": "03-td-a1a2-020",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am looking for this address.",
+    "portuguese": "Procuro esta morada.",
+    "pronunciationNote": "proh-KOO-roo esh-tah moo-RAH-dah",
+    "grammarFocus": "search statement",
+    "notes": "Useful with hotels and apartments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Procuro esta morada no mapa.",
+        "english": "I am looking for this address on the map."
+      }
+    ],
+    "tags": ["address", "search"]
+  },
+  {
+    "id": "03-td-a1a2-021",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you show me on the map?",
+    "portuguese": "Pode mostrar no mapa?",
+    "pronunciationNote": "POH-d moosh-TRAR noo MAH-pah",
+    "grammarFocus": "request question",
+    "notes": "Very useful for beginners.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode mostrar no mapa onde fica?",
+        "english": "Can you show me on the map where it is?"
+      }
+    ],
+    "tags": ["map", "request"]
+  },
+  {
+    "id": "03-td-a1a2-022",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a map.",
+    "portuguese": "Preciso de um mapa.",
+    "pronunciationNote": "preh-SEE-zoo d oom MAH-pah",
+    "grammarFocus": "need statement",
+    "notes": "Useful in stations and tourist offices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de um mapa da cidade.",
+        "english": "I need a map of the city."
+      }
+    ],
+    "tags": ["map", "travel"]
+  },
+  {
+    "id": "03-td-a1a2-023",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How long does it take on foot?",
+    "portuguese": "Quanto tempo demora a pé?",
+    "pronunciationNote": "KWAN-too TEM-poo deh-MOH-rah ah PEH",
+    "grammarFocus": "time question",
+    "notes": "Useful for deciding between walking and transport.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto tempo demora a pé até ao hotel?",
+        "english": "How long does it take on foot to the hotel?"
+      }
+    ],
+    "tags": ["time", "walking"]
+  },
+  {
+    "id": "03-td-a1a2-024",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It takes ten minutes.",
+    "portuguese": "Demora dez minutos.",
+    "pronunciationNote": "deh-MOH-rah dezh mee-NOO-toosh",
+    "grammarFocus": "time answer",
+    "notes": "Common travel answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "A pé demora dez minutos.",
+        "english": "On foot it takes ten minutes."
+      }
+    ],
+    "tags": ["time", "answer"]
+  },
+  {
+    "id": "03-td-a1a2-025",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It takes half an hour.",
+    "portuguese": "Demora meia hora.",
+    "pronunciationNote": "deh-MOH-rah MAY-ah OH-rah",
+    "grammarFocus": "time answer",
+    "notes": "Common travel answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "De autocarro demora meia hora.",
+        "english": "By bus it takes half an hour."
+      }
+    ],
+    "tags": ["time", "answer"]
+  },
+  {
+    "id": "03-td-a1a2-026",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Which bus should I take?",
+    "portuguese": "Que autocarro devo apanhar?",
+    "pronunciationNote": "k autoo-KAH-roo DEH-voo ah-pah-NYAR",
+    "grammarFocus": "transport question",
+    "notes": "Important public transport phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que autocarro devo apanhar para o centro?",
+        "english": "Which bus should I take to the centre?"
+      }
+    ],
+    "tags": ["bus", "transport"]
+  },
+  {
+    "id": "03-td-a1a2-027",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Take line five.",
+    "portuguese": "Apanhe a linha cinco.",
+    "pronunciationNote": "ah-PAH-ny ah LEEN-yah SEENG-koo",
+    "grammarFocus": "transport instruction",
+    "notes": "Common route answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "Apanhe a linha cinco e saia na última paragem.",
+        "english": "Take line five and get off at the last stop."
+      }
+    ],
+    "tags": ["bus", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-028",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Get off at the next stop.",
+    "portuguese": "Saia na próxima paragem.",
+    "pronunciationNote": "SAH-yah nah PROHK-see-mah pah-RAH-zhem",
+    "grammarFocus": "transport instruction",
+    "notes": "Useful on buses and trams.",
+    "exampleSentences": [
+      {
+        "portuguese": "Saia na próxima paragem e atravesse a rua.",
+        "english": "Get off at the next stop and cross the street."
+      }
+    ],
+    "tags": ["bus", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-029",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "You need to change lines.",
+    "portuguese": "Tem de mudar de linha.",
+    "pronunciationNote": "teng d moo-DAR d LEEN-yah",
+    "grammarFocus": "obligation phrase",
+    "notes": "Useful in metro systems.",
+    "exampleSentences": [
+      {
+        "portuguese": "No metro, tem de mudar de linha.",
+        "english": "On the metro, you need to change lines."
+      }
+    ],
+    "tags": ["metro", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-030",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where can I buy a ticket?",
+    "portuguese": "Onde posso comprar um bilhete?",
+    "pronunciationNote": "ON-d POH-soo kohm-PRAR oom bee-LYEH-t",
+    "grammarFocus": "purchase question",
+    "notes": "Useful at stations and kiosks.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde posso comprar um bilhete de metro?",
+        "english": "Where can I buy a metro ticket?"
+      }
+    ],
+    "tags": ["ticket", "transport"]
+  },
+  {
+    "id": "03-td-a1a2-031",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want a return ticket.",
+    "portuguese": "Quero um bilhete de ida e volta.",
+    "pronunciationNote": "KEH-roo oom bee-LYEH-t d EE-dah ee VOL-tah",
+    "grammarFocus": "ticket phrase",
+    "notes": "Useful for trains and buses.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero um bilhete de ida e volta para Sintra.",
+        "english": "I want a return ticket to Sintra."
+      }
+    ],
+    "tags": ["ticket", "travel"]
+  },
+  {
+    "id": "03-td-a1a2-032",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "One ticket to Porto, please.",
+    "portuguese": "Um bilhete para o Porto, por favor.",
+    "pronunciationNote": "oom bee-LYEH-t pah-r oo POR-too poor fah-VOR",
+    "grammarFocus": "destination order",
+    "notes": "Standard station counter phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria um bilhete para o Porto amanhã.",
+        "english": "I would like a ticket to Porto tomorrow."
+      }
+    ],
+    "tags": ["ticket", "destination"]
+  },
+  {
+    "id": "03-td-a1a2-033",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time does the train leave?",
+    "portuguese": "A que horas parte o comboio?",
+    "pronunciationNote": "ah k OR-ash PAR-t oo kohm-BOY-oo",
+    "grammarFocus": "departure question",
+    "notes": "Useful at train stations.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas parte o comboio para Coimbra?",
+        "english": "What time does the train to Coimbra leave?"
+      }
+    ],
+    "tags": ["train", "time"]
+  },
+  {
+    "id": "03-td-a1a2-034",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This bus goes to the airport.",
+    "portuguese": "Este autocarro vai para o aeroporto.",
+    "pronunciationNote": "ESH-t ow-too-KAH-roo vy pah-r oo ah-eh-roo-POR-too",
+    "grammarFocus": "route statement",
+    "notes": "Useful for confirming direction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este autocarro vai mesmo para o aeroporto?",
+        "english": "Does this bus really go to the airport?"
+      }
+    ],
+    "tags": ["bus", "airport"]
+  },
+  {
+    "id": "03-td-a1a2-035",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the metro?",
+    "portuguese": "Onde fica o metro?",
+    "pronunciationNote": "ON-d fih-k oo MEH-troo",
+    "grammarFocus": "location question",
+    "notes": "Useful in Lisbon and Porto.",
+    "exampleSentences": [
+      {
+        "portuguese": "Onde fica a entrada do metro?",
+        "english": "Where is the metro entrance?"
+      }
+    ],
+    "tags": ["metro", "question"]
+  },
+  {
+    "id": "03-td-a1a2-036",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The entrance is over there.",
+    "portuguese": "A entrada fica ali.",
+    "pronunciationNote": "ah en-TRAH-dah FEE-k ah-LEE",
+    "grammarFocus": "location answer",
+    "notes": "Short pointer answer.",
+    "exampleSentences": [
+      {
+        "portuguese": "A entrada fica ali ao lado.",
+        "english": "The entrance is right there at the side."
+      }
+    ],
+    "tags": ["direction", "answer"]
+  },
+  {
+    "id": "03-td-a1a2-037",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need a taxi.",
+    "portuguese": "Preciso de um táxi.",
+    "pronunciationNote": "preh-SEE-zoo d oom TAHK-see",
+    "grammarFocus": "need statement",
+    "notes": "Useful late at night or with luggage.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de um táxi para o hotel.",
+        "english": "I need a taxi to the hotel."
+      }
+    ],
+    "tags": ["taxi", "travel"]
+  },
+  {
+    "id": "03-td-a1a2-038",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you call a taxi?",
+    "portuguese": "Pode chamar um táxi?",
+    "pronunciationNote": "POH-d shah-MAR oom TAHK-see",
+    "grammarFocus": "request question",
+    "notes": "Useful in hotels and restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode chamar um táxi para agora?",
+        "english": "Can you call a taxi for now?"
+      }
+    ],
+    "tags": ["taxi", "request"]
+  },
+  {
+    "id": "03-td-a1a2-039",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Take me to this address, please.",
+    "portuguese": "Leve-me a esta morada, por favor.",
+    "pronunciationNote": "LEH-v-m ah esh-tah moo-RAH-dah poor fah-VOR",
+    "grammarFocus": "object pronoun request",
+    "notes": "Useful with taxi drivers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Leve-me ao hotel, por favor.",
+        "english": "Take me to the hotel, please."
+      }
+    ],
+    "tags": ["taxi", "address"]
+  },
+  {
+    "id": "03-td-a1a2-040",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Stop here, please.",
+    "portuguese": "Pare aqui, por favor.",
+    "pronunciationNote": "PAH-r ah-KEE poor fah-VOR",
+    "grammarFocus": "imperative request",
+    "notes": "Useful in taxis and rideshares.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pare aqui, mesmo em frente.",
+        "english": "Stop here, right in front."
+      }
+    ],
+    "tags": ["taxi", "instruction"]
+  },
+  {
+    "id": "03-td-a1a2-041",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We are almost there.",
+    "portuguese": "Estamos quase a chegar.",
+    "pronunciationNote": "esh-TAH-moosh KWAH-z ah sheh-GAR",
+    "grammarFocus": "progressive travel phrase",
+    "notes": "Useful in taxis and walking.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estamos quase a chegar ao hotel.",
+        "english": "We are almost at the hotel."
+      }
+    ],
+    "tags": ["travel", "progress"]
+  },
+  {
+    "id": "03-td-a1a2-042",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "How much is it to the airport?",
+    "portuguese": "Quanto é até ao aeroporto?",
+    "pronunciationNote": "KWAN-too eh ah-TEH ow ah-eh-roo-POR-too",
+    "grammarFocus": "price question",
+    "notes": "Useful in taxis and transfers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quanto é até ao centro?",
+        "english": "How much is it to the centre?"
+      }
+    ],
+    "tags": ["taxi", "price"]
+  },
+  {
+    "id": "03-td-a1a2-043",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the hotel?",
+    "portuguese": "Onde fica o hotel?",
+    "pronunciationNote": "ON-d fih-k oo oh-TEL",
+    "grammarFocus": "location question",
+    "notes": "Useful on arrival.",
+    "exampleSentences": [
+      {
+        "portuguese": "O hotel fica perto do centro?",
+        "english": "Is the hotel near the centre?"
+      }
+    ],
+    "tags": ["hotel", "question"]
+  },
+  {
+    "id": "03-td-a1a2-044",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a reservation.",
+    "portuguese": "Tenho uma reserva.",
+    "pronunciationNote": "TEH-nyoo OO-mah reh-ZAIR-vah",
+    "grammarFocus": "hotel check-in phrase",
+    "notes": "Useful at hotels and hostels.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho uma reserva para duas noites.",
+        "english": "I have a reservation for two nights."
+      }
+    ],
+    "tags": ["hotel", "check-in"]
+  },
+  {
+    "id": "03-td-a1a2-045",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want to check in.",
+    "portuguese": "Quero fazer o check-in.",
+    "pronunciationNote": "KEH-roo fah-ZAIR oo shek-EEN",
+    "grammarFocus": "hotel phrase",
+    "notes": "Useful at reception.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero fazer o check-in agora.",
+        "english": "I want to check in now."
+      }
+    ],
+    "tags": ["hotel", "check-in"]
+  },
+  {
+    "id": "03-td-a1a2-046",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What time is breakfast?",
+    "portuguese": "A que horas é o pequeno-almoço?",
+    "pronunciationNote": "ah k OR-ash eh oo peh-KEH-noo al-MOH-soo",
+    "grammarFocus": "hotel time question",
+    "notes": "Useful for hotel stays.",
+    "exampleSentences": [
+      {
+        "portuguese": "A que horas é o pequeno-almoço amanhã?",
+        "english": "What time is breakfast tomorrow?"
+      }
+    ],
+    "tags": ["hotel", "breakfast"]
+  },
+  {
+    "id": "03-td-a1a2-047",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I leave my luggage here?",
+    "portuguese": "Posso deixar a minha mala aqui?",
+    "pronunciationNote": "POH-soo day-SHAR ah MEEN-yah MAH-lah ah-KEE",
+    "grammarFocus": "permission question",
+    "notes": "Useful before check-in or after check-out.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso deixar as malas aqui por algumas horas?",
+        "english": "Can I leave the bags here for a few hours?"
+      }
+    ],
+    "tags": ["hotel", "luggage"]
+  },
+  {
+    "id": "03-td-a1a2-048",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Where is the tourist office?",
+    "portuguese": "Onde fica o posto de turismo?",
+    "pronunciationNote": "ON-d fih-k oo POH-shtoo d too-REE-zmoo",
+    "grammarFocus": "location question",
+    "notes": "Useful in unfamiliar cities.",
+    "exampleSentences": [
+      {
+        "portuguese": "O posto de turismo fica perto da praça?",
+        "english": "Is the tourist office near the square?"
+      }
+    ],
+    "tags": ["tourism", "question"]
+  },
+  {
+    "id": "03-td-a1a2-049",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need help.",
+    "portuguese": "Preciso de ajuda.",
+    "pronunciationNote": "preh-SEE-zoo d ah-ZHOO-dah",
+    "grammarFocus": "need statement",
+    "notes": "Basic emergency phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de ajuda com a direção.",
+        "english": "I need help with the direction."
+      }
+    ],
+    "tags": ["help", "travel"]
+  },
+  {
+    "id": "03-td-a1a2-050",
+    "subject": "Travel & Directions",
+    "subjectId": "travel-directions",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Thank you for the directions.",
+    "portuguese": "Obrigado pelas indicações.",
+    "pronunciationNote": "oh-bree-GAH-doo PEH-lash een-dee-kah-SOYN-sh",
+    "grammarFocus": "gratitude phrase",
+    "notes": "Good closing phrase after help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado pelas indicações, já percebi.",
+        "english": "Thank you for the directions, I understand now."
+      }
+    ],
+    "tags": ["gratitude", "directions"]
+  }
+]

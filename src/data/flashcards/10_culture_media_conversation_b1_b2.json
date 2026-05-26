@@ -1,0 +1,952 @@
+[
+  {
+    "id": "10-cmc-b1b2-001",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am interested in how Portuguese culture shows up in everyday conversation, not just in museums or history books.",
+    "portuguese": "Interessa-me perceber como a cultura portuguesa aparece nas conversas do dia a dia, e não apenas em museus ou livros de história.",
+    "pronunciationNote": "een-teh-REH-sah-m pair-seh-BER KOH-moo ah kool-TOO-rah poor-too-GAY-zah",
+    "grammarFocus": "pronominal interest expression",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes são os pequenos hábitos que dizem mais.",
+        "english": "Sometimes it is the small habits that say more."
+      }
+    ],
+    "tags": ["culture", "conversation", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-002",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend a Portuguese film that feels natural rather than overly formal?",
+    "portuguese": "Pode recomendar-me um filme português que soe natural, em vez de demasiado formal?",
+    "pronunciationNote": "POH-d reh-koh-men-DAR-m oom FEEL-m poor-too-GAYSH k SOH-ah nah-too-RAL",
+    "grammarFocus": "formal request + relative clause",
+    "notes": "Useful media recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ouvir português do dia a dia.",
+        "english": "I wanted to hear everyday Portuguese."
+      }
+    ],
+    "tags": ["media", "film", "recommendations"]
+  },
+  {
+    "id": "10-cmc-b1b2-003",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather watch something that helps me tune in to how people actually speak.",
+    "portuguese": "Preferia ver algo que me ajudasse a sintonizar com a forma como as pessoas falam de verdade.",
+    "pronunciationNote": "preh-feh-REE-ah vair AL-goo k m ah-zhoo-DASH-s ah seen-toh-nee-ZAR",
+    "grammarFocus": "preference + imperfect subjunctive in relative clause",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre procuro só entretenimento.",
+        "english": "I am not always only looking for entertainment."
+      }
+    ],
+    "tags": ["media", "language-learning", "preferences"]
+  },
+  {
+    "id": "10-cmc-b1b2-004",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I enjoy most in conversation is when people are curious rather than just waiting to speak.",
+    "portuguese": "O que mais gosto numa conversa é quando as pessoas têm curiosidade em vez de estarem só à espera de falar.",
+    "pronunciationNote": "oo k mysh GOH-shtoo NOO-mah kohn-VAIR-sah eh KWAN-doo az peh-SOH-ash",
+    "grammarFocus": "cleft structure + contrast",
+    "notes": "Useful conversation-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso muda completamente a qualidade da troca.",
+        "english": "That completely changes the quality of the exchange."
+      }
+    ],
+    "tags": ["conversation", "values", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-005",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less interested in perfect grammar than in sounding natural and connected.",
+    "portuguese": "Interessa-me menos a gramática perfeita do que soar natural e ligado à conversa.",
+    "pronunciationNote": "een-teh-REH-sah-m MEN-oosh ah grah-MAH-tee-kah pair-FAY-tah",
+    "grammarFocus": "comparative value statement",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero comunicar bem, não apenas acertar nas regras.",
+        "english": "I want to communicate well, not just get the rules right."
+      }
+    ],
+    "tags": ["conversation", "language-learning", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-006",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you think there is a big difference between the Portuguese people use in the media and the Portuguese they use with friends?",
+    "portuguese": "Achas que há uma grande diferença entre o português que se usa nos meios de comunicação e o que se usa entre amigos?",
+    "pronunciationNote": "AH-shash k AH OO-mah GRAHN-d dee-feh-REN-sah EN-tr oo poor-too-GAYSH",
+    "grammarFocus": "embedded question",
+    "notes": "Useful media/culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho curiosidade sobre o registo mais natural.",
+        "english": "I am curious about the more natural register."
+      }
+    ],
+    "tags": ["culture", "media", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-007",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather hear honest opinions than polite answers that do not really say much.",
+    "portuguese": "Preferia ouvir opiniões honestas do que respostas educadas que na verdade não dizem muito.",
+    "pronunciationNote": "preh-feh-REE-ah oo-VEER oh-pee-nee-OYNSH oh-NESH-tash",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "As conversas ficam mais interessantes assim.",
+        "english": "Conversations become more interesting that way."
+      }
+    ],
+    "tags": ["conversation", "opinions", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-008",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to understand not just the words people use, but the tone and rhythm behind them.",
+    "portuguese": "Estou a tentar perceber não só as palavras que se usam, mas também o tom e o ritmo por trás delas.",
+    "pronunciationNote": "esh-TOH ah ten-TAR pair-seh-BER nawng soh az pah-LAH-vrash",
+    "grammarFocus": "not only ... but also",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes é isso que faz a diferença na compreensão.",
+        "english": "Sometimes that is what makes the difference in comprehension."
+      }
+    ],
+    "tags": ["language-learning", "conversation", "listening"]
+  },
+  {
+    "id": "10-cmc-b1b2-009",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you suggest a podcast that is interesting without being too hard to follow?",
+    "portuguese": "Pode sugerir um podcast que seja interessante sem ser demasiado difícil de acompanhar?",
+    "pronunciationNote": "POH-d soo-zheh-REER oom podcast k SAY-zhah een-teh-reh-SAHN-t",
+    "grammarFocus": "formal request + relative clause",
+    "notes": "Useful media recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero algo que me puxe um pouco sem me perder logo.",
+        "english": "I want something that stretches me a bit without losing me straight away."
+      }
+    ],
+    "tags": ["media", "podcasts", "recommendations"]
+  },
+  {
+    "id": "10-cmc-b1b2-010",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find that the most useful cultural references are often the ones people do not stop to explain.",
+    "portuguese": "Acho que as referências culturais mais úteis são muitas vezes as que ninguém pára para explicar.",
+    "pronunciationNote": "AH-shoo k az heh-feh-REN-see-ash kool-too-RAISH mysh OO-teysh",
+    "grammarFocus": "opinion statement + relative clause",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É aí que se percebe o que é realmente partilhado.",
+        "english": "That is where you understand what is really shared."
+      }
+    ],
+    "tags": ["culture", "discussion", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-011",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What kind of conversations do you feel are most typical between close friends here?",
+    "portuguese": "Que tipo de conversas sentes que são mais típicas entre amigos próximos aqui?",
+    "pronunciationNote": "k TEE-poo d kohn-VAIR-sash SEN-tesh k sawn mysh TEE-pee-kash",
+    "grammarFocus": "embedded question",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho curiosidade sobre o que muda de contexto para contexto.",
+        "english": "I am curious about what changes from context to context."
+      }
+    ],
+    "tags": ["culture", "conversation", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-012",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am interested in media that reflects ordinary life rather than only exceptional stories.",
+    "portuguese": "Interessa-me o tipo de media que reflete a vida comum, e não só histórias excecionais.",
+    "pronunciationNote": "een-teh-REH-sah-m oo TEE-poo d MEE-dee-ah k heh-FLEH-t ah VEE-dah koh-MOOM",
+    "grammarFocus": "relative clause + contrast",
+    "notes": "Useful media preference phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É aí que aprendo mais sobre o tom de um país.",
+        "english": "That is where I learn more about the tone of a country."
+      }
+    ],
+    "tags": ["media", "culture", "preferences"]
+  },
+  {
+    "id": "10-cmc-b1b2-013",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to get better at picking up references without needing them translated or explained.",
+    "portuguese": "Gostava de ficar melhor a apanhar referências sem precisar que mas traduzam ou expliquem.",
+    "pronunciationNote": "goosh-TAH-vah d fee-KAR meh-LYOR ah ah-pah-NYAR heh-feh-REN-see-ash",
+    "grammarFocus": "desire + infinitive chain",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso faria a experiência parecer mais viva.",
+        "english": "That would make the experience feel more alive."
+      }
+    ],
+    "tags": ["language-learning", "culture", "media"]
+  },
+  {
+    "id": "10-cmc-b1b2-014",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you think humour travels well across cultures, or does too much get lost in context?",
+    "portuguese": "Achas que o humor passa bem entre culturas, ou perde-se demasiado no contexto?",
+    "pronunciationNote": "AH-shash k oo oo-MOR PAH-sah bayng EN-tr kool-TOO-rash",
+    "grammarFocus": "alternative question",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Muitas piadas parecem simples, mas vêm carregadas de referências.",
+        "english": "Many jokes seem simple, but they come loaded with references."
+      }
+    ],
+    "tags": ["culture", "humour", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-015",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather ask a slightly awkward question than pretend I understood a reference I did not catch.",
+    "portuguese": "Preferia fazer uma pergunta um pouco embaraçosa do que fingir que percebi uma referência que não apanhei.",
+    "pronunciationNote": "preh-feh-REE-ah fah-ZER OO-mah pair-GOON-tah oom POH-koo em-bah-rah-SOH-zah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful conversation strategy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes é assim que se aprende melhor.",
+        "english": "Sometimes that is how you learn best."
+      }
+    ],
+    "tags": ["conversation", "learning", "strategy"]
+  },
+  {
+    "id": "10-cmc-b1b2-016",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think good conversation depends less on fluency than on attention and generosity.",
+    "portuguese": "Acho que uma boa conversa depende menos da fluência do que da atenção e da generosidade.",
+    "pronunciationNote": "AH-shoo k OO-mah BOH-ah kohn-VAIR-sah deh-PEN-d MEN-oosh dah floo-EN-see-ah",
+    "grammarFocus": "comparative value statement",
+    "notes": "Useful conversation-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando ambas as partes ajudam, tudo flui melhor.",
+        "english": "When both sides help, everything flows better."
+      }
+    ],
+    "tags": ["conversation", "values", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-017",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am curious about what people here consider normal small talk and what they find too personal.",
+    "portuguese": "Tenho curiosidade sobre o que aqui se considera conversa normal e o que se acha demasiado pessoal.",
+    "pronunciationNote": "TEN-yoo koo-ree-oh-zee-DAH-d soh-br oo k ah-KEE s kohn-see-DEH-rah",
+    "grammarFocus": "embedded question",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esses limites mudam muito de lugar para lugar.",
+        "english": "Those boundaries change a lot from place to place."
+      }
+    ],
+    "tags": ["culture", "conversation", "norms"]
+  },
+  {
+    "id": "10-cmc-b1b2-018",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would love to find media that is both culturally rich and still accessible to learners.",
+    "portuguese": "Adorava encontrar media que fosse rico culturalmente e ainda acessível a quem está a aprender.",
+    "pronunciationNote": "ah-doh-RAH-vah en-kohn-TRAR MEE-dee-ah k FOH-sih HEE-koo kool-too-rahl-MEN-t",
+    "grammarFocus": "desire + imperfect subjunctive in relative clause",
+    "notes": "Useful learning/media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem sempre é fácil encontrar esse equilíbrio.",
+        "english": "It is not always easy to find that balance."
+      }
+    ],
+    "tags": ["media", "culture", "language-learning"]
+  },
+  {
+    "id": "10-cmc-b1b2-019",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you had to choose one cultural habit that says a lot about Portugal, what would it be?",
+    "portuguese": "Se tivesses de escolher um hábito cultural que diz muito sobre Portugal, qual seria?",
+    "pronunciationNote": "s tee-VEH-sesh d esh-koh-LYER oom AH-bee-too kool-too-RAL",
+    "grammarFocus": "counterfactual-style prompt",
+    "notes": "Useful discussion starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode ser algo pequeno, mas com muito significado.",
+        "english": "It can be something small, but with a lot of meaning."
+      }
+    ],
+    "tags": ["culture", "discussion", "starter"]
+  },
+  {
+    "id": "10-cmc-b1b2-020",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am less interested in polished language than in language that feels lived-in and real.",
+    "portuguese": "Interessa-me menos uma linguagem polida do que uma linguagem vivida e real.",
+    "pronunciationNote": "een-teh-REH-sah-m MEN-oosh OO-mah linh-GWAH-zheng poh-LEE-dah",
+    "grammarFocus": "comparative statement",
+    "notes": "Useful learning-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É isso que me ajuda a imaginar como as pessoas realmente se exprimem.",
+        "english": "That is what helps me imagine how people really express themselves."
+      }
+    ],
+    "tags": ["language-learning", "media", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-021",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you point me towards a series that people actually quote in everyday life?",
+    "portuguese": "Pode indicar-me uma série que as pessoas citem mesmo no dia a dia?",
+    "pronunciationNote": "POH-d een-dee-KAR-m OO-mah SEH-ree k az peh-SOH-ash SEE-tem MEZH-moo",
+    "grammarFocus": "formal request + relative clause",
+    "notes": "Useful media recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esse tipo de referência costuma entrar muito nas conversas.",
+        "english": "That kind of reference often enters everyday conversations."
+      }
+    ],
+    "tags": ["media", "series", "recommendations"]
+  },
+  {
+    "id": "10-cmc-b1b2-022",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think a lot of culture lives in the way people interrupt, joke, pause, and react.",
+    "portuguese": "Acho que muita cultura vive na forma como as pessoas interrompem, brincam, fazem pausas e reagem.",
+    "pronunciationNote": "AH-shoo k MWEEN-tah kool-TOO-rah VEE-v nah FOR-mah KOH-moo az peh-SOH-ash",
+    "grammarFocus": "parallel verb structure",
+    "notes": "Useful culture reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Nem tudo passa pelo vocabulário em si.",
+        "english": "Not everything comes through vocabulary itself."
+      }
+    ],
+    "tags": ["culture", "conversation", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-023",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather have a slightly slow conversation that is real than a fluent one that feels empty.",
+    "portuguese": "Preferia ter uma conversa um pouco lenta mas real do que uma fluente que pareça vazia.",
+    "pronunciationNote": "preh-feh-REE-ah tair OO-mah kohn-VAIR-sah oom POH-koo LEN-tah",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful conversation-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, ligação vale mais do que velocidade.",
+        "english": "For me, connection matters more than speed."
+      }
+    ],
+    "tags": ["conversation", "values", "language-learning"]
+  },
+  {
+    "id": "10-cmc-b1b2-024",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to notice which topics open people up and which ones make them shut down.",
+    "portuguese": "Estou a tentar reparar em que temas abrem as pessoas e quais é que as fecham.",
+    "pronunciationNote": "esh-TOH ah ten-TAR heh-pah-RAR eng k TAY-mash AH-brem az peh-SOH-ash",
+    "grammarFocus": "embedded question contrast",
+    "notes": "Useful conversation-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso muda muito de pessoa para pessoa.",
+        "english": "That changes a lot from person to person."
+      }
+    ],
+    "tags": ["conversation", "awareness", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-025",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you wanted to understand a place quickly, which cultural habit would you pay attention to first?",
+    "portuguese": "Se quisesses perceber um lugar rapidamente, a que hábito cultural prestarias atenção primeiro?",
+    "pronunciationNote": "s kee-ZESH-sesh pair-seh-BER oom loo-GAR hah-pee-dah-MEN-t",
+    "grammarFocus": "conditional discussion prompt",
+    "notes": "Useful culture discussion starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes são os pequenos gestos que revelam mais.",
+        "english": "Sometimes it is the small gestures that reveal more."
+      }
+    ],
+    "tags": ["culture", "discussion", "starter"]
+  },
+  {
+    "id": "10-cmc-b1b2-026",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would be interested in media that is slower-paced if it gave me more room to notice the language.",
+    "portuguese": "Interessava-me media mais calmo se isso me desse mais espaço para reparar na língua.",
+    "pronunciationNote": "een-teh-reh-SAH-vah-m MEE-dee-ah mysh KAL-moo s EE-soo m DESH-s mysh esh-PAH-soo",
+    "grammarFocus": "conditional interest statement",
+    "notes": "Useful learning/media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes o ritmo rápido tira-me detalhes importantes.",
+        "english": "Sometimes a fast pace makes me miss important details."
+      }
+    ],
+    "tags": ["media", "language-learning", "preferences"]
+  },
+  {
+    "id": "10-cmc-b1b2-027",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What fascinates me most is how much personality comes through in small conversational choices.",
+    "portuguese": "O que mais me fascina é a quantidade de personalidade que aparece em pequenas escolhas de conversa.",
+    "pronunciationNote": "oo k mysh m fahs-SEE-nah eh ah kwahn-tee-DAH-d d pair-soh-nah-lee-DAH-d",
+    "grammarFocus": "cleft structure",
+    "notes": "Useful reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma pausa, um tom ou uma piada podem dizer muito.",
+        "english": "A pause, a tone, or a joke can say a lot."
+      }
+    ],
+    "tags": ["conversation", "personality", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-028",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not just want recommendations; I want to know why people connect with them.",
+    "portuguese": "Não quero só recomendações; quero perceber porque é que as pessoas se ligam a elas.",
+    "pronunciationNote": "nawng KEH-roo soh reh-koh-men-dah-SOYNSH KEH-roo pair-seh-BER poor-KAY eh k az peh-SOH-ash",
+    "grammarFocus": "not just ... but",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É isso que me dá contexto cultural.",
+        "english": "That is what gives me cultural context."
+      }
+    ],
+    "tags": ["culture", "media", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-029",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think a lot of language learning becomes richer once you stop treating culture as background decoration.",
+    "portuguese": "Acho que aprender uma língua fica muito mais rico quando se deixa de tratar a cultura como decoração de fundo.",
+    "pronunciationNote": "AH-shoo k ah-pren-DER OO-mah LEENG-gwah FEE-kah MWEEN-too mysh HEE-koo",
+    "grammarFocus": "temporal clause + infinitive chain",
+    "notes": "Useful reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem cultura, a língua perde textura.",
+        "english": "Without culture, the language loses texture."
+      }
+    ],
+    "tags": ["culture", "language-learning", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-030",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you suggest something that would help me understand conversational humour a bit better?",
+    "portuguese": "Pode sugerir algo que me ajude a perceber um pouco melhor o humor de conversa?",
+    "pronunciationNote": "POH-d soo-zheh-REER AL-goo k m ah-ZHOO-d ah pair-seh-BER",
+    "grammarFocus": "formal request + purpose clause",
+    "notes": "Useful media recommendation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É uma das áreas em que mais facilmente me perco.",
+        "english": "It is one of the areas where I most easily get lost."
+      }
+    ],
+    "tags": ["media", "humour", "language-learning"]
+  },
+  {
+    "id": "10-cmc-b1b2-031",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather ask one thoughtful question than pretend to know more than I do.",
+    "portuguese": "Preferia fazer uma pergunta com intenção do que fingir saber mais do que sei.",
+    "pronunciationNote": "preh-feh-REE-ah fah-ZER OO-mah pair-GOON-tah kohm een-ten-SAWN",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful conversation-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A curiosidade genuína leva mais longe do que a aparência de segurança.",
+        "english": "Genuine curiosity goes further than the appearance of confidence."
+      }
+    ],
+    "tags": ["conversation", "values", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-032",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am most interested in the kinds of references that make people laugh or nod without stopping to explain.",
+    "portuguese": "O que mais me interessa são os tipos de referências que fazem as pessoas rir ou acenar sem parar para explicar.",
+    "pronunciationNote": "oo k mysh m een-teh-REH-sah sawn oosh TEE-poosh d heh-feh-REN-see-ash",
+    "grammarFocus": "cleft structure + relative clause",
+    "notes": "Useful culture/media phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aí percebe-se o que é realmente partilhado.",
+        "english": "That is where you see what is truly shared."
+      }
+    ],
+    "tags": ["culture", "media", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-033",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to listen not just for meaning, but for attitude, warmth, and distance.",
+    "portuguese": "Estou a tentar ouvir não só o significado, mas também a atitude, o calor e a distância.",
+    "pronunciationNote": "esh-TOH ah ten-TAR oh-VEER nawng soh oo seen-nee-fee-KAH-doo",
+    "grammarFocus": "not only ... but also",
+    "notes": "Useful listening-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Às vezes o tom diz tanto como as palavras.",
+        "english": "Sometimes tone says as much as words."
+      }
+    ],
+    "tags": ["conversation", "listening", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-034",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you were introducing someone to Portuguese culture through one everyday experience, what would you choose?",
+    "portuguese": "Se fosses apresentar a cultura portuguesa a alguém através de uma experiência do dia a dia, o que escolhias?",
+    "pronunciationNote": "s FOH-sesh ah-preh-zen-TAR ah kool-TOO-rah poor-too-GAY-zah ah al-GAYNG",
+    "grammarFocus": "conditional discussion prompt",
+    "notes": "Useful culture starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não precisa de ser famoso, só significativo.",
+        "english": "It does not need to be famous, just meaningful."
+      }
+    ],
+    "tags": ["culture", "discussion", "starter"]
+  },
+  {
+    "id": "10-cmc-b1b2-035",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would be curious to know which cultural references feel obvious from the inside but invisible from the outside.",
+    "portuguese": "Teria curiosidade em saber que referências culturais parecem óbvias por dentro mas invisíveis por fora.",
+    "pronunciationNote": "teh-REE-ah koo-ree-oh-zee-DAH-d eng sah-BER k heh-feh-REN-see-ash kool-too-RAISH",
+    "grammarFocus": "conditional interest statement",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Essas coisas costumam dizer muito sobre pertença.",
+        "english": "Those things usually say a lot about belonging."
+      }
+    ],
+    "tags": ["culture", "discussion", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-036",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to build a media diet that helps me hear Portuguese in different moods and settings.",
+    "portuguese": "Estou a tentar construir uma dieta de media que me ajude a ouvir português em diferentes estados e contextos.",
+    "pronunciationNote": "esh-TOH ah ten-TAR kohnsh-troo-EER OO-mah dee-EH-tah d MEE-dee-ah",
+    "grammarFocus": "purpose clause with subjunctive",
+    "notes": "Useful language-learning phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero variedade, não só um tipo de voz.",
+        "english": "I want variety, not just one kind of voice."
+      }
+    ],
+    "tags": ["media", "language-learning", "strategy"]
+  },
+  {
+    "id": "10-cmc-b1b2-037",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think some of the best cultural learning happens in ordinary conversations that seem unimportant at first.",
+    "portuguese": "Acho que algumas das melhores aprendizagens culturais acontecem em conversas comuns que no início parecem pouco importantes.",
+    "pronunciationNote": "AH-shoo k al-GOO-mash dash meh-LYOR-sh ah-pren-dee-ZAH-zhengSH kool-too-RAISH",
+    "grammarFocus": "opinion statement + relative clause",
+    "notes": "Useful reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É aí que se ouve como as coisas realmente se ligam.",
+        "english": "That is where you hear how things really connect."
+      }
+    ],
+    "tags": ["culture", "conversation", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-038",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me what people here tend to quote, reference, or assume everyone knows?",
+    "portuguese": "Podes dizer-me o que as pessoas aqui costumam citar, referir ou assumir que toda a gente conhece?",
+    "pronunciationNote": "POH-desh dee-ZER-m oo k az peh-SOH-ash ah-KEE koosh-TOO-mang see-TAR",
+    "grammarFocus": "embedded question",
+    "notes": "Useful culture discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esse tipo de conhecimento partilhado ajuda muito a orientar-me.",
+        "english": "That kind of shared knowledge helps orient me a lot."
+      }
+    ],
+    "tags": ["culture", "discussion", "shared-references"]
+  },
+  {
+    "id": "10-cmc-b1b2-039",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather understand one cultural reference deeply than memorise ten without context.",
+    "portuguese": "Preferia perceber uma referência cultural a fundo do que memorizar dez sem contexto.",
+    "pronunciationNote": "preh-feh-REE-ah pair-seh-BER OO-mah heh-feh-REN-see-ah kool-too-RAL ah FOON-doo",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful learning-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando entendo a lógica, lembro-me muito melhor.",
+        "english": "When I understand the logic, I remember it much better."
+      }
+    ],
+    "tags": ["culture", "language-learning", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-040",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What kind of Portuguese media do you think best captures everyday life without exaggerating it?",
+    "portuguese": "Que tipo de media em português achas que capta melhor o dia a dia sem o exagerar?",
+    "pronunciationNote": "k TEE-poo d MEE-dee-ah eng poor-too-GAYSH AH-shash k KAP-tah meh-LYOR",
+    "grammarFocus": "embedded question",
+    "notes": "Useful media discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Procuro algo que soe autêntico, não só dramático.",
+        "english": "I am looking for something that feels authentic, not just dramatic."
+      }
+    ],
+    "tags": ["media", "discussion", "recommendations"]
+  },
+  {
+    "id": "10-cmc-b1b2-041",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I find that conversation becomes much richer when people are willing to explain the context behind what they say.",
+    "portuguese": "Acho que a conversa fica muito mais rica quando as pessoas estão dispostas a explicar o contexto por trás do que dizem.",
+    "pronunciationNote": "AH-shoo k ah kohn-VAIR-sah FEE-kah MWEEN-too mysh HEE-kah",
+    "grammarFocus": "opinion statement + when clause",
+    "notes": "Useful discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso transforma uma resposta simples numa troca real.",
+        "english": "That turns a simple answer into a real exchange."
+      }
+    ],
+    "tags": ["conversation", "discussion", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-042",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am more interested in conversation that reveals how people think than in conversation that just fills silence.",
+    "portuguese": "Interessa-me mais a conversa que revela como as pessoas pensam do que a conversa que apenas enche o silêncio.",
+    "pronunciationNote": "een-teh-REH-sah-m mysh ah kohn-VAIR-sah k heh-VEH-lah KOH-moo az peh-SOH-ash PEN-sang",
+    "grammarFocus": "comparative relative clause structure",
+    "notes": "Useful values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, profundidade vale mais do que fluidez vazia.",
+        "english": "For me, depth matters more than empty fluency."
+      }
+    ],
+    "tags": ["conversation", "values", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-043",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you wanted one recommendation that combines language, culture, and good conversation, what would you choose?",
+    "portuguese": "Se quisesses uma recomendação que juntasse língua, cultura e boa conversa, o que escolhias?",
+    "pronunciationNote": "s kee-ZESH-sesh OO-mah reh-koh-men-dah-SAWN k zhoon-TAH-sih LEENG-gwah",
+    "grammarFocus": "conditional prompt",
+    "notes": "Useful discussion starter.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode ser um filme, um podcast ou até um programa de rádio.",
+        "english": "It can be a film, a podcast, or even a radio programme."
+      }
+    ],
+    "tags": ["media", "culture", "starter"]
+  },
+  {
+    "id": "10-cmc-b1b2-044",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather follow media that challenges me a little than stay only with what feels easy.",
+    "portuguese": "Preferia seguir media que me desafiasse um pouco do que ficar só com o que parece fácil.",
+    "pronunciationNote": "preh-feh-REE-ah seh-GHEER MEE-dee-ah k m deh-zah-fee-AH-sih oom POH-koo",
+    "grammarFocus": "preference + imperfect subjunctive in relative clause",
+    "notes": "Useful learning strategy phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se tudo for demasiado simples, acabo por não crescer.",
+        "english": "If everything is too simple, I end up not growing."
+      }
+    ],
+    "tags": ["media", "language-learning", "strategy"]
+  },
+  {
+    "id": "10-cmc-b1b2-045",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think one of the hardest things to learn is not vocabulary, but when a topic feels natural to bring up.",
+    "portuguese": "Acho que uma das coisas mais difíceis de aprender não é o vocabulário, mas quando um tema surge de forma natural.",
+    "pronunciationNote": "AH-shoo k OO-mah dash KOH-zash mysh dee-FEE-seysh d ah-pren-DER",
+    "grammarFocus": "cleft-like focus with noun clause",
+    "notes": "Useful conversation-awareness phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso muda muito o tom da interação.",
+        "english": "That changes the tone of the interaction a lot."
+      }
+    ],
+    "tags": ["conversation", "language-learning", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-046",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am curious about which parts of Portuguese media people feel represent them and which parts they reject.",
+    "portuguese": "Tenho curiosidade sobre que partes dos media em português as pessoas sentem que as representam e quais rejeitam.",
+    "pronunciationNote": "TEN-yoo koo-ree-oh-zee-DAH-d soh-br k PAR-tsh doosh MEE-dee-ah eng poor-too-GAYSH",
+    "grammarFocus": "embedded question",
+    "notes": "Useful media discussion phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Isso também diz muito sobre identidade cultural.",
+        "english": "That also says a lot about cultural identity."
+      }
+    ],
+    "tags": ["media", "culture", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-047",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather build cultural understanding slowly than collect disconnected facts.",
+    "portuguese": "Preferia construir entendimento cultural devagar do que juntar factos desligados.",
+    "pronunciationNote": "preh-feh-REE-ah kohnsh-troo-EER en-ten-dee-MEN-too kool-too-RAL deh-vah-GAR",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful learning-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, profundidade importa mais do que quantidade.",
+        "english": "For me, depth matters more than quantity."
+      }
+    ],
+    "tags": ["culture", "language-learning", "values"]
+  },
+  {
+    "id": "10-cmc-b1b2-048",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The conversations I learn most from are the ones where people explain not just what they think, but why it matters to them.",
+    "portuguese": "As conversas de que mais aprendo são aquelas em que as pessoas explicam não só o que pensam, mas porque é que isso lhes importa.",
+    "pronunciationNote": "azh kohn-VAIR-sash d k mysh ah-PREN-doo sawn ah-KEH-lash eng k az peh-SOH-ash",
+    "grammarFocus": "relative clause + not only ... but also",
+    "notes": "Useful conversation-values phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "É aí que a conversa passa a ser memorável.",
+        "english": "That is where the conversation becomes memorable."
+      }
+    ],
+    "tags": ["conversation", "values", "discussion"]
+  },
+  {
+    "id": "10-cmc-b1b2-049",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to make my learning feel more like participating in a culture than decoding a system.",
+    "portuguese": "Estou a tentar fazer com que a aprendizagem se pareça mais com participar numa cultura do que decifrar um sistema.",
+    "pronunciationNote": "esh-TOH ah ten-TAR fah-ZER kohm k ah ah-pren-dee-ZAH-zheng s pah-REH-sah",
+    "grammarFocus": "causative structure + comparative",
+    "notes": "Useful learning reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando acontece isso, tudo fica mais vivo.",
+        "english": "When that happens, everything feels more alive."
+      }
+    ],
+    "tags": ["culture", "language-learning", "reflection"]
+  },
+  {
+    "id": "10-cmc-b1b2-050",
+    "subject": "Culture, Media & Conversation",
+    "subjectId": "culture-media-conversation",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks, that gives me a clearer sense of how culture, media, and conversation all connect.",
+    "portuguese": "Obrigado, isso dá-me uma noção mais clara de como a cultura, os media e a conversa se ligam.",
+    "pronunciationNote": "oh-bree-GAH-doo EE-soo dah-m OO-mah noh-SAWN mysh KLAH-rah d KOH-moo ah kool-TOO-rah",
+    "grammarFocus": "result expression",
+    "notes": "Useful closing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora consigo ver melhor o quadro completo.",
+        "english": "Now I can see the bigger picture better."
+      }
+    ],
+    "tags": ["culture", "media", "closing"]
+  }
+]

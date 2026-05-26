@@ -1,0 +1,952 @@
+[
+  {
+    "id": "05-hfr-a1a2-001",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I live in a flat.",
+    "portuguese": "Vivo num apartamento.",
+    "pronunciationNote": "VEE-voo noom ah-par-tah-MEN-too",
+    "grammarFocus": "present simple statement",
+    "notes": "Basic housing description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agora vivo num apartamento pequeno.",
+        "english": "Now I live in a small flat."
+      }
+    ],
+    "tags": ["home", "housing"]
+  },
+  {
+    "id": "05-hfr-a1a2-002",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I live in a house.",
+    "portuguese": "Vivo numa casa.",
+    "pronunciationNote": "VEE-voo NOO-mah KAH-zah",
+    "grammarFocus": "present simple statement",
+    "notes": "Basic housing description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Os meus pais vivem numa casa.",
+        "english": "My parents live in a house."
+      }
+    ],
+    "tags": ["home", "housing"]
+  },
+  {
+    "id": "05-hfr-a1a2-003",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I live with my family.",
+    "portuguese": "Vivo com a minha família.",
+    "pronunciationNote": "VEE-voo kohm ah MEEN-yah fah-MEE-lee-ah",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful family phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda vivo com a minha família.",
+        "english": "I still live with my family."
+      }
+    ],
+    "tags": ["family", "home"]
+  },
+  {
+    "id": "05-hfr-a1a2-004",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I live alone.",
+    "portuguese": "Vivo sozinho.",
+    "pronunciationNote": "VEE-voo soo-ZEE-nyoo",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful personal phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desde o ano passado, vivo sozinho.",
+        "english": "Since last year, I live alone."
+      }
+    ],
+    "tags": ["home", "personal"]
+  },
+  {
+    "id": "05-hfr-a1a2-005",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I share a flat.",
+    "portuguese": "Partilho apartamento.",
+    "pronunciationNote": "par-TEE-lyoo ah-par-tah-MEN-too",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful housing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Partilho apartamento com dois amigos.",
+        "english": "I share a flat with two friends."
+      }
+    ],
+    "tags": ["home", "housing"]
+  },
+  {
+    "id": "05-hfr-a1a2-006",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is my room.",
+    "portuguese": "Este é o meu quarto.",
+    "pronunciationNote": "ESH-t eh oo MEH-oo KWAR-too",
+    "grammarFocus": "identification statement",
+    "notes": "Useful home vocabulary in context.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este é o meu quarto e ali é a sala.",
+        "english": "This is my room and over there is the living room."
+      }
+    ],
+    "tags": ["home", "room"]
+  },
+  {
+    "id": "05-hfr-a1a2-007",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The kitchen is small.",
+    "portuguese": "A cozinha é pequena.",
+    "pronunciationNote": "ah koo-ZEE-nyah eh peh-KEH-nah",
+    "grammarFocus": "description statement",
+    "notes": "Useful home description phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A cozinha é pequena, mas prática.",
+        "english": "The kitchen is small, but practical."
+      }
+    ],
+    "tags": ["home", "description"]
+  },
+  {
+    "id": "05-hfr-a1a2-008",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The living room is big.",
+    "portuguese": "A sala é grande.",
+    "pronunciationNote": "ah SAH-lah eh GRAHN-d",
+    "grammarFocus": "description statement",
+    "notes": "Useful home description phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A sala é grande e luminosa.",
+        "english": "The living room is big and bright."
+      }
+    ],
+    "tags": ["home", "description"]
+  },
+  {
+    "id": "05-hfr-a1a2-009",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have two brothers.",
+    "portuguese": "Tenho dois irmãos.",
+    "pronunciationNote": "TEN-yoo doyz eer-MAHWNSH",
+    "grammarFocus": "family statement",
+    "notes": "Basic family description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho dois irmãos e uma irmã.",
+        "english": "I have two brothers and one sister."
+      }
+    ],
+    "tags": ["family", "siblings"]
+  },
+  {
+    "id": "05-hfr-a1a2-010",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have one sister.",
+    "portuguese": "Tenho uma irmã.",
+    "pronunciationNote": "TEN-yoo OO-mah eer-MAH",
+    "grammarFocus": "family statement",
+    "notes": "Basic family description.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha irmã vive no Porto.",
+        "english": "My sister lives in Porto."
+      }
+    ],
+    "tags": ["family", "siblings"]
+  },
+  {
+    "id": "05-hfr-a1a2-011",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My parents live nearby.",
+    "portuguese": "Os meus pais vivem perto.",
+    "pronunciationNote": "oosh MEH-oosh pysh VEE-veng PER-too",
+    "grammarFocus": "family statement",
+    "notes": "Useful family location phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Os meus pais vivem perto da minha casa.",
+        "english": "My parents live near my house."
+      }
+    ],
+    "tags": ["family", "location"]
+  },
+  {
+    "id": "05-hfr-a1a2-012",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I visit my grandparents at the weekend.",
+    "portuguese": "Visito os meus avós ao fim de semana.",
+    "pronunciationNote": "vee-ZEE-too oosh MEH-oosh ah-VOSH ow FEENG d suh-MAH-nah",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana visito os meus avós.",
+        "english": "At the weekend I visit my grandparents."
+      }
+    ],
+    "tags": ["family", "weekend"]
+  },
+  {
+    "id": "05-hfr-a1a2-013",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a boyfriend.",
+    "portuguese": "Tenho namorado.",
+    "pronunciationNote": "TEN-yoo nah-moh-RAH-doo",
+    "grammarFocus": "relationship statement",
+    "notes": "Basic relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho namorado há dois anos.",
+        "english": "I have a boyfriend and have had one for two years."
+      }
+    ],
+    "tags": ["relationship", "personal"]
+  },
+  {
+    "id": "05-hfr-a1a2-014",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have a girlfriend.",
+    "portuguese": "Tenho namorada.",
+    "pronunciationNote": "TEN-yoo nah-moh-RAH-dah",
+    "grammarFocus": "relationship statement",
+    "notes": "Basic relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho namorada e vivemos juntos.",
+        "english": "I have a girlfriend and we live together."
+      }
+    ],
+    "tags": ["relationship", "personal"]
+  },
+  {
+    "id": "05-hfr-a1a2-015",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am married.",
+    "portuguese": "Sou casado.",
+    "pronunciationNote": "SOH kah-ZAH-doo",
+    "grammarFocus": "relationship status",
+    "notes": "Basic personal status phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou casado e tenho dois filhos.",
+        "english": "I am married and I have two children."
+      }
+    ],
+    "tags": ["relationship", "family"]
+  },
+  {
+    "id": "05-hfr-a1a2-016",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am single.",
+    "portuguese": "Sou solteiro.",
+    "pronunciationNote": "SOH sohl-TAY-roo",
+    "grammarFocus": "relationship status",
+    "notes": "Basic personal status phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento sou solteiro.",
+        "english": "At the moment I am single."
+      }
+    ],
+    "tags": ["relationship", "personal"]
+  },
+  {
+    "id": "05-hfr-a1a2-017",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We live together.",
+    "portuguese": "Vivemos juntos.",
+    "pronunciationNote": "vee-VEH-moosh ZHOON-toosh",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Vivemos juntos há seis meses.",
+        "english": "We have lived together for six months."
+      }
+    ],
+    "tags": ["relationship", "home"]
+  },
+  {
+    "id": "05-hfr-a1a2-018",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have one child.",
+    "portuguese": "Tenho um filho.",
+    "pronunciationNote": "TEN-yoo oom FEE-lyoo",
+    "grammarFocus": "family statement",
+    "notes": "Basic family description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho um filho pequeno.",
+        "english": "I have a young child."
+      }
+    ],
+    "tags": ["family", "children"]
+  },
+  {
+    "id": "05-hfr-a1a2-019",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I have two children.",
+    "portuguese": "Tenho dois filhos.",
+    "pronunciationNote": "TEN-yoo doyz FEE-lyoosh",
+    "grammarFocus": "family statement",
+    "notes": "Basic family description.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho dois filhos e uma vida ocupada.",
+        "english": "I have two children and a busy life."
+      }
+    ],
+    "tags": ["family", "children"]
+  },
+  {
+    "id": "05-hfr-a1a2-020",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My son is at school.",
+    "portuguese": "O meu filho está na escola.",
+    "pronunciationNote": "oo MEH-oo FEE-lyoo esh-TAH nah esh-KOH-lah",
+    "grammarFocus": "location statement",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "De manhã, o meu filho está na escola.",
+        "english": "In the morning, my son is at school."
+      }
+    ],
+    "tags": ["family", "school"]
+  },
+  {
+    "id": "05-hfr-a1a2-021",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My daughter is at home.",
+    "portuguese": "A minha filha está em casa.",
+    "pronunciationNote": "ah MEEN-yah FEE-lyah esh-TAH eng KAH-zah",
+    "grammarFocus": "location statement",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje a minha filha está em casa.",
+        "english": "Today my daughter is at home."
+      }
+    ],
+    "tags": ["family", "home"]
+  },
+  {
+    "id": "05-hfr-a1a2-022",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do the cleaning on Saturdays.",
+    "portuguese": "Faço a limpeza aos sábados.",
+    "pronunciationNote": "FAH-soo ah leem-PEH-zah awsh SAH-bah-doosh",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful home routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Normalmente faço a limpeza aos sábados de manhã.",
+        "english": "I usually do the cleaning on Saturday mornings."
+      }
+    ],
+    "tags": ["home", "routine"]
+  },
+  {
+    "id": "05-hfr-a1a2-023",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I tidy my room.",
+    "portuguese": "Arrumo o meu quarto.",
+    "pronunciationNote": "ah-HOO-moo oo MEH-oo KWAR-too",
+    "grammarFocus": "habit statement",
+    "notes": "Useful household phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de sair, arrumo o meu quarto.",
+        "english": "Before leaving, I tidy my room."
+      }
+    ],
+    "tags": ["home", "routine"]
+  },
+  {
+    "id": "05-hfr-a1a2-024",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to wash the dishes.",
+    "portuguese": "Preciso de lavar a loiça.",
+    "pronunciationNote": "preh-SEE-zoo d lah-VAR ah LOY-sah",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful home task phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Depois do jantar, preciso de lavar a loiça.",
+        "english": "After dinner, I need to wash the dishes."
+      }
+    ],
+    "tags": ["home", "task"]
+  },
+  {
+    "id": "05-hfr-a1a2-025",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you help me at home?",
+    "portuguese": "Podes ajudar-me em casa?",
+    "pronunciationNote": "POH-desh ah-zhoo-DAR-m eng KAH-zah",
+    "grammarFocus": "informal request question",
+    "notes": "Useful household phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes ajudar-me em casa esta tarde?",
+        "english": "Can you help me at home this afternoon?"
+      }
+    ],
+    "tags": ["home", "help"]
+  },
+  {
+    "id": "05-hfr-a1a2-026",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We eat dinner together.",
+    "portuguese": "Jantamos juntos.",
+    "pronunciationNote": "zhan-TAH-moosh ZHOON-toosh",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful family routine phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quase todos os dias jantamos juntos.",
+        "english": "Almost every day we have dinner together."
+      }
+    ],
+    "tags": ["family", "routine"]
+  },
+  {
+    "id": "05-hfr-a1a2-027",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We spend time together.",
+    "portuguese": "Passamos tempo juntos.",
+    "pronunciationNote": "pah-SAH-moosh TEM-poo ZHOON-toosh",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana passamos tempo juntos.",
+        "english": "At the weekend we spend time together."
+      }
+    ],
+    "tags": ["relationship", "family"]
+  },
+  {
+    "id": "05-hfr-a1a2-028",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I get on well with my brother.",
+    "portuguese": "Dou-me bem com o meu irmão.",
+    "pronunciationNote": "DOH-m bayng kohm oo MEH-oo eer-MAHWNG",
+    "grammarFocus": "reflexive expression",
+    "notes": "Useful family relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dou-me bem com o meu irmão mais velho.",
+        "english": "I get on well with my older brother."
+      }
+    ],
+    "tags": ["family", "relationship"]
+  },
+  {
+    "id": "05-hfr-a1a2-029",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I get on well with my sister.",
+    "portuguese": "Dou-me bem com a minha irmã.",
+    "pronunciationNote": "DOH-m bayng kohm ah MEEN-yah eer-MAH",
+    "grammarFocus": "reflexive expression",
+    "notes": "Useful family relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Dou-me bem com a minha irmã mais nova.",
+        "english": "I get on well with my younger sister."
+      }
+    ],
+    "tags": ["family", "relationship"]
+  },
+  {
+    "id": "05-hfr-a1a2-030",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My family is important to me.",
+    "portuguese": "A minha família é importante para mim.",
+    "pronunciationNote": "ah MEEN-yah fah-MEE-lee-ah eh eem-por-TAHN-t pah-rah meeng",
+    "grammarFocus": "opinion statement",
+    "notes": "Useful personal value phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "A minha família é muito importante para mim.",
+        "english": "My family is very important to me."
+      }
+    ],
+    "tags": ["family", "values"]
+  },
+  {
+    "id": "05-hfr-a1a2-031",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need some time alone.",
+    "portuguese": "Preciso de algum tempo sozinho.",
+    "pronunciationNote": "preh-SEE-zoo d al-GOOM TEM-poo soo-ZEE-nyoo",
+    "grammarFocus": "need statement",
+    "notes": "Useful relationship boundary phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje preciso de algum tempo sozinho em casa.",
+        "english": "Today I need some time alone at home."
+      }
+    ],
+    "tags": ["relationship", "personal"]
+  },
+  {
+    "id": "05-hfr-a1a2-032",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to call my mother.",
+    "portuguese": "Preciso de ligar à minha mãe.",
+    "pronunciationNote": "preh-SEE-zoo d lee-GAR ah MEEN-yah MAYNG",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful family communication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preciso de ligar à minha mãe esta noite.",
+        "english": "I need to call my mother tonight."
+      }
+    ],
+    "tags": ["family", "communication"]
+  },
+  {
+    "id": "05-hfr-a1a2-033",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I speak to my father every week.",
+    "portuguese": "Falo com o meu pai todas as semanas.",
+    "pronunciationNote": "FAH-loo kohm oo MEH-oo PY TOH-dash az suh-MAH-nash",
+    "grammarFocus": "habitual statement",
+    "notes": "Useful family communication phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Falo com o meu pai ao domingo.",
+        "english": "I speak to my father on Sundays."
+      }
+    ],
+    "tags": ["family", "communication"]
+  },
+  {
+    "id": "05-hfr-a1a2-034",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My friend lives with us.",
+    "portuguese": "O meu amigo vive connosco.",
+    "pronunciationNote": "oo MEH-oo ah-MEE-goo VEE-v koh-NOHSH-koo",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful home-sharing phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Neste momento o meu amigo vive connosco.",
+        "english": "At the moment my friend lives with us."
+      }
+    ],
+    "tags": ["home", "friends"]
+  },
+  {
+    "id": "05-hfr-a1a2-035",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We are having guests tonight.",
+    "portuguese": "Hoje vamos ter visitas.",
+    "pronunciationNote": "OY-zh VAH-moosh tair vee-ZEE-tash",
+    "grammarFocus": "near future statement",
+    "notes": "Useful home/social phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje vamos ter visitas para jantar.",
+        "english": "We are having guests for dinner tonight."
+      }
+    ],
+    "tags": ["home", "social"]
+  },
+  {
+    "id": "05-hfr-a1a2-036",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you come to my house?",
+    "portuguese": "Podes vir a minha casa?",
+    "pronunciationNote": "POH-desh veer ah MEEN-yah KAH-zah",
+    "grammarFocus": "informal invitation question",
+    "notes": "Useful social phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podes vir a minha casa esta tarde?",
+        "english": "Can you come to my house this afternoon?"
+      }
+    ],
+    "tags": ["home", "social"]
+  },
+  {
+    "id": "05-hfr-a1a2-037",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Make yourself at home.",
+    "portuguese": "Sente-te em casa.",
+    "pronunciationNote": "SEN-t-t eng KAH-zah",
+    "grammarFocus": "informal imperative",
+    "notes": "Useful host phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sente-te em casa e fica à vontade.",
+        "english": "Make yourself at home and feel comfortable."
+      }
+    ],
+    "tags": ["home", "hosting"]
+  },
+  {
+    "id": "05-hfr-a1a2-038",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The bathroom is over there.",
+    "portuguese": "A casa de banho é ali.",
+    "pronunciationNote": "ah KAH-zah d BAH-nyoo eh ah-LEE",
+    "grammarFocus": "location statement",
+    "notes": "Useful hosting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se precisares, a casa de banho é ali.",
+        "english": "If you need it, the bathroom is over there."
+      }
+    ],
+    "tags": ["home", "hosting"]
+  },
+  {
+    "id": "05-hfr-a1a2-039",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Please take off your shoes.",
+    "portuguese": "Tira os sapatos, por favor.",
+    "pronunciationNote": "TEE-rah oosh sah-PAH-toosh poor fah-VOR",
+    "grammarFocus": "informal imperative",
+    "notes": "Useful home rule phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "À entrada, tira os sapatos, por favor.",
+        "english": "At the entrance, please take off your shoes."
+      }
+    ],
+    "tags": ["home", "rules"]
+  },
+  {
+    "id": "05-hfr-a1a2-040",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to feed the cat.",
+    "portuguese": "Preciso de dar de comer ao gato.",
+    "pronunciationNote": "preh-SEE-zoo d dar d koh-MER ow GAH-too",
+    "grammarFocus": "need + infinitive phrase",
+    "notes": "Useful pet/home phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de sair, preciso de dar de comer ao gato.",
+        "english": "Before leaving, I need to feed the cat."
+      }
+    ],
+    "tags": ["home", "pets"]
+  },
+  {
+    "id": "05-hfr-a1a2-041",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We have a dog.",
+    "portuguese": "Temos um cão.",
+    "pronunciationNote": "TEH-moosh oom KAHWNG",
+    "grammarFocus": "present simple statement",
+    "notes": "Useful pet phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Temos um cão muito calmo.",
+        "english": "We have a very calm dog."
+      }
+    ],
+    "tags": ["home", "pets"]
+  },
+  {
+    "id": "05-hfr-a1a2-042",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "My neighbour is friendly.",
+    "portuguese": "O meu vizinho é simpático.",
+    "pronunciationNote": "oo MEH-oo vee-ZEE-nyoo eh seem-PAH-tee-koo",
+    "grammarFocus": "description statement",
+    "notes": "Useful home/social phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "O meu vizinho é simpático e ajuda-nos.",
+        "english": "My neighbour is friendly and helps us."
+      }
+    ],
+    "tags": ["home", "neighbours"]
+  },
+  {
+    "id": "05-hfr-a1a2-043",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "We are close friends.",
+    "portuguese": "Somos amigos próximos.",
+    "pronunciationNote": "SOH-moosh ah-MEE-goosh PROK-see-moosh",
+    "grammarFocus": "relationship statement",
+    "notes": "Useful friendship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Somos amigos próximos há muito tempo.",
+        "english": "We have been close friends for a long time."
+      }
+    ],
+    "tags": ["friends", "relationship"]
+  },
+  {
+    "id": "05-hfr-a1a2-044",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I miss my family.",
+    "portuguese": "Tenho saudades da minha família.",
+    "pronunciationNote": "TEN-yoo sow-DAH-dz dah MEEN-yah fah-MEE-lee-ah",
+    "grammarFocus": "idiomatic feeling expression",
+    "notes": "Useful emotional phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando viajo, tenho saudades da minha família.",
+        "english": "When I travel, I miss my family."
+      }
+    ],
+    "tags": ["family", "emotions"]
+  },
+  {
+    "id": "05-hfr-a1a2-045",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am happy at home.",
+    "portuguese": "Estou feliz em casa.",
+    "pronunciationNote": "esh-TOH feh-LEEZ eng KAH-zah",
+    "grammarFocus": "state statement",
+    "notes": "Useful emotional phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sinto-me feliz em casa com a minha família.",
+        "english": "I feel happy at home with my family."
+      }
+    ],
+    "tags": ["home", "emotions"]
+  },
+  {
+    "id": "05-hfr-a1a2-046",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I need to talk to you.",
+    "portuguese": "Preciso de falar contigo.",
+    "pronunciationNote": "preh-SEE-zoo d fah-LAR kohn-TEE-goo",
+    "grammarFocus": "need + infinitive",
+    "notes": "Useful relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mais tarde, preciso de falar contigo.",
+        "english": "Later, I need to talk to you."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-a1a2-047",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I understand you.",
+    "portuguese": "Compreendo-te.",
+    "pronunciationNote": "kohm-preh-EN-doo-t",
+    "grammarFocus": "object pronoun phrase",
+    "notes": "Useful relationship phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Compreendo-te, mas preciso de tempo.",
+        "english": "I understand you, but I need time."
+      }
+    ],
+    "tags": ["relationship", "communication"]
+  },
+  {
+    "id": "05-hfr-a1a2-048",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am worried about my mother.",
+    "portuguese": "Estou preocupado com a minha mãe.",
+    "pronunciationNote": "esh-TOH preh-oh-koo-PAH-doo kohm ah MEEN-yah MAYNG",
+    "grammarFocus": "state statement",
+    "notes": "Useful family concern phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou preocupado com a minha mãe.",
+        "english": "Today I am worried about my mother."
+      }
+    ],
+    "tags": ["family", "emotions"]
+  },
+  {
+    "id": "05-hfr-a1a2-049",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Everything is fine at home.",
+    "portuguese": "Está tudo bem em casa.",
+    "pronunciationNote": "esh-TAH TOO-doo bayng eng KAH-zah",
+    "grammarFocus": "reassurance statement",
+    "notes": "Useful update phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não te preocupes, está tudo bem em casa.",
+        "english": "Do not worry, everything is fine at home."
+      }
+    ],
+    "tags": ["home", "reassurance"]
+  },
+  {
+    "id": "05-hfr-a1a2-050",
+    "subject": "Home, Family & Relationships",
+    "subjectId": "home-family-relationships",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am going home now.",
+    "portuguese": "Vou para casa agora.",
+    "pronunciationNote": "VOH pah-rah KAH-zah ah-GOH-rah",
+    "grammarFocus": "movement statement",
+    "notes": "Useful everyday phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já vou para casa agora, até logo.",
+        "english": "I am going home now, see you soon."
+      }
+    ],
+    "tags": ["home", "routine"]
+  }
+]

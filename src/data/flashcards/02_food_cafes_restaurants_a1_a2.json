@@ -1,0 +1,952 @@
+[
+  {
+    "id": "02-fcr-a1a2-001",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like a coffee, please.",
+    "portuguese": "Queria um café, por favor.",
+    "pronunciationNote": "keh-REE-ah oom kah-FEH poor fah-VOR",
+    "grammarFocus": "polite request",
+    "notes": "Standard polite café order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria um café sem açúcar, por favor.",
+        "english": "I would like a coffee without sugar, please."
+      }
+    ],
+    "tags": ["cafe", "request", "starter"]
+  },
+  {
+    "id": "02-fcr-a1a2-002",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A table for two, please.",
+    "portuguese": "Uma mesa para dois, por favor.",
+    "pronunciationNote": "OO-mah MEH-zah pah-rah DOYSH",
+    "grammarFocus": "restaurant request",
+    "notes": "Useful when arriving at a restaurant.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem uma mesa para dois?",
+        "english": "Do you have a table for two?"
+      }
+    ],
+    "tags": ["restaurant", "table"]
+  },
+  {
+    "id": "02-fcr-a1a2-003",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I see the menu?",
+    "portuguese": "Posso ver a ementa?",
+    "pronunciationNote": "POH-soo vair ah eh-MEN-tah",
+    "grammarFocus": "request question",
+    "notes": "Ementa is common in Portugal for menu.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso ver a ementa do dia?",
+        "english": "Can I see the menu of the day?"
+      }
+    ],
+    "tags": ["menu", "request"]
+  },
+  {
+    "id": "02-fcr-a1a2-004",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What do you recommend?",
+    "portuguese": "O que recomenda?",
+    "pronunciationNote": "oo kuh reh-koh-MEN-dah",
+    "grammarFocus": "formal question",
+    "notes": "Simple recommendation question.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que recomenda hoje?",
+        "english": "What do you recommend today?"
+      }
+    ],
+    "tags": ["recommendation", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-005",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am vegetarian.",
+    "portuguese": "Sou vegetariano.",
+    "pronunciationNote": "soh veh-zheh-tah-ree-AH-noo",
+    "grammarFocus": "identity statement",
+    "notes": "Use the feminine form vegetariana if needed.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou vegetariano, tem opções sem carne?",
+        "english": "I am vegetarian, do you have options without meat?"
+      }
+    ],
+    "tags": ["diet", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-006",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Without onion, please.",
+    "portuguese": "Sem cebola, por favor.",
+    "pronunciationNote": "sayn seh-BOH-lah poor fah-VOR",
+    "grammarFocus": "without + noun",
+    "notes": "Common simple food adjustment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria a sopa sem cebola, por favor.",
+        "english": "I would like the soup without onion, please."
+      }
+    ],
+    "tags": ["diet", "customisation"]
+  },
+  {
+    "id": "02-fcr-a1a2-007",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Without sugar, please.",
+    "portuguese": "Sem açúcar, por favor.",
+    "pronunciationNote": "sayn ah-SOO-kar poor fah-VOR",
+    "grammarFocus": "without + noun",
+    "notes": "Useful for coffee and tea.",
+    "exampleSentences": [
+      {
+        "portuguese": "Um chá sem açúcar, por favor.",
+        "english": "A tea without sugar, please."
+      }
+    ],
+    "tags": ["cafe", "customisation"]
+  },
+  {
+    "id": "02-fcr-a1a2-008",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am allergic to nuts.",
+    "portuguese": "Sou alérgico a frutos secos.",
+    "pronunciationNote": "soh ah-LER-zhee-koo ah FROO-toosh SEH-koosh",
+    "grammarFocus": "allergy statement",
+    "notes": "Important safety phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou alérgico a frutos secos, isto tem?",
+        "english": "I am allergic to nuts, does this have any?"
+      }
+    ],
+    "tags": ["allergy", "health", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-009",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like water.",
+    "portuguese": "Queria água.",
+    "pronunciationNote": "keh-REE-ah AH-gwah",
+    "grammarFocus": "polite request",
+    "notes": "Short and natural order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria água sem gás.",
+        "english": "I would like still water."
+      }
+    ],
+    "tags": ["drink", "starter"]
+  },
+  {
+    "id": "02-fcr-a1a2-010",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Still water, please.",
+    "portuguese": "Água sem gás, por favor.",
+    "pronunciationNote": "AH-gwah sayn GAHSH",
+    "grammarFocus": "food specification",
+    "notes": "Sem gás means still water.",
+    "exampleSentences": [
+      {
+        "portuguese": "Uma garrafa de água sem gás, por favor.",
+        "english": "A bottle of still water, please."
+      }
+    ],
+    "tags": ["drink", "water"]
+  },
+  {
+    "id": "02-fcr-a1a2-011",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Sparkling water, please.",
+    "portuguese": "Água com gás, por favor.",
+    "pronunciationNote": "AH-gwah kohng GAHSH",
+    "grammarFocus": "food specification",
+    "notes": "Com gás means sparkling water.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro água com gás.",
+        "english": "I prefer sparkling water."
+      }
+    ],
+    "tags": ["drink", "water"]
+  },
+  {
+    "id": "02-fcr-a1a2-012",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "The bill, please.",
+    "portuguese": "A conta, por favor.",
+    "pronunciationNote": "ah KON-tah poor fah-VOR",
+    "grammarFocus": "restaurant request",
+    "notes": "Essential dining phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, a conta, por favor.",
+        "english": "Excuse me, the bill, please."
+      }
+    ],
+    "tags": ["restaurant", "payment"]
+  },
+  {
+    "id": "02-fcr-a1a2-013",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I pay by card?",
+    "portuguese": "Posso pagar com cartão?",
+    "pronunciationNote": "POH-soo pah-GAR kohng kar-TAWN",
+    "grammarFocus": "payment question",
+    "notes": "Very common in cafés and restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pagar com cartão ou só em dinheiro?",
+        "english": "Can I pay by card or only in cash?"
+      }
+    ],
+    "tags": ["payment", "question"]
+  },
+  {
+    "id": "02-fcr-a1a2-014",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have soup?",
+    "portuguese": "Tem sopa?",
+    "pronunciationNote": "tayng SOH-pah",
+    "grammarFocus": "availability question",
+    "notes": "Simple and useful lunch question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje tem sopa de legumes?",
+        "english": "Do you have vegetable soup today?"
+      }
+    ],
+    "tags": ["food", "availability"]
+  },
+  {
+    "id": "02-fcr-a1a2-015",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What is the soup of the day?",
+    "portuguese": "Qual é a sopa do dia?",
+    "pronunciationNote": "kwahl eh ah SOH-pah doo DEE-ah",
+    "grammarFocus": "information question",
+    "notes": "Common in casual restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Qual é a sopa do dia hoje?",
+        "english": "What is the soup of the day today?"
+      }
+    ],
+    "tags": ["food", "menu"]
+  },
+  {
+    "id": "02-fcr-a1a2-016",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like the fish, please.",
+    "portuguese": "Queria o peixe, por favor.",
+    "pronunciationNote": "keh-REE-ah oo PAY-sh poor fah-VOR",
+    "grammarFocus": "definite article object",
+    "notes": "Simple main-course order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria o peixe com legumes.",
+        "english": "I would like the fish with vegetables."
+      }
+    ],
+    "tags": ["restaurant", "order"]
+  },
+  {
+    "id": "02-fcr-a1a2-017",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like the chicken, please.",
+    "portuguese": "Queria o frango, por favor.",
+    "pronunciationNote": "keh-REE-ah oo FRANG-goo poor fah-VOR",
+    "grammarFocus": "definite article object",
+    "notes": "Simple main-course order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria o frango com arroz.",
+        "english": "I would like the chicken with rice."
+      }
+    ],
+    "tags": ["restaurant", "order"]
+  },
+  {
+    "id": "02-fcr-a1a2-018",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like bread.",
+    "portuguese": "Queria pão.",
+    "pronunciationNote": "keh-REE-ah PAWN",
+    "grammarFocus": "mass noun order",
+    "notes": "Basic bakery or table request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria pão e manteiga.",
+        "english": "I would like bread and butter."
+      }
+    ],
+    "tags": ["bakery", "starter"]
+  },
+  {
+    "id": "02-fcr-a1a2-019",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Is breakfast included?",
+    "portuguese": "O pequeno-almoço está incluído?",
+    "pronunciationNote": "oo peh-KEH-noo al-MOH-soo esh-TAH een-kloo-EE-doo",
+    "grammarFocus": "included question",
+    "notes": "Useful in hotels and guesthouses.",
+    "exampleSentences": [
+      {
+        "portuguese": "O pequeno-almoço está incluído no preço?",
+        "english": "Is breakfast included in the price?"
+      }
+    ],
+    "tags": ["hotel", "breakfast"]
+  },
+  {
+    "id": "02-fcr-a1a2-020",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am hungry.",
+    "portuguese": "Tenho fome.",
+    "pronunciationNote": "TEH-nyoo FOH-m",
+    "grammarFocus": "ter + noun",
+    "notes": "Basic need expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho muita fome hoje.",
+        "english": "I am very hungry today."
+      }
+    ],
+    "tags": ["basic-needs", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-021",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am thirsty.",
+    "portuguese": "Tenho sede.",
+    "pronunciationNote": "TEH-nyoo SEH-d",
+    "grammarFocus": "ter + noun",
+    "notes": "Basic need expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tenho sede, vou pedir água.",
+        "english": "I am thirsty, I am going to ask for water."
+      }
+    ],
+    "tags": ["basic-needs", "drink"]
+  },
+  {
+    "id": "02-fcr-a1a2-022",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I have another coffee?",
+    "portuguese": "Posso pedir outro café?",
+    "pronunciationNote": "POH-soo peh-DEER OH-troo kah-FEH",
+    "grammarFocus": "pedir + object",
+    "notes": "Useful for repeat orders.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso pedir outro café mais tarde?",
+        "english": "Can I have another coffee later?"
+      }
+    ],
+    "tags": ["cafe", "repeat-order"]
+  },
+  {
+    "id": "02-fcr-a1a2-023",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is very good.",
+    "portuguese": "Isto é muito bom.",
+    "pronunciationNote": "EESH-too eh MWEEN-too bohn",
+    "grammarFocus": "opinion statement",
+    "notes": "Simple positive feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este bolo é muito bom.",
+        "english": "This cake is very good."
+      }
+    ],
+    "tags": ["opinion", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-024",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is too salty.",
+    "portuguese": "Isto está muito salgado.",
+    "pronunciationNote": "EESH-too esh-TAH MWEEN-too sal-GAH-doo",
+    "grammarFocus": "quality description",
+    "notes": "Use if the food tastes too salty.",
+    "exampleSentences": [
+      {
+        "portuguese": "A sopa está um pouco salgada.",
+        "english": "The soup is a little salty."
+      }
+    ],
+    "tags": ["complaint", "taste"]
+  },
+  {
+    "id": "02-fcr-a1a2-025",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "This is too sweet.",
+    "portuguese": "Isto está muito doce.",
+    "pronunciationNote": "EESH-too esh-TAH MWEEN-too DOH-s",
+    "grammarFocus": "quality description",
+    "notes": "Common dessert comment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Para mim, o chá está demasiado doce.",
+        "english": "For me, the tea is too sweet."
+      }
+    ],
+    "tags": ["complaint", "taste"]
+  },
+  {
+    "id": "02-fcr-a1a2-026",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have milk?",
+    "portuguese": "Tem leite?",
+    "pronunciationNote": "tayng LAY-t",
+    "grammarFocus": "availability question",
+    "notes": "Useful in cafés and breakfast settings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem leite sem lactose?",
+        "english": "Do you have lactose-free milk?"
+      }
+    ],
+    "tags": ["drink", "availability"]
+  },
+  {
+    "id": "02-fcr-a1a2-027",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I do not eat meat.",
+    "portuguese": "Não como carne.",
+    "pronunciationNote": "nawng KOH-moo KAR-n",
+    "grammarFocus": "negative present",
+    "notes": "Simple dietary statement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não como carne, só peixe.",
+        "english": "I do not eat meat, only fish."
+      }
+    ],
+    "tags": ["diet", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-028",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I eat fish.",
+    "portuguese": "Como peixe.",
+    "pronunciationNote": "KOH-moo PAY-sh",
+    "grammarFocus": "simple present",
+    "notes": "Useful if explaining diet preferences.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como peixe, mas não como carne.",
+        "english": "I eat fish, but I do not eat meat."
+      }
+    ],
+    "tags": ["diet", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-029",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like dessert.",
+    "portuguese": "Queria sobremesa.",
+    "pronunciationNote": "keh-REE-ah soh-breh-MEH-zah",
+    "grammarFocus": "order statement",
+    "notes": "Simple dessert request.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria ver as sobremesas, por favor.",
+        "english": "I would like to see the desserts, please."
+      }
+    ],
+    "tags": ["dessert", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-030",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a pastry?",
+    "portuguese": "Tem um bolo?",
+    "pronunciationNote": "tayng oom BOH-loo",
+    "grammarFocus": "availability question",
+    "notes": "Bolo can mean cake or pastry in context.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem um bolo simples para o pequeno-almoço?",
+        "english": "Do you have a simple pastry for breakfast?"
+      }
+    ],
+    "tags": ["bakery", "question"]
+  },
+  {
+    "id": "02-fcr-a1a2-031",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "One pastel de nata, please.",
+    "portuguese": "Um pastel de nata, por favor.",
+    "pronunciationNote": "oom pash-TEL d nAH-tah poor fah-VOR",
+    "grammarFocus": "countable order",
+    "notes": "Classic Portuguese café order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria um pastel de nata e um café.",
+        "english": "I would like a custard tart and a coffee."
+      }
+    ],
+    "tags": ["bakery", "portuguese-food"]
+  },
+  {
+    "id": "02-fcr-a1a2-032",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like tea.",
+    "portuguese": "Queria chá.",
+    "pronunciationNote": "keh-REE-ah shah",
+    "grammarFocus": "order statement",
+    "notes": "Simple hot drink order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria chá de limão.",
+        "english": "I would like lemon tea."
+      }
+    ],
+    "tags": ["drink", "cafe"]
+  },
+  {
+    "id": "02-fcr-a1a2-033",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have juice?",
+    "portuguese": "Tem sumo?",
+    "pronunciationNote": "tayng SOO-moo",
+    "grammarFocus": "availability question",
+    "notes": "Common café and breakfast question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem sumo de laranja natural?",
+        "english": "Do you have fresh orange juice?"
+      }
+    ],
+    "tags": ["drink", "question"]
+  },
+  {
+    "id": "02-fcr-a1a2-034",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like orange juice.",
+    "portuguese": "Queria sumo de laranja.",
+    "pronunciationNote": "keh-REE-ah SOO-moo d luh-RAN-zhah",
+    "grammarFocus": "drink order",
+    "notes": "Common breakfast order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria um sumo de laranja fresco.",
+        "english": "I would like a fresh orange juice."
+      }
+    ],
+    "tags": ["drink", "breakfast"]
+  },
+  {
+    "id": "02-fcr-a1a2-035",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have vegetarian options?",
+    "portuguese": "Tem opções vegetarianas?",
+    "pronunciationNote": "tayng ohp-SOYNSH veh-zheh-tah-ree-AH-nash",
+    "grammarFocus": "availability question",
+    "notes": "Useful in most restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem opções vegetarianas no menu?",
+        "english": "Do you have vegetarian options on the menu?"
+      }
+    ],
+    "tags": ["diet", "menu"]
+  },
+  {
+    "id": "02-fcr-a1a2-036",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I would like to book a table.",
+    "portuguese": "Queria reservar uma mesa.",
+    "pronunciationNote": "keh-REE-ah reh-zair-VAR OO-mah MEH-zah",
+    "grammarFocus": "reservation phrase",
+    "notes": "Useful by phone or in person.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria reservar uma mesa para esta noite.",
+        "english": "I would like to book a table for tonight."
+      }
+    ],
+    "tags": ["reservation", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-037",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "For what time?",
+    "portuguese": "Para que horas?",
+    "pronunciationNote": "PAH-rah kuh OR-ash",
+    "grammarFocus": "time question",
+    "notes": "Common reservation follow-up.",
+    "exampleSentences": [
+      {
+        "portuguese": "A mesa é para que horas?",
+        "english": "For what time is the table?"
+      }
+    ],
+    "tags": ["reservation", "time"]
+  },
+  {
+    "id": "02-fcr-a1a2-038",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "At eight o’clock.",
+    "portuguese": "Às oito.",
+    "pronunciationNote": "azh OY-too",
+    "grammarFocus": "telling time",
+    "notes": "Short answer to reservation time.",
+    "exampleSentences": [
+      {
+        "portuguese": "A reserva é às oito.",
+        "english": "The booking is at eight."
+      }
+    ],
+    "tags": ["reservation", "time"]
+  },
+  {
+    "id": "02-fcr-a1a2-039",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can I sit outside?",
+    "portuguese": "Posso sentar-me lá fora?",
+    "pronunciationNote": "POH-soo sen-TAR-mih lah FOR-ah",
+    "grammarFocus": "reflexive infinitive",
+    "notes": "Useful when choosing a table.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso sentar-me lá fora ao sol?",
+        "english": "Can I sit outside in the sun?"
+      }
+    ],
+    "tags": ["table", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-040",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Inside, please.",
+    "portuguese": "Lá dentro, por favor.",
+    "pronunciationNote": "lah DEN-troo poor fah-VOR",
+    "grammarFocus": "location phrase",
+    "notes": "Simple seating preference.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro ficar lá dentro.",
+        "english": "I prefer to stay inside."
+      }
+    ],
+    "tags": ["table", "preference"]
+  },
+  {
+    "id": "02-fcr-a1a2-041",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have a children’s menu?",
+    "portuguese": "Tem menu infantil?",
+    "pronunciationNote": "tayng meh-NOO een-fahn-TEEL",
+    "grammarFocus": "availability question",
+    "notes": "Useful for family meals.",
+    "exampleSentences": [
+      {
+        "portuguese": "Tem menu infantil para o almoço?",
+        "english": "Do you have a children’s menu for lunch?"
+      }
+    ],
+    "tags": ["family", "restaurant"]
+  },
+  {
+    "id": "02-fcr-a1a2-042",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A sandwich, please.",
+    "portuguese": "Uma sandes, por favor.",
+    "pronunciationNote": "OO-mah SAN-desh poor fah-VOR",
+    "grammarFocus": "countable order",
+    "notes": "Sandes is common in Portugal.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria uma sandes de queijo.",
+        "english": "I would like a cheese sandwich."
+      }
+    ],
+    "tags": ["snack", "order"]
+  },
+  {
+    "id": "02-fcr-a1a2-043",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "A soup and a salad, please.",
+    "portuguese": "Uma sopa e uma salada, por favor.",
+    "pronunciationNote": "OO-mah SOH-pah ee OO-mah sah-LAH-dah",
+    "grammarFocus": "compound order",
+    "notes": "Simple combination order.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao almoço, queria uma sopa e uma salada.",
+        "english": "For lunch, I would like a soup and a salad."
+      }
+    ],
+    "tags": ["lunch", "order"]
+  },
+  {
+    "id": "02-fcr-a1a2-044",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Do you have the menu of the day?",
+    "portuguese": "Tem menu do dia?",
+    "pronunciationNote": "tayng meh-NOO doo DEE-ah",
+    "grammarFocus": "availability question",
+    "notes": "Very common lunch question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje tem menu do dia?",
+        "english": "Do you have a menu of the day today?"
+      }
+    ],
+    "tags": ["menu", "lunch"]
+  },
+  {
+    "id": "02-fcr-a1a2-045",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "What comes with it?",
+    "portuguese": "O que vem com isso?",
+    "pronunciationNote": "oo kuh vayng kohng EE-soo",
+    "grammarFocus": "content question",
+    "notes": "Useful for set menus and dishes.",
+    "exampleSentences": [
+      {
+        "portuguese": "O prato vem com arroz?",
+        "english": "Does the dish come with rice?"
+      }
+    ],
+    "tags": ["menu", "question"]
+  },
+  {
+    "id": "02-fcr-a1a2-046",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "It comes with rice and salad.",
+    "portuguese": "Vem com arroz e salada.",
+    "pronunciationNote": "vayng kohng ah-HOZH ee sah-LAH-dah",
+    "grammarFocus": "set phrase",
+    "notes": "Useful answer pattern too.",
+    "exampleSentences": [
+      {
+        "portuguese": "O frango vem com arroz e batatas.",
+        "english": "The chicken comes with rice and potatoes."
+      }
+    ],
+    "tags": ["menu", "description"]
+  },
+  {
+    "id": "02-fcr-a1a2-047",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Can you heat this up?",
+    "portuguese": "Pode aquecer isto?",
+    "pronunciationNote": "POH-d aqu-eh-SAIR EESH-too",
+    "grammarFocus": "request question",
+    "notes": "Useful in cafés and snack bars.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode aquecer a sopa, por favor?",
+        "english": "Can you heat the soup up, please?"
+      }
+    ],
+    "tags": ["request", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-048",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I want something light.",
+    "portuguese": "Quero uma coisa leve.",
+    "pronunciationNote": "KEH-roo OO-mah KOY-zah LEH-v",
+    "grammarFocus": "preference statement",
+    "notes": "Useful for lunch choices.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje quero uma coisa leve.",
+        "english": "Today I want something light."
+      }
+    ],
+    "tags": ["preference", "food"]
+  },
+  {
+    "id": "02-fcr-a1a2-049",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "I am ready to order.",
+    "portuguese": "Já posso pedir.",
+    "pronunciationNote": "zhah POH-soo peh-DEER",
+    "grammarFocus": "readiness statement",
+    "notes": "Natural when the server returns.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já podemos pedir, obrigado.",
+        "english": "We are ready to order now, thank you."
+      }
+    ],
+    "tags": ["restaurant", "ordering"]
+  },
+  {
+    "id": "02-fcr-a1a2-050",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "A1-A2",
+    "cardType": "phrase",
+    "english": "Could I have the receipt?",
+    "portuguese": "Pode dar-me o recibo?",
+    "pronunciationNote": "POH-d dar-m oo reh-SEE-boo",
+    "grammarFocus": "indirect object request",
+    "notes": "Useful after paying.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode dar-me o recibo com contribuinte?",
+        "english": "Could I have the receipt with a tax number?"
+      }
+    ],
+    "tags": ["payment", "receipt"]
+  }
+]

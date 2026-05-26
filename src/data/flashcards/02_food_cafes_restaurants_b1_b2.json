@@ -1,0 +1,952 @@
+[
+  {
+    "id": "02-fcr-b1b2-001",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you recommend something typical from this region?",
+    "portuguese": "Podia recomendar-me algo típico desta região?",
+    "pronunciationNote": "POH-dee-ah reh-koh-men-DAR-mih AL-goo TEE-pee-koo DESH-tah reh-zhee-AWN",
+    "grammarFocus": "polite request + indirect object",
+    "notes": "Natural travel-conversation question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de provar algo típico desta região.",
+        "english": "I would like to try something typical from this region."
+      }
+    ],
+    "tags": ["recommendation", "regional-food", "travel"]
+  },
+  {
+    "id": "02-fcr-b1b2-002",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you have anything less heavy?",
+    "portuguese": "Tem alguma coisa menos pesada?",
+    "pronunciationNote": "tayng al-GOO-mah KOY-zah MEN-oosh peh-ZAH-dah",
+    "grammarFocus": "comparative adjective",
+    "notes": "Useful when a menu feels too rich.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao jantar, prefiro uma opção menos pesada.",
+        "english": "For dinner, I prefer a less heavy option."
+      }
+    ],
+    "tags": ["preference", "menu"]
+  },
+  {
+    "id": "02-fcr-b1b2-003",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you bring the starters first and the mains later?",
+    "portuguese": "Podia trazer primeiro as entradas e depois os pratos principais?",
+    "pronunciationNote": "POH-dee-ah trah-ZAIR pree-MAY-roo az en-TRAH-dash",
+    "grammarFocus": "sequencing request",
+    "notes": "Useful in slower sit-down dining.",
+    "exampleSentences": [
+      {
+        "portuguese": "Preferíamos que os pratos viessem mais tarde.",
+        "english": "We would prefer the dishes to come later."
+      }
+    ],
+    "tags": ["service", "timing"]
+  },
+  {
+    "id": "02-fcr-b1b2-004",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are still deciding.",
+    "portuguese": "Ainda estamos a decidir.",
+    "pronunciationNote": "ine-DAH esh-TAH-moosh ah dee-see-DEER",
+    "grammarFocus": "progressive aspect",
+    "notes": "Useful when staff check in before you are ready.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estamos a decidir, pode voltar daqui a pouco?",
+        "english": "We are still deciding, can you come back in a bit?"
+      }
+    ],
+    "tags": ["restaurant", "timing"]
+  },
+  {
+    "id": "02-fcr-b1b2-005",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we have a few more minutes?",
+    "portuguese": "Podia dar-nos mais uns minutos?",
+    "pronunciationNote": "POH-dee-ah dar-noosh mysh oonsh mee-NOO-toosh",
+    "grammarFocus": "indirect object + quantity",
+    "notes": "Polite way to delay ordering.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda estamos a ver a ementa, podia dar-nos mais uns minutos?",
+        "english": "We are still looking at the menu, could you give us a few more minutes?"
+      }
+    ],
+    "tags": ["restaurant", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-006",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am lactose intolerant.",
+    "portuguese": "Sou intolerante à lactose.",
+    "pronunciationNote": "soh een-toh-leh-RAN-t ah lak-TOH-z",
+    "grammarFocus": "health-related statement",
+    "notes": "Important food restriction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sou intolerante à lactose, por isso preciso de confirmar os ingredientes.",
+        "english": "I am lactose intolerant, so I need to confirm the ingredients."
+      }
+    ],
+    "tags": ["diet", "health"]
+  },
+  {
+    "id": "02-fcr-b1b2-007",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you tell me what this dish contains?",
+    "portuguese": "Podia dizer-me o que leva este prato?",
+    "pronunciationNote": "POH-dee-ah dee-ZAIR-m oo kuh LEH-vah ESH-t prah-too",
+    "grammarFocus": "recipe content question",
+    "notes": "Very useful for unknown dishes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podia dizer-me se este prato leva marisco?",
+        "english": "Could you tell me if this dish contains seafood?"
+      }
+    ],
+    "tags": ["ingredients", "question"]
+  },
+  {
+    "id": "02-fcr-b1b2-008",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Does this sauce contain wine?",
+    "portuguese": "Este molho leva vinho?",
+    "pronunciationNote": "ESH-t MOL-yoo LEH-vah VEEN-yoo",
+    "grammarFocus": "ingredient question",
+    "notes": "Specific question about preparation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria saber se este molho leva alho.",
+        "english": "I wanted to know if this sauce contains garlic."
+      }
+    ],
+    "tags": ["ingredients", "specific"]
+  },
+  {
+    "id": "02-fcr-b1b2-009",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could it be made without cheese?",
+    "portuguese": "Podia ser feito sem queijo?",
+    "pronunciationNote": "POH-dee-ah sair FAY-too sayng KAY-zhoo",
+    "grammarFocus": "passive-like construction",
+    "notes": "Natural for menu adjustments.",
+    "exampleSentences": [
+      {
+        "portuguese": "Este prato podia ser feito sem queijo?",
+        "english": "Could this dish be made without cheese?"
+      }
+    ],
+    "tags": ["customisation", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-010",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would prefer something traditional rather than touristy.",
+    "portuguese": "Preferia uma coisa tradicional em vez de algo muito turístico.",
+    "pronunciationNote": "preh-feh-REE-ah OO-mah KOY-zah trah-dee-see-oh-NAL",
+    "grammarFocus": "preference contrast",
+    "notes": "Useful for authentic food experiences.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queríamos um sítio mais tradicional.",
+        "english": "We wanted a more traditional place."
+      }
+    ],
+    "tags": ["preference", "travel-food"]
+  },
+  {
+    "id": "02-fcr-b1b2-011",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is this dish usually very spicy?",
+    "portuguese": "Este prato costuma ser muito picante?",
+    "pronunciationNote": "ESH-t prah-too koosh-TOO-mah sair MWEEN-too pee-KAHN-t",
+    "grammarFocus": "habitual aspect",
+    "notes": "Good when unsure about flavour.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não me importo com picante, mas queria saber se é muito forte.",
+        "english": "I do not mind spice, but I wanted to know if it is very strong."
+      }
+    ],
+    "tags": ["taste", "question"]
+  },
+  {
+    "id": "02-fcr-b1b2-012",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to share this dish?",
+    "portuguese": "Seria possível partilhar este prato?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel par-tee-YAR ESH-t prah-too",
+    "grammarFocus": "conditional politeness",
+    "notes": "Useful for tapas-style or large portions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Acha que este prato dá para partilhar?",
+        "english": "Do you think this dish is enough to share?"
+      }
+    ],
+    "tags": ["sharing", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-013",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do you serve food all afternoon?",
+    "portuguese": "Servem comida durante toda a tarde?",
+    "pronunciationNote": "SAIR-veng koh-MEE-dah doo-RAN-t TOH-dah ah TAR-d",
+    "grammarFocus": "service hours question",
+    "notes": "Useful between lunch and dinner.",
+    "exampleSentences": [
+      {
+        "portuguese": "A cozinha está aberta durante toda a tarde?",
+        "english": "Is the kitchen open all afternoon?"
+      }
+    ],
+    "tags": ["timing", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-014",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What time does the kitchen close?",
+    "portuguese": "A que horas fecha a cozinha?",
+    "pronunciationNote": "ah kuh OR-ash FEH-zhah ah koo-ZEE-nyah",
+    "grammarFocus": "service hours question",
+    "notes": "Important in Portugal where kitchens may close between services.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se chegarmos tarde, ainda servem jantar?",
+        "english": "If we arrive late, do you still serve dinner?"
+      }
+    ],
+    "tags": ["timing", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-015",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We have a reservation under the name Silva.",
+    "portuguese": "Temos uma reserva em nome de Silva.",
+    "pronunciationNote": "TEH-moosh OO-mah reh-ZAIR-vah ayn NOH-m dih SEEL-vah",
+    "grammarFocus": "reservation formula",
+    "notes": "Standard restaurant arrival phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Temos uma reserva para duas pessoas.",
+        "english": "We have a reservation for two people."
+      }
+    ],
+    "tags": ["reservation", "arrival"]
+  },
+  {
+    "id": "02-fcr-b1b2-016",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we move to another table?",
+    "portuguese": "Podíamos mudar para outra mesa?",
+    "pronunciationNote": "poo-DEE-ah-moosh moo-DAR pah-rah OH-trah MEH-zah",
+    "grammarFocus": "conditional request",
+    "notes": "Useful if the table is uncomfortable.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podíamos ficar numa mesa mais calma?",
+        "english": "Could we sit at a quieter table?"
+      }
+    ],
+    "tags": ["table", "request"]
+  },
+  {
+    "id": "02-fcr-b1b2-017",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "This table is a bit too noisy for conversation.",
+    "portuguese": "Esta mesa é um pouco barulhenta para conversar.",
+    "pronunciationNote": "ESH-tah MEH-zah eh oom POH-koo bah-roo-LYEN-tah",
+    "grammarFocus": "quality description + purpose",
+    "notes": "Natural reason for asking to move.",
+    "exampleSentences": [
+      {
+        "portuguese": "Lá fora está mais calmo para conversar.",
+        "english": "It is calmer outside for talking."
+      }
+    ],
+    "tags": ["table", "conversation"]
+  },
+  {
+    "id": "02-fcr-b1b2-018",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you bring an extra plate for sharing?",
+    "portuguese": "Podia trazer um prato extra para partilhar?",
+    "pronunciationNote": "POH-dee-ah trah-ZAIR oom PRAH-too EX-trah",
+    "grammarFocus": "service request",
+    "notes": "Common in groups.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode trazer talheres extra também?",
+        "english": "Could you bring extra cutlery as well?"
+      }
+    ],
+    "tags": ["sharing", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-019",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we have separate bills?",
+    "portuguese": "Podíamos pagar em separado?",
+    "pronunciationNote": "poo-DEE-ah-moosh pah-GAR ayn seh-pah-RAH-doo",
+    "grammarFocus": "payment arrangement",
+    "notes": "Useful when splitting costs.",
+    "exampleSentences": [
+      {
+        "portuguese": "É possível dividir a conta?",
+        "english": "Is it possible to split the bill?"
+      }
+    ],
+    "tags": ["payment", "group"]
+  },
+  {
+    "id": "02-fcr-b1b2-020",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I think there is a mistake on the bill.",
+    "portuguese": "Penso que há um erro na conta.",
+    "pronunciationNote": "PEN-soo keh ah oom EH-hoo nah KON-tah",
+    "grammarFocus": "soft complaint",
+    "notes": "Polite billing issue phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Penso que esta bebida foi cobrada duas vezes.",
+        "english": "I think this drink was charged twice."
+      }
+    ],
+    "tags": ["payment", "complaint"]
+  },
+  {
+    "id": "02-fcr-b1b2-021",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We did not order this.",
+    "portuguese": "Nós não pedimos isto.",
+    "pronunciationNote": "noysh nawng peh-DEE-moosh EESH-too",
+    "grammarFocus": "negative past",
+    "notes": "Useful when the wrong item arrives.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, nós não pedimos esta entrada.",
+        "english": "Sorry, we did not order this starter."
+      }
+    ],
+    "tags": ["complaint", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-022",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am sorry, but this is not what I asked for.",
+    "portuguese": "Desculpe, mas isto não foi o que pedi.",
+    "pronunciationNote": "desh-KOOL-p mas EESH-too nawng foy oo kuh peh-DEE",
+    "grammarFocus": "soft complaint",
+    "notes": "Polite and direct correction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pedi o peixe, não o frango.",
+        "english": "I asked for the fish, not the chicken."
+      }
+    ],
+    "tags": ["complaint", "correction"]
+  },
+  {
+    "id": "02-fcr-b1b2-023",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be possible to replace this side dish?",
+    "portuguese": "Seria possível trocar este acompanhamento?",
+    "pronunciationNote": "seh-REE-ah poh-SEE-vel troh-KAR ESH-t ah-kohm-pah-nyah-MEN-too",
+    "grammarFocus": "conditional request",
+    "notes": "Useful for customising meals politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Seria possível trocar as batatas por legumes?",
+        "english": "Would it be possible to replace the potatoes with vegetables?"
+      }
+    ],
+    "tags": ["customisation", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-024",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you leave the sauce on the side?",
+    "portuguese": "Podia deixar o molho à parte?",
+    "pronunciationNote": "POH-dee-ah day-SHAR oo MOL-yoo ah PAR-t",
+    "grammarFocus": "request phrase",
+    "notes": "Very useful for controlling flavour.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podia trazer o molho à parte, por favor?",
+        "english": "Could you bring the sauce on the side, please?"
+      }
+    ],
+    "tags": ["customisation", "request"]
+  },
+  {
+    "id": "02-fcr-b1b2-025",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am trying to avoid fried food.",
+    "portuguese": "Estou a tentar evitar fritos.",
+    "pronunciationNote": "esh-TOH ah ten-TAR eh-vee-TAR FREE-toosh",
+    "grammarFocus": "progressive + infinitive",
+    "notes": "Natural health-related food preference.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje estou a tentar comer de forma mais leve.",
+        "english": "Today I am trying to eat more lightly."
+      }
+    ],
+    "tags": ["health", "diet"]
+  },
+  {
+    "id": "02-fcr-b1b2-026",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Which dessert is the least sweet?",
+    "portuguese": "Qual é a sobremesa menos doce?",
+    "pronunciationNote": "kwahl eh ah soh-breh-MEH-zah MEN-oosh DOH-s",
+    "grammarFocus": "superlative/comparative choice",
+    "notes": "Useful if you do not like very sweet desserts.",
+    "exampleSentences": [
+      {
+        "portuguese": "Prefiro sobremesas menos doces.",
+        "english": "I prefer less sweet desserts."
+      }
+    ],
+    "tags": ["dessert", "taste"]
+  },
+  {
+    "id": "02-fcr-b1b2-027",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is the wine list long?",
+    "portuguese": "A carta de vinhos é grande?",
+    "pronunciationNote": "ah KAR-tah d VEE-nyoosh eh GRAN-d",
+    "grammarFocus": "descriptive question",
+    "notes": "Useful if you want time to choose.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podia trazer a carta de vinhos?",
+        "english": "Could you bring the wine list?"
+      }
+    ],
+    "tags": ["wine", "menu"]
+  },
+  {
+    "id": "02-fcr-b1b2-028",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you suggest a wine to go with the fish?",
+    "portuguese": "Podia sugerir um vinho para acompanhar o peixe?",
+    "pronunciationNote": "POH-dee-ah soo-zheh-REER oom VEEN-yoo pah-rah ah-kohm-pah-NYAR oo PAY-sh",
+    "grammarFocus": "suggestion request",
+    "notes": "Natural in nicer restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Que vinho combina melhor com este prato?",
+        "english": "Which wine goes best with this dish?"
+      }
+    ],
+    "tags": ["wine", "recommendation"]
+  },
+  {
+    "id": "02-fcr-b1b2-029",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather try a local white wine.",
+    "portuguese": "Preferia provar um vinho branco da região.",
+    "pronunciationNote": "preh-feh-REE-ah proh-VAR oom VEEN-yoo BRAN-koo dah reh-zhee-AWN",
+    "grammarFocus": "preference + origin",
+    "notes": "Useful when choosing drinks in Portugal.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de provar um vinho da casa.",
+        "english": "I would like to try the house wine."
+      }
+    ],
+    "tags": ["wine", "regional-food"]
+  },
+  {
+    "id": "02-fcr-b1b2-030",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we taste it before ordering a bottle?",
+    "portuguese": "Podíamos prová-lo antes de pedir a garrafa?",
+    "pronunciationNote": "poo-DEE-ah-moosh proh-VAH-loo AHN-tish dih peh-DEER ah gah-RAH-fah",
+    "grammarFocus": "object pronoun + sequence",
+    "notes": "More advanced wine-service phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podíamos provar primeiro um copo?",
+        "english": "Could we try a glass first?"
+      }
+    ],
+    "tags": ["wine", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-031",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are in no rush.",
+    "portuguese": "Não temos pressa.",
+    "pronunciationNote": "nawng TEH-moosh PREH-sah",
+    "grammarFocus": "negative expression",
+    "notes": "Useful to slow down service politely.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não temos pressa, pode trazer depois.",
+        "english": "We are in no rush, you can bring it later."
+      }
+    ],
+    "tags": ["timing", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-032",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are a bit short on time.",
+    "portuguese": "Estamos com pouco tempo.",
+    "pronunciationNote": "esh-TAH-moosh kohng POH-koo TEM-poo",
+    "grammarFocus": "state expression",
+    "notes": "Useful if you need quick service.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estamos com pouco tempo, o que sai mais depressa?",
+        "english": "We are short on time, what comes out fastest?"
+      }
+    ],
+    "tags": ["timing", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-033",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Which dishes come out quickly?",
+    "portuguese": "Que pratos saem mais depressa?",
+    "pronunciationNote": "keh PRAH-toosh SAH-em mysh deh-PRESH-sah",
+    "grammarFocus": "comparative adverb",
+    "notes": "Useful when in a hurry.",
+    "exampleSentences": [
+      {
+        "portuguese": "Precisávamos de algo rápido.",
+        "english": "We needed something quick."
+      }
+    ],
+    "tags": ["timing", "menu"]
+  },
+  {
+    "id": "02-fcr-b1b2-034",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am looking for somewhere less touristy to eat.",
+    "portuguese": "Procuro um sítio menos turístico para comer.",
+    "pronunciationNote": "proh-KOO-roo oom SEE-tee-oo MEN-oosh too-REESH-tee-koo",
+    "grammarFocus": "search expression",
+    "notes": "Useful outside the restaurant itself too.",
+    "exampleSentences": [
+      {
+        "portuguese": "Conhece algum sítio menos turístico por aqui?",
+        "english": "Do you know anywhere less touristy around here?"
+      }
+    ],
+    "tags": ["travel-food", "recommendation"]
+  },
+  {
+    "id": "02-fcr-b1b2-035",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Do I need to book in advance?",
+    "portuguese": "É preciso reservar com antecedência?",
+    "pronunciationNote": "eh preh-SEE-zoo reh-zair-VAR kohng ahn-teh-seh-DEN-see-ah",
+    "grammarFocus": "necessity expression",
+    "notes": "Useful for popular restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ao fim de semana é preciso reservar?",
+        "english": "At the weekend, do you need to book?"
+      }
+    ],
+    "tags": ["reservation", "planning"]
+  },
+  {
+    "id": "02-fcr-b1b2-036",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are celebrating something special.",
+    "portuguese": "Estamos a celebrar uma ocasião especial.",
+    "pronunciationNote": "esh-TAH-moosh ah seh-leh-BRAR OO-mah oh-kah-ZYAWN esh-peh-see-AL",
+    "grammarFocus": "progressive celebration phrase",
+    "notes": "Good for atmosphere and recommendations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Estamos a celebrar um aniversário.",
+        "english": "We are celebrating a birthday."
+      }
+    ],
+    "tags": ["social", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-037",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you bring a candle with the dessert?",
+    "portuguese": "Podia trazer uma vela com a sobremesa?",
+    "pronunciationNote": "POH-dee-ah trah-ZAIR OO-mah VEH-lah kohng ah soh-breh-MEH-zah",
+    "grammarFocus": "service request",
+    "notes": "Useful for birthdays.",
+    "exampleSentences": [
+      {
+        "portuguese": "É uma surpresa, por isso não diga nada.",
+        "english": "It is a surprise, so do not say anything."
+      }
+    ],
+    "tags": ["dessert", "celebration"]
+  },
+  {
+    "id": "02-fcr-b1b2-038",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you wrap this up to take away?",
+    "portuguese": "Podia embrulhar isto para levar?",
+    "pronunciationNote": "POH-dee-ah em-broo-LYAR EESH-too pah-rah leh-VAR",
+    "grammarFocus": "takeaway request",
+    "notes": "Useful for leftovers.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sobrou comida, podia embrulhar para levar?",
+        "english": "There is food left over, could you wrap it up to take away?"
+      }
+    ],
+    "tags": ["takeaway", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-039",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could I have a box for the leftovers?",
+    "portuguese": "Pode trazer uma caixa para as sobras?",
+    "pronunciationNote": "POH-d trah-ZAIR OO-mah KAY-shah pah-rah az SOH-brash",
+    "grammarFocus": "container request",
+    "notes": "Another useful takeaway phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não queria desperdiçar isto.",
+        "english": "I did not want to waste this."
+      }
+    ],
+    "tags": ["takeaway", "sustainability"]
+  },
+  {
+    "id": "02-fcr-b1b2-040",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The service has been excellent.",
+    "portuguese": "O serviço tem sido excelente.",
+    "pronunciationNote": "oo sair-VEE-soo tayng SEE-doo ex-seh-LEN-t",
+    "grammarFocus": "present perfect-like evaluation",
+    "notes": "Natural positive feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "O serviço tem sido impecável desde que chegámos.",
+        "english": "The service has been excellent since we arrived."
+      }
+    ],
+    "tags": ["feedback", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-041",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "The food was good, but it took too long.",
+    "portuguese": "A comida estava boa, mas demorou demasiado.",
+    "pronunciationNote": "ah koh-MEE-dah esh-TAH-vah BOH-ah",
+    "grammarFocus": "balanced complaint",
+    "notes": "Useful for constructive feedback.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostámos da comida, mas o serviço foi lento.",
+        "english": "We liked the food, but the service was slow."
+      }
+    ],
+    "tags": ["complaint", "feedback"]
+  },
+  {
+    "id": "02-fcr-b1b2-042",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you say this portion is enough for one person?",
+    "portuguese": "Diria que esta dose chega para uma pessoa?",
+    "pronunciationNote": "dee-REE-ah keh ESH-tah DOH-zh SHEH-gah pah-rah OO-mah peh-SOH-ah",
+    "grammarFocus": "opinion request",
+    "notes": "Useful with unfamiliar dishes.",
+    "exampleSentences": [
+      {
+        "portuguese": "Esta dose costuma dar para duas pessoas?",
+        "english": "Is this portion usually enough for two people?"
+      }
+    ],
+    "tags": ["portion", "question"]
+  },
+  {
+    "id": "02-fcr-b1b2-043",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We are trying not to over-order.",
+    "portuguese": "Estamos a tentar não pedir em excesso.",
+    "pronunciationNote": "esh-TAH-moosh ah ten-TAR nawng peh-DEER ayn eh-SHEH-soo",
+    "grammarFocus": "negative infinitive",
+    "notes": "Useful when choosing for a group.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queremos pedir o suficiente, mas sem exagerar.",
+        "english": "We want to order enough, but without overdoing it."
+      }
+    ],
+    "tags": ["group", "ordering"]
+  },
+  {
+    "id": "02-fcr-b1b2-044",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you advise us on how many dishes to order?",
+    "portuguese": "Pode aconselhar-nos sobre quantos pratos pedir?",
+    "pronunciationNote": "POH-d ah-kohn-seh-LYAR-noosh SOH-br kwahn-toosh PRAH-toosh peh-DEER",
+    "grammarFocus": "advice request",
+    "notes": "Good in tapas or sharing restaurants.",
+    "exampleSentences": [
+      {
+        "portuguese": "Somos quatro pessoas, quantos pratos recomenda?",
+        "english": "We are four people, how many dishes do you recommend?"
+      }
+    ],
+    "tags": ["group", "advice"]
+  },
+  {
+    "id": "02-fcr-b1b2-045",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would like to avoid anything too rich before travelling.",
+    "portuguese": "Preferia evitar algo muito pesado antes de viajar.",
+    "pronunciationNote": "preh-feh-REE-ah eh-vee-TAR AL-goo MWEEN-too peh-ZAH-doo",
+    "grammarFocus": "avoidance preference",
+    "notes": "Good for travel days.",
+    "exampleSentences": [
+      {
+        "portuguese": "Antes de viajar, prefiro comer coisas leves.",
+        "english": "Before travelling, I prefer to eat light things."
+      }
+    ],
+    "tags": ["travel-food", "health"]
+  },
+  {
+    "id": "02-fcr-b1b2-046",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Is there a local market nearby where we can eat something simple?",
+    "portuguese": "Há algum mercado aqui perto onde possamos comer qualquer coisa simples?",
+    "pronunciationNote": "ah al-GOOM mer-KAH-doo ah-KEE PER-too",
+    "grammarFocus": "location + purpose + subjunctive",
+    "notes": "Useful when asking locals for food advice.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queríamos um sítio simples e bom para almoçar.",
+        "english": "We wanted a simple and good place for lunch."
+      }
+    ],
+    "tags": ["travel-food", "market"]
+  },
+  {
+    "id": "02-fcr-b1b2-047",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind packing the sauce separately?",
+    "portuguese": "Importa-se de embalar o molho à parte?",
+    "pronunciationNote": "eem-POR-tah-sih d em-bah-LAR oo MOL-yoo ah PAR-t",
+    "grammarFocus": "polite takeaway request",
+    "notes": "Useful for takeaway orders.",
+    "exampleSentences": [
+      {
+        "portuguese": "Importa-se de pôr os molhos em separado?",
+        "english": "Would you mind putting the sauces separately?"
+      }
+    ],
+    "tags": ["takeaway", "customisation"]
+  },
+  {
+    "id": "02-fcr-b1b2-048",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We have already been waiting quite a while.",
+    "portuguese": "Já estamos à espera há bastante tempo.",
+    "pronunciationNote": "zhah esh-TAH-moosh ah ES-peh-rah ah bash-TAHN-t TEM-poo",
+    "grammarFocus": "duration complaint",
+    "notes": "Polite but clear service complaint.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, já estamos à espera há quase meia hora.",
+        "english": "Sorry, we have already been waiting almost half an hour."
+      }
+    ],
+    "tags": ["complaint", "service"]
+  },
+  {
+    "id": "02-fcr-b1b2-049",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could someone come to take our order?",
+    "portuguese": "Pode alguém vir tirar o nosso pedido?",
+    "pronunciationNote": "POH-d al-GAYNG veer tee-RAR oo NOS-soo peh-DEE-doo",
+    "grammarFocus": "service request",
+    "notes": "Useful when staff have not returned.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quando puder, pode vir levantar o pedido?",
+        "english": "When you can, could you come and take the order?"
+      }
+    ],
+    "tags": ["service", "restaurant"]
+  },
+  {
+    "id": "02-fcr-b1b2-050",
+    "subject": "Food, Cafes & Restaurants",
+    "subjectId": "food-cafes-restaurants",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Everything was delicious, we will definitely come back.",
+    "portuguese": "Estava tudo delicioso, vamos voltar de certeza.",
+    "pronunciationNote": "esh-TAH-vah TOO-doo deh-lee-see-OH-zoo",
+    "grammarFocus": "evaluation + future intention",
+    "notes": "Natural warm closing after a good meal.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostámos muito, havemos de voltar.",
+        "english": "We liked it a lot, we will come back."
+      }
+    ],
+    "tags": ["feedback", "closing"]
+  }
+]
