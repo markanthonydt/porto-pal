@@ -47,7 +47,7 @@ function ReviewCardPanel({ card, markCurrentCard, setShowAnswer, showAnswer }) {
         <p className="mt-2 text-sm text-slate-400">{card.notes}</p>
         <div className="mt-8 rounded-[1.5rem] border border-dashed border-white/15 bg-white/5 p-5">
           <p className="text-sm text-slate-400">English meaning</p>
-          <p className="mt-2 text-lg text-slate-100">{showAnswer ? card.english : 'Tap reveal to check yourself first.'}</p>
+          <p className="mt-2 text-lg text-slate-100">{showAnswer ? card.english : 'Tap reveal to check.'}</p>
         </div>
         {showAnswer ? (
           <div className="mt-4 rounded-[1.5rem] border border-white/10 bg-white/5 p-4">

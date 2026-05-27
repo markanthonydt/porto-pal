@@ -5,10 +5,24 @@ import {
   buildMultipleChoiceOptions,
   buildPromptConfig,
   buildReviewSetExerciseMap,
+  getAvailableLevelBands,
   modes,
 } from '../lib/flashcardSession';
 
 const CHUNK_RELOAD_KEY = 'porto-pal-chunk-reload-attempted';
+const LIBRARY_SELECTION_KEY = 'porto-pal-library-selection';
+
+function loadSavedSelection() {
+  if (typeof window === 'undefined') {
+    return {};
+  }
+
+  try {
+    return JSON.parse(window.localStorage.getItem(LIBRARY_SELECTION_KEY) || '{}');
+  } catch {
+    return {};
+  }
+}
 
 function shouldReloadForChunkError(error) {
   const message = String(error?.message || error || '');
@@ -21,9 +35,18 @@ function shouldReloadForChunkError(error) {
 
 export function useFlashcardSession() {
   const { ensureSetLoaded, flashcardSets, getCardStats, getLoadedSet, getSetSummary, markFlashcard, submitPractice, subjectCatalog } = useProgress();
-  const [subjectId, setSubjectId] = useState(subjectCatalog[0]?.id || '');
-  const [levelBand, setLevelBand] = useState('A1-A2');
-  const [mode, setMode] = useState('learn-new');
+  const [subjectId, setSubjectId] = useState(() => {
+    const saved = loadSavedSelection();
+    return saved.subjectId || subjectCatalog[0]?.id || '';
+  });
+  const [levelBand, setLevelBand] = useState(() => {
+    const saved = loadSavedSelection();
+    return saved.levelBand || 'A1-A2';
+  });
+  const [mode, setMode] = useState(() => {
+    const saved = loadSavedSelection();
+    return saved.mode || 'learn-new';
+  });
   const [showAnswer, setShowAnswer] = useState(false);
   const [index, setIndex] = useState(0);
   const [answer, setAnswer] = useState('');
@@ -35,6 +58,10 @@ export function useFlashcardSession() {
   const [loadError, setLoadError] = useState(null);
 
   const selectedSubject = subjectCatalog.find((subject) => subject.id === subjectId) || null;
+  const availableLevelBands = useMemo(
+    () => getAvailableLevelBands(flashcardSets, subjectId),
+    [flashcardSets, subjectId],
+  );
   const selectedSetDefinition = useMemo(
     () => flashcardSets.find((set) => set.subjectId === subjectId && set.levelBand === levelBand) || null,
     [flashcardSets, levelBand, subjectId],
@@ -43,12 +70,33 @@ export function useFlashcardSession() {
   const selectedSetMetrics = selectedSetDefinition ? getSetSummary(selectedSetDefinition.id) : null;
 
   useEffect(() => {
-    const subjectSets = flashcardSets.filter((set) => set.subjectId === subjectId);
-
-    if (!subjectSets.some((set) => set.levelBand === levelBand)) {
-      setLevelBand(subjectSets[0]?.levelBand || 'A1-A2');
+    if (!subjectCatalog.some((subject) => subject.id === subjectId)) {
+      setSubjectId(subjectCatalog[0]?.id || '');
     }
-  }, [flashcardSets, levelBand, subjectId]);
+  }, [subjectCatalog, subjectId]);
+
+  useEffect(() => {
+    if (!modes.some((entry) => entry.id === mode)) {
+      setMode('learn-new');
+    }
+  }, [mode]);
+
+  useEffect(() => {
+    if (!availableLevelBands.includes(levelBand)) {
+      setLevelBand(availableLevelBands[0] || 'A1-A2');
+    }
+  }, [availableLevelBands, levelBand]);
+
+  useEffect(() => {
+    if (!subjectId || !mode || !availableLevelBands.includes(levelBand)) {
+      return;
+    }
+
+    window.localStorage.setItem(
+      LIBRARY_SELECTION_KEY,
+      JSON.stringify({ subjectId, levelBand, mode }),
+    );
+  }, [availableLevelBands, levelBand, mode, subjectId]);
 
   useEffect(() => {
     let ignore = false;
@@ -235,6 +283,7 @@ export function useFlashcardSession() {
     deck,
     feedback,
     flashcardSets,
+    availableLevelBands,
     getCardStats,
     index,
     isLoadingSet,

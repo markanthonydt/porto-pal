@@ -29,12 +29,28 @@ export const modes = [
 ];
 
 export const levelBands = ['A1-A2', 'B1-B2'];
+const levelBandOrder = ['A1', 'A1-A2', 'A2', 'B1', 'B1-B2', 'B2'];
 export const reviewSetExerciseModes = [
   'multiple-choice-en-pt',
   'multiple-choice-pt-en',
   'translate-en-pt',
   'translate-pt-en',
 ];
+
+function compareLevelBands(left, right) {
+  const leftIndex = levelBandOrder.indexOf(left);
+  const rightIndex = levelBandOrder.indexOf(right);
+
+  return (leftIndex === -1 ? Number.MAX_SAFE_INTEGER : leftIndex) - (rightIndex === -1 ? Number.MAX_SAFE_INTEGER : rightIndex);
+}
+
+export function getAvailableLevelBands(flashcardSets, subjectId) {
+  return [...new Set(
+    flashcardSets
+      .filter((set) => set.subjectId === subjectId)
+      .map((set) => set.levelBand),
+  )].sort(compareLevelBands);
+}
 
 function shuffle(items) {
   return [...items].sort(() => Math.random() - 0.5);

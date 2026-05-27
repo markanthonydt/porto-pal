@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "01-gs-b1b2-001",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you introduce me to your colleagues?",
+    "portuguese": "Podia apresentar-me aos seus colegas?",
+    "pronunciationNote": "POH-dee-ah ah-preh-zen-TAR-mih awsh say-oosh koo-LEH-gash",
+    "grammarFocus": "polite request + reflexive pronoun",
+    "notes": "Useful in networking or workplace social situations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podia apresentar-me aos seus colegas depois da reunião?",
+        "english": "Could you introduce me to your colleagues after the meeting?"
+      }
+    ],
+    "tags": [
+      "social-basics",
+      "networking",
+      "polite-request"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-002",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I have heard a lot about you.",
+    "portuguese": "Já ouvi falar muito de si.",
+    "pronunciationNote": "ZHAH oh-VEE fah-LAR MWEEN-too dih see",
+    "grammarFocus": "present perfect + preposition",
+    "notes": "Polite comment when meeting someone.",
+    "exampleSentences": [
+      {
+        "portuguese": "Já ouvi falar muito de si no escritório.",
+        "english": "I have heard a lot about you at the office."
+      }
+    ],
+    "tags": [
+      "introduction",
+      "formal",
+      "comment"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-003",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It is great to finally meet in person.",
+    "portuguese": "É ótimo conhecê-lo finalmente pessoalmente.",
+    "pronunciationNote": "EH OH-tee-moo koo-nyeh-SEH-loo fee-nahl-MEN-t pesh-soo-al-MEN-t",
+    "grammarFocus": "object pronoun in formal greeting",
+    "notes": "Natural when moving from online to in-person contact.",
+    "exampleSentences": [
+      {
+        "portuguese": "É ótimo conhecê-la finalmente pessoalmente.",
+        "english": "It is great to finally meet you in person."
+      }
+    ],
+    "tags": [
+      "introduction",
+      "formal",
+      "pronoun"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-004",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Sorry for interrupting, but may I add something?",
+    "portuguese": "Desculpe interromper, mas posso acrescentar uma coisa?",
+    "pronunciationNote": "desh-KOOL-pih een-ter-rohm-PAIR",
+    "grammarFocus": "polite interruption",
+    "notes": "Useful in meetings and group conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe interromper, mas posso acrescentar um pormenor?",
+        "english": "Sorry for interrupting, but may I add one detail?"
+      }
+    ],
+    "tags": [
+      "conversation",
+      "politeness",
+      "meeting"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-005",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would you mind speaking a little more slowly?",
+    "portuguese": "Importa-se de falar um pouco mais devagar?",
+    "pronunciationNote": "eem-POR-tah-sih dih fah-LAR oom POH-koo mysh dev-ah-GAR",
+    "grammarFocus": "importar-se de + infinitive",
+    "notes": "Softer than a direct imperative.",
+    "exampleSentences": [
+      {
+        "portuguese": "Importa-se de repetir a última parte?",
+        "english": "Would you mind repeating the last part?"
+      }
+    ],
+    "tags": [
+      "request",
+      "formal",
+      "language"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-006",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I did not quite catch your name.",
+    "portuguese": "Não percebi bem o seu nome.",
+    "pronunciationNote": "nawh pair-seh-BEE bayn oo say-oo NOH-m",
+    "grammarFocus": "past tense + formal possessive",
+    "notes": "Useful when meeting someone new.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, não percebi bem o seu apelido.",
+        "english": "Sorry, I did not quite catch your surname."
+      }
+    ],
+    "tags": [
+      "comprehension",
+      "formal",
+      "past"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-007",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "How should I address you?",
+    "portuguese": "Como devo tratá-lo?",
+    "pronunciationNote": "KOH-moo DEH-voo trah-TAH-loo",
+    "grammarFocus": "dever + object pronoun",
+    "notes": "Useful for formal relationships.",
+    "exampleSentences": [
+      {
+        "portuguese": "Como devo tratá-la em contexto profissional?",
+        "english": "How should I address you in a professional context?"
+      }
+    ],
+    "tags": [
+      "formality",
+      "pronoun",
+      "question"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-008",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Please feel free to call me Ana.",
+    "portuguese": "Pode tratar-me por Ana.",
+    "pronunciationNote": "POH-dih trah-TAR-mih poor AH-nah",
+    "grammarFocus": "treat/call someone as",
+    "notes": "Natural way to reduce formality.",
+    "exampleSentences": [
+      {
+        "portuguese": "Pode tratar-me por tu, se quiser.",
+        "english": "You can address me with tu, if you want."
+      }
+    ],
+    "tags": [
+      "formality",
+      "relationship"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-009",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to be a bother.",
+    "portuguese": "Não quero incomodar.",
+    "pronunciationNote": "nawh KEH-roo een-koh-moo-DAR",
+    "grammarFocus": "polite softening",
+    "notes": "Useful before asking for help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero incomodar, mas precisava de ajuda.",
+        "english": "I do not want to be a bother, but I needed help."
+      }
+    ],
+    "tags": [
+      "politeness",
+      "softening"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-010",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would this be a good time to talk?",
+    "portuguese": "Será que agora lhe dá jeito falar?",
+    "pronunciationNote": "seh-RAH kah ah-GOH-rah lyi dah ZHAY-too fah-LAR",
+    "grammarFocus": "dar jeito + indirect object",
+    "notes": "Very natural European Portuguese scheduling phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Queria saber se lhe dÉ jeito reunir amanhã.",
+        "english": "I wanted to know if tomorrow works for you to meet."
+      }
+    ],
+    "tags": [
+      "scheduling",
+      "natural-expression"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-011",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am sorry if I expressed myself badly.",
+    "portuguese": "Peço desculpa se me expressei mal.",
+    "pronunciationNote": "PEH-soh desh-KOOL-pah si mih ex-pruh-SAY MAHL",
+    "grammarFocus": "subjunctive-related apology frame",
+    "notes": "Useful after a misunderstanding.",
+    "exampleSentences": [
+      {
+        "portuguese": "Peço desculpa se me expressei mal há pouco.",
+        "english": "I am sorry if I expressed myself badly a moment ago."
+      }
+    ],
+    "tags": [
+      "apology",
+      "clarification"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-012",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That came out the wrong way.",
+    "portuguese": "Isso saiu-me mal.",
+    "pronunciationNote": "EE-soh sah-YOO-mih MAHL",
+    "grammarFocus": "indirect object pronoun",
+    "notes": "Natural self-correction phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não era isso que queria dizer; saiu-me mal.",
+        "english": "That was not what I meant; it came out wrong."
+      }
+    ],
+    "tags": [
+      "conversation",
+      "self-correction"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-013",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "What I meant was...",
+    "portuguese": "O que eu queria dizer era...",
+    "pronunciationNote": "oo kih ew keh-REE-ah dih-ZEHR EH-rah",
+    "grammarFocus": "imperfect for intention",
+    "notes": "Useful for clarification and repair.",
+    "exampleSentences": [
+      {
+        "portuguese": "O que eu queria dizer era que ainda não decidi.",
+        "english": "What I meant was that I still have not decided."
+      }
+    ],
+    "tags": [
+      "clarification",
+      "conversation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-014",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If I understood correctly, you are suggesting that...",
+    "portuguese": "Se percebi bem, está a sugerir que...",
+    "pronunciationNote": "sih pair-seh-BEE bayn esh-TAH ah soo-zheh-REER kih",
+    "grammarFocus": "reported understanding",
+    "notes": "Useful for confirming meaning in discussion.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se percebi bem, está a dizer que devemos esperar.",
+        "english": "If I understood correctly, you are saying that we should wait."
+      }
+    ],
+    "tags": [
+      "clarification",
+      "discussion"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-015",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could you explain that in another way?",
+    "portuguese": "Podia explicar isso de outra maneira?",
+    "pronunciationNote": "POH-dee-ah ex-plee-KAR EE-soo dih OH-trah muh-NYAY-rah",
+    "grammarFocus": "polite reformulation request",
+    "notes": "Better than simply asking to repeat.",
+    "exampleSentences": [
+      {
+        "portuguese": "Podia explicar isso com um exemplo?",
+        "english": "Could you explain that with an example?"
+      }
+    ],
+    "tags": [
+      "language",
+      "request",
+      "reformulation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-016",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am not used to such directness.",
+    "portuguese": "Não estou habituado a tanta frontalidade.",
+    "pronunciationNote": "nawh esh-TOH ah-bee-too-AH-doo ah TAHN-tah frohn-tah-lee-DAH-d",
+    "grammarFocus": "estar habituado a",
+    "notes": "Social nuance and cultural adjustment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda não estou habituado a reuniões tão informais.",
+        "english": "I am still not used to such informal meetings."
+      }
+    ],
+    "tags": [
+      "culture",
+      "social-nuance"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-017",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "People here usually greet each other with two kisses.",
+    "portuguese": "Aqui costuma cumprimentar-se com dois beijinhos.",
+    "pronunciationNote": "ah-KEE koosh-TOO-mah koom-pree-men-TAR-sih kohm doysh bay-ZHEEN-yoosh",
+    "grammarFocus": "impersonal social custom",
+    "notes": "Cultural social explanation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Em contexto informal, costuma cumprimentar-se assim.",
+        "english": "In informal settings, people usually greet each other like that."
+      }
+    ],
+    "tags": [
+      "culture",
+      "social-custom"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-018",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I do not want to sound rude.",
+    "portuguese": "Não quero soar mal-educado.",
+    "pronunciationNote": "nawh KEH-roo soh-AR mahl-ed-oo-KAH-doo",
+    "grammarFocus": "infinitive after querer",
+    "notes": "Useful before disagreeing or declining.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não quero soar mal-educado, mas não concordo.",
+        "english": "I do not want to sound rude, but I do not agree."
+      }
+    ],
+    "tags": [
+      "politeness",
+      "disagreement"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-019",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thank you for making me feel so welcome.",
+    "portuguese": "Obrigado por me fazer sentir tão bem recebido.",
+    "pronunciationNote": "oh-bree-GAH-doo poor mih fah-ZEHR sen-TEER tawh bayn reh-seh-BEE-doo",
+    "grammarFocus": "causative structure",
+    "notes": "Social warmth phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Obrigado por me fazer sentir em casa.",
+        "english": "Thank you for making me feel at home."
+      }
+    ],
+    "tags": [
+      "hospitality",
+      "gratitude"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-020",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Let me know if I am getting too personal.",
+    "portuguese": "Diga-me se estou a ser demasiado pessoal.",
+    "pronunciationNote": "DEE-gah-mih si esh-TOH ah sair deh-mah-ZYAH-doo pesh-soo-AL",
+    "grammarFocus": "progressive + social sensitivity",
+    "notes": "Useful in deeper conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se preferir, mudamos de assunto.",
+        "english": "If you prefer, we can change the subject."
+      }
+    ],
+    "tags": [
+      "conversation",
+      "sensitivity"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-021",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather not talk about that right now.",
+    "portuguese": "Preferia não falar disso agora.",
+    "pronunciationNote": "preh-feh-REE-ah nawh fah-LAR DEE-soo ah-GOH-rah",
+    "grammarFocus": "conditional politeness",
+    "notes": "Soft refusal in conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desculpe, preferia deixar esse assunto para depois.",
+        "english": "Sorry, I would rather leave that topic for later."
+      }
+    ],
+    "tags": [
+      "boundaries",
+      "politeness"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-022",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "No offence, but I see it differently.",
+    "portuguese": "Sem querer ofender, vejo isso de outra forma.",
+    "pronunciationNote": "sayng keh-RER oh-fen-DER VEH-zhoo EE-soo dih OH-trah FOR-mah",
+    "grammarFocus": "soft disagreement",
+    "notes": "Useful to disagree without escalating.",
+    "exampleSentences": [
+      {
+        "portuguese": "Sem querer contrariar, não me parece a melhor solução.",
+        "english": "Without wanting to contradict you, it does not seem like the best solution to me."
+      }
+    ],
+    "tags": [
+      "disagreement",
+      "politeness"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-023",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I can see where you are coming from.",
+    "portuguese": "Percebo o seu ponto de vista.",
+    "pronunciationNote": "pair-SEH-boo oo say-oo PON-too dih VEESH-tah",
+    "grammarFocus": "agreement framing",
+    "notes": "Useful before partial disagreement.",
+    "exampleSentences": [
+      {
+        "portuguese": "Percebo o seu ponto de vista, mas tenho reservas.",
+        "english": "I see your point of view, but I have reservations."
+      }
+    ],
+    "tags": [
+      "discussion",
+      "empathy"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-024",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am still finding my feet in Portuguese social situations.",
+    "portuguese": "Ainda me estou a adaptar às situações sociais em português.",
+    "pronunciationNote": "ine-DAH mih esh-TOH ah ah-dap-TAR az see-too-ah-SOYNsh",
+    "grammarFocus": "progressive adaptation phrase",
+    "notes": "Natural way to describe adjustment.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda me estou a adaptar ao ritmo das conversas.",
+        "english": "I am still adapting to the pace of conversations."
+      }
+    ],
+    "tags": [
+      "culture",
+      "adaptation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-025",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Would it be all right if I joined you?",
+    "portuguese": "Importa-se que me junte a vocês?",
+    "pronunciationNote": "eem-POR-tah-sih kih mih ZHOON-t ah voh-SAYSH",
+    "grammarFocus": "subjunctive trigger",
+    "notes": "Useful in group social settings.",
+    "exampleSentences": [
+      {
+        "portuguese": "Importam-se que me sente aqui?",
+        "english": "Do you mind if I sit here?"
+      }
+    ],
+    "tags": [
+      "social-basics",
+      "group",
+      "polite-request"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-026",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I hope I am not interrupting anything important.",
+    "portuguese": "Espero não estar a interromper nada importante.",
+    "pronunciationNote": "esh-PEH-roo nawh esh-TAR ah een-ter-rohm-PAIR NAH-dah eem-poor-TAHN-t",
+    "grammarFocus": "progressive interruption phrase",
+    "notes": "Useful when entering a conversation or office.",
+    "exampleSentences": [
+      {
+        "portuguese": "Espero não estar a incomodar.",
+        "english": "I hope I am not disturbing you."
+      }
+    ],
+    "tags": [
+      "politeness",
+      "entry"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-027",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That is very kind of you.",
+    "portuguese": "Isso é muito simpático da sua parte.",
+    "pronunciationNote": "EE-soo eh MWEEN-too seem-PAH-tee-koo dah SOO-ah PAR-t",
+    "grammarFocus": "social appreciation",
+    "notes": "Natural response to offers or help.",
+    "exampleSentences": [
+      {
+        "portuguese": "Foi muito simpático da sua parte vir buscar-me.",
+        "english": "It was very kind of you to come get me."
+      }
+    ],
+    "tags": [
+      "gratitude",
+      "social"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-028",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I really appreciate your patience.",
+    "portuguese": "Agradeço-lhe imenso a paciência.",
+    "pronunciationNote": "ah-grah-DEH-soo-lyi ee-MEN-soo ah pah-see-EN-see-ah",
+    "grammarFocus": "indirect object with agradecer",
+    "notes": "Higher-register gratitude.",
+    "exampleSentences": [
+      {
+        "portuguese": "Agradeço-lhe a compreensão.",
+        "english": "I appreciate your understanding."
+      }
+    ],
+    "tags": [
+      "gratitude",
+      "formal"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-029",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I am glad we had this conversation.",
+    "portuguese": "Ainda bem que tivemos esta conversa.",
+    "pronunciationNote": "ine-DAH bayn kih tee-VEH-moosh ESH-tah kon-VER-sah",
+    "grammarFocus": "fixed expression + past tense",
+    "notes": "Useful at the end of meaningful conversations.",
+    "exampleSentences": [
+      {
+        "portuguese": "Ainda bem que falámos disto hoje.",
+        "english": "I am glad we talked about this today."
+      }
+    ],
+    "tags": [
+      "closing",
+      "conversation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-030",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "It means a lot to me that you came.",
+    "portuguese": "Significa muito para mim que tenha vindo.",
+    "pronunciationNote": "seeg-nee-FEE-kah MWEEN-too pah-rah meem kih TEN-yah VEEN-doo",
+    "grammarFocus": "subjunctive perfect in emotional statement",
+    "notes": "More advanced emotional expression.",
+    "exampleSentences": [
+      {
+        "portuguese": "Significa muito para nós que esteja aqui.",
+        "english": "It means a lot to us that you are here."
+      }
+    ],
+    "tags": [
+      "emotion",
+      "subjunctive"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-031",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I did not want to put you on the spot.",
+    "portuguese": "Não o queria pôr numa situação desconfortável.",
+    "pronunciationNote": "nawh oo keh-REE-ah PORR NOO-mah see-too-ah-SAWN desh-kohn-foor-TAH-vel",
+    "grammarFocus": "object pronoun + imperfect intention",
+    "notes": "Useful after an awkward question.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não a queria deixar sem resposta.",
+        "english": "I did not want to leave you without an answer."
+      }
+    ],
+    "tags": [
+      "social-sensitivity",
+      "pronoun"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-032",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thank you for being so straightforward.",
+    "portuguese": "Obrigado por ser tão direto.",
+    "pronunciationNote": "oh-bree-GAH-doo poor sair tawh dee-REH-too",
+    "grammarFocus": "social style comment",
+    "notes": "Can be positive in honest conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gosto quando as pessoas são diretas comigo.",
+        "english": "I like when people are straightforward with me."
+      }
+    ],
+    "tags": [
+      "feedback",
+      "social-style"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-033",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Perhaps we got off on the wrong foot.",
+    "portuguese": "Se calhar começámos com o pé esquerdo.",
+    "pronunciationNote": "sih kah-LYAR koh-meh-SAH-moosh kohm oo PEH esh-KER-doo",
+    "grammarFocus": "idiomatic social repair",
+    "notes": "Useful after a tense start.",
+    "exampleSentences": [
+      {
+        "portuguese": "Mas ainda vamos a tempo de esclarecer isso.",
+        "english": "But we still have time to clear that up."
+      }
+    ],
+    "tags": [
+      "idiom",
+      "relationship-repair"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-034",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Let us start over.",
+    "portuguese": "Vamos começar de novo.",
+    "pronunciationNote": "VAH-moosh koh-meh-SAR dih NOH-voo",
+    "grammarFocus": "reset phrase",
+    "notes": "Short phrase for social repair.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se quiser, vamos começar de novo.",
+        "english": "If you want, let us start over."
+      }
+    ],
+    "tags": [
+      "relationship-repair",
+      "simple"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-035",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "You are always welcome at our place.",
+    "portuguese": "Será sempre bem-vindo em nossa casa.",
+    "pronunciationNote": "seh-RAH SEM-pr bayn-VEEN-doo ayn NOS-sah KAH-zah",
+    "grammarFocus": "future + hospitality formula",
+    "notes": "Warm invitation phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Serão sempre bem-vindos quando vierem ao Porto.",
+        "english": "You will always be welcome when you come to Porto."
+      }
+    ],
+    "tags": [
+      "hospitality",
+      "invitation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-036",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "If you need anything, do not hesitate to say so.",
+    "portuguese": "Se precisar de alguma coisa, não hesite em dizer.",
+    "pronunciationNote": "sih preh-see-ZAR dih al-GOO-mah KOY-zah naw eh-ZHEE-t em dih-ZEHR",
+    "grammarFocus": "formal conditional support",
+    "notes": "Service and hosting phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Se precisarem de alguma coisa, avisem.",
+        "english": "If you need anything, let me know."
+      }
+    ],
+    "tags": [
+      "support",
+      "formal"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-037",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would love to keep in touch.",
+    "portuguese": "Gostava de manter o contacto.",
+    "pronunciationNote": "gosh-TAH-vah dih mahn-TEHR oo kohn-TAH-too",
+    "grammarFocus": "conditional desire",
+    "notes": "Useful after meeting people.",
+    "exampleSentences": [
+      {
+        "portuguese": "Gostava de manter o contacto depois deste projeto.",
+        "english": "I would love to keep in touch after this project."
+      }
+    ],
+    "tags": [
+      "networking",
+      "future"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-038",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Shall we exchange numbers?",
+    "portuguese": "Quer trocar números?",
+    "pronunciationNote": "kehr troh-KAR NOO-meh-roosh",
+    "grammarFocus": "practical social follow-up",
+    "notes": "Useful after a new connection.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quer trocar contactos antes de ir embora?",
+        "english": "Do you want to exchange contacts before leaving?"
+      }
+    ],
+    "tags": [
+      "networking",
+      "practical"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-039",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I did not mean to sound dismissive.",
+    "portuguese": "Não queria parecer desvalorizador.",
+    "pronunciationNote": "nawh keh-REE-ah pah-reh-SAYR desh-vah-loo-ree-zah-DOR",
+    "grammarFocus": "imperfect intention",
+    "notes": "Useful after unintended tone issues.",
+    "exampleSentences": [
+      {
+        "portuguese": "Não era minha intenção parecer fria.",
+        "english": "It was not my intention to seem cold."
+      }
+    ],
+    "tags": [
+      "tone",
+      "clarification"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-040",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I appreciate your honesty, even if it is difficult to hear.",
+    "portuguese": "Aprecio a sua honestidade, mesmo que seja difícil ouvir isso.",
+    "pronunciationNote": "ah-preh-SEE-oo ah SOO-ah oh-nesh-tee-DAH-d",
+    "grammarFocus": "subjunctive with mesmo que",
+    "notes": "Advanced interpersonal phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Aprecio a sinceridade, embora custe um pouco.",
+        "english": "I appreciate the sincerity, although it is a bit hard."
+      }
+    ],
+    "tags": [
+      "emotion",
+      "advanced-discussion"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-041",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Could we leave that conversation for another day?",
+    "portuguese": "Podemos deixar essa conversa para outro dia?",
+    "pronunciationNote": "poo-DEH-moosh day-SHAR EH-sah kon-VER-sah pah-rah OH-troo DEE-ah",
+    "grammarFocus": "soft postponement",
+    "notes": "Useful to manage social timing.",
+    "exampleSentences": [
+      {
+        "portuguese": "Hoje não É a melhor altura para falarmos disso.",
+        "english": "Today is not the best time for us to talk about that."
+      }
+    ],
+    "tags": [
+      "boundaries",
+      "scheduling"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-042",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I was under the impression that...",
+    "portuguese": "Fiquei com a ideia de que...",
+    "pronunciationNote": "fee-KAY kohm ah ee-DAY-ah dih kih",
+    "grammarFocus": "reported interpretation",
+    "notes": "Natural phrase before clarification.",
+    "exampleSentences": [
+      {
+        "portuguese": "Fiquei com a ideia de que o encontro era amanhã.",
+        "english": "I was under the impression that the meeting was tomorrow."
+      }
+    ],
+    "tags": [
+      "clarification",
+      "misunderstanding"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-043",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Maybe I misunderstood the tone.",
+    "portuguese": "Se calhar interpretei mal o tom.",
+    "pronunciationNote": "sih kah-LYAR een-ter-preh-TAY MAHL oo tohm",
+    "grammarFocus": "past tense social interpretation",
+    "notes": "Useful in repairing friction.",
+    "exampleSentences": [
+      {
+        "portuguese": "Posso ter interpretado mal o que quis dizer.",
+        "english": "I may have misunderstood what you meant."
+      }
+    ],
+    "tags": [
+      "misunderstanding",
+      "tone"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-044",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "Thanks for being so welcoming from the start.",
+    "portuguese": "Obrigado por ter sido tão acolhedor desde o início.",
+    "pronunciationNote": "oh-bree-GAH-doo poor tair SEE-doo tawh ah-koh-lyeh-DOR dezh-d oo ee-NEE-see-oo",
+    "grammarFocus": "perfect infinitive gratitude",
+    "notes": "Higher-register social appreciation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Desde o primeiro dia, senti-me bem recebido.",
+        "english": "From the first day, I felt well received."
+      }
+    ],
+    "tags": [
+      "gratitude",
+      "hospitality"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-045",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I felt completely at ease with you.",
+    "portuguese": "Senti-me completamente à vontade consigo.",
+    "pronunciationNote": "sen-TEE-mih kohm-pleh-tah-MEN-t ah vohn-TAH-d kohm-SEE-goo",
+    "grammarFocus": "reflexive feeling phrase",
+    "notes": "Natural relationship-building phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Com vocês senti-me logo à vontade.",
+        "english": "With you all I felt at ease right away."
+      }
+    ],
+    "tags": [
+      "emotion",
+      "relationship"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-046",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I did not expect the conversation to become so personal.",
+    "portuguese": "Não estava à espera de que a conversa se tornasse tão pessoal.",
+    "pronunciationNote": "nawh esh-TAH-vah ah ES-peh-rah dih kih ah kon-VER-sah si toor-NAH-sih tawh pesh-soo-AL",
+    "grammarFocus": "estar à espera de + subjunctive",
+    "notes": "Advanced conversation management.",
+    "exampleSentences": [
+      {
+        "portuguese": "A conversa acabou por ficar muito intensa.",
+        "english": "The conversation ended up becoming very intense."
+      }
+    ],
+    "tags": [
+      "conversation",
+      "advanced"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-047",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "That topic can be sensitive for some people.",
+    "portuguese": "Esse assunto pode ser delicado para algumas pessoas.",
+    "pronunciationNote": "EH-s ah-SOON-too POH-dih sair deh-lee-KAH-doo",
+    "grammarFocus": "hedging and sensitivity",
+    "notes": "Useful in social navigation.",
+    "exampleSentences": [
+      {
+        "portuguese": "É melhor abordá-lo com cuidado.",
+        "english": "It is better to approach it carefully."
+      }
+    ],
+    "tags": [
+      "sensitivity",
+      "social"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-048",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I would rather listen first before giving an opinion.",
+    "portuguese": "Prefiro ouvir primeiro antes de dar uma opinião.",
+    "pronunciationNote": "preh-FEE-roo oo-VEER pree-MAY-roo AHN-tish dih dar OO-mah oh-pee-NYAWN",
+    "grammarFocus": "preference + sequencing",
+    "notes": "Useful in new groups or tense discussions.",
+    "exampleSentences": [
+      {
+        "portuguese": "Quero perceber melhor o contexto antes de falar.",
+        "english": "I want to understand the context better before speaking."
+      }
+    ],
+    "tags": [
+      "discussion",
+      "preference"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-049",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "We seem to have a lot in common.",
+    "portuguese": "Parece que temos muito em comum.",
+    "pronunciationNote": "pah-REH-s kih TEH-moosh MWEEN-too ayn koh-MOOM",
+    "grammarFocus": "social connection phrase",
+    "notes": "Natural in friendly conversation.",
+    "exampleSentences": [
+      {
+        "portuguese": "Parece que temos gostos parecidos.",
+        "english": "It seems we have similar tastes."
+      }
+    ],
+    "tags": [
+      "connection",
+      "conversation"
+    ],
+    "subjectId": "greetings-social"
+  },
+  {
+    "id": "01-gs-b1b2-050",
+    "subject": "Greetings & Social Basics",
+    "levelBand": "B1-B2",
+    "cardType": "phrase",
+    "english": "I left the conversation feeling much lighter.",
+    "portuguese": "Saí da conversa a sentir-me muito mais leve.",
+    "pronunciationNote": "sah-EE dah kon-VER-sah ah sen-TEER-mih MWEEN-too mysh LEH-v",
+    "grammarFocus": "progressive result expression",
+    "notes": "Advanced social reflection phrase.",
+    "exampleSentences": [
+      {
+        "portuguese": "Foi bom esclarecer tudo com calma.",
+        "english": "It was good to clear everything up calmly."
+      }
+    ],
+    "tags": [
+      "reflection",
+      "emotion"
+    ],
+    "subjectId": "greetings-social"
+  }
+]

@@ -18,8 +18,10 @@ import grammarA1A2 from './09_grammar_verbs_patterns_a1_a2.json';
 import grammarB1B2 from './09_grammar_verbs_patterns_b1_b2.json';
 import cultureA1A2 from './10_culture_media_conversation_a1_a2.json';
 import cultureB1B2 from './10_culture_media_conversation_b1_b2.json';
-import conversationA1A2 from './11_everyday_conversation_tools_a1_a2.json';
-import conversationB1B2 from './11_everyday_conversation_tools_b1_b2.json';
+import conversationA1 from './11_everyday_conversation_tools_a1.json';
+import conversationA2 from './11_everyday_conversation_tools_a2.json';
+import conversationB1 from './11_everyday_conversation_tools_b1.json';
+import conversationB2 from './11_everyday_conversation_tools_b2.json';
 import timeA1A2 from './12_time_dates_scheduling_a1_a2.json';
 import timeB1B2 from './12_time_dates_scheduling_b1_b2.json';
 import transportTransitA1A2 from './13_transport_public_transit_a1_a2.json';
@@ -236,20 +238,36 @@ const flashcardSetSources = [
     cards: cultureB1B2,
   },
   {
-    id: '11_everyday_conversation_tools_a1_a2',
+    id: '11_everyday_conversation_tools_a1',
     subjectId: 'everyday-conversation-tools',
     subject: 'Everyday Conversation Tools',
-    levelBand: 'A1-A2',
-    cardCount: 50,
-    cards: conversationA1A2,
+    levelBand: 'A1',
+    cardCount: 30,
+    cards: conversationA1,
   },
   {
-    id: '11_everyday_conversation_tools_b1_b2',
+    id: '11_everyday_conversation_tools_a2',
     subjectId: 'everyday-conversation-tools',
     subject: 'Everyday Conversation Tools',
-    levelBand: 'B1-B2',
-    cardCount: 50,
-    cards: conversationB1B2,
+    levelBand: 'A2',
+    cardCount: 30,
+    cards: conversationA2,
+  },
+  {
+    id: '11_everyday_conversation_tools_b1',
+    subjectId: 'everyday-conversation-tools',
+    subject: 'Everyday Conversation Tools',
+    levelBand: 'B1',
+    cardCount: 30,
+    cards: conversationB1,
+  },
+  {
+    id: '11_everyday_conversation_tools_b2',
+    subjectId: 'everyday-conversation-tools',
+    subject: 'Everyday Conversation Tools',
+    levelBand: 'B2',
+    cardCount: 30,
+    cards: conversationB2,
   },
   {
     id: '12_time_dates_scheduling_a1_a2',

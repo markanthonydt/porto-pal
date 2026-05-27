@@ -1,10 +1,10 @@
-import { levelBands, modes } from '../../lib/flashcardSession';
+import { modes } from '../../lib/flashcardSession';
 
 function SetSummaryCard({ selectedSetDefinition, selectedSetMetrics, selectedSubject, setMode }) {
   if (!selectedSetDefinition || !selectedSetMetrics) {
     return (
       <div className="mt-6 rounded-[1.75rem] border border-dashed border-white/15 bg-slate-950/25 p-5 text-sm text-slate-300">
-        This subject has no JSON set files yet. Add the two level-band files and the index entry to activate it.
+        This subject has no JSON set files yet. Add the level files and the index entry to activate it.
       </div>
     );
   }
@@ -59,6 +59,7 @@ function SetSummaryCard({ selectedSetDefinition, selectedSetMetrics, selectedSub
 
 export default function FlashcardLibraryPanel({
   flashcardSets,
+  availableLevelBands,
   levelBand,
   mode,
   selectedSetDefinition,
@@ -78,7 +79,7 @@ export default function FlashcardLibraryPanel({
       <div className="mt-6 grid gap-3">
         <p className="text-xs uppercase tracking-[0.25em] text-slate-500">1. Choose level</p>
         <div className="grid grid-cols-2 gap-3">
-          {levelBands.map((option) => {
+          {availableLevelBands.map((option) => {
             const exists = flashcardSets.some((set) => set.subjectId === subjectId && set.levelBand === option);
 
             return (

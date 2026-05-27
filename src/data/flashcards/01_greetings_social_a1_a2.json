@@ -1,1105 +1,1105 @@
-[
-  {
-    "id": "01-gs-a1a2-001",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Hello.",
-    "portuguese": "Olá.",
-    "pronunciationNote": "oh-LAH",
-    "grammarFocus": "basic greeting",
-    "notes": "Neutral all-purpose greeting.",
-    "exampleSentences": [
-      {
-        "portuguese": "Olá, tudo bem?",
-        "english": "Hello, all good?"
-      }
-    ],
-    "tags": [
-      "greeting",
-      "social-basics",
-      "starter"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-002",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Good morning.",
-    "portuguese": "Bom dia.",
-    "pronunciationNote": "bohn DEE-ah",
-    "grammarFocus": "time-based greeting",
-    "notes": "Used until lunch time.",
-    "exampleSentences": [
-      {
-        "portuguese": "Bom dia, está tudo bem?",
-        "english": "Good morning, is everything okay?"
-      }
-    ],
-    "tags": [
-      "greeting",
-      "morning"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-003",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Good afternoon.",
-    "portuguese": "Boa tarde.",
-    "pronunciationNote": "BOH-ah TAR-dj",
-    "grammarFocus": "time-based greeting",
-    "notes": "Common from lunch until evening.",
-    "exampleSentences": [
-      {
-        "portuguese": "Boa tarde, queria falar consigo.",
-        "english": "Good afternoon, I wanted to speak with you."
-      }
-    ],
-    "tags": [
-      "greeting",
-      "afternoon"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-004",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Good evening.",
-    "portuguese": "Boa noite.",
-    "pronunciationNote": "BOH-ah NOYT",
-    "grammarFocus": "time-based greeting",
-    "notes": "Also used for good night depending on context.",
-    "exampleSentences": [
-      {
-        "portuguese": "Boa noite, até amanhã.",
-        "english": "Good evening, see you tomorrow."
-      }
-    ],
-    "tags": [
-      "greeting",
-      "evening"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-005",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Goodbye.",
-    "portuguese": "Adeus.",
-    "pronunciationNote": "ah-DAY-oosh",
-    "grammarFocus": "leave-taking",
-    "notes": "More final than até logo.",
-    "exampleSentences": [
-      {
-        "portuguese": "Adeus e boa viagem.",
-        "english": "Goodbye and have a good trip."
-      }
-    ],
-    "tags": [
-      "goodbye",
-      "social-basics"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-006",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "See you later.",
-    "portuguese": "Até logo.",
-    "pronunciationNote": "ah-TEH LOH-goo",
-    "grammarFocus": "leave-taking",
-    "notes": "Friendly, common goodbye.",
-    "exampleSentences": [
-      {
-        "portuguese": "Até logo, volto já.",
-        "english": "See you later, I will be right back."
-      }
-    ],
-    "tags": [
-      "goodbye",
-      "common"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-007",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "See you tomorrow.",
-    "portuguese": "Até amanhã.",
-    "pronunciationNote": "ah-TEH ah-ma-NYAH",
-    "grammarFocus": "future leave-taking",
-    "notes": "Used when you expect to meet the next day.",
-    "exampleSentences": [
-      {
-        "portuguese": "Até amanhã na aula.",
-        "english": "See you tomorrow in class."
-      }
-    ],
-    "tags": [
-      "goodbye",
-      "time"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-008",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "How are you?",
-    "portuguese": "Como está?",
-    "pronunciationNote": "KOH-moo esh-TAH",
-    "grammarFocus": "formal question",
-    "notes": "Polite form for one person.",
-    "exampleSentences": [
-      {
-        "portuguese": "Como está hoje?",
-        "english": "How are you today?"
-      }
-    ],
-    "tags": [
-      "question",
-      "formal"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-009",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "How are you?",
-    "portuguese": "Como estás?",
-    "pronunciationNote": "KOH-moo esh-TASH",
-    "grammarFocus": "informal question",
-    "notes": "Used with friends or younger people.",
-    "exampleSentences": [
-      {
-        "portuguese": "Como estás depois da viagem?",
-        "english": "How are you after the trip?"
-      }
-    ],
-    "tags": [
-      "question",
-      "informal"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-010",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am fine.",
-    "portuguese": "Estou bem.",
-    "pronunciationNote": "esh-TOH BAYN",
-    "grammarFocus": "basic response",
-    "notes": "Simple response to greetings.",
-    "exampleSentences": [
-      {
-        "portuguese": "Obrigado, estou bem.",
-        "english": "Thank you, I am fine."
-      }
-    ],
-    "tags": [
-      "response",
-      "starter"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-011",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Everything good?",
-    "portuguese": "Tudo bem?",
-    "pronunciationNote": "TOO-doo BAYN",
-    "grammarFocus": "casual question",
-    "notes": "Very common informal check-in.",
-    "exampleSentences": [
-      {
-        "portuguese": "Olá, tudo bem contigo?",
-        "english": "Hello, everything good with you?"
-      }
-    ],
-    "tags": [
-      "question",
-      "casual"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-012",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Everything is good.",
-    "portuguese": "Tudo bem.",
-    "pronunciationNote": "TOO-doo BAYN",
-    "grammarFocus": "casual response",
-    "notes": "Also works as a quick agreement.",
-    "exampleSentences": [
-      {
-        "portuguese": "Sim, está tudo bem.",
-        "english": "Yes, everything is fine."
-      }
-    ],
-    "tags": [
-      "response",
-      "casual"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-013",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Nice to meet you.",
-    "portuguese": "Muito prazer.",
-    "pronunciationNote": "MWEEN-too prah-ZEHR",
-    "grammarFocus": "introduction phrase",
-    "notes": "Short and natural in introductions.",
-    "exampleSentences": [
-      {
-        "portuguese": "Muito prazer, chamo-me Rita.",
-        "english": "Nice to meet you, my name is Rita."
-      }
-    ],
-    "tags": [
-      "introduction",
-      "polite"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-014",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "My name is Sofia.",
-    "portuguese": "Chamo-me Sofia.",
-    "pronunciationNote": "shah-moo-mih soo-FEE-ah",
-    "grammarFocus": "self-introduction",
-    "notes": "Common way to introduce yourself.",
-    "exampleSentences": [
-      {
-        "portuguese": "Olá, chamo-me Sofia.",
-        "english": "Hello, my name is Sofia."
-      }
-    ],
-    "tags": [
-      "introduction",
-      "identity"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-015",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "What is your name?",
-    "portuguese": "Como se chama?",
-    "pronunciationNote": "KOH-moo suh SHAH-mah",
-    "grammarFocus": "formal question",
-    "notes": "Polite way to ask someone's name.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, como se chama?",
-        "english": "Excuse me, what is your name?"
-      }
-    ],
-    "tags": [
-      "question",
-      "formal",
-      "identity"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-016",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Where are you from?",
-    "portuguese": "De onde é?",
-    "pronunciationNote": "dih ON-dj eh",
-    "grammarFocus": "origin question",
-    "notes": "Formal version for one person.",
-    "exampleSentences": [
-      {
-        "portuguese": "De onde é o senhor?",
-        "english": "Where are you from, sir?"
-      }
-    ],
-    "tags": [
-      "question",
-      "formal",
-      "origin"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-017",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am from England.",
-    "portuguese": "Sou de Inglaterra.",
-    "pronunciationNote": "soh dih een-gla-TEHR-rah",
-    "grammarFocus": "origin answer",
-    "notes": "Basic country origin statement.",
-    "exampleSentences": [
-      {
-        "portuguese": "Sou de Inglaterra, mas moro aqui.",
-        "english": "I am from England, but I live here."
-      }
-    ],
-    "tags": [
-      "answer",
-      "origin"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-018",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I live in Lisbon.",
-    "portuguese": "Moro em Lisboa.",
-    "pronunciationNote": "MOH-roo ayn leesh-BOH-ah",
-    "grammarFocus": "basic present",
-    "notes": "Used for where you live.",
-    "exampleSentences": [
-      {
-        "portuguese": "Moro em Lisboa há dois anos.",
-        "english": "I have lived in Lisbon for two years."
-      }
-    ],
-    "tags": [
-      "daily-life",
-      "location"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-019",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Do you speak English?",
-    "portuguese": "Fala inglês?",
-    "pronunciationNote": "FAH-lah een-GLAYSH",
-    "grammarFocus": "ability question",
-    "notes": "Useful for beginner survival Portuguese.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, fala inglês?",
-        "english": "Excuse me, do you speak English?"
-      }
-    ],
-    "tags": [
-      "question",
-      "language"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-020",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I only speak a little Portuguese.",
-    "portuguese": "Só falo um pouco de português.",
-    "pronunciationNote": "saw FAH-loh oom POH-koo dih poor-too-GAYSH",
-    "grammarFocus": "ability statement",
-    "notes": "Good beginner disclaimer.",
-    "exampleSentences": [
-      {
-        "portuguese": "Só falo um pouco de português ainda.",
-        "english": "I only speak a little Portuguese still."
-      }
-    ],
-    "tags": [
-      "language",
-      "beginner"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-021",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Please.",
-    "portuguese": "Por favor.",
-    "pronunciationNote": "poor fah-VOR",
-    "grammarFocus": "politeness marker",
-    "notes": "Basic courtesy word.",
-    "exampleSentences": [
-      {
-        "portuguese": "Um café, por favor.",
-        "english": "A coffee, please."
-      }
-    ],
-    "tags": [
-      "politeness",
-      "starter"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-022",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Thank you.",
-    "portuguese": "Obrigado.",
-    "pronunciationNote": "oh-bree-GAH-doo",
-    "grammarFocus": "politeness marker",
-    "notes": "Used by male speakers.",
-    "exampleSentences": [
-      {
-        "portuguese": "Obrigado pela ajuda.",
-        "english": "Thank you for the help."
-      }
-    ],
-    "tags": [
-      "politeness",
-      "male-form"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-023",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Thank you.",
-    "portuguese": "Obrigada.",
-    "pronunciationNote": "oh-bree-GAH-dah",
-    "grammarFocus": "politeness marker",
-    "notes": "Used by female speakers.",
-    "exampleSentences": [
-      {
-        "portuguese": "Obrigada pela informação.",
-        "english": "Thank you for the information."
-      }
-    ],
-    "tags": [
-      "politeness",
-      "female-form"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-024",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "You are welcome.",
-    "portuguese": "De nada.",
-    "pronunciationNote": "dih NAH-dah",
-    "grammarFocus": "response phrase",
-    "notes": "Basic reply to thank you.",
-    "exampleSentences": [
-      {
-        "portuguese": "Obrigado. De nada.",
-        "english": "Thank you. You're welcome."
-      }
-    ],
-    "tags": [
-      "response",
-      "politeness"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-025",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Excuse me.",
-    "portuguese": "Com licença.",
-    "pronunciationNote": "kohm lee-SEN-sah",
-    "grammarFocus": "attention-getter",
-    "notes": "Used to get past people or interrupt politely.",
-    "exampleSentences": [
-      {
-        "portuguese": "Com licença, esta cadeira está livre?",
-        "english": "Excuse me, is this chair free?"
-      }
-    ],
-    "tags": [
-      "politeness",
-      "movement"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-026",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Sorry.",
-    "portuguese": "Desculpe.",
-    "pronunciationNote": "desh-KOOL-pih",
-    "grammarFocus": "apology",
-    "notes": "Simple polite apology.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, não percebi.",
-        "english": "Sorry, I did not understand."
-      }
-    ],
-    "tags": [
-      "apology",
-      "starter"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-027",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "No problem.",
-    "portuguese": "Não faz mal.",
-    "pronunciationNote": "nawh fazh MAHL",
-    "grammarFocus": "reassurance",
-    "notes": "Used after a small issue or apology.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe pelo atraso. Não faz mal.",
-        "english": "Sorry for being late. No problem."
-      }
-    ],
-    "tags": [
-      "response",
-      "reassurance"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-028",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I do not understand.",
-    "portuguese": "Não percebo.",
-    "pronunciationNote": "nawh pair-SEH-boo",
-    "grammarFocus": "comprehension problem",
-    "notes": "European Portuguese commonly uses perceber here.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, não percebo.",
-        "english": "Sorry, I do not understand."
-      }
-    ],
-    "tags": [
-      "language",
-      "comprehension"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-029",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Can you repeat, please?",
-    "portuguese": "Pode repetir, por favor?",
-    "pronunciationNote": "POH-dih reh-peh-TEER",
-    "grammarFocus": "request phrase",
-    "notes": "Polite request for repetition.",
-    "exampleSentences": [
-      {
-        "portuguese": "Pode repetir mais devagar, por favor?",
-        "english": "Can you repeat more slowly, please?"
-      }
-    ],
-    "tags": [
-      "request",
-      "comprehension"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-030",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Please speak more slowly.",
-    "portuguese": "Fale mais devagar, por favor.",
-    "pronunciationNote": "FAH-lih mysh dev-ah-GAR",
-    "grammarFocus": "imperative polite request",
-    "notes": "Useful for listening support.",
-    "exampleSentences": [
-      {
-        "portuguese": "Fale mais devagar, por favor, ainda estou a aprender.",
-        "english": "Please speak more slowly, I am still learning."
-      }
-    ],
-    "tags": [
-      "request",
-      "language"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-031",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am learning Portuguese.",
-    "portuguese": "Estou a aprender português.",
-    "pronunciationNote": "esh-TOH ah ah-pren-DER poor-too-GAYSH",
-    "grammarFocus": "progressive form",
-    "notes": "European Portuguese prefers estar a + infinitive.",
-    "exampleSentences": [
-      {
-        "portuguese": "Estou a aprender português há pouco tempo.",
-        "english": "I have been learning Portuguese for a short time."
-      }
-    ],
-    "tags": [
-      "grammar",
-      "progressive"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-032",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Do you understand?",
-    "portuguese": "Percebe?",
-    "pronunciationNote": "pair-SEH-buh",
-    "grammarFocus": "check question",
-    "notes": "Formal singular check-in.",
-    "exampleSentences": [
-      {
-        "portuguese": "Percebe a diferença?",
-        "english": "Do you understand the difference?"
-      }
-    ],
-    "tags": [
-      "question",
-      "comprehension"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-033",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I understand a little.",
-    "portuguese": "Percebo um pouco.",
-    "pronunciationNote": "pair-SEH-boo oom POH-koo",
-    "grammarFocus": "limited comprehension",
-    "notes": "Natural partial understanding response.",
-    "exampleSentences": [
-      {
-        "portuguese": "Percebo um pouco, mas preciso de tempo.",
-        "english": "I understand a little, but I need time."
-      }
-    ],
-    "tags": [
-      "response",
-      "comprehension"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-034",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Welcome.",
-    "portuguese": "Bem-vindo.",
-    "pronunciationNote": "bayn VEEN-doo",
-    "grammarFocus": "hosting phrase",
-    "notes": "Masculine form; beginner hospitality phrase.",
-    "exampleSentences": [
-      {
-        "portuguese": "Bem-vindo a Lisboa.",
-        "english": "Welcome to Lisbon."
-      }
-    ],
-    "tags": [
-      "hospitality",
-      "male-form"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-035",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Welcome.",
-    "portuguese": "Bem-vinda.",
-    "pronunciationNote": "bayn VEEN-dah",
-    "grammarFocus": "hosting phrase",
-    "notes": "Feminine form.",
-    "exampleSentences": [
-      {
-        "portuguese": "Bem-vinda a nossa casa.",
-        "english": "Welcome to our home."
-      }
-    ],
-    "tags": [
-      "hospitality",
-      "female-form"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-036",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Come in, please.",
-    "portuguese": "Entre, por favor.",
-    "pronunciationNote": "EN-trih poor fah-VOR",
-    "grammarFocus": "polite imperative",
-    "notes": "Used when inviting someone inside.",
-    "exampleSentences": [
-      {
-        "portuguese": "Entre, por favor, a porta está aberta.",
-        "english": "Come in, please, the door is open."
-      }
-    ],
-    "tags": [
-      "hospitality",
-      "imperative"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-037",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Sit down, please.",
-    "portuguese": "Sente-se, por favor.",
-    "pronunciationNote": "SEN-tih-sih poor fah-VOR",
-    "grammarFocus": "polite imperative",
-    "notes": "Used in classrooms, offices, homes.",
-    "exampleSentences": [
-      {
-        "portuguese": "Sente-se, por favor, já venho.",
-        "english": "Sit down, please, I will be right back."
-      }
-    ],
-    "tags": [
-      "hospitality",
-      "imperative"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-038",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "See you soon.",
-    "portuguese": "Até já.",
-    "pronunciationNote": "ah-TEH ZHAH",
-    "grammarFocus": "brief leave-taking",
-    "notes": "Common when returning soon.",
-    "exampleSentences": [
-      {
-        "portuguese": "Vou ali e volto. Até já.",
-        "english": "I am going over there and coming back. See you soon."
-      }
-    ],
-    "tags": [
-      "goodbye",
-      "short-term"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-039",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "See you next time.",
-    "portuguese": "Até à próxima.",
-    "pronunciationNote": "ah-TEH ah PROHK-see-mah",
-    "grammarFocus": "future leave-taking",
-    "notes": "Friendly phrase after meetings or classes.",
-    "exampleSentences": [
-      {
-        "portuguese": "Foi bom falar consigo. Até à próxima.",
-        "english": "It was good to speak with you. See you next time."
-      }
-    ],
-    "tags": [
-      "goodbye",
-      "friendly"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-040",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Have a good day.",
-    "portuguese": "Tenha um bom dia.",
-    "pronunciationNote": "TEHN-yah oom bohn DEE-ah",
-    "grammarFocus": "polite wish",
-    "notes": "Formal and customer-facing.",
-    "exampleSentences": [
-      {
-        "portuguese": "Obrigado e tenha um bom dia.",
-        "english": "Thank you and have a good day."
-      }
-    ],
-    "tags": [
-      "politeness",
-      "service"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-041",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Good luck.",
-    "portuguese": "Boa sorte.",
-    "pronunciationNote": "BOH-ah SOR-t",
-    "grammarFocus": "social support",
-    "notes": "Common encouragement phrase.",
-    "exampleSentences": [
-      {
-        "portuguese": "Boa sorte no exame.",
-        "english": "Good luck on the exam."
-      }
-    ],
-    "tags": [
-      "support",
-      "social"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-042",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Congratulations.",
-    "portuguese": "Parabéns.",
-    "pronunciationNote": "pah-rah-BAYNSH",
-    "grammarFocus": "social support",
-    "notes": "Used for birthdays and achievements.",
-    "exampleSentences": [
-      {
-        "portuguese": "Parabéns pelo novo trabalho.",
-        "english": "Congratulations on the new job."
-      }
-    ],
-    "tags": [
-      "support",
-      "celebration"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-043",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Happy birthday.",
-    "portuguese": "Feliz aniversário.",
-    "pronunciationNote": "fuh-LEEZ ah-nee-ver-SAH-ree-oo",
-    "grammarFocus": "social routine",
-    "notes": "Common birthday greeting.",
-    "exampleSentences": [
-      {
-        "portuguese": "Feliz aniversário, que tenhas um bom dia.",
-        "english": "Happy birthday, I hope you have a good day."
-      }
-    ],
-    "tags": [
-      "celebration",
-      "birthday"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-044",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "What time is it?",
-    "portuguese": "Que horas são?",
-    "pronunciationNote": "kih OR-ash sawh",
-    "grammarFocus": "basic question",
-    "notes": "Useful social-basic survival question.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, que horas são?",
-        "english": "Excuse me, what time is it?"
-      }
-    ],
-    "tags": [
-      "question",
-      "daily-life"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-045",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am late.",
-    "portuguese": "Estou atrasado.",
-    "pronunciationNote": "esh-TOH ah-trah-ZAH-doo",
-    "grammarFocus": "social explanation",
-    "notes": "Masculine form for being late.",
-    "exampleSentences": [
-      {
-        "portuguese": "Desculpe, estou atrasado.",
-        "english": "Sorry, I am late."
-      }
-    ],
-    "tags": [
-      "daily-life",
-      "explanation"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-046",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am early.",
-    "portuguese": "Cheguei cedo.",
-    "pronunciationNote": "sheh-GAY SEH-doo",
-    "grammarFocus": "past event statement",
-    "notes": "Useful on arrival.",
-    "exampleSentences": [
-      {
-        "portuguese": "Hoje cheguei cedo ao trabalho.",
-        "english": "Today I arrived early at work."
-      }
-    ],
-    "tags": [
-      "daily-life",
-      "arrival"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-047",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I am busy today.",
-    "portuguese": "Hoje estou ocupado.",
-    "pronunciationNote": "OH-zjh esh-TOH oh-koo-PAH-doo",
-    "grammarFocus": "availability statement",
-    "notes": "Masculine form.",
-    "exampleSentences": [
-      {
-        "portuguese": "Hoje estou ocupado, mas amanhã posso.",
-        "english": "Today I am busy, but tomorrow I can."
-      }
-    ],
-    "tags": [
-      "availability",
-      "daily-life"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-048",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "I have time now.",
-    "portuguese": "Tenho tempo agora.",
-    "pronunciationNote": "TEH-nyoo TEM-poo ah-GOH-rah",
-    "grammarFocus": "availability statement",
-    "notes": "Simple social scheduling phrase.",
-    "exampleSentences": [
-      {
-        "portuguese": "Tenho tempo agora para falar.",
-        "english": "I have time now to talk."
-      }
-    ],
-    "tags": [
-      "availability",
-      "social"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-049",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "Can we speak later?",
-    "portuguese": "Podemos falar depois?",
-    "pronunciationNote": "poo-DEH-moosh fah-LAR duh-POYSH",
-    "grammarFocus": "arrangement question",
-    "notes": "Used for simple scheduling.",
-    "exampleSentences": [
-      {
-        "portuguese": "Agora não posso. Podemos falar depois?",
-        "english": "I can't now. Can we talk later?"
-      }
-    ],
-    "tags": [
-      "scheduling",
-      "question"
-    ],
-    "subjectId": "greetings-social"
-  },
-  {
-    "id": "01-gs-a1a2-050",
-    "subject": "Greetings & Social Basics",
-    "levelBand": "A1-A2",
-    "cardType": "phrase",
-    "english": "It was a pleasure.",
-    "portuguese": "Foi um prazer.",
-    "pronunciationNote": "foy oom prah-ZEHR",
-    "grammarFocus": "closing phrase",
-    "notes": "Polite ending after meeting someone.",
-    "exampleSentences": [
-      {
-        "portuguese": "Foi um prazer conhecê-lo.",
-        "english": "It was a pleasure meeting you."
-      }
-    ],
-    "tags": [
-      "closing",
-      "polite"
-    ],
-    "subjectId": "greetings-social"
-  }
+﻿[
+    {
+        "id":  "01-gs-a1a2-001",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Hello.",
+        "portuguese":  "Olá.",
+        "pronunciationNote":  "oh-LAH",
+        "grammarFocus":  "basic greeting",
+        "notes":  "Neutral all-purpose greeting.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Olá, tudo bem?",
+                                     "english":  "Hello, all good?"
+                                 }
+                             ],
+        "tags":  [
+                     "greeting",
+                     "social-basics",
+                     "starter"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-002",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Good morning.",
+        "portuguese":  "Bom dia.",
+        "pronunciationNote":  "bohn DEE-ah",
+        "grammarFocus":  "time-based greeting",
+        "notes":  "Used until lunch time.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Bom dia, está tudo bem?",
+                                     "english":  "Good morning, is everything okay?"
+                                 }
+                             ],
+        "tags":  [
+                     "greeting",
+                     "morning"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-003",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Good afternoon.",
+        "portuguese":  "Boa tarde.",
+        "pronunciationNote":  "BOH-ah TAR-dj",
+        "grammarFocus":  "time-based greeting",
+        "notes":  "Common from lunch until evening.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Boa tarde, queria falar consigo.",
+                                     "english":  "Good afternoon, I wanted to speak with you."
+                                 }
+                             ],
+        "tags":  [
+                     "greeting",
+                     "afternoon"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-004",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Good evening.",
+        "portuguese":  "Boa noite.",
+        "pronunciationNote":  "BOH-ah NOYT",
+        "grammarFocus":  "time-based greeting",
+        "notes":  "Also used for good night depending on context.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Boa noite, até amanhã.",
+                                     "english":  "Good evening, see you tomorrow."
+                                 }
+                             ],
+        "tags":  [
+                     "greeting",
+                     "evening"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-005",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Goodbye.",
+        "portuguese":  "Adeus.",
+        "pronunciationNote":  "ah-DAY-oosh",
+        "grammarFocus":  "leave-taking",
+        "notes":  "More final than até logo.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Adeus e boa viagem.",
+                                     "english":  "Goodbye and have a good trip."
+                                 }
+                             ],
+        "tags":  [
+                     "goodbye",
+                     "social-basics"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-006",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "See you later.",
+        "portuguese":  "Até logo.",
+        "pronunciationNote":  "ah-TEH LOH-goo",
+        "grammarFocus":  "leave-taking",
+        "notes":  "Friendly, common goodbye.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Até logo, volto já.",
+                                     "english":  "See you later, I will be right back."
+                                 }
+                             ],
+        "tags":  [
+                     "goodbye",
+                     "common"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-007",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "See you tomorrow.",
+        "portuguese":  "Até amanhã.",
+        "pronunciationNote":  "ah-TEH ah-ma-NYAH",
+        "grammarFocus":  "future leave-taking",
+        "notes":  "Used when you expect to meet the next day.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Até amanhã na aula.",
+                                     "english":  "See you tomorrow in class."
+                                 }
+                             ],
+        "tags":  [
+                     "goodbye",
+                     "time"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-008",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "question",
+                     "formal"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "How are things?",
+        "notes":  "Slightly broader than a simple how are you.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "How are things today?",
+                                     "portuguese":  "Como vão as coisas hoje?"
+                                 }
+                             ],
+        "pronunciationNote":  "KOH-moo vown ah KOY-zash",
+        "portuguese":  "Como vão as coisas?",
+        "grammarFocus":  "casual check-in"
+    },
+    {
+        "id":  "01-gs-a1a2-009",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "question",
+                     "informal"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "Have you been well?",
+        "notes":  "Natural when you have not seen someone for a while.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "Have you been well since the last time?",
+                                     "portuguese":  "Tem estado bem desde a última vez?"
+                                 }
+                             ],
+        "pronunciationNote":  "TEM esh-TAH-doo bayn",
+        "portuguese":  "Tem estado bem?",
+        "grammarFocus":  "check-in after time apart"
+    },
+    {
+        "id":  "01-gs-a1a2-010",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am fine.",
+        "portuguese":  "Estou bem.",
+        "pronunciationNote":  "esh-TOH BAYN",
+        "grammarFocus":  "basic response",
+        "notes":  "Simple response to greetings.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Obrigado, estou bem.",
+                                     "english":  "Thank you, I am fine."
+                                 }
+                             ],
+        "tags":  [
+                     "response",
+                     "starter"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-011",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "question",
+                     "casual"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "Are you okay?",
+        "notes":  "Useful when checking on someone.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "Are you okay?",
+                                     "portuguese":  "Está tudo bem consigo?"
+                                 }
+                             ],
+        "pronunciationNote":  "esh-TAH TOO-doo bayn",
+        "portuguese":  "Está tudo bem?",
+        "grammarFocus":  "concern check"
+    },
+    {
+        "id":  "01-gs-a1a2-012",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "response",
+                     "casual"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "Things are going well.",
+        "notes":  "Natural response in conversation.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "Yes, things are going well.",
+                                     "portuguese":  "Sim, está a correr tudo bem."
+                                 }
+                             ],
+        "pronunciationNote":  "esh-TAH ah koh-RRER TOO-doo bayn",
+        "portuguese":  "Está a correr tudo bem.",
+        "grammarFocus":  "casual response"
+    },
+    {
+        "id":  "01-gs-a1a2-013",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Nice to meet you.",
+        "portuguese":  "Muito prazer.",
+        "pronunciationNote":  "MWEEN-too prah-ZEHR",
+        "grammarFocus":  "introduction phrase",
+        "notes":  "Short and natural in introductions.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Muito prazer, chamo-me Rita.",
+                                     "english":  "Nice to meet you, my name is Rita."
+                                 }
+                             ],
+        "tags":  [
+                     "introduction",
+                     "polite"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-014",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "My name is Sofia.",
+        "portuguese":  "Chamo-me Sofia.",
+        "pronunciationNote":  "shah-moo-mih soo-FEE-ah",
+        "grammarFocus":  "self-introduction",
+        "notes":  "Common way to introduce yourself.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Olá, chamo-me Sofia.",
+                                     "english":  "Hello, my name is Sofia."
+                                 }
+                             ],
+        "tags":  [
+                     "introduction",
+                     "identity"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-015",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "What is your name?",
+        "portuguese":  "Como se chama?",
+        "pronunciationNote":  "KOH-moo suh SHAH-mah",
+        "grammarFocus":  "formal question",
+        "notes":  "Polite way to ask someone\u0027s name.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, como se chama?",
+                                     "english":  "Excuse me, what is your name?"
+                                 }
+                             ],
+        "tags":  [
+                     "question",
+                     "formal",
+                     "identity"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-016",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Where are you from?",
+        "portuguese":  "De onde é?",
+        "pronunciationNote":  "dih ON-dj eh",
+        "grammarFocus":  "origin question",
+        "notes":  "Formal version for one person.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "De onde é o senhor?",
+                                     "english":  "Where are you from, sir?"
+                                 }
+                             ],
+        "tags":  [
+                     "question",
+                     "formal",
+                     "origin"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-017",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am from England.",
+        "portuguese":  "Sou de Inglaterra.",
+        "pronunciationNote":  "soh dih een-gla-TEHR-rah",
+        "grammarFocus":  "origin answer",
+        "notes":  "Basic country origin statement.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Sou de Inglaterra, mas moro aqui.",
+                                     "english":  "I am from England, but I live here."
+                                 }
+                             ],
+        "tags":  [
+                     "answer",
+                     "origin"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-018",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I live in Lisbon.",
+        "portuguese":  "Moro em Lisboa.",
+        "pronunciationNote":  "MOH-roo ayn leesh-BOH-ah",
+        "grammarFocus":  "basic present",
+        "notes":  "Used for where you live.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Moro em Lisboa há dois anos.",
+                                     "english":  "I have lived in Lisbon for two years."
+                                 }
+                             ],
+        "tags":  [
+                     "daily-life",
+                     "location"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-019",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Do you speak English?",
+        "portuguese":  "Fala inglês?",
+        "pronunciationNote":  "FAH-lah een-GLAYSH",
+        "grammarFocus":  "ability question",
+        "notes":  "Useful for beginner survival Portuguese.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, fala inglês?",
+                                     "english":  "Excuse me, do you speak English?"
+                                 }
+                             ],
+        "tags":  [
+                     "question",
+                     "language"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-020",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I only speak a little Portuguese.",
+        "portuguese":  "Só falo um pouco de português.",
+        "pronunciationNote":  "saw FAH-loh oom POH-koo dih poor-too-GAYSH",
+        "grammarFocus":  "ability statement",
+        "notes":  "Good beginner disclaimer.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Só falo um pouco de português ainda.",
+                                     "english":  "I only speak a little Portuguese still."
+                                 }
+                             ],
+        "tags":  [
+                     "language",
+                     "beginner"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-021",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Please.",
+        "portuguese":  "Por favor.",
+        "pronunciationNote":  "poor fah-VOR",
+        "grammarFocus":  "politeness marker",
+        "notes":  "Basic courtesy word.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Um café, por favor.",
+                                     "english":  "A coffee, please."
+                                 }
+                             ],
+        "tags":  [
+                     "politeness",
+                     "starter"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-022",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Thank you.",
+        "portuguese":  "Obrigado.",
+        "pronunciationNote":  "oh-bree-GAH-doo",
+        "grammarFocus":  "politeness marker",
+        "notes":  "Used by male speakers.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Obrigado pela ajuda.",
+                                     "english":  "Thank you for the help."
+                                 }
+                             ],
+        "tags":  [
+                     "politeness",
+                     "male-form"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-023",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Thank you.",
+        "portuguese":  "Obrigada.",
+        "pronunciationNote":  "oh-bree-GAH-dah",
+        "grammarFocus":  "politeness marker",
+        "notes":  "Used by female speakers.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Obrigada pela informação.",
+                                     "english":  "Thank you for the information."
+                                 }
+                             ],
+        "tags":  [
+                     "politeness",
+                     "female-form"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-024",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "You are welcome.",
+        "portuguese":  "De nada.",
+        "pronunciationNote":  "dih NAH-dah",
+        "grammarFocus":  "response phrase",
+        "notes":  "Basic reply to thank you.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Obrigado. De nada.",
+                                     "english":  "Thank you. You\u0027re welcome."
+                                 }
+                             ],
+        "tags":  [
+                     "response",
+                     "politeness"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-025",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Excuse me.",
+        "portuguese":  "Com licença.",
+        "pronunciationNote":  "kohm lee-SEN-sah",
+        "grammarFocus":  "attention-getter",
+        "notes":  "Used to get past people or interrupt politely.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Com licença, esta cadeira está livre?",
+                                     "english":  "Excuse me, is this chair free?"
+                                 }
+                             ],
+        "tags":  [
+                     "politeness",
+                     "movement"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-026",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Sorry.",
+        "portuguese":  "Desculpe.",
+        "pronunciationNote":  "desh-KOOL-pih",
+        "grammarFocus":  "apology",
+        "notes":  "Simple polite apology.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, não percebi.",
+                                     "english":  "Sorry, I did not understand."
+                                 }
+                             ],
+        "tags":  [
+                     "apology",
+                     "starter"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-027",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "No problem.",
+        "portuguese":  "Não faz mal.",
+        "pronunciationNote":  "nawh fazh MAHL",
+        "grammarFocus":  "reassurance",
+        "notes":  "Used after a small issue or apology.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe pelo atraso. Não faz mal.",
+                                     "english":  "Sorry for being late. No problem."
+                                 }
+                             ],
+        "tags":  [
+                     "response",
+                     "reassurance"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-028",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I do not understand.",
+        "portuguese":  "Não percebo.",
+        "pronunciationNote":  "nawh pair-SEH-boo",
+        "grammarFocus":  "comprehension problem",
+        "notes":  "European Portuguese commonly uses perceber here.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, não percebo.",
+                                     "english":  "Sorry, I do not understand."
+                                 }
+                             ],
+        "tags":  [
+                     "language",
+                     "comprehension"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-029",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Can you repeat, please?",
+        "portuguese":  "Pode repetir, por favor?",
+        "pronunciationNote":  "POH-dih reh-peh-TEER",
+        "grammarFocus":  "request phrase",
+        "notes":  "Polite request for repetition.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Pode repetir mais devagar, por favor?",
+                                     "english":  "Can you repeat more slowly, please?"
+                                 }
+                             ],
+        "tags":  [
+                     "request",
+                     "comprehension"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-030",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Please speak more slowly.",
+        "portuguese":  "Fale mais devagar, por favor.",
+        "pronunciationNote":  "FAH-lih mysh dev-ah-GAR",
+        "grammarFocus":  "imperative polite request",
+        "notes":  "Useful for listening support.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Fale mais devagar, por favor, ainda estou a aprender.",
+                                     "english":  "Please speak more slowly, I am still learning."
+                                 }
+                             ],
+        "tags":  [
+                     "request",
+                     "language"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-031",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am learning Portuguese.",
+        "portuguese":  "Estou a aprender português.",
+        "pronunciationNote":  "esh-TOH ah ah-pren-DER poor-too-GAYSH",
+        "grammarFocus":  "progressive form",
+        "notes":  "European Portuguese prefers estar a + infinitive.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Estou a aprender português há pouco tempo.",
+                                     "english":  "I have been learning Portuguese for a short time."
+                                 }
+                             ],
+        "tags":  [
+                     "grammar",
+                     "progressive"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-032",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Do you understand?",
+        "portuguese":  "Percebe?",
+        "pronunciationNote":  "pair-SEH-buh",
+        "grammarFocus":  "check question",
+        "notes":  "Formal singular check-in.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Percebe a diferença?",
+                                     "english":  "Do you understand the difference?"
+                                 }
+                             ],
+        "tags":  [
+                     "question",
+                     "comprehension"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-033",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I understand a little.",
+        "portuguese":  "Percebo um pouco.",
+        "pronunciationNote":  "pair-SEH-boo oom POH-koo",
+        "grammarFocus":  "limited comprehension",
+        "notes":  "Natural partial understanding response.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Percebo um pouco, mas preciso de tempo.",
+                                     "english":  "I understand a little, but I need time."
+                                 }
+                             ],
+        "tags":  [
+                     "response",
+                     "comprehension"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-034",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Welcome.",
+        "portuguese":  "Bem-vindo.",
+        "pronunciationNote":  "bayn VEEN-doo",
+        "grammarFocus":  "hosting phrase",
+        "notes":  "Masculine form; beginner hospitality phrase.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Bem-vindo a Lisboa.",
+                                     "english":  "Welcome to Lisbon."
+                                 }
+                             ],
+        "tags":  [
+                     "hospitality",
+                     "male-form"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-035",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Welcome.",
+        "portuguese":  "Bem-vinda.",
+        "pronunciationNote":  "bayn VEEN-dah",
+        "grammarFocus":  "hosting phrase",
+        "notes":  "Feminine form.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Bem-vinda a nossa casa.",
+                                     "english":  "Welcome to our home."
+                                 }
+                             ],
+        "tags":  [
+                     "hospitality",
+                     "female-form"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-036",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Come in, please.",
+        "portuguese":  "Entre, por favor.",
+        "pronunciationNote":  "EN-trih poor fah-VOR",
+        "grammarFocus":  "polite imperative",
+        "notes":  "Used when inviting someone inside.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Entre, por favor, a porta está aberta.",
+                                     "english":  "Come in, please, the door is open."
+                                 }
+                             ],
+        "tags":  [
+                     "hospitality",
+                     "imperative"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-037",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Sit down, please.",
+        "portuguese":  "Sente-se, por favor.",
+        "pronunciationNote":  "SEN-tih-sih poor fah-VOR",
+        "grammarFocus":  "polite imperative",
+        "notes":  "Used in classrooms, offices, homes.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Sente-se, por favor, já venho.",
+                                     "english":  "Sit down, please, I will be right back."
+                                 }
+                             ],
+        "tags":  [
+                     "hospitality",
+                     "imperative"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-038",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "goodbye",
+                     "short-term"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "Take care.",
+        "notes":  "Polite and common when parting.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "Take care and see you tomorrow.",
+                                     "portuguese":  "Cuide-se e até amanhã."
+                                 }
+                             ],
+        "pronunciationNote":  "KOO-dj seh",
+        "portuguese":  "Cuide-se.",
+        "grammarFocus":  "parting phrase"
+    },
+    {
+        "id":  "01-gs-a1a2-039",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "tags":  [
+                     "goodbye",
+                     "friendly"
+                 ],
+        "subjectId":  "greetings-social",
+        "english":  "See you around.",
+        "notes":  "Used when you expect to meet again at some point.",
+        "exampleSentences":  [
+                                 {
+                                     "english":  "See you around, then.",
+                                     "portuguese":  "Até qualquer dia, então."
+                                 }
+                             ],
+        "pronunciationNote":  "ah-TEH kwah-LYER DEE-ah",
+        "portuguese":  "Até qualquer dia.",
+        "grammarFocus":  "flexible leave-taking"
+    },
+    {
+        "id":  "01-gs-a1a2-040",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Have a good day.",
+        "portuguese":  "Tenha um bom dia.",
+        "pronunciationNote":  "TEHN-yah oom bohn DEE-ah",
+        "grammarFocus":  "polite wish",
+        "notes":  "Formal and customer-facing.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Obrigado e tenha um bom dia.",
+                                     "english":  "Thank you and have a good day."
+                                 }
+                             ],
+        "tags":  [
+                     "politeness",
+                     "service"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-041",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Good luck.",
+        "portuguese":  "Boa sorte.",
+        "pronunciationNote":  "BOH-ah SOR-t",
+        "grammarFocus":  "social support",
+        "notes":  "Common encouragement phrase.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Boa sorte no exame.",
+                                     "english":  "Good luck on the exam."
+                                 }
+                             ],
+        "tags":  [
+                     "support",
+                     "social"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-042",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Congratulations.",
+        "portuguese":  "Parabéns.",
+        "pronunciationNote":  "pah-rah-BAYNSH",
+        "grammarFocus":  "social support",
+        "notes":  "Used for birthdays and achievements.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Parabéns pelo novo trabalho.",
+                                     "english":  "Congratulations on the new job."
+                                 }
+                             ],
+        "tags":  [
+                     "support",
+                     "celebration"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-043",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Happy birthday.",
+        "portuguese":  "Feliz aniversário.",
+        "pronunciationNote":  "fuh-LEEZ ah-nee-ver-SAH-ree-oo",
+        "grammarFocus":  "social routine",
+        "notes":  "Common birthday greeting.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Feliz aniversário, que tenhas um bom dia.",
+                                     "english":  "Happy birthday, I hope you have a good day."
+                                 }
+                             ],
+        "tags":  [
+                     "celebration",
+                     "birthday"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-044",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "What time is it?",
+        "portuguese":  "Que horas são?",
+        "pronunciationNote":  "kih OR-ash sawh",
+        "grammarFocus":  "basic question",
+        "notes":  "Useful social-basic survival question.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, que horas são?",
+                                     "english":  "Excuse me, what time is it?"
+                                 }
+                             ],
+        "tags":  [
+                     "question",
+                     "daily-life"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-045",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am late.",
+        "portuguese":  "Estou atrasado.",
+        "pronunciationNote":  "esh-TOH ah-trah-ZAH-doo",
+        "grammarFocus":  "social explanation",
+        "notes":  "Masculine form for being late.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Desculpe, estou atrasado.",
+                                     "english":  "Sorry, I am late."
+                                 }
+                             ],
+        "tags":  [
+                     "daily-life",
+                     "explanation"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-046",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am early.",
+        "portuguese":  "Cheguei cedo.",
+        "pronunciationNote":  "sheh-GAY SEH-doo",
+        "grammarFocus":  "past event statement",
+        "notes":  "Useful on arrival.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Hoje cheguei cedo ao trabalho.",
+                                     "english":  "Today I arrived early at work."
+                                 }
+                             ],
+        "tags":  [
+                     "daily-life",
+                     "arrival"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-047",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I am busy today.",
+        "portuguese":  "Hoje estou ocupado.",
+        "pronunciationNote":  "OH-zjh esh-TOH oh-koo-PAH-doo",
+        "grammarFocus":  "availability statement",
+        "notes":  "Masculine form.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Hoje estou ocupado, mas amanhã posso.",
+                                     "english":  "Today I am busy, but tomorrow I can."
+                                 }
+                             ],
+        "tags":  [
+                     "availability",
+                     "daily-life"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-048",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "I have time now.",
+        "portuguese":  "Tenho tempo agora.",
+        "pronunciationNote":  "TEH-nyoo TEM-poo ah-GOH-rah",
+        "grammarFocus":  "availability statement",
+        "notes":  "Simple social scheduling phrase.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Tenho tempo agora para falar.",
+                                     "english":  "I have time now to talk."
+                                 }
+                             ],
+        "tags":  [
+                     "availability",
+                     "social"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-049",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "Can we speak later?",
+        "portuguese":  "Podemos falar depois?",
+        "pronunciationNote":  "poo-DEH-moosh fah-LAR duh-POYSH",
+        "grammarFocus":  "arrangement question",
+        "notes":  "Used for simple scheduling.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Agora não posso. Podemos falar depois?",
+                                     "english":  "I can\u0027t now. Can we talk later?"
+                                 }
+                             ],
+        "tags":  [
+                     "scheduling",
+                     "question"
+                 ],
+        "subjectId":  "greetings-social"
+    },
+    {
+        "id":  "01-gs-a1a2-050",
+        "subject":  "Greetings \u0026 Social Basics",
+        "levelBand":  "A1-A2",
+        "cardType":  "phrase",
+        "english":  "It was a pleasure.",
+        "portuguese":  "Foi um prazer.",
+        "pronunciationNote":  "foy oom prah-ZEHR",
+        "grammarFocus":  "closing phrase",
+        "notes":  "Polite ending after meeting someone.",
+        "exampleSentences":  [
+                                 {
+                                     "portuguese":  "Foi um prazer conhecê-lo.",
+                                     "english":  "It was a pleasure meeting you."
+                                 }
+                             ],
+        "tags":  [
+                     "closing",
+                     "polite"
+                 ],
+        "subjectId":  "greetings-social"
+    }
 ]
